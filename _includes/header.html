@@ -1,0 +1,38 @@
+
+<header class="navbar">
+  <div class="navbar__container">
+    <a class="navbar__home" href="{{ "/" | relative_url }}">
+      <img class="navbar__logo" src="{{ '/assets/images/logo-marianne.svg' | relative_url }}"
+        alt="{{ site.title }}" /><span class="navbar__domain">{{ site.data.menu.title }}</span><img src="{{ '/assets/images/pointbetagouvfr.svg' }}" class="navbar__gouvfr" alt="gouv.fr" />
+    </a>
+
+    <nav>
+      <ul class="nav__links">
+        {% for item in site.data.menu.nav %}
+        <li class="nav__item">
+          {% if item.children %}
+            <div class="dropdown">
+              {{ item.label }}
+              <div class="dropdown-content">
+                {% for child in item.children %}
+                  {% if child.target %}
+                    {% assign target = site.pages | where:"path",child.target | first %}
+                    <a href="{{ target.url }}">{{ child.label }}</a>
+                  {% else %}
+                    <a href{% if child.url %}="{{ child.url }}"{% endif %}>{{ child.label }}</a>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          {% elsif item.target %}
+            {% assign target = site.pages | where:"path",item.target | first %}
+            <a href="{{ target.url }}">{{ item.label }}</a>
+          {% else %}
+            <a href{% if item.url %}="{{ item.url }}"{% endif %}>{{ item.label }}</a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

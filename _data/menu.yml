@@ -1,0 +1,30 @@
+---
+title: lactu
+nav:
+-
+  label: L'actualité des incubateurs
+  children:
+    -
+      label: Incubateur de Services Numériques
+      target: _category/incubateur_dinsic.md
+    -
+      label: Innolab 62
+      target: _category/incubateur_innolab-62.md
+    -
+      label: Lab MI
+      target: _category/incubateur_lab-mi.md
+    -
+      label: Fabrique Numérique
+      target: _category/incubateur_mtes.md
+    -
+      label: Fabrique Pôle Emploi
+      target: _category/incubateur_pole-emploi.md
+    -
+      label: Incubateur des Affaires Sociales
+      target: _category/incubateur_sgmas.md
+-
+  label: Annonces et événements
+  target: _category/general.md
+-
+  label: Rechercher
+  target: _pages/search.md

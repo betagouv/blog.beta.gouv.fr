@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "fr" %}
+<div class="page article">
+  {% include hero.html title=page.title %}
+  <section>
+    <div class="container">
+      <div class="richtext">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+</div>
+
+<section class="section-grey">
+  <div class="container article__container">
+    {% for post in site.categories[page.category] %}
+      <article class="article article__preview panel">
+        <div class="article__author">
+          {% if post.author.avatar %}
+            <img src="{{ post.author.avatar }}" />
+          {% endif %}
+          <span class="article__author-name">{{ post.author }}</span>
+        </div>
+        <a class="article__link" href="{{ post.url }}" title="{{ post.title }}">
+          <h2 class="article__title">{{ post.title }}</h2>
+        </a>
+        <div class="article__meta">Paru le <time>{{ post.date | date_to_long_string }}</time> dans
+
+          {% assign sortedCategories = post.categories | sort %}{% for category in sortedCategories %}<a href="/categorie/{{ category }}">{{ category }}</a> {% endfor %}</div>
+
+        {% if post.image %}
+        <div class="article__thumbnail">
+          <img src="{{ post.image }}" alt="" />
+        </div>
+        {% endif %}
+        <div class="richtext">
+          <p>{{ post.excerpt }}</p>
+        </div>
+        <a class="article__more" href="{{ post.url }}">Lire la suite…</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,69 @@
+---
+social:
+-
+  icon: mail
+  url: mailto:contact@beta.gouv.fr?subject=Blog%20actu
+-
+  icon: twitter
+  url: https://www.twitter.com/betagouv
+-
+  icon: linkedin
+  url: https://www.linkedin.com/company/betagouv/
+-
+  icon: github
+  url: https://www.github.com/betagouv
+-
+  icon: rss
+  url: /feed.xml
+-
+
+links:
+-
+    label: Les incubateurs
+    children:
+    -
+      label: Incubateur de Services Numériques
+      target: _category/incubateur_dinsic.md
+    -
+      label: Innolab 62
+      target: _category/incubateur_innolab-62.md
+    -
+      label: Lab MI
+      target: _category/incubateur_lab-mi.md
+    -
+      label: Fabrique Numérique
+      target: _category/incubateur_mtes.md
+    -
+      label: Fabrique Pôle Emploi
+      target: _category/incubateur_pole-emploi.md
+    -
+      label: Incubateur des Affaires Sociales
+      target: _category/incubateur_sgmas.md
+-
+  label: Le blog
+  children:
+    -
+      label: À propos
+      target: _pages/about.md
+    -
+      label: La newsletter
+      target: _pages/newsletter.md
+    -
+      label: Rechercher
+      target: _pages/search.md
+    -
+      label: Archives
+      target: _pages/archives.md
+-
+  label: Le réseau
+  children:
+    -
+      label: Le site de beta.gouv.fr
+      url: https://beta.gouv.fr/
+    -
+      label: Le blog d'Etalab
+      url: https://www.etalab.gouv.fr/
+    -
+      label: Une mission de la DINSIC
+      url: http://www.modernisation.gouv.fr/
+-
