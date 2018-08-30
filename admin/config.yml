@@ -1,0 +1,37 @@
+backend:
+  name: github
+  base_url: https://api.staticweb-01.etalab.gouv.fr
+  site_domain: lactu.beta.gouv.fr
+  repo: betagouv/lactu.beta.gouv.fr
+
+media_folder: "images/uploads"
+
+# Editorial workflow: validate changes through pull requests
+publish_mode: editorial_workflow
+
+collections:
+   - name: "posts"     label: "Posts"
+     folder: "_posts"
+     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+     create: true
+     fields:
+       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+       - {label: "Titre", name: "title", widget: "string"}
+       - {label: "Date", name: "date", widget: "string"}
+       - {label: "Auteur", name: "author", widget: "string", required: false}
+       - {label: "Catégories", name: "categories", widget: "string"}
+       - {label: "Tags", name: "tags", widget: "string", required: false}
+       - {label: "Image", name: "image", widget: image, required: false}
+       - {label: "Chapô", name: "excerpt", widget: "markdown", required: false}
+       - {label: "Contenu", name: "body", widget: "markdown"}
+
+   - name: "newsletters"
+     label: "Newsletters"
+     folder: "_newsletters"
+     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+     create: true
+     fields:
+       - {label: "Date", name: "date", widget: "string"}
+       - {label: "Focus", name: "focus", widget: "string"}
+       - {label: "Lien", name: "target", widget: "string"}
+              
