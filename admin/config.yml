@@ -10,7 +10,8 @@ media_folder: "images/uploads"
 publish_mode: editorial_workflow
 
 collections:
-   - name: "posts"     label: "Posts"
+   - name: "posts"
+     label: "Posts"
      folder: "_posts"
      slug: "{{year}}-{{month}}-{{day}}-{{title}}"
      create: true
@@ -34,4 +35,3 @@ collections:
        - {label: "Date", name: "date", widget: "string"}
        - {label: "Focus", name: "focus", widget: "string"}
        - {label: "Lien", name: "target", widget: "string"}
-              
