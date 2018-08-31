@@ -26,12 +26,13 @@ collections:
        - {label: "Chapô", name: "excerpt", widget: "markdown", required: false}
        - {label: "Contenu", name: "body", widget: "markdown"}
 
-   - name: "newsletters"
-     label: "Newsletters"
-     folder: "_newsletters"
-     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
-     create: true
-     fields:
-       - {label: "Date", name: "date", widget: "string"}
-       - {label: "Focus", name: "focus", widget: "string"}
-       - {label: "Lien", name: "target", widget: "string"}
+# Erreur : Objects are not valid as a React child - en attente de débug
+#   - name: "newsletters"
+#     label: "Newsletters"
+#     folder: "_newsletters"
+#     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+#     create: true
+#     fields:
+#       - {label: "Date", name: "date", widget: "string"}
+#       - {label: "Focus", name: "focus", widget: "string"}
+#       - {label: "Lien", name: "target", widget: "string"}
