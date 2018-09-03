@@ -36,6 +36,7 @@ collections:
      slug: "{{year}}-{{month}}-{{day}}-{{title}}"
      create: true
      fields:
+       - {label: "Titre", name: "title", widget: "hidden"}
        - {label: "Date", name: "date", widget: "string"}
        - {label: "Focus", name: "focus", widget: "string"}
        - {label: "Lien", name: "target", widget: "string"}
