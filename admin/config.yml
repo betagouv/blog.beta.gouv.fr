@@ -18,12 +18,12 @@ collections:
      fields:
        - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
        - {label: "Titre", name: "title", widget: "string"}
-       - {label: "Date", name: "date", widget: "string"}
-       - {label: "Auteur", name: "author", widget: "string", required: false}
-       - {label: "Catégories", name: "categories", widget: "string"}
-       - {label: "Tags", name: "tags", widget: "string", required: false}
-       - {label: "Image", name: "image", widget: image, required: false}
-       - {label: "Chapô", name: "excerpt", widget: "markdown", required: false}
+       - {label: "Date : AAAA-MM-DD", name: "date", widget: "string"}
+       - {label: "Auteur (optionnel)", name: "author", widget: "string", required: false}
+       - {label: "Catégories (incubateur)", name: "categories", widget: "string"}
+       - {label: "Tags (startup)(optionnel)", name: "tags", widget: "string", required: false}
+       - {label: "Image (optionnel)", name: "image", widget: image, required: false}
+       - {label: "Chapô (utilisé pour la vignette)(optionnel)", name: "excerpt", widget: "markdown", required: false}
        - {label: "Contenu", name: "body", widget: "markdown"}
 
 # Erreur : Objects are not valid as a React child - en attente de débug
@@ -36,3 +36,13 @@ collections:
 #       - {label: "Date", name: "date", widget: "string"}
 #       - {label: "Focus", name: "focus", widget: "string"}
 #       - {label: "Lien", name: "target", widget: "string"}
+
+# Personnalisation des messages de commit
+
+backend:
+  commit_messages:
+    create: Nouveau {{collection}} “{{slug}}”
+    update: Mise à jour {{collection}} “{{slug}}”
+    delete: Suppression {{collection}} “{{slug}}”
+    uploadMedia: Nouvelle image “{{path}}”
+    deleteMedia: Suppression d'image “{{path}}”
