@@ -1,7 +1,8 @@
 backend:
   name: github
+  base_url: https://api.staticweb-01.etalab.gouv.fr
+  site_domain: lactu.beta.gouv.fr
   repo: betagouv/lactu.beta.gouv.fr
-  branch: rollback-cms
   # Personnalisation des messages de commit
   commit_messages:
     create: Nouveau {{collection}} “{{slug}}”
