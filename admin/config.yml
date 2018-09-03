@@ -24,7 +24,7 @@ collections:
      fields:
        - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
        - {label: "Titre", name: "title", widget: "string"}
-       - {label: "Date : AAAA-MM-DD", name: "date", widget: "string"}
+       - {label: "Date : AAAA-MM-DD", name: "date", widget: "date"}
        - {label: "Auteur (optionnel)", name: "author", widget: "string", required: false}
        - {label: "Catégories (incubateur)", name: "categories", widget: "string"}
        - {label: "Tags (startup)(optionnel)", name: "tags", widget: "string", required: false}
