@@ -1,8 +1,6 @@
 backend:
   name: github
-  base_url: https://api.staticweb-01.etalab.gouv.fr
-  site_domain: lactu.beta.gouv.fr
-  repo: betagouv/lactu.beta.gouv.fr
+  branch: betagouv/lactu.beta.gouv.fr
   # Personnalisation des messages de commit
   commit_messages:
     create: Nouveau {{collection}} “{{slug}}”
@@ -32,14 +30,12 @@ collections:
        - {label: "Image (optionnel)", name: "image", widget: image, required: false}
        - {label: "Chapô (utilisé pour la vignette)(optionnel)", name: "excerpt", widget: "markdown", required: false}
        - {label: "Contenu", name: "body", widget: "markdown"}
-
-# Erreur : Objects are not valid as a React child - en attente de débug
-#   - name: "newsletters"
-#     label: "Newsletters"
-#     folder: "_newsletters"
-#     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
-#     create: true
-#     fields:
-#       - {label: "Date", name: "date", widget: "string"}
-#       - {label: "Focus", name: "focus", widget: "string"}
-#       - {label: "Lien", name: "target", widget: "string"}
+   - name: "newsletters"
+     label: "Newsletters"
+     folder: "_newsletters"
+     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+     create: true
+     fields:
+       - {label: "Date", name: "date", widget: "string"}
+       - {label: "Focus", name: "focus", widget: "string"}
+       - {label: "Lien", name: "target", widget: "string"}
