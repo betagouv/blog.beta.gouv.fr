@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: betagouv/lactu.beta.gouv.fr
   branch: rollback-cms
   # Personnalisation des messages de commit
   commit_messages:
