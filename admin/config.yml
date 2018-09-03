@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: betagouv/lactu.beta.gouv.fr
+  branch: rollback-cms
   # Personnalisation des messages de commit
   commit_messages:
     create: Nouveau {{collection}} “{{slug}}”
