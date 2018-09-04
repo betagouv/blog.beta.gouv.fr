@@ -13,7 +13,7 @@ La grande rupture de [Trouve ta voie](https://beta.gouv.fr/startup/trouve-ta-voi
 
 ## Quel est votre objectif actuel ?
 
-Nous travaillons sur nos premiers prototypes pour cibler les bonnes mécaniques de jeu à mettre en place. Pour cela, nous organisons des OpenLabs où nous testons plusieurs approches différentes avec des jeunes. **Les exigences de Trouve Ta Voie sont en effet de celles des jeux vidéo sans être celles d’un serious game.** Notre objectif est de pouvoir en s’amusant comprendre ce que sont nos compétences, repérer qu’on les mobilise de manière implicite dans la vie de tous les jours et comment on peut les valoriser pour aller à la recherche d’un emploi ou d’une formation.
+Nous travaillons sur nos premiers prototypes pour cibler les bonnes mécaniques de jeu à mettre en place. Pour cela, nous organisons des OpenLabs où nous testons plusieurs approches différentes avec des jeunes. **Les exigences de Trouve Ta Voie sont en effet de celles des jeux vidéo sans être celles d’un [serious game](https://fr.wikipedia.org/wiki/Jeu_s%C3%A9rieux).** Notre objectif est de pouvoir en s’amusant comprendre ce que sont nos compétences, repérer qu’on les mobilise de manière implicite dans la vie de tous les jours et comment on peut les valoriser pour aller à la recherche d’un emploi ou d’une formation.
 
 ## Quelles sont vos avancées ?
 
