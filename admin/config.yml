@@ -13,6 +13,12 @@ backend:
 
 media_folder: "images/uploads"
 
+display_url: https://lactu.beta.gouv.fr
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
 # Editorial workflow: validate changes through pull requests
 publish_mode: editorial_workflow
 
