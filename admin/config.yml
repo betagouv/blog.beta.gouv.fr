@@ -31,10 +31,11 @@ collections:
      fields:
        - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
        - {label: "Titre", name: "title", widget: "string"}
-       - {label: "Date : AAAA-MM-DD", name: "date", widget: "date"}
+       - {label: "Date", name: "date", widget: "date"}
        - {label: "Auteur (optionnel)", name: "author", widget: "string", required: false}
-       - {label: "Catégories (incubateur)", name: "categories", widget: "string"}
+       - {label: "Catégories (incubateur)", name: "categories", widget: "select", options: ["general", "dinsic", "innolab-62", "lab-mi", "mtes", "pole-emploi", "sgmas"]}
        - {label: "Tags (startup)(optionnel)", name: "tags", widget: "string", required: false}
        - {label: "Image (optionnel)", name: "image", widget: image, required: false}
-       - {label: "Chapô (utilisé pour la vignette)(optionnel)", name: "excerpt", widget: "markdown", required: false}
+       - {label: "Chapô (utilisé pour la vignette)(optionnel)", name: "excerpt", widget: "text", required: false}
        - {label: "Contenu", name: "body", widget: "markdown"}
+       - {label: "Incubateur", name: "incubateur", widget: "relation", collection: "category", searchFields: ["title"], valueField: "category", displayFields: ["title"]
