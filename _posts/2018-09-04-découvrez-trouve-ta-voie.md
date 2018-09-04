@@ -4,7 +4,7 @@ title: Découvrez Trouve ta voie
 date: '2018-09-03'
 categories: dinsic
 tags: trouve-ta-voie
-image: /images/uploads/2010-09-03-trouve-ta-voie.jpg
+image: /images/uploads/2010-09-03-trouve-ta-voie.png
 excerpt: "Pascal Chaumette, directeur d'Id6 Education Innovation Europe, est responsable produit de la Startup d’État Trouve ta voie. Ce service à destination des jeunes décrocheurs accompagnés dans le secondaire vise à identifier leurs compétences pour aider à mieux les orienter ou trouver un métier, une filière ou une formation.\r"
 ---
 ## Qu’est ce qui rend Trouve ta voie un produit unique en son genre ?
