@@ -38,4 +38,4 @@ collections:
        - {label: "Image (optionnel)", name: "image", widget: image, required: false}
        - {label: "Chapô (utilisé pour la vignette)(optionnel)", name: "excerpt", widget: "text", required: false}
        - {label: "Contenu", name: "body", widget: "markdown"}
-       - {label: "Incubateur", name: "incubateur", widget: "relation", collection: "category", searchFields: ["title"], valueField: "category", displayFields: ["title"]
+       - {label: "Incubateur", name: "incubateur", widget: "relation", collection: "category", searchFields: ["title"], valueField: "category", displayFields: ["title"]}
