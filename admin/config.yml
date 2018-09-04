@@ -5,11 +5,13 @@ backend:
   repo: betagouv/lactu.beta.gouv.fr
   # Personnalisation des messages de commit
   commit_messages:
-    create: Nouveau {{collection}} “{{slug}}”
-    update: Mise à jour {{collection}} “{{slug}}”
-    delete: Suppression {{collection}} “{{slug}}”
+    create: Nouvel article “{{slug}}”
+    update: Mise à jour “{{slug}}”
+    delete: Suppression “{{slug}}”
     uploadMedia: Nouvelle image “{{path}}”
     deleteMedia: Suppression d'image “{{path}}”
+  squash_merges: true
+
 
 media_folder: "images/uploads"
 
