@@ -6,7 +6,7 @@ title: >-
 date: 2018-09-03T13:12:54.564Z
 categories: dinsic
 tags: demarches-simplifiees.fr
-image: /images/uploads/20180903-6-mois-demarches-simplifiees-fr.jpg
+image: /images/uploads/demarches-simplifiees-fr-logo.png
 excerpt: Communiqué de presse
 ---
 Créer **une démarche en ligne** en un **temps record** et **sans frais**. C’est possible depuis le **1er mars dernier**, grâce à [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/), la plateforme de dématérialisation destinée aux administrations lancée par **le secrétaire d’État auprès du Premier ministre, chargé du Numérique, Mounir Mahjoubi** avec un objectif clair : offrir aux administrations un service clé en main pour **numériser des démarches administratives** et ainsi s’affranchir des formulaires papiers.
