@@ -32,7 +32,7 @@
     <meta property="og:url" content="{{ canonical_url }}">
 
 
-    {% capture mastheadImagePath %}{{ page.image }}{% endcapture %}
+    {% capture mastheadImagePath %}{% if page.image %}{{ page.image }}{% else %}/images/logo-generique-startup-carre.jpg{% endif %}{% endcapture %}
     <meta name="thumbnail" content="{{ site.url }}{{ mastheadImagePath }}">
     <meta property="og:image" content="{{ site.url }}{{ mastheadImagePath }}">
 
