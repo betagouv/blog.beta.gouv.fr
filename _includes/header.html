@@ -13,7 +13,7 @@
           {% if item.children %}
             <div class="dropdown">
               {{ item.label }}
-              <div class="dropdown-content">
+              <div class="dropdown-content" style="z-index:90;">
                 {% for child in item.children %}
                   {% if child.target %}
                     {% assign target = site.pages | where:"path",child.target | first %}
