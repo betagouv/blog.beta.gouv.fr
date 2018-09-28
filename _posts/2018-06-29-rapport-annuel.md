@@ -2,7 +2,7 @@
 layout: post
 title: Rapport annuel 2017
 date: 2018-06-29
-author:
+authors:
 categories: general
 tags:
 image: /img/posts/2018-06-29-rapport-annuel.jpg

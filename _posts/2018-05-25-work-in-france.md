@@ -2,9 +2,9 @@
 layout: post
 title: Gros plan sur Work In France
 date: 2018-05-25
-author:
+authors:
 categories: sgmas
-tags: "Work in France"
+tags: workinfrance
 image: /img/posts/2018-05-25-work-in-france.jpg
 excerpt: "À l’origine de Work In France, comme pour toutes les Startups d’État, il y a un problème à résoudre : la demande d’autorisation provisoire de travail pour les étudiants étrangers. La procédure, papier uniquement, souffre d’un manque de suivi pour les étudiants et les employeurs alors que bien souvent il s’agit d’une démarche critique pour rester en France."
 ---

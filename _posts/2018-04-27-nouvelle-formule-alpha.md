@@ -2,9 +2,9 @@
 layout: post
 title: Une nouvelle formule pour Alpha
 date: 2018-04-27
-author:
+authors:
 categories: general
-tags: Alpha
+tags: alpha
 image: /img/posts/2018-04-27-nouvelle-formule-alpha.jpg
 excerpt: "Alpha, c’est la première formation à destination des acteurs de l’innovation du secteur public basée sur la méthode Startups d'État."
 ---

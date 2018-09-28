@@ -2,9 +2,9 @@
 layout: post
 title: Gros plan sur La Bonne Boite
 date: 2018-04-13
-author:
+authors:
 categories: pole-emploi
-tags: "La Bonne Boite"
+tags: la-bonne-boite
 image: /img/posts/2018-04-13-la-bonne-boite.jpg
 excerpt: "Une nouvelle étape dans la vie de La Bonne Boite, le moteur de recherche des entreprises qui recrutent, a été franchie fin mars."
 ---
