@@ -6,7 +6,7 @@
     {% if include.date %}
       <div class="article__container">
         <h1 class="article__title">{{ page.title | escape }}</h1>
-        <div class="article__meta">Paru le <time>{{ page.date | date: "%m/%d" }}</time></div>
+        <div class="article__meta">Paru le <time>{{ page.date | date_to_long_string }}</time> dans {% assign sortedCategories = page.categories | sort %}{% for category in sortedCategories %}<a href="/categorie/{{ category }}">{{ category }}</a> {% endfor %}</div>
       </div>
     {% else %}
     <h1 class="hero__title">{{ include.title | escape }}</h1>
