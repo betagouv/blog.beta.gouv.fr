@@ -8,13 +8,15 @@ layout: default
   <div class="container article__container">
     {% for post in site.posts %}
       <article class="article article__preview panel">
-        {% if post.author %}
-        <div class="article__author">
-          {% if post.author.avatar %}
-            <img src="{{ post.author.avatar }}" />
-          {% endif %}
-          <span class="article__author-name">{{ post.author }}</span>
-        </div>
+        {% if post.authors %}
+          {% for author in post.authors %}
+            <div class="article__author">
+              {% if author.avatar %}
+                <img src="{{ post.author.avatar }}" />
+              {% endif %}
+              <span class="article__author-name">{{ author }}</span>
+            </div>
+          {% endfor %}
         {% endif %}
         <a class="article__link" href="{{ post.url }}" title="{{ post.title }}">
           <h2 class="article__title">{{ post.title }}</h2>

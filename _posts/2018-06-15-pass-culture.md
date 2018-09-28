@@ -2,9 +2,9 @@
 layout: post
 title: Gros plan sur le Pass Culture
 date: 2018-06-15
-author:
+authors:
 categories: dinsic
-tags: "Pass Culture"
+tags: pass-culture
 image: /img/posts/2018-06-15-pass-culture.jpg
 excerpt: "Première Startup de l’Incubateur du Ministère de la Culture, le Pass Culture entre officiellement en phase de test grandeur nature sur quatre territoires."
 ---
