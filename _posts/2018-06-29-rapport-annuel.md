@@ -5,7 +5,7 @@ date: 2018-06-29
 author:
 categories: general
 tags:
-image: /images/uploads/2018-06-29-rapport-annuel.jpg
+image: /img/posts/2018-06-29-rapport-annuel.jpg
 excerpt: En toute transparence, nous publions chaque année un rapport annuel sur notre activité.
 ---
 La communauté beta.gouv.fr, c’est maintenant un réseau d’incubateurs, aussi bien à la DINSIC que dans différents ministères, administrations et territoires. Si 2017 a été une année riche en succès, c’est grâce à ses membres actifs qui interviennent sur des Startups d’État et insufflent une culture de l’attention aux usagers pour pousser l’administration à améliorer sans cesse le service rendu.

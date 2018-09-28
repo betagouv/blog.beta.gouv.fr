@@ -5,7 +5,7 @@ date: 2018-06-15
 author:
 categories: dinsic
 tags: "Pass Culture"
-image: /images/uploads/2018-06-15-pass-culture.jpg
+image: /img/posts/2018-06-15-pass-culture.jpg
 excerpt: "Première Startup de l’Incubateur du Ministère de la Culture, le Pass Culture entre officiellement en phase de test grandeur nature sur quatre territoires."
 ---
 Afin d’attirer plus de jeunes vers des activités culturelles et lutter contre une certaine forme de ségrégation, il a fallu réfléchir à un nouveau modèle. Une application mobile a été développée : elle permet de découvrir les manifestations et biens culturels près de soi et de se laisser séduire. À la clé lors de son déploiement national : un forfait de 500 euros sur le portefeuille de l’application pour tous les jeunes de 18 ans.

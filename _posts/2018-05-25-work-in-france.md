@@ -5,7 +5,7 @@ date: 2018-05-25
 author:
 categories: sgmas
 tags: "Work in France"
-image: /images/uploads/2018-05-25-work-in-france.jpg
+image: /img/posts/2018-05-25-work-in-france.jpg
 excerpt: "À l’origine de Work In France, comme pour toutes les Startups d’État, il y a un problème à résoudre : la demande d’autorisation provisoire de travail pour les étudiants étrangers. La procédure, papier uniquement, souffre d’un manque de suivi pour les étudiants et les employeurs alors que bien souvent il s’agit d’une démarche critique pour rester en France."
 ---
 Au final, l’accueil de la Direccte en charge des dossiers est surchargée d’appels et de déplacements de personnes voulant savoir où en est leur dossier, ce qui entraîne mécaniquement des retards de traitement en mobilisant des agents pour apporter des réponses. [Work In France](https://beta.gouv.fr/startup/workinfrance.html) permet de dématérialiser intégralement la demande pour les étudiant·e·s en contrat d’apprentissage, en contrat de professionnalisation, les internes en médecine, et les étudiants algériens soumis à l’accord franco-algérien du 27 décembre 1968.
