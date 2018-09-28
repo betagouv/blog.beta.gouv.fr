@@ -5,7 +5,7 @@ date: 2018-04-13
 author:
 categories: pole-emploi
 tags: "La Bonne Boite"
-image: /images/uploads/2018-04-13-la-bonne-boite.jpg
+image: /img/posts/2018-04-13-la-bonne-boite.jpg
 excerpt: "Une nouvelle étape dans la vie de La Bonne Boite, le moteur de recherche des entreprises qui recrutent, a été franchie fin mars."
 ---
 Suite à la refonte des sites de Pôle Emploi, toutes les Bonnes Boites sont accessibles directement sur la page des résultats de recherche d’emploi des usagers.
