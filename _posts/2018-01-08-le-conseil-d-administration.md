@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le Board, une planche de salut ?
+title: Le Board, une planche de salut ?
 date: 2018-01-08
 authors: pierre.pezziardi
 categories: general pole-emploi
