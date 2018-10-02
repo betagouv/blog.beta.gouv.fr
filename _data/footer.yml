@@ -52,6 +52,9 @@ links:
       label: Rechercher
       target: _pages/search.md
     -
+      label: Presse
+      target: _category/presse.md
+    -
       label: Archives
       target: _pages/archives.md
 -
