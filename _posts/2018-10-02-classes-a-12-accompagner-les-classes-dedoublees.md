@@ -4,6 +4,7 @@ title: ' Classes à 12 : accompagner les classes dédoublées'
 date: 2018-10-01T09:02:35.616Z
 categories: dinsic
 tags: classes12
+image: /img/posts/2018-10-02-classes-a-12-accompagner-les-classes-dedoublees.jpg
 excerpt: >-
   Depuis septembre 2017, une expérimentation permet de dédoubler les classes de
   CP afin de favoriser la réussite des élèves en éducation prioritaire. La
