@@ -21,7 +21,7 @@ layout: default
               <div class="article__author-role">{{ author.role }}</div>
           </div>
             {% if author.avatar %}
-            <img alt="" src="{% if author.avatar.ext %}{{ author.avatar.ext }}{% else %}/img/authors/{{ author.avatar }}{% endif %}" />
+            <img alt="" src="{% if author.avatar.url %}{{ author.avatar.url }}{% else %}/img/authors/{{ author.avatar }}{% endif %}" />
             {% endif %}
             <div class="article__author-description">
               {% if author.link %}<a href="{{ author.link }}" target="_blank" rel="noopener">{% endif %}

@@ -14,7 +14,7 @@ layout: default
           {% assign author = site.data.authors[authors] %}
             <div class="article__author">
               {% if author.avatar %}
-              <img alt="" src="{% if author.avatar.ext %}{{ author.avatar.ext }}{% else %}/img/authors/{{ author.avatar }}{% endif %}" />
+              <img alt="" src="{% if author.avatar.url %}{{ author.avatar.url }}{% else %}/img/authors/{{ author.avatar }}{% endif %}" />
               {% endif %}
               <span class="article__author-name">{{ author.fullname }}</span>
             </div>
