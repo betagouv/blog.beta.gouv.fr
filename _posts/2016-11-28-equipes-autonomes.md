@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qu'est-ce qu'une équipe autonome ?
+title: Qu'est-ce qu'une équipe autonome ?
 date: 2016-11-28
 authors: laurent.bossavit
 categories: general

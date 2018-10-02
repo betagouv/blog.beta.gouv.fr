@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ça pousse à Amiens grâce à Plante & Moi !
+title: Ça pousse à Amiens grâce à Plante & Moi !
 date: 2018-08-04
 authors: julien.dauphant
 categories: dinsic

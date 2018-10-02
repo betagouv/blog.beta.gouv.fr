@@ -1,6 +1,6 @@
 ---
 layout: post
-title: L'intrapreneur de Startup d'État, un entrepreneur comme les autres ?
+title: L'intrapreneur de Startup d'État, un entrepreneur comme les autres ?
 date: 2017-02-16
 authors: ismael.hery
 categories: general

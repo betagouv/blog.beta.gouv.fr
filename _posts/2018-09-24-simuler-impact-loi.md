@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simuler l'impact de la loi, c'est possible !
+title: Simuler l'impact de la loi, c'est possible !
 date: 2018-09-24
 authors:
   - sandra.chakroun
