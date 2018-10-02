@@ -26,5 +26,11 @@ nav:
   label: Annonces et événements
   target: _category/general.md
 -
+  label: Presse
+  target: _category/presse.md
+-
   label: Rechercher
   target: _pages/search.md
+-
+  label: Revenir à beta.gouv.fr
+  url: https://beta.gouv.fr

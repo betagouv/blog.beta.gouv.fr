@@ -3,7 +3,7 @@ layout: post
 title: "6 mois après son lancement, demarches-simplifiees.fr sur la voie de la réussite"
 date: 2018-09-03T13:12:54.564Z
 authors:
-categories: dinsic
+categories: dinsic presse
 tags: demarches-simplifiees.fr
 image: /img/posts/demarches-simplifiees-fr-logo.png
 excerpt: Communiqué de presse
