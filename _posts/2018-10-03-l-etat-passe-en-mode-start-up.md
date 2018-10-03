@@ -3,6 +3,7 @@ layout: post
 title: L’État passe en mode start-up
 date: 2018-09-23T14:10:49.942Z
 categories: presse
+image: /img/posts/2018-10-03-l-etat-passe-en-mode-start-up.jpg
 excerpt: >-
   Un article de Béatrice Madeline pour Le Monde, [à retrouver sur
   Internet](https://www.lemonde.fr/economie/article/2018/09/23/l-etat-passe-en-mode-start-up_5359074_3234.html)
