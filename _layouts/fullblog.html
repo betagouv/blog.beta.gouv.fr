@@ -21,7 +21,7 @@ layout: default
         <a class="article__link" href="{{ post.url }}" title="{{ post.title }}">
           <h2 class="article__title">{{ post.title }}</h2>
         </a>
-        <div class="article__meta">Paru le <time>{{ post.date | date_to_long_string }}</time> dans {% assign sortedCategories = post.categories | sort %}{% for category in sortedCategories %}<a href="/categorie/{{ category }}">{{ category }}</a> {% endfor %}</div>
+        <div class="article__meta">Paru le <time>{{ post.date | date_to_long_string }}</time> dans {% assign sortedCategories = post.categories | sort %}{% for categories in sortedCategories %}<a href="/categorie/{{ categories }}">{{ site.data.category[categories].title }}</a> {% endfor %}</div>
         {% if post.image %}
         <div class="article__thumbnail">
           <img src="{{ post.image }}" alt="" />

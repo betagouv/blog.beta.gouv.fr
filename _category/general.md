@@ -1,8 +1,5 @@
 ---
 layout: category
-category: general
+shortname: general
 permalink: "/categorie/general/"
-title: Annonces et événements
 ---
-
-Annonces et événements de la communauté.

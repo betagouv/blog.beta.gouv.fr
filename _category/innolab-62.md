@@ -1,6 +1,6 @@
 ---
 layout: category
-category: innolab-62
+shortname: innolab-62
 permalink: "/categorie/innolab-62/"
 title: Innolab 62
 ---
