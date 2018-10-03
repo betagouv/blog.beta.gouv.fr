@@ -7,7 +7,7 @@ layout: default
   <div class="article__content" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="article__container">
       <div class="richtext" itemprop="articleBody">
-        {{ page.excerpt }}
+        {{ page.excerpt | markdownify }}
         {{ content | remove: page.excerpt }}
       </div>
     </div>

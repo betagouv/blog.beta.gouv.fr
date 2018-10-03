@@ -28,7 +28,7 @@ layout: default
         </div>
         {% endif %}
         <div class="richtext">
-          <p>{{ post.excerpt }}</p>
+          <p>{{ post.excerpt | markdownify }}</p>
         </div>
         <a class="article__more" href="{{ post.url }}">Lire la suite…</a>
       </article>
