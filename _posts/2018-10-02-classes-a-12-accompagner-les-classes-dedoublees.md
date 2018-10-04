@@ -33,10 +33,8 @@ excerpt: >-
 
 **Nicolas** : Nous souhaitons également que le plus d’enseignants possible se mette à filmer. Ils ont une appétence certaine, ce n’est plus à démontrer, pour le visionnage de vidéos. Notre défi c’est de faire d’eux des producteurs. Enfin, nous attendons également les idées des professeurs pour ajouter des fonctionnalités à notre solution. Cela nous permettra d’être au plus près de leurs besoins et d’arriver à une solution répondant de manière exhaustive aux besoins réels des enseignants sur le terrain.
 
+> [En savoir plus](http://site-1436014-7519-8367.strikingly.com/) sur Classes à 12, consulter les vidéos et participer.
 >
-> [En savoir plus](http://site-1436014-7519-8367.strikingly.com/) sur Classes à 12, consulter les vidéos et participer
-> 
-> [Suivre les actualités](https://twitter.com/startupC12) de Classes à 12 sur Twitter
-> 
-> L’équipe est à la recherche d’[un développeur pour une mission en prestation](https://beta.gouv.fr/recrutement/2018/08/29/classes12-dev.html)
+> [Suivre les actualités](https://twitter.com/startupC12) de Classes à 12 sur Twitter.
 >
+> L’équipe est à la recherche d’[un développeur pour une mission en prestation](https://beta.gouv.fr/recrutement/2018/08/29/classes12-dev.html).
