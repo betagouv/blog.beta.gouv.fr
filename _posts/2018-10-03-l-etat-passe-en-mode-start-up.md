@@ -11,7 +11,7 @@ excerpt: >-
 ---
 > « Ministères, administrations, collectivités locales… Les incubateurs de jeunes pousses se multiplient dans la sphère publique. L’idée ? Accélérer le basculement numérique de la puissance de l’État pour qu’elle gagne en efficacité. »
 
-L’article rend hommage aux startup d’État en prenant pour point de départ une de nos réunions hebdomadaires du mercredi. Il revient sur nos premiers bilans, nos plus belles réussites mais également notre passé et notre futur.
+L’article rend hommage aux startups d’État en prenant pour point de départ une de nos réunions hebdomadaires du mercredi. Il revient sur nos premiers bilans, nos plus belles réussites mais également notre passé et notre futur.
 
 > « La méthode start-up commence même à essaimer au-delà de la sphère gouvernementale et de l’administration centrale pour toucher les collectivités locales. Le conseil général du Pas-de-Calais a adopté la démarche pour réduire le nombre considérable (entre 20 % et 25 %) de rendez-vous non honorés entre les usagers et les services sociaux du département.
 >
