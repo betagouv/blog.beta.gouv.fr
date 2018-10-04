@@ -6,22 +6,22 @@ nav:
   children:
     -
       label: Incubateur de Services Numériques
-      target: _category/incubateur_dinsic.md
+      target: _category/dinsic.md
     -
       label: Innolab 62
-      target: _category/incubateur_innolab-62.md
+      target: _category/innolab-62.md
     -
       label: Lab MI
-      target: _category/incubateur_lab-mi.md
+      target: _category/lab-mi.md
     -
       label: Fabrique Numérique
-      target: _category/incubateur_mtes.md
+      target: _category/mtes.md
     -
       label: Fabrique Pôle Emploi
-      target: _category/incubateur_pole-emploi.md
+      target: _category/pole-emploi.md
     -
       label: Incubateur des Affaires Sociales
-      target: _category/incubateur_sgmas.md
+      target: _category/sgmas.md
 -
   label: Annonces et événements
   target: _category/general.md
