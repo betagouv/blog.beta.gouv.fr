@@ -9,12 +9,13 @@ layout: default
     {% for post in site.posts %}
       <article class="article article__preview panel">
         {% if post.authors %}
-          {% for author in post.authors %}
+          {% for authors in post.authors %}
+          {% assign author = site.data.authors[authors] %}
             <div class="article__author">
               {% if author.avatar %}
-                <img src="{{ post.author.avatar }}" />
+              <img alt="" src="{% if author.avatar.url %}{{ author.avatar.url }}{% else %}/img/authors/{{ author.avatar }}{% endif %}" />
               {% endif %}
-              <span class="article__author-name">{{ author }}</span>
+              <span class="article__author-name">{{ author.fullname }}</span>
             </div>
           {% endfor %}
         {% endif %}
