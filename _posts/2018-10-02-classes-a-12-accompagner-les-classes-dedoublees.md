@@ -25,7 +25,7 @@ excerpt: >-
 
 ## A quoi ressemble la solution ?
 
-**Nicolas** : Notre site, en version beta, permet de déposer de courtes vidéos de 1 à 2 minutes. Le format court a été l’un des éléments identifiés et évoqués par les enseignants. Ces vidéos sont faites par les professeurs eux-mêmes : dans leurs classes, avec ou sans les élèves, chez eux, etc. Les sujets sont ceux que les enseignants ont identifié comme problématiques et qu’ils souhaitent partager ou pour lesquels ils aimeraient avoir des réponses. Ils peuvent revenir sur l’aménagement de la classe, l’organisation, la gestion des élèves, l’apprentissage de la lecture, les élèves perturbateurs… C’est une solution complémentaire à tout ce qui est proposé sur les sites institutionnels.
+**Nicolas** : Notre site, en version beta, permet de déposer de courtes vidéos de 1 à 2 minutes. Le format court a été identifié et évoqué par les enseignants. Ces vidéos sont faites par les professeurs eux-mêmes : dans leurs classes, avec ou sans les élèves, chez eux, etc. Les sujets sont ceux que les enseignants ont identifié comme problématiques et qu’ils souhaitent partager ou pour lesquels ils aimeraient avoir des réponses. Ils peuvent revenir sur l’aménagement de la classe, l’organisation, la gestion des élèves, l’apprentissage de la lecture, les élèves perturbateurs… C’est une solution complémentaire à tout ce qui est proposé sur les sites institutionnels.
 
 ## Quels sont vos objectifs actuels ?
 
