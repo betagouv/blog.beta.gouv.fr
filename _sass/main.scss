@@ -711,7 +711,7 @@ span.navbar__domain {
   right: 0;
   -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2);
           box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2);
-  z-index: 1;
+  z-index: 90;
 }
 
 .dropdown-content a {
@@ -1133,6 +1133,28 @@ fieldset {
   margin: 0.5em 0;
   border-radius: 3px;
   background-color: #ebeff3;
+}
+
+/* Modifications du style pour faciliter la lecture */
+
+.richtext {
+  font-size: 1.125em;
+}
+
+.richtext h1 {
+  font-size: 2.25em;
+}
+
+.richtext h2 {
+  font-size: 1.75em;
+}
+
+.richtext h3 {
+  font-size: 1.50em;
+}
+
+.richtext h4 {
+  font-size: 1.125em;
 }
 
 .documentation {
