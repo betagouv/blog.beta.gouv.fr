@@ -46,7 +46,7 @@ Pour pallier toute défection de dernière minute (urgence personnelle ou profes
 
 *Pour Aides-territoires, ce sont des agents de services déconcentrés qui ont témoigné : “La plate forme est claire et très compréhensible [...] On y voit les différentes aides suivants les différents territoires ce qui est très positif. Pour moi elle est très intéressante autant pour les services de l'Etat que pour les collectivités.”* 
  
-## <1> “One Vision”  Ne pas oublier votre proposition de valeur** 
+## <1> “One Vision”  Ne pas oublier votre proposition de valeur
 
 En 6 mois, vous avez peaufiné LA punchline qui permet à votre interlocuteur de comprendre l’objectif du produit en une phrase : c’est le moment où jamais de déclamer votre proposition de valeur !
 
@@ -58,7 +58,7 @@ Puis, vous présentez le produit et quelques-unes de ses principales fonctionnal
 
 Expliquez où vous en êtes, valorisez le travail accompli jusqu’ici : n’oubliez pas, le service n’existait pas il y a 6 mois. 
 
-## <2> “Play the game”  Les premiers enseignements**
+## <2> “Play the game”  Les premiers enseignements
 
 Vous êtes désormais capable de documenter votre service au moyen de quelques métriques d’impact qui montrent son utilité concrète et réelle.
 A 6 mois les métriques sont acquises sur de petits échantillons pas nécessairement représentatifs, mais elles confortent l’intérêt à creuser le service numérique.
@@ -70,7 +70,7 @@ Pas de jargonnage possible : vos mesures d’impact doivent traduire immédiatem
 *La meilleure preuve de votre impact c’est le témoignage de vos utilisateurs : Un chef de projet qui a découvert une aide “grâce à vous” dans l’Essonne, des agents de services déconcentrés dont le travail est considérablement facilité par le produit … et qui attendent une montée en puissance du service voire sont prêts à s’engager et vous soutenir.*
 
 
-## <3>: “Show must go on”**
+## <3>: “Show must go on”
 
 Enfin, vous présentez vos objectifs (chiffrés !) pour les 6 prochains mois et la manière de les atteindre. Ici aussi, appuyez-vous sur des impacts concrets et mesurables. Ceci facilitera l’écriture de la feuille de route du semestre.
 
