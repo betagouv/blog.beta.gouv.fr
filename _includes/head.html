@@ -48,6 +48,7 @@
 
 
     <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ site.url }}{{ "/assets/main.css" | relative_url }}">
+    <!-- En premier le générique, en second le particulier -->
     <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ site.url }}{{ "/assets/style/main.css" }}">
 
     {% capture canonical_url %}{{ site.url }}{{ page.url | replace:'index.html','' }}{% endcapture %}
