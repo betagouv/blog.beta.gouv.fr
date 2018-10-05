@@ -1,21 +1,3 @@
-.page .hero__container {
-  min-height: unset;
-}
-
-.page .hero h1 {
-  margin: 0;
-}
-
-.article__preview .article__author-name {
-  margin-left: 0;
-}
-
-.article__preview img + .article__author-name {
-  margin-left: 0.5em;
-}
-
-//
-
 :root {
   /* Colors */
 
@@ -403,31 +385,31 @@ a.button.secondary {
 
 @font-face {
   font-family: "Source Sans Pro";
-  src: url("/assets/font/Source Sans Pro/SourceSansPro-Regular.otf");
+  src: url("./fonts/Source Sans Pro/SourceSansPro-Regular.otf");
   font-weight: 400;
 }
 
 @font-face {
   font-family: "Source Sans Pro";
-  src: url("/assets/font/Source Sans Pro/SourceSansPro-Bold.otf");
+  src: url("./fonts/Source Sans Pro/SourceSansPro-Bold.otf");
   font-weight: 800;
 }
 
 @font-face {
   font-family: "Source Sans Pro";
-  src: url("/assets/font/Source Sans Pro/SourceSansPro-It.otf");
+  src: url("./fonts/Source Sans Pro/SourceSansPro-It.otf");
   font-style: italic;
 }
 
 @font-face {
   font-family: "Evolventa";
-  src: url("/assets/font/Evolventa/Evolventa-Regular.ttf");
+  src: url("./fonts/Evolventa/Evolventa-Regular.ttf");
   font-weight: 400;
 }
 
 @font-face {
   font-family: "Evolventa";
-  src: url("/assets/font/Evolventa/Evolventa-Bold.ttf");
+  src: url("./fonts/Evolventa/Evolventa-Bold.ttf");
   font-weight: 800;
 }
 
@@ -1725,3 +1707,23 @@ a.label {
   border: 1px solid #adb9c9;
   color: #53657d;
 }
+
+//
+
+.page .hero__container {
+  min-height: unset;
+}
+
+.page .hero h1 {
+  margin: 0;
+}
+
+.article__preview .article__author-name {
+  margin-left: 0;
+}
+
+.article__preview img + .article__author-name {
+  margin-left: 0.5em;
+}
+
+//
