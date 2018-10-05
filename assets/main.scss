@@ -4,3 +4,7 @@
 @import "https://unpkg.com/template.data.gouv.fr/dist/style/main.css";
 @import "_variables";
 @import "./style/main.css"
+
+.article__container {
+  max-width: 45em;
+}
