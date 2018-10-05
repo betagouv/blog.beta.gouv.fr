@@ -25,7 +25,7 @@ github_repository: betagouv/blog.beta.gouv.fr
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-gouvfr
+# theme: jekyll-theme-gouvfr
 plugins:
   - jekyll-feed
 
