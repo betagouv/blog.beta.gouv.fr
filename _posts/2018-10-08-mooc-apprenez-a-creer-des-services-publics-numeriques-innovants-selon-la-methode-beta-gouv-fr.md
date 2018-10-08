@@ -21,8 +21,7 @@ Depuis 2013, **[beta.gouv.fr](https://beta.gouv.fr/)** développe une nouvelle m
 
 ## Former les agents publics à la méthode Startup d'État
 
-Lancé dans le cadre du **programme de développement concerté de l'administration numérique territoriale (DCANT),** le MOOC \
-**« Créer des services publics numériques innovants »** s’adresse aux agents publics confrontés à des irritants sur leur territoire qui souhaitent innover mais ne savent pas comment se lancer. Aucune compétence en informatique préalable n’est requise.
+Lancé dans le cadre du **programme de développement concerté de l'administration numérique territoriale (DCANT),** le MOOC **« Créer des services publics numériques innovants »** s’adresse aux agents publics confrontés à des irritants sur leur territoire qui souhaitent innover mais ne savent pas comment se lancer. Aucune compétence en informatique préalable n’est requise.
 
 ## Modalités de formation
 
@@ -41,3 +40,5 @@ Chaque module est composé de **vidéos formatives** pour comprendre les concept
   * Séquence 5 - Faire de l’industriel en mode artisanal !
 
 **[Programme et inscription au MOOC « Créer des services publics numériques innovants »](https://www.fun-mooc.fr/courses/course-v1:CNFPT+87027+session01/about)**
+
+[Téléchargez le communiqué de presse dans son intégralité.](https://blog.beta.gouv.fr/docs/CP_Lancement_MOOC_services_publics_innovants.pdf)
