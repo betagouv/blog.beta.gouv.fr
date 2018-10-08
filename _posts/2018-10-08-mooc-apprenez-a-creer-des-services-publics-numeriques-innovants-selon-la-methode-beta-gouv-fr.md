@@ -4,6 +4,8 @@ title: "MOOC\_: apprenez à créer des services publics numériques innovants se
 date: 2018-10-02T13:54:52.680Z
 categories: presse
 tags: alpha
+image: >-
+  /img/posts/2018-10-08-mooc-apprenez-a-creer-des-services-publics-numeriques-innovants-selon-la-methode-beta-gouv-fr.png
 excerpt: >-
   Découvrir en 1h30 la méthode Startup d'État. C’est la promesse du MOOC **«
   Créer des services publics numériques innovants » lancé par** beta.gouv.fr,
