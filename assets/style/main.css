@@ -586,9 +586,9 @@ a.navbar__home {
   margin-right: 0.8em;
 }
 
-.navbar__gouvfr {
-  height: 18.4px;
-}
+// .navbar__gouvfr {
+//   height: 18.4px;
+// }
 
 span.navbar__domain {
   font-weight: 400;
