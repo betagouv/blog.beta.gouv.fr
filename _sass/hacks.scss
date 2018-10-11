@@ -1,0 +1,23 @@
+/* Modifications du style pour faciliter la lecture */
+
+.richtext {
+  font-size: 1.125em;
+}
+
+.richtext h1 {
+  font-size: 2.25em;
+}
+
+.richtext h2 {
+  font-size: 1.75em;
+}
+
+.richtext h3 {
+  font-size: 1.50em;
+}
+
+/* Augmenter la taille de la colonne visible pour les articles */
+
+.article__container {
+  max-width: 45em;
+}
