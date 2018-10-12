@@ -125,7 +125,7 @@ small {
   margin: auto;
 }
 
-table {
+.table {
   background: #fff;
   border: #c9d3df;
   border-radius: 2px;
@@ -136,24 +136,24 @@ table {
   border-collapse: collapse;
 }
 
-td,
-th {
+.table td,
+.table th {
   padding: 1em;
   text-align: left;
 }
 
-td {
+.table td {
   border-top: 1px solid #adb9c9;
 }
 
-thead th {
+.table thead th {
   background: #fff;
   font-size: 0.875em;
-  font-weight: 200;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
-tr:hover {
+.table tr:hover {
   background: #fafbfc;
 }
 
@@ -188,6 +188,10 @@ button.button,
 button.button:focus,
 button.button:active,
 button.button:visited,
+input[type="submit"],
+input[type="submit"]:focus,
+input[type="submit"]:active,
+input[type="submit"]:visited,
 input[type="button"],
 input[type="button"]:focus,
 input[type="button"]:active,
@@ -210,12 +214,14 @@ input[type="button"]:visited {
 
 a.button:hover,
 button.button:hover,
+input[type="submit"]:hover,
 input[type="button"]:hover {
   background: #003b80;
 }
 
 a.button:active,
 button.button:active,
+input[type="submit"]:hover,
 input[type="button"]:hover {
   -webkit-transform: translateY(1px);
           transform: translateY(1px);
@@ -228,16 +234,88 @@ button::-moz-focus-inner {
   border: 0;
 }
 
+a.button-outline,
+a.button-outline:focus,
+a.button-outline:active,
+a.button-outline:visited,
+button.button-outline,
+button.button-outline:focus,
+button.button-outline:active,
+button.button-outline:visited {
+  display: inline-block;
+  padding: 0.5em 2em;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-size: 1em;
+  position: relative;
+  top: 0;
+  overflow: hidden;
+  text-decoration: none;
+  background: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+a.button-outline:hover,
+button.button-outline:hover,
+input[type="submit"].button-outline:hover,
+input[type="button"].button-outline:hover {
+  border-color: #c9d3df;
+  color: #c9d3df;
+}
+
+.button-outline.primary,
+a.button-outline.primary {
+  border-color: #0053b3;
+  color: #0053b3;
+}
+
+.button-outline.primary:hover,
+.button-outline.primary:active {
+  border-color: #003b80;
+  color: #003b80;
+}
+
+.button-outline.warning,
+a.button-outline.warning {
+  border-color: #d63626;
+  color: #d63626;
+}
+
+.button-outline.warning:hover,
+.button-outline.warning:active {
+  border-color: #ab2b1e;
+  color: #ab2b1e;
+}
+
+.button-outline.secondary,
+a.button-outline.secondary {
+  border-color: #53657d;
+  color: #53657d;
+}
+
+.button-outline.secondary:hover,
+.button-outline.secondary:active {
+  border-color: #26353f;
+  color: #26353f;
+}
+
 a.button.small,
 button.button.small,
-input[type="button"].small {
+input[type="submit"].small,
+input[type="button"].small,
+a.button-outline.small,
+button.button-outline.small {
   font-size: 0.825em;
   padding: 0.25em 1em;
 }
 
 a.button.large,
 button.button.large,
-input[type="button"].large {
+input[type="submit"].large,
+input[type="button"].large,
+a.button-outline.large,
+button.button-outline.large {
   font-size: 1.25em;
 }
 
@@ -265,7 +343,8 @@ a.button.secondary {
   background-color: #26353f;
 }
 
-.button + .button {
+.button + .button,
+.button-outline + .button-outline {
   margin-left: 1em;
 }
 
@@ -282,7 +361,7 @@ a.button.secondary {
 }
 
 .article__container {
-  max-width: 45em;
+  max-width: 35em;
 }
 
 @media (min-width: 400px) {
@@ -441,7 +520,7 @@ a.button.secondary {
 }
 
 .footer__logo img {
-  width: 100%;
+  max-height: 60px;
 }
 
 @media (max-width: 999px) {
@@ -586,9 +665,9 @@ a.navbar__home {
   margin-right: 0.8em;
 }
 
-// .navbar__gouvfr {
-//   height: 18.4px;
-// }
+.navbar__gouvfr {
+  height: 20px;
+}
 
 span.navbar__domain {
   font-weight: 400;
@@ -644,8 +723,7 @@ span.navbar__domain {
   display: block;
 }
 
-.row,
-.column {
+.row {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -655,11 +733,8 @@ span.navbar__domain {
   -webkit-box-align: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
-  margin-left: -1em;
-  margin-right: -1em;
-}
-
-.row {
+  margin-left: -2em;
+  margin-right: -2em;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
@@ -670,15 +745,8 @@ span.navbar__domain {
   max-width: 50em;
 }
 
-.column {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-
 .row > * {
-  margin: 0 1em;
+  margin: 0 2em;
 }
 
 @media (max-width: 749px) {
@@ -694,8 +762,20 @@ span.navbar__domain {
   }
 }
 
-.column img {
-  width: 100%;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1em;
+  margin-top: 1em;
+  justify-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.grid .panel + .panel,
+.grid .card + .card {
+  margin: 0;
 }
 
 .panel {
@@ -705,6 +785,7 @@ span.navbar__domain {
           box-shadow: 0 1px 4px #c9d3df;
   padding: 2em;
   position: relative;
+  border: 1px solid #c9d3df;
 }
 
 .panel + * {
@@ -725,7 +806,7 @@ span.navbar__domain {
   width: calc(100% + 4em);
   position: relative;
   left: -2em;
-  border-bottom: 1px solid #adb9c9;
+  border-bottom: 1px solid #c9d3df;
   margin-bottom: 2em;
 }
 
@@ -742,7 +823,7 @@ span.navbar__domain {
   color: #53657d;
 }
 
-section {
+.section {
   padding: 5em 0;
 }
 
@@ -760,7 +841,7 @@ section {
 }
 
 .section-color {
-  background-color: #0053b3;
+  background-color: #003b80;
   color: #fff;
 }
 
@@ -1046,28 +1127,6 @@ fieldset {
   margin: 0.5em 0;
   border-radius: 3px;
   background-color: #ebeff3;
-}
-
-/* Modifications du style pour faciliter la lecture */
-
-.richtext {
-  font-size: 1.125em;
-}
-
-.richtext h1 {
-  font-size: 2.25em;
-}
-
-.richtext h2 {
-  font-size: 1.75em;
-}
-
-.richtext h3 {
-  font-size: 1.50em;
-}
-
-.richtext h4 {
-  font-size: 1.125em;
 }
 
 .documentation {
@@ -1427,7 +1486,7 @@ fieldset {
   vertical-align: middle;
 }
 
-.article__preview .article__author-name {
+.article__preview img + .article__author-name {
   margin-left: 0.5em;
 }
 
@@ -1621,13 +1680,15 @@ a.article__link:hover {
   margin: 0;
 }
 
-.label {
+.label,
+a.label {
   background-color: #ebeff3;
   border-radius: 3px;
   display: inline-block;
   padding: 0.3em 0.8em;
   margin: 0.25em;
   font-size: 0.875em;
+  text-decoration: none;
 }
 
 .label--active {

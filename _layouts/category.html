@@ -7,7 +7,7 @@ layout: default
 {% assign lang = page.lang | default: site.lang | default: "fr" %}
 <div class="page article">
   {% include hero.html title=description.title %}
-  <section>
+  <section class="section">
     <div class="container">
       <div class="richtext">
         {{ description.content | markdownify }}
@@ -16,7 +16,7 @@ layout: default
   </section>
 </div>
 
-<section class="section-grey">
+<section class="section section-grey">
   <div class="container article__container">
     {% for post in site.categories[description.shortname] %}
       <article class="article article__preview panel">
