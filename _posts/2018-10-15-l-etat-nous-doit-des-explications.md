@@ -7,13 +7,11 @@ authors:
 categories: dinsic
 tags: algorithmes
 image: https://cdn-images-1.medium.com/max/2048/1*RbIsqc5VcBlXSWNrGNkN0Q.png
-excerpt: "Après l'*open data*, l'État continue de s'ouvrir en publiant le code source de ses algorithmes. Ce sera loin d'être suffisant."
+excerpt: "Après l'*open data*, l'État continue de s'ouvrir en publiant le code source de ses algorithmes. Ce sera loin d'être suffisant : exemple pratique sur le calcul de l'impôt."
 ---
 
 
 # L’État nous doit des explications
-
-L’ouverture des algorithmes en pratique
 
 Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Données_ouvertes_en_France) à l’*open data*. C’est quoi au fait, ces données ouvertes ? Le principe est simple : les fonctionnaires et autres employés qui travaillent pour des missions publiques sont payés par nos impôts, ainsi les données qu’ils collectent ou font collecter doivent être rendues publiques. Plus précisément, je dois pouvoir trouver en ligne la qualité de l’air dans mon quartier, c’est une *donnée accessible*, mais je dois aussi pouvoir réutiliser tout un jeu de données pour lancer villes-les-moins-polluées.fr, ce sont des *données réutilisables librement*.
 
