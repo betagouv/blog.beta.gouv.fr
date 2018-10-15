@@ -1,9 +1,19 @@
+---
+layout: post
+title: L'État nous doit des explications
+date: 2018-10-15
+authors:
+  - mael.thomas
+categories: dinsic
+tags: algorithmes
+image: https://cdn-images-1.medium.com/max/2048/1*RbIsqc5VcBlXSWNrGNkN0Q.png
+excerpt: "Après l'*open data*, l'État continue de s'ouvrir en publiant le code source de ses algorithmes. Ce sera loin d'être suffisant."
+---
 
-# L’Etat nous doit des explications
+
+# L’État nous doit des explications
 
 L’ouverture des algorithmes en pratique
-
-![](https://cdn-images-1.medium.com/max/2048/1*RbIsqc5VcBlXSWNrGNkN0Q.png)
 
 Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Données_ouvertes_en_France) à l’*open data*. C’est quoi au fait, ces données ouvertes ? Le principe est simple : les fonctionnaires et autres employés qui travaillent pour des missions publiques sont payés par nos impôts, ainsi les données qu’ils collectent ou font collecter doivent être rendues publiques. Plus précisément, je dois pouvoir trouver en ligne la qualité de l’air dans mon quartier, c’est une *donnée accessible*, mais je dois aussi pouvoir réutiliser tout un jeu de données pour lancer villes-les-moins-polluées.fr, ce sont des *données réutilisables librement*.
 
@@ -11,7 +21,7 @@ Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Donné
 
 L’*open data* est déjà un vieux combat, et vous aurez remarqué qu’un autre sujet prend de l’ampleur : une fois que l’on dispose de la *donnée*, on veut en faire quelque chose, et souvent, on *code un programme*. L’administration tourne de plus en plus aux algorithmes. Ce sujet a récemment fait surface avec les pépins de parcoursSup, le jeu d’algorithmes controversé qui décide de l’avenir des lycéens après le bac. En entrée, il prend une liste ordonnée des souhaits de chacun. En sortie, il interroge à la suite les lycéens pour afficher un établissement supérieur à chacun.
 
-Heureusement, comme pour l’*open data*, la loi [*oblige](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924) *l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux. Contrairement aux grandes entreprises, l’Etat est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
+Heureusement, comme pour l’*open data*, la loi [*oblige](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924) *l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux. Contrairement aux grandes entreprises, l’État est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
 
 ### Ils se cachent où, ces fameux algorithmes ?
 
