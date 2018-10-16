@@ -4,9 +4,8 @@ title: 'Mes Aides au webinaire DCANT #7'
 date: 2018-10-11T11:57:29.850Z
 categories: dinsic
 tags: mes-aides
-excerpt: >-
-  Retrouvez en intégralité la vidéo de l'intervention de Mes Aides sur les
-  moyens de participer au simulateur de prestations sociales.
+image: /img/posts/2018-10-16-mes-aides-au-webinaire-dcant-7.jpg
+excerpt: Retrouvez en intégralité la vidéo de l'intervention de Mes Aides sur les moyens de participer au simulateur de prestations sociales.
 ---
 Avec le concours du [CNFPT](http://www.cnfpt.fr/), le programme [DCANT](http://references.modernisation.gouv.fr/programme-dcant) organise chaque jeudi un webinaire à destination des collectivités territoriales. L’objectif est de pouvoir apporter des éclairages sur des sujets qui vont apporter de la transformation numérique dans le quotidien des administrations.
 
