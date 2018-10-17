@@ -29,3 +29,9 @@ blockquote {
   border-left: 8px solid #c9d3df;
   padding: 4px 0 4px 25px;
 }
+
+/* Le fix pour le logo n'est pas passé */
+
+.navbar__gouvfr {
+  height: 20px;
+}
