@@ -7,7 +7,7 @@
 
     <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 
-    {% capture description %}{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+    {% assign description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
     <meta name="description" content="{{ description }}">
     <meta property="og:description" content="{{ description }}">
 
