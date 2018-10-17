@@ -14,4 +14,5 @@ Thomas Guillet et Charlotte Lecuit ont animé le webinaire DCANT #7 le 11 octobr
 <iframe frameborder="0" width="100%" height="300" src="https://www.dailymotion.com/embed/video/x6vbslu" allowfullscreen="" allow="autoplay"></iframe>
 
 > À tout de suite sur [Mes Aides](https://mes-aides.gouv.fr/) !
+> 
 > Retrouvez également la vidéo du [webinaire DCANT consacré aux Startups d’État](https://blog.beta.gouv.fr/general/2018/04/26/beta-gouv-fr-au-webinaire-dcant-2/).
