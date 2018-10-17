@@ -1,5 +1,6 @@
 ---
 layout: category
-shortname: sgmas
+alias: sgmas
+herited: true
 permalink: "/categorie/incubateur-des-affaires-sociales/"
 ---

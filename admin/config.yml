@@ -27,7 +27,7 @@ publish_mode: editorial_workflow
 collections:
    - name: "posts"
      label: "Posts"
-     folder: "_posts"
+     folder: "content/_posts"
      slug: "{{year}}-{{month}}-{{day}}-{{title}}"
      create: true
      fields:

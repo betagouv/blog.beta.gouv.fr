@@ -46,6 +46,7 @@ plugins:
 lang: fr
 
 include: ["_pages", "_category"]
+exclude: ["content/templates"]
 
 permalink: pretty
 
@@ -55,5 +56,10 @@ sass:
 
 # Collections
 
+collections_dir:
+  content
+
 collections:
   - newsletters
+  - authors
+  - incubators

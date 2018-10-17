@@ -1,5 +1,5 @@
 ---
 layout: category
-shortname: general
+alias: general
 permalink: "/categorie/general/"
 ---

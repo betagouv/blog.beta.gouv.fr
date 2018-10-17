@@ -41,21 +41,24 @@ layout: null
             <id>{{ site.url | xml_escape }}{{ post.url | xml_escape }}</id>
             <content type="html" xml:base="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
 
-            {% assign post_author = post.author | default: post.authors[0] | default: site.author %}
-            {% assign post_author = site.data.authors[post_author] | default: post_author %}
-            {% assign post_author_email = post_author.email | default: nil %}
-            {% assign post_author_uri = post_author.uri | default: nil %}
-            {% assign post_author_name = post_author.name | default: post_author %}
+            {% for authors in post.authors %}
+              {% capture target %}/authors/{{ authors }}{% endcapture %}
+              {% assign post_author = site.authors | where: "id", target | first | default: post.authors[0] | default: site.author %}
+              {% assign post_author_email = post_author.email | default: nil %}
+              {% assign post_author_uri = post_author.uri | default: nil %}
+              {% assign post_author_name = post_author.fullname | default: post_author %}
 
-            <author>
-                    <name>{{ post_author_name | default: "" | xml_escape }}</name>
-                {% if post_author_email %}
-                    <email>{{ post_author_email | xml_escape }}</email>
-                {% endif %}
-                {% if post_author_uri %}
-                    <uri>{{ post_author_uri | xml_escape }}</uri>
-                {% endif %}
-            </author>
+              <author>
+                      <name>{{ post_author_name | default: "" | xml_escape }}</name>
+                  {% if post_author_email %}
+                      <email>{{ post_author_email | xml_escape }}</email>
+                  {% endif %}
+                  {% if post_author_uri %}
+                      <uri>{{ post_author_uri | xml_escape }}</uri>
+                  {% endif %}
+              </author>
+
+            {% endfor %}
 
             {% if post.category %}
                 <category term="{{ post.category | xml_escape }}" />

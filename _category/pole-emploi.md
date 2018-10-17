@@ -1,5 +1,6 @@
 ---
 layout: category
-shortname: pole-emploi
+alias: pole-emploi
+herited: true
 permalink: "/categorie/pole-emploi/"
 ---

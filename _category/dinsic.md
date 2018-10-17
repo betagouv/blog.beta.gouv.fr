@@ -1,5 +1,6 @@
 ---
 layout: category
-shortname: dinsic
+alias: dinsic
+herited: true
 permalink: "/categorie/dinsic/"
 ---
