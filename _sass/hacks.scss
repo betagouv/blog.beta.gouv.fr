@@ -21,3 +21,11 @@
 .article__container {
   max-width: 45em;
 }
+
+/* Utilisation du style de quote pour les blockquotes en attendant un patch */
+
+blockquote {
+  background-color: #ebeff3;
+  border-left: 8px solid #c9d3df;
+  padding: 4px 0 4px 25px;
+}

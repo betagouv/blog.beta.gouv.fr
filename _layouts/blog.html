@@ -11,11 +11,10 @@ layout: default
       <article class="article article__preview panel">
         {% if post.authors %}
           {% for authors in post.authors %}
-          {% assign author = site.data.authors[authors] %}
+          {% capture target %}/authors/{{ authors }}{% endcapture %}
+          {% assign author = site.authors | where: "id", target | first %}
             <div class="article__author">
-              {% if author.avatar %}
-              <img alt="" src="{% if author.avatar.url %}{{ author.avatar.url }}{% else %}/img/authors/{{ author.avatar }}{% endif %}" />
-              {% endif %}
+              <img alt="" src="{% if author.avatar %}{{ author.avatar }}{% else %}/img{{ target }}.jpg{% endif %}" />
               <span class="article__author-name">{{ author.fullname }}</span>
             </div>
           {% endfor %}
@@ -23,7 +22,7 @@ layout: default
         <a class="article__link" href="{{ post.url }}" title="{{ post.title }}">
           <h2 class="article__title">{{ post.title }}</h2>
         </a>
-        <div class="article__meta">Paru le <time>{{ post.date | date_to_long_string }}</time> dans {% assign sortedCategories = post.categories | sort %}{% for categories in sortedCategories %}<a href="/categorie/{{ categories }}">{{ site.data.category[categories].title }}</a> {% endfor %}</div>
+        <div class="article__meta">Paru le <time>{{ post.date | date_to_long_string }}</time> dans {% assign sortedCategories = post.categories | sort %}{% for categories in sortedCategories %}<a href="/categorie/{{ categories }}">{{ site.data.category[categories].shortname }}</a> {% endfor %}</div>
         {% if post.image %}
         <div class="article__thumbnail">
           <img src="{{ post.image }}" alt="" />

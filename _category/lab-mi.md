@@ -1,5 +1,6 @@
 ---
 layout: category
-shortname: lab-mi
+alias: lab-mi
+herited: true
 permalink: "/categorie/lab-mi/"
 ---

@@ -1,5 +1,5 @@
 ---
 layout: category
-shortname: presse
+alias: presse
 permalink: "/categorie/presse/"
 ---

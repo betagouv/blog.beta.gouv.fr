@@ -1,5 +1,6 @@
 ---
 layout: category
-shortname: mtes
+alias: mtes
+herited: true
 permalink: "/categorie/mtes/"
 ---

@@ -12,33 +12,9 @@ layout: default
       </div>
 
       {% if page.authors %}
-      <div class="article__author-list">
-        {% for authors in page.authors %}
-        {% assign author = site.data.authors[authors] %}
-        <div class="article__author panel">
-          <div class="article__author-info">
-              <div class="article__author-name">{{ author.fullname }}</div>
-              <div class="article__author-role">{{ author.role }}</div>
-          </div>
-            {% if author.avatar %}
-            <img alt="" src="{% if author.avatar.url %}{{ author.avatar.url }}{% else %}/img/authors/{{ author.avatar }}{% endif %}" />
-            {% endif %}
-            <div class="article__author-description">
-              {% if author.link %}<a href="{{ author.link }}" target="_blank" rel="noopener">{% endif %}
-                {{ author.content | markdownify }}
-              {% if author.link %}</a>{% endif %}
-            </div>
-        </div>
-        {% endfor %}
-      </div>
+        {% include authors.html authors=page.authors %}
       {% endif %}
 
-
-    </div>
-    {% if site.disqus.shortname %}
-      {% include disqus_comments.html %}
-    {% endif %}
-  </div>
 </section>
 
 <div class="notification full-width">
