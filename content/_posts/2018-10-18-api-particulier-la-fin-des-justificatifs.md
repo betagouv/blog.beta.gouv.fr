@@ -18,6 +18,8 @@ API Particulier est héritier du principe de « [Dites le nous une fois](http:/
 
 API Particulier permet d’avoir une source certifiée pour les données : il n’y a plus à aller les vérifier, elles viennent directement des impôts ou de la Caf par exemple. **Les administrations peuvent automatiser leur utilisation et les agents passer plus de temps avec les familles qui en ont vraiment besoin**, par exemple pour les cas qui ne rentrent pas forcement dans des cases.
 
+![](/img/posts/2018-10-18-api-particulier-la-fin-des-justificatifs/schema-api-particulier.png)
+
 ### Comment s’est passée pour vous la rentrée ?
 
 Cette année, **toutes les demandes des bourses au collège** ont été dématérialisées grâce à API Particulier. Les revenus de la famille ont été directement récupérés au niveau des centres des impôts. **En septembre 2018, nous avons eu 650 000 appels réussis ce qui correspond à autant de justificatifs qui ont été évités.** C’est à nouveau un gain de temps pour les familles. Certains parents devaient prendre une demi journée de RTT pour déposer leur dossier, d’autres demander à leurs enfants de faire la queue pendant la récréation...
