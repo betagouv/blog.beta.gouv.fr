@@ -4,6 +4,7 @@ title: "API Particulier\_: la fin des justificatifs"
 date: 2018-10-18T10:16:39.711Z
 categories: dinsic
 tags: api-particulier
+image: /img/posts/2018-10-18-api-particulier-la-fin-des-justificatifs.jpg
 excerpt: >-
   Anna-Livia Gomart est développeuse pour API Particulier. La Startup d’État
   permet aux administration d’échanger entre elles des informations sur les
