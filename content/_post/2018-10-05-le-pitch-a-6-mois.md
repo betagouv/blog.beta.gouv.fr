@@ -5,7 +5,7 @@ date: 2018-10-05T08:34:49.835Z
 authors: elise.marion
 categories: mtes
 tags: aides-territoires
-image: /img/posts/2018-10-05-le-pitch-a-6-mois.jpg
+image: /img/posts/2018-10-05-le-pitch-a-6-mois.jpeg
 excerpt: >-
   Après 20 heures de phoning utilisateurs, 2h37 pour votre première pull
   request, 1 Open Lab, 12 569 lignes de code, et 5 interlocuteurs dubitatifs
