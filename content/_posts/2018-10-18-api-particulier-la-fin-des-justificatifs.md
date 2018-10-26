@@ -16,9 +16,10 @@ API Particulier est héritier du principe de « [Dites le nous une fois](http://
 
 ### À quel besoin répond API Particulier ?
 
-API Particulier permet d’avoir une source certifiée pour les données : il n’y a plus à aller les vérifier, elles viennent directement des impôts ou de la Caf par exemple. **Les administrations peuvent automatiser des démarches et les agents passer plus de temps avec les familles qui en ont vraiment besoin**, par exemple pour les cas qui ne rentrent pas forcement dans des cases.
+API Particulier permet d’avoir une source certifiée pour les données : il n’y a plus à aller les vérifier, elles viennent directement des impôts ou de la Caf par exemple. **Les administrations peuvent automatiser des démarches et les agents passer plus de temps avec les familles qui en ont vraiment besoin**, par exemple pour les cas qui ne rentrent pas forcément dans des cases.
 
 ![](/img/posts/2018-10-18-api-particulier-la-fin-des-justificatifs/schema-api-particulier.png)
+*Exemple classique d'utilisation d'API Particulier*
 
 ### Comment s’est passée pour vous la rentrée ?
 
