@@ -89,3 +89,5 @@ Vous ne devriez pas avoir pas de grande surprise à l’issue de ce board, qui c
 À +12 mois, le board sera encore plus exigeant sur les métriques que vous lui présenterez et sur la valeur de votre service numérique, il faut s’y préparer dès maintenant.
 
 Rendez-vous est donc pris au plus tard dans 6 mois !
+
+> En savoir plus sur [Aides-territoires](https://beta.gouv.fr/startup/aides-territoires.html)
