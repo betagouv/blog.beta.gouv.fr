@@ -18,7 +18,7 @@ API Particulier est héritier du principe de « [Dites le nous une fois](http://
 
 API Particulier permet d’avoir une source certifiée pour les données : il n’y a plus à aller les vérifier, elles viennent directement des impôts ou de la Caf par exemple. **Les administrations peuvent automatiser des démarches et les agents passer plus de temps avec les familles qui en ont vraiment besoin**, par exemple pour les cas qui ne rentrent pas forcément dans des cases.
 
-![](/img/posts/2018-10-18-api-particulier-la-fin-des-justificatifs/schema-api-particulier.png)
+![Exemple classique d'utilisation d'API Particulier](/img/posts/2018-10-18-api-particulier-la-fin-des-justificatifs/schema-api-particulier.png)
 *Exemple classique d'utilisation d'API Particulier*
 
 ### Comment s’est passée pour vous la rentrée ?
@@ -31,7 +31,7 @@ Aujourd'hui, pour remplacer un justificatif par un appel à API Particulier, l'u
  
 ### Comment utiliser API Particulier dans mon administration ?
 
-Si vous souhaitez utiliser API Particulier dans votre mairie, votre collectivité ou bien encore votre hôpital, **rendez-vous sur [api.gouv.fr](https://api.gouv.fr)**. Vos développeurs auront accès à la documentation technique : à quelles informations ils peuvent avoir accès, quelle sera leur tête, ainsi que des données de test, entièrement ouvertes. Une fois ces premiers essais terminés, il vous suffit de **faire une demande d’autorisation**. Cela nous permet de vérifier que vous avez bien le droit d’avoir accès aux informations que vous demandez. Vous pourrez ensuite utiliser les API avec les données réelles. Cette demande d’autorisation se fait sur notre plateforme, ce qui nous permet d’avoir contact très proche avec nos utilisateurs. Nous les accompagnons dans la partie technique pour accompagner l’ « API-fication » des justificatifs : **contactez-nous sur <mailto:contact@particulier.api.gouv.fr> pour en savoir plus** !
+Si vous souhaitez utiliser API Particulier dans votre mairie, votre collectivité ou bien encore votre hôpital, **rendez-vous sur [api.gouv.fr](https://api.gouv.fr/api/api-particulier.html)**. Vos développeurs auront accès à la documentation technique : à quelles informations ils peuvent avoir accès, ainsi que des données de test, entièrement ouvertes. Une fois ces premiers essais terminés, il vous suffit de **faire une demande d’autorisation**. Cela nous permet de vérifier que vous avez bien le droit d’avoir accès aux informations que vous demandez. Vous pourrez ensuite utiliser les API avec les données réelles. Cette demande d’autorisation se fait sur notre plateforme, ce qui nous permet d’avoir contact très proche avec nos utilisateurs. Nous les accompagnons dans la partie technique pour accompagner l’ « API-fication » des justificatifs : **contactez-nous sur <mailto:contact@particulier.api.gouv.fr> pour en savoir plus** !
 
 > À tout de suite sur [particulier.api.gouv.fr](https://particulier.api.gouv.fr) !
 >
