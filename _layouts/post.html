@@ -10,26 +10,27 @@ layout: default
         {{ page.excerpt | markdownify }}
         {{ content | remove: page.excerpt }}
       </div>
-
-      {% if page.authors %}
-        {% include authors.html authors=page.authors %}
-      {% endif %}
-
+    </div>
+  </div>
 </section>
 
+{% if page.authors %}
+  {% include authors.html authors=page.authors %}
+{% endif %}
+
 <div class="notification full-width">
-    <h3>Dans la même catégorie</h3>
-    <ul style="list-style:none; padding:0">
-    {% assign firstCategory = page.categories | first %}
-    {% assign relatedCount = 0 %}
-    {% for related in site.categories[firstCategory] %}
-        {% unless page.url == related.url %}
-            {% assign relatedCount = relatedCount | plus: 1 %}
-            <li><a href="{{related.url}}">{{ related.title }}</a></li>
-        {% endunless %}
-        {% if relatedCount == 3 %}
-            {% break %}
-        {% endif %}
-    {% endfor %}
+  <h3>Dans la même catégorie</h3>
+  <ul style="list-style:none; padding:0">
+  {% assign firstCategory = page.categories | first %}
+  {% assign relatedCount = 0 %}
+  {% for related in site.categories[firstCategory] %}
+      {% unless page.url == related.url %}
+          {% assign relatedCount = relatedCount | plus: 1 %}
+          <li><a href="{{related.url}}">{{ related.title }}</a></li>
+      {% endunless %}
+      {% if relatedCount == 3 %}
+          {% break %}
+      {% endif %}
+  {% endfor %}
   </ul>
 </div>

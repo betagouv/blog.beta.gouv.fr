@@ -63,3 +63,12 @@ collections:
   - newsletters
   - authors
   - incubators
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      additional_css:
+        - authors-grid.css
