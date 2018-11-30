@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.lang | default: "fr" %}
+<div class="page article">
+  {% include hero.html title=page.title %}
+  <section class="section">
+    <div class="container">
+      <div class="richtext">
+        <!-- Html Elements for Search -->
+        <div id="search-container">
+        <input type="text" id="search-input" placeholder="rechercher...">
+        <ul id="results-container"></ul>
+        </div>
+
+        <!-- Script pointing to search-script.js -->
+        <script src="/assets/additional/js/search-script.js" type="text/javascript"></script>
+
+        <!-- Configuration -->
+        <script>
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '/search.json'
+        })
+        </script>
+      </div>
+    </div>
+  </section>
+</div>

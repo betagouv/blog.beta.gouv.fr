@@ -5,8 +5,8 @@ start: 2017-06-01
 end: 2017-10-30
 employer: dinsic
 startups:
-    - demarches-simplifiees.fr:
-        inactive
+previously:
+  - demarches-simplifiees.fr
 ---
 
 Trop fan des startups d'Etat

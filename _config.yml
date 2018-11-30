@@ -63,4 +63,9 @@ collections:
   - newsletters
   - authors
   - incubators
-  
+
+scope:
+  - scope:
+      path: "img/authors"
+    values:
+      authors_img: true

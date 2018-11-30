@@ -1,7 +1,6 @@
 ---
 fullname: Rédouane Bouchane
 role: Chargé de développement
-avatar: https://avatars3.githubusercontent.com/betagouv-bot?s=600
 link:
 github: Red1bush
 start: 2018-03-26

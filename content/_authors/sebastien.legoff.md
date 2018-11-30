@@ -3,7 +3,6 @@ fullname: Sebastien Le Goff # penser à modifier le nom du fichier ci-dessus !
 role: CTO
 # ci-dessous, remplace betagouv-bot par ton propre pseudo pour utiliser la photo de ton profil Github
 # tu peux aussi fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
-avatar: https://avatars3.githubusercontent.com/betagouv-bot?s=600
 github: goffle
 start: 2018-04-01 # date d'arrivée au format ISO (AAAA-MM-JJ)
 end: 2018-10-01 # date de fin de contrat au format ISO (AAAA-MM-JJ)

@@ -5,7 +5,7 @@ avatar: https://avatars1.githubusercontent.com/u/549405?s=400&v=4
 link: https://ut7.fr/
 start: 2018-03-13
 end: 2018-12-31
-employer: service/ /ut7
+employer: service/ut7
 startups:
   - zam
 ---
