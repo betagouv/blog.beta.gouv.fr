@@ -5,8 +5,8 @@ start: 2014-06-18
 end: 2015-03-31
 employer: service/octo
 startups:
-    - mes-aides:
-        inactive
+previously:
+  - mes-aides
 ---
 
 Ex-mes-aides.

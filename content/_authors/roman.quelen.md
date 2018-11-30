@@ -6,8 +6,8 @@ start: 2016-01-18
 end: 2016-07-01
 employer: service/octo
 startups:
-    - mdph:
-        inactive
+previously:
+  - mdph
 ---
 
 Développeur web au service du public.

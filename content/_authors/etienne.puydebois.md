@@ -6,8 +6,8 @@ start: 2017-09-04
 end: 2018-03-02
 employer: dinsic
 startups:
-    - open-academie:
-        inactive
+previously:
+  - open-academie
 ---
 
 J'aime réduire les irritants.

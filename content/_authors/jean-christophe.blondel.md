@@ -6,8 +6,8 @@ start: 2016-10-16
 end: 2017-02-10
 employer: service/octo
 startups:
-    - api-entreprise:
-        inactive
+previously:
+  - api-entreprise
 ---
 
 Celui qui doute teste.

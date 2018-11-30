@@ -62,3 +62,14 @@ blockquote {
 .article__author a {
   text-decoration: none;
 }
+
+/* Style pour l'affichage du form newsletter */
+
+.form__group + .button {
+    margin-top: 2em;
+}
+
+.newsletter {
+  width: 100%;
+  text-align: center;
+}
