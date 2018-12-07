@@ -124,7 +124,7 @@ Si les situations se représentaient, voici ce que nous ferions différemment :
 * Faire des workshops plutôt que des réunions : écrire les réformes et les cas test en séance en binômant métier/tech.
 
 En sortant de cet exercice, nous avons enrichi notre outillage pour accompagner un nouveau type d'utilisateurs :
-* des [cas de tests](https://github.com/openfisca/tutorial/tree/077ed7e49696bcb3150dcd46c2795bc22b0bf733/exemples/gt_non_recours/situations) réutilisables ;
+* des [cas de tests](https://www.data.gouv.fr/fr/datasets/livret-du-pouvoir-dachat/) réutilisables ;
 * un [logiciel simplifié](https://repl.it/@openfisca/framework-openfisca-france) qui permet d’automatiser les calculs sur les réformes et extraire les résultats dans un tableur.
 
 ## Conclusion
@@ -141,7 +141,7 @@ L'aventure vous intéresse ? N'hésitez pas à contacter la [communauté](http:/
 ## Pour aller plus loin
 
 * [Rapport final](https://www.caissedesdepotsdesterritoires.fr/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1250171076233&blobheader=application%2Fpdf&blobcol=urldata&blobtable=MungoBlobs)
-* [Code source des travaux](https://github.com/openfisca/tutorial/tree/dea8d8fe13e7708af36d7ebfc3496dfb02485ad4/exemples/gt_non_recours)
+* [Code source des travaux](https://github.com/openfisca/openfisca-events/tree/043a8ea93d48cb7516e188a068d59f80e9c59784/2018-03-gt-non-recours)
 * Tester le simulateur [Mes Aides](https://mes-aides.gouv.fr)
 * Pour contribuer à OpenFisca, le [code source OpenFisca-France](https://github.com/openfisca/openfisca-france)
 * [Explorateur de la législation française](https://fr.openfisca.org/legislation) modélisée
