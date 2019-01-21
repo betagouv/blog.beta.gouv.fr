@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Zam : simplifier les réponses aux amendements'
+title: 'Zam : simplifier le processus de réponse aux amendements'
 date: 2019-01-18T15:27:02.740Z
 categories: dinsic
 tags: zam
 excerpt: >-
-  Mélodie Drahi est intrapreneure sur la Startup d’État Zam. Le produit a pour
+  Mélodie Dahi est intrapreneure sur la Startup d’État Zam. Le produit a pour
   mission d’alléger la charge de préparation par le Gouvernement du débat
   parlementaire.
 ---
@@ -15,7 +15,7 @@ L’objectif de Zam c’est d’outiller les ministères pour les travaux de pr�
 
 ## En quoi consiste ce travail de préparation ?
 
-Chaque fois d’un amendement sur un projet de loi du Gouvernement est déposé par un parlementaire, aussi bien à l’Assemblée Nationale qu’au Sénat, l’administration doit adresser une réponse. Le délai est très court : on a généralement entre le vendredi soir, date butoir de dépôt des amendements, et le lundi matin, ouverture de la séance. Le nombre d’amendements déposés aujourd’hui par les parlementaires est très élevé, du jamais vu dans la cinquième République. Cela demande de travailler la nuit et le week-end : on ne peut pas faire autrement.
+Chaque fois qu'un amendement sur un projet de loi du Gouvernement est déposé par un parlementaire, aussi bien à l’Assemblée Nationale qu’au Sénat, l’administration doit adresser une réponse. Le délai est très court : on a généralement entre le vendredi soir, date butoir de dépôt des amendements, et le lundi matin, ouverture de la séance. Le nombre d’amendements déposés aujourd’hui par les parlementaires est très élevé, du jamais vu dans la cinquième République. Cela demande de travailler la nuit et le week-end : on ne peut pas faire autrement.
 
 ## Quelles sont les solutions qu’apportent votre Startup d’État ?
 
@@ -23,7 +23,7 @@ Pour commencer, Zam permet de recevoir les amendements en direct. Avant, on deva
 
 ## Zam a-t-il déjà été confronté à une situation réelle ?
 
-Le produit a été testé sur le projet de loi de finances 2019 et sur le projet de loi de financement de la Sécurité sociale (PLFSS) l’année dernière. Il s’agit de deux gros projets qui chaque année sont à nouveau débattus et dont la souffrance est récurrente. Les administrations ciblées ont tout de suite voulu tester Zam ! L’outil a très bien été reçu, notamment grâce à son interface intuitive. Le gain de temps était lui aussi significatif. À titre d’exemple, l’année dernière j’ai accumulé 13 jours de récupération suite à des heures supplémentaires pour formuler des réponses sur le PLFSS. Cette année, je suis descendue à 8 : j’ai moins eu besoin de rester tard au travail. Suite à ces retours, Zam a aussi été mis à contribution sur le projet de loi portant mesures d'urgence économiques et sociales – le projet de loi « Gilets Jaunes ».
+Le produit a été testé sur les projets de loi de finances (PLF) et de loi de financement de la Sécurité sociale (PLFSS) pour 2019. Il s’agit de deux gros projets qui reviennent chaque année donc pour lesquels la souffrance est récurrente. Les administrations ciblées ont tout de suite voulu tester Zam ! L’outil a très bien été reçu, notamment grâce à son interface intuitive. Le gain de temps était lui aussi significatif. À titre d’exemple, l’année dernière j’ai accumulé 13 jours de récupération suite à des heures supplémentaires pour formuler des réponses sur le PLFSS. Cette année, je suis descendue à 8 : j’ai moins eu besoin de rester tard au travail. Suite à ces retours, Zam a aussi été mis à contribution sur le projet de loi portant mesures d'urgence économiques et sociales – le projet de loi « Gilets Jaunes ».
 
 ## Et pour la suite, que réserve l’année 2019 ?
 
