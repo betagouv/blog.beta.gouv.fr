@@ -16,7 +16,7 @@ L’objectif de Zam c’est d’outiller les ministères pour les travaux de pr�
 
 ## En quoi consiste ce travail de préparation ?
 
-Chaque fois qu'un amendement sur un projet de loi du Gouvernement est déposé par un parlementaire, aussi bien à l’Assemblée Nationale qu’au Sénat, l’administration doit adresser une réponse. Le délai est très court : on a généralement entre le vendredi soir, date butoir de dépôt des amendements, et le lundi matin, ouverture de la séance. Le nombre d’amendements déposés aujourd’hui par les parlementaires est très élevé, du jamais vu dans la cinquième République. Cela demande de travailler la nuit et le week-end : on ne peut pas faire autrement.
+Chaque fois qu'un amendement sur un projet de loi du Gouvernement est déposé par un parlementaire, aussi bien à l’Assemblée Nationale qu’au Sénat, l’administration doit apporter une réponse. Le délai est très court : on a généralement entre le vendredi soir, date butoir de dépôt des amendements, et le lundi matin, ouverture de la séance. Le nombre d’amendements déposés aujourd’hui par les parlementaires est très élevé, du jamais vu dans la cinquième République. Cela demande de travailler la nuit et le week-end : on ne peut pas faire autrement.
 
 ![L'équipe de Zam](/img/posts/2019-01-18-zam-equipe.jpg)
 <small>L'équipe de Zam en visioconférence</small>
