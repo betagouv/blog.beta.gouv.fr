@@ -126,7 +126,7 @@ D’accord, mais ça reste du texte brut, pas très avenant. Et où est passé c
 
 ![En cliquant sur un exemple, la situation est injectée dans l’explication du barème : la valeur de chaque tranche de l’impôt est affichée, ainsi que le taux final.](https://cdn-images-1.medium.com/max/2000/1*qlyufA6vBr0kTKqXLcY0kw.gif)*En cliquant sur un exemple, la situation est injectée dans l’explication du barème : la valeur de chaque tranche de l’impôt est affichée, ainsi que le taux final.*
 
-L’essentiel est que** le citoyen** **comprenne ces** **briques algorithmiques sur le Web. **Le code, l’explication et la visualisation de ces briques reste accessible et modifiable par le développeur curieux***.***
+L’essentiel est que **le citoyen comprenne ces briques algorithmiques sur le Web**. Le code, l’explication et la visualisation de ces briques reste accessible et modifiable par le développeur curieux.
 
 Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr). C’est la première fois que l’État fait des calculs pour vous et les explique en même temps en ligne, avec vos données 🎉. On attends vos retours !
 
