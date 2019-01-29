@@ -51,9 +51,11 @@ Une simple recherche sur le Web vous donnera accès à un nombre incroyable de p
 
 Des erreurs dans cette documentation, il y en a. Deux exemples :
 
-![*FAQ du ministère du travail parlant en 2018 d’une aide à l’embauche de 4000€ périmée fin 2016*](https://cdn-images-1.medium.com/max/800/1*y-S8kSbwrjyl-796yQPLLA.jpeg)**FAQ du ministère du travail parlant en 2018 d’une aide à l’embauche de 4000€ périmée fin 2016**
+![*FAQ du ministère du travail parlant en 2018 d’une aide à l’embauche de 4000€ périmée fin 2016*](https://cdn-images-1.medium.com/max/800/1*y-S8kSbwrjyl-796yQPLLA.jpeg)
+*FAQ du ministère du travail parlant en 2018 d’une aide à l’embauche de 4000€ périmée fin 2016*
 
-![*Erreur sur la page officielle de Bercy “Comment est calculée la taxe sur les salaires”. Cette taxe rapporte chaque année plus de 10 milliards d’euros.*](https://cdn-images-1.medium.com/max/800/1*_UhT0U3lbooI0Fl_65e0dA.jpeg)**Erreur sur la page officielle de Bercy “Comment est calculée la taxe sur les salaires”. Cette taxe rapporte chaque année plus de 10 milliards d’euros.**
+![*Erreur sur la page officielle de Bercy “Comment est calculée la taxe sur les salaires”. Cette taxe rapporte chaque année plus de 10 milliards d’euros.*](https://cdn-images-1.medium.com/max/800/1*_UhT0U3lbooI0Fl_65e0dA.jpeg)
+*Erreur sur la page officielle de Bercy “Comment est calculée la taxe sur les salaires”. Cette taxe rapporte chaque année plus de 10 milliards d’euros.*
 
 Le propos ici n’est pas de critiquer les auteurs de ces erreurs, simplement de mettre en évidence les conséquences d’une séparation complète entre les algorithmes et leur documentation.
 
@@ -67,7 +69,7 @@ Il est donc très important d’avoir accès au *code source, *les administratio
 
 Pas si simple ! Moins de 1% des français sont développeurs. En outre, un petit effort suffira en général à n’importe lequel de ces développeurs pour comprendre un jeu de données, et l’utiliser pour construire une application utile à quelqu’un (par exemple, prendre les coordonnées GPS de chaque arbre de Paris et en faire [une carte](https://opendata.paris.fr/explore/dataset/les-arbres/map/?location=13,48.8596,2.36033)). A l’inverse, le *code source* moyen qu’une administration pourrait publier lui demandera d’immenses efforts.
 
-### **A quoi ressemble ce code ?**
+### A quoi ressemble ce code ?
 
 Voici un extrait du code source officiel des impôts, ouvert au monde en 2016 grâce à [Étalab](http://www.etalab.gouv.fr/), la mission de l’Etat qui presse les adinistrations à ouvrir leurs données. N’essayez pas de le comprendre…
 
@@ -84,11 +86,13 @@ Ce dernier code imbuvable et en apparence sophistiqué sert à … diviser un no
 
 En bref, voilà où nous en sommes aujourd’hui :
 
-![La plupart des algorithmes publics sont des boîtes noires](https://cdn-images-1.medium.com/max/2000/1*GQVFEdpK-TG4ZtbRntuEXg.png)*La plupart des algorithmes publics sont des boîtes noires*
+![La plupart des algorithmes publics sont des boîtes noires](https://cdn-images-1.medium.com/max/2000/1*GQVFEdpK-TG4ZtbRntuEXg.png)
+*La plupart des algorithmes publics sont des boîtes noires*
 
 Voilà où nous risquons d’aller :
 
-![Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !](https://cdn-images-1.medium.com/max/2000/1*-NTQAZz5feN7ia3e4XFa8Q.jpeg)*Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !*
+![Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !](https://cdn-images-1.medium.com/max/2000/1*-NTQAZz5feN7ia3e4XFa8Q.jpeg)
+*Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !*
 
 ## Comment expliquer les algorithmes ?
 
@@ -124,7 +128,8 @@ On a ici le meilleur des deux mondes : comme une documentation, notre code est u
 
 D’accord, mais ça reste du texte brut, pas très avenant. Et où est passé ce code de calcul du barème ? Est-ce qu’on ne l’aurait pas un peu caché ? Certes. Ce code à base de *min* et *max* était de toute façon loin d’être limpide. Beaucoup d’algorithmes ont un code compliqué, mais leur fonctionnement peut être facilement expliqué, par du texte, par une visualisation, et en complétant celà par [des exemples](https://github.com/betagouv/syso/blob/master/test/mécanismes/barème.yaml) de calcul.
 
-![En cliquant sur un exemple, la situation est injectée dans l’explication du barème : la valeur de chaque tranche de l’impôt est affichée, ainsi que le taux final.](https://cdn-images-1.medium.com/max/2000/1*qlyufA6vBr0kTKqXLcY0kw.gif)*En cliquant sur un exemple, la situation est injectée dans l’explication du barème : la valeur de chaque tranche de l’impôt est affichée, ainsi que le taux final.*
+![En cliquant sur un exemple, la situation est injectée dans l’explication du barème : la valeur de chaque tranche de l’impôt est affichée, ainsi que le taux final.](https://cdn-images-1.medium.com/max/2000/1*qlyufA6vBr0kTKqXLcY0kw.gif)
+*En cliquant sur un exemple, la situation est injectée dans l’explication du barème : la valeur de chaque tranche de l’impôt est affichée, ainsi que le taux final.*
 
 L’essentiel est que **le citoyen comprenne ces briques algorithmiques sur le Web**. Le code, l’explication et la visualisation de ces briques reste accessible et modifiable par le développeur curieux.
 
