@@ -134,7 +134,7 @@ D’accord, mais ça reste du texte brut, pas très avenant. Et où est passé c
 
 L’essentiel est que **le citoyen comprenne ces briques algorithmiques sur le Web**. Le code, l’explication et la visualisation de ces briques reste accessible et modifiable par le développeur curieux.
 
-Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr). C’est la première fois que l’État fait des calculs pour vous et les explique en même temps en ligne, avec vos données 🎉. On attends vos retours !
+Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr) : saisissez un salaire puis explorez les calculs ! C’est la première fois que l’État les explique en ligne, avec vos données 🎉. On attends vos retours !
 
 ### Pourquoi tout n’est pas développé comme ça ?
 
