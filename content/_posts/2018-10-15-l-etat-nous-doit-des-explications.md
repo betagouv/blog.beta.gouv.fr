@@ -19,7 +19,7 @@ Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Donné
 
 L’*open data* est déjà un vieux combat, et vous aurez remarqué qu’un autre sujet prend de l’ampleur : une fois que l’on dispose de la *donnée*, on veut en faire quelque chose, et souvent, on *code un programme*. L’administration tourne de plus en plus aux algorithmes. Ce sujet a récemment fait surface avec les pépins de parcoursSup, le jeu d’algorithmes controversé qui décide de l’avenir des lycéens après le bac. En entrée, il prend une liste ordonnée des souhaits de chacun. En sortie, il interroge à la suite les lycéens pour afficher un établissement supérieur à chacun.
 
-Heureusement, comme pour l’*open data*, la loi [*oblige](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924) *l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux. Contrairement aux grandes entreprises, l’État est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
+Heureusement, comme pour l’*open data*, la loi [*oblige*](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924) l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux. Contrairement aux grandes entreprises, l’État est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
 
 ### Ils se cachent où, ces fameux algorithmes ?
 
@@ -29,7 +29,7 @@ On l’a vu, Parcoursup en est un bon exemple. Un autre qui jusqu’à cette ann
 
 Si vous comprenez l’articulation de ce document, félicitations ! Notamment cette “valeur locative brute” qui s’est [trompée d’époque](https://www.lesechos.fr/08/10/2013/lesechos.fr/0203053213415_impots-locaux---la-valeur-locative-sert-de-base-de-calcul.htm) (en bref, elle considère que les loyers ont autant augmenté dans le centre Finistère qu’à Paris 16ème…). Pour vous aider, une [explication en ligne](https://shiny.eig-forever.org/TaxeHabitation/) de cette taxe vient d’être construite.
 
-Deux autres algorithmes publics vous parleront encore plus :** le calcul des cotisations sociales**, et **l’impôt sur le revenu**. On les voit aujourd’hui comme séparés, mais ils se rapprochent en 2019 : une nouvelle ligne “impôt sur le revenu” apparaîtra en bas de la fiche de paie.
+Deux autres algorithmes publics vous parleront encore plus : **le calcul des cotisations sociales**, et **l’impôt sur le revenu**. On les voit aujourd’hui comme séparés, mais ils se rapprochent en 2019 : une nouvelle ligne “impôt sur le revenu” apparaîtra en bas de la fiche de paie.
 
 Que se passe-t-il si un salarié curieux veut comprendre ces calculs (il[ aurait bien raison de le faire](https://lentreprise.lexpress.fr/rh-management/remuneration-salaire/un-tiers-des-salaries-a-deja-constate-une-erreur-sur-sa-fiche-de-paie_1732106.html)) ? Il lui suffit de scruter le fameux tableau !
 
@@ -37,7 +37,7 @@ Que se passe-t-il si un salarié curieux veut comprendre ces calculs (il[ aurait
 
 La fiche de paie explique chaque ligne ainsi : une *assiette* multipliée par un *taux* de cotisation, par exemple 2 300€ x 3,2%. Puis, avec quelques sommes et soustractions, on en déduit le net et le salaire chargé …
 
-Ah si c’était si simple ! Qu’est-ce donc que ce salaire net imposable* *plus élevé que mon net* ? *Vous n’aurez pas la réponse. La CSG (des centaines d’euros tout de même !) n’a pas la même assiette que les autres lignes, mais pourquoi ? Aucun indice. La complémentaire santé, c’est traité comme une cotisation en plus ? Au SMIC, mon employeur a le droit à une grosse “réduction générale” de 400 euros, pourquoi donc ?
+Ah si c’était si simple ! Qu’est-ce donc que ce salaire net imposable plus élevé que mon net ? Vous n’aurez pas la réponse. La CSG (des centaines d’euros tout de même !) n’a pas la même assiette que les autres lignes, mais pourquoi ? Aucun indice. La complémentaire santé, c’est traité comme une cotisation en plus ? Au SMIC, mon employeur a le droit à une grosse “réduction générale” de 400 euros, pourquoi donc ?
 
 Vous vous adressez alors à ce dernier… mais le pauvre, ce n’est pas son métier. Son comptable a des chances d’avoir lui aussi refusé de comprendre ces équations qui changent tout le temps, et utilise un logiciel de paie. On peut douter que ce dernier ait quelqu’un pour vous donner une explication limpide et personnalisée. On le paie pour faire des calculs exacts, pas pour expliquer les règles que l’État (entre autres, simplifions) lui dicte.
 
@@ -63,15 +63,15 @@ Bien sûr, il y a aussi la loi, directement accessible[ en ligne](http://www.leg
 
 ### Le code source
 
-Revenons à l’impôt. Si vous voyez ce prélèvement de l’État sur votre compte bancaire,* c’est qu’il est bien calculé quelque part*, et donc qu’un algorithme le calcule et envoie un ordre de virement à votre banque. À l’opposé de ce vaste monde documentaire, il y a donc l’équivalent en code informatique, qui inclut tous les détails du calcul.
+Revenons à l’impôt. Si vous voyez ce prélèvement de l’État sur votre compte bancaire, *c’est qu’il est bien calculé quelque part*, et donc qu’un algorithme le calcule et envoie un ordre de virement à votre banque. À l’opposé de ce vaste monde documentaire, il y a donc l’équivalent en code informatique, qui inclut tous les détails du calcul.
 
-Il est donc très important d’avoir accès au *code source, *les administrations doivent donc le publier. Après l’*open data*, la transition vers les algorithmes ouverts serait lancée et le problème serait-il donc en voie d’être réglé ?
+Il est donc très important d’avoir accès au *code source*, les administrations doivent donc le publier. Après l’*open data*, la transition vers les algorithmes ouverts serait lancée et le problème serait-il donc en voie d’être réglé ?
 
 Pas si simple ! Moins de 1% des français sont développeurs. En outre, un petit effort suffira en général à n’importe lequel de ces développeurs pour comprendre un jeu de données, et l’utiliser pour construire une application utile à quelqu’un (par exemple, prendre les coordonnées GPS de chaque arbre de Paris et en faire [une carte](https://opendata.paris.fr/explore/dataset/les-arbres/map/?location=13,48.8596,2.36033)). A l’inverse, le *code source* moyen qu’une administration pourrait publier lui demandera d’immenses efforts.
 
 ### A quoi ressemble ce code ?
 
-Voici un extrait du code source officiel des impôts, ouvert au monde en 2016 grâce à [Étalab](http://www.etalab.gouv.fr/), la mission de l’Etat qui presse les adinistrations à ouvrir leurs données. N’essayez pas de le comprendre…
+Voici un extrait du code source officiel des impôts, ouvert au monde en 2016 grâce à [Étalab](http://www.etalab.gouv.fr/), la mission de l’Etat qui presse les administrations à ouvrir leurs données. N’essayez pas de le comprendre…
 
 ![](https://cdn-images-1.medium.com/max/800/1*z05sLL75Kyoc7ytVguHKcw.jpeg)
 
