@@ -82,7 +82,8 @@ Figurez-vous qu’il est tout à fait possible de faire plus compliqué :
 ![](https://cdn-images-1.medium.com/max/800/1*4Z0hHr7yQXtObJ7coD93fw.gif)
 
 Ce dernier code imbuvable et en apparence sophistiqué sert à … diviser un nombre par 61 ! C’est l’horrible “assembleur”, le niveau juste au-dessus du code binaire, un enchaînement de 0 et de 1 que votre ordinateur peut comprendre.
-> # On a donc d’un côté une littérature florissante qui décrit les grandes lignes des algorithmes, et de l’autre le code, imbuvable, qui lui fera les virements monétaires ou décisions importantes dans la vie d’un citoyen.
+
+> On a donc d’un côté une littérature florissante qui décrit les grandes lignes des algorithmes, et de l’autre le code, imbuvable, qui lui fera les virements monétaires ou décisions importantes dans la vie d’un citoyen.
 
 En bref, voilà où nous en sommes aujourd’hui :
 
