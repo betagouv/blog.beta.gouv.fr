@@ -59,13 +59,13 @@ Des erreurs dans cette documentation, il y en a. Deux exemples :
 
 Le propos ici n’est pas de critiquer les auteurs de ces erreurs, simplement de mettre en évidence les conséquences d’une séparation complète entre les algorithmes et leur documentation.
 
-Bien sûr, il y a aussi la loi, directement accessible[ en ligne](http://www.legifrance.gouv.fr) . Elle n’a aucun des défauts précédents… sauf qu’elle est *trop technique pour un citoyen,* et surtout qu’elle n’est pas intéractive : on ne peut pas saisir son salaire et attendre qu’elle nous ponde l’impôt, et ni même filtrer tous les paragraphes qui parlent d’un cas (salarié cadre) alors que nous sommes dans l’autre (salarié non cadre). D’ailleurs, voilà un mauvais exemple : le statut cadre n’est pas dans le code du travail… mais un peu à part, dans la convention collective nationale des cadres de 1972. Comment ça vous l’ignoriez ? 🤯
+Bien sûr, il y a aussi la loi, directement accessible[ en ligne](http://www.legifrance.gouv.fr) . Elle n’a aucun des défauts précédents… sauf qu’elle est *trop technique pour un citoyen,* et surtout elle n’est pas intéractive : on ne peut pas saisir son salaire et attendre qu’elle nous ponde l’impôt, et ni même filtrer tous les paragraphes qui parlent d’un cas (salarié cadre) alors que nous sommes dans l’autre (salarié non cadre). D’ailleurs, voilà un mauvais exemple : le statut cadre n’est pas dans le code du travail… mais un peu à part, dans la convention collective nationale des cadres de 1972. Comment ça vous l’ignoriez ? 🤯
 
 ### Le code source
 
 Revenons à l’impôt. Si vous voyez ce prélèvement de l’État sur votre compte bancaire, *c’est qu’il est bien calculé quelque part*, et donc qu’un algorithme le calcule et envoie un ordre de virement à votre banque. À l’opposé de ce vaste monde documentaire, il y a donc l’équivalent en code informatique, qui inclut tous les détails du calcul.
 
-Il est donc très important d’avoir accès au *code source*, les administrations doivent donc le publier. Après l’*open data*, la transition vers les algorithmes ouverts serait lancée et le problème serait-il donc en voie d’être réglé ?
+Il est donc très important d’avoir accès au *code source*. Après l’*open data*, la transition vers les algorithmes ouverts serait lancée et le problème serait-il donc en voie d’être réglé ?
 
 Pas si simple ! Moins de 1% des français sont développeurs. En outre, un petit effort suffira en général à n’importe lequel de ces développeurs pour comprendre un jeu de données, et l’utiliser pour construire une application utile à quelqu’un (par exemple, prendre les coordonnées GPS de chaque arbre de Paris et en faire [une carte](https://opendata.paris.fr/explore/dataset/les-arbres/map/?location=13,48.8596,2.36033)). A l’inverse, le *code source* moyen qu’une administration pourrait publier lui demandera d’immenses efforts.
 
@@ -81,7 +81,7 @@ Figurez-vous qu’il est tout à fait possible de faire plus compliqué :
 
 ![](https://cdn-images-1.medium.com/max/800/1*4Z0hHr7yQXtObJ7coD93fw.gif)
 
-Ce dernier code imbuvable et en apparence sophistiqué sert à … diviser un nombre par 61 ! C’est l’horrible “assembleur”, le niveau juste au-dessus du code binaire, un enchaînement de 0 et de 1 que votre ordinateur peut comprendre.
+Ce dernier code imbuvable et en apparence sophistiqué sert à … diviser un nombre par 61 ! C’est l’horrible “assembleur”, le niveau juste au-dessus du code binaire, un enchaînement de 0 et de 1 que seul votre ordinateur peut comprendre.
 
 > On a donc d’un côté une littérature florissante qui décrit les grandes lignes des algorithmes, et de l’autre le code, imbuvable, qui lui fera les virements monétaires ou décisions importantes dans la vie d’un citoyen.
 
@@ -101,7 +101,7 @@ Combiner la documentation et l’implémentation, c’est possible ! On peut tou
 
 **Illustrons-le** ! Vous savez tous qu’au cœur de la mécanique de l’impôt sur le revenu, on trouve ce qu’on appelle un barème progressif : plus on gagne, plus on paie, jusqu’à 150 000€.
 
-Voyons **comment écrire une version simple d’un calculateur d’impôt. **On** **va l’écrire en JavaScript (c’est le langage de programmation le plus utilisé aujourd’hui), **là dans cet article**.
+Voyons **comment écrire une version simple d’un calculateur d’impôt. On va l’écrire en JavaScript (c’est le langage de programmation le plus utilisé aujourd’hui), **là dans cet article**.
 
 Si vous ne comprenez pas ce premier bout de code, c’est pas grave, car on a là un exemple de ce qu’il ne faut pas faire. Nous allons l’améliorer ensemble jusqu’à ce qu’il soit lisible.
 
@@ -138,8 +138,8 @@ Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.
 
 ### Pourquoi tout n’est pas développé comme ça ?
 
-Si on peut le faire sur le sujet des cotisations sociales et des impôts, c’est parce qu’on s’est occupés d’un domaine restreint, simplifié. Cela dit, 50 000 personnes par mois utilisent le service pour calculer les sommes importantes lors d’une embauche (coût d’embauche, salaire brut, salaire net), et les développeurs n’ont plus le privilège d’être les seuls à savoir comment on arrive à ces résultats.
+Si on peut le faire sur le sujet des cotisations sociales et des impôts, c’est parce qu’on s’est occupés d’un domaine restreint, simplifié. Cela dit, 100 000 personnes par mois utilisent le service pour leur projet d’embauche (par exemple, passer du net mensuel voulu au brut annuel à négocier), et les développeurs n’ont plus le privilège d’être les seuls à savoir comment on arrive à ces résultats.
 
-Cette nouvelle façon d’écrire des algorithmes est clairement plus coûteuse à court terme. Mais à long terme, nous pensons que l’administration et ses développeurs en bénéficieront autant que les citoyens, car ils s’y retrouveront eux mêmes, ce qui n’est assurément pas le cas aujourd’hui . C’est même peut être un *début* de solution à un problème à plusieurs milliards d’euros : l’État tente régulièrement de moderniser la paie de ses fonctionnaires et y laisse ce genre de sommes sans améliorer grand chose (exemple avec [l’éducation nationale](https://www.acteurspublics.com/2018/07/20/projet-sirhen-l-education-nationale-arrete-les-frais) qui vient d’abandonner son logiciel tout neuf).
+Cette nouvelle façon d’écrire des algorithmes est clairement plus coûteuse à court terme. Mais à long terme, nous pensons que l’administration et ses développeurs en bénéficieront autant que les citoyens, car ils s’y retrouveront eux mêmes, ce qui n’est assurément pas le cas aujourd’hui. C’est même peut être un *début* de solution à un problème à plusieurs milliards d’euros : l’État tente régulièrement de moderniser la paie de ses fonctionnaires et y laisse ce genre de sommes sans améliorer grand chose (exemple avec [l’éducation nationale](https://www.acteurspublics.com/2018/07/20/projet-sirhen-l-education-nationale-arrete-les-frais) qui vient d’abandonner son logiciel tout neuf).
 
-Évidemment l’origine du problème est l’explosion de complexité due aux exceptions accumulées au fil des années. Mais un langage intermédiaire *que tout le monde peut comprendre *est sûrement une base intéressante pour la construction d’un tel édifice.
+Évidemment l’origine du problème est l’explosion de complexité due aux exceptions accumulées au fil des années. Mais un langage intermédiaire *que tout le monde peut comprendre* est sûrement une base intéressante pour la construction d’un tel édifice.
