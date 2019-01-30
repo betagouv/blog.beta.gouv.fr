@@ -125,6 +125,8 @@ Comment écrire ce barème plus simplement ? On va faire un truc simple. On va s
 
 On vient de poser les premières briques d’un langage de programmation spécialisé dans le calcul de l’impôt sur le revenu ! 
 
+> 💡 Libérez le legislateur qui sommeille en vous : jouez sur le montant de l'impôt calculé en changeant le taux des tranches puis en cliquant à nouveau sur le bouton `Run`. 
+
 On a ici le meilleur des deux mondes : comme une documentation, notre code est une *description* du calcul qui n’est pas noyée dans des accolades et autres détails techniques. Comme un code traditionnel, il contient des *instructions* que votre ordinateur comprend et qui feront les calculs pour nous.
 
 D’accord, mais ça reste du texte brut, pas très avenant. Et où est passé ce code de calcul du barème ? Est-ce qu’on ne l’aurait pas un peu caché ? Certes. Ce code à base de *min* et *max* était de toute façon loin d’être limpide. Beaucoup d’algorithmes ont un code compliqué, mais leur fonctionnement peut être facilement expliqué, par du texte, par une visualisation, et en complétant celà par [des exemples](https://github.com/betagouv/syso/blob/master/test/mécanismes/barème.yaml) de calcul.
