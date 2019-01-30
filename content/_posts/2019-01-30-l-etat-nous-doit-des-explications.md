@@ -105,7 +105,7 @@ Voyons **comment écrire une version simple d’un calculateur d’impôt. On va
 
 Si vous ne comprenez pas ce premier bout de code, c’est pas grave, car on a là un exemple de ce qu’il ne faut pas faire. Nous allons l’améliorer ensemble jusqu’à ce qu’il soit lisible.
 
-Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bout de texte qui ne ferait que décrire un calcul : **cliquez sur le bouton vert “Run”** et il va prendre les 2 300 € en entrée pour sortir les 7000€ d’impôt.
+Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bout de texte qui ne ferait que décrire un calcul : **cliquez sur le bouton vert `Run`** et il va prendre les 2 300 € en entrée pour sortir les 7000€ d’impôt.
 
 {% oembed https://runkit.com/com/1 %}
 
@@ -115,15 +115,15 @@ Ce code sera considéré par tous les programmeurs comme de mauvaise qualité, f
 
 {% oembed https://runkit.com/com/2 %}
 
-Voilà qui est mieux : on a créé une fonction “barème”, et une autre fonction “abattement”. Eh oui, on a même nommé ces fonctions en français, après tout c’est la langue qu’on parle le mieux ici.
+Voilà qui est mieux : on a créé une fonction `barème`, et une autre fonction `abattement`. Eh oui, on a même nommé ces fonctions en français, après tout c’est la langue qu’on parle le mieux ici.
 
-N’empêche, il reste toujours des expressions pas très familières : “function”, “return”, “Math.max” et “Math.min”, les accolades “{“ et “}”.
+N’empêche, il reste toujours des expressions pas très familières : `function`, `return`, `Math.max` et `Math.min`, les accolades `{` et `}`.
 
 Comment écrire ce barème plus simplement ? On va faire un truc simple. On va séparer la fonction qui fait l’opération (le barème) des données utilisées dans l’opération (les tranches de l’impôt et les % correspondants). Après tout, ça fait 300 ans qu’un barème se calcule de la même façon, seules ses données changent !
 
 {% oembed https://runkit.com/com/3 %}
 
-On vient de poser les premières briques d’un langage de programmation spécialisé dans le calcul de l’impôt sur le revenu !
+On vient de poser les premières briques d’un langage de programmation spécialisé dans le calcul de l’impôt sur le revenu ! 
 
 On a ici le meilleur des deux mondes : comme une documentation, notre code est une *description* du calcul qui n’est pas noyée dans des accolades et autres détails techniques. Comme un code traditionnel, il contient des *instructions* que votre ordinateur comprend et qui feront les calculs pour nous.
 
