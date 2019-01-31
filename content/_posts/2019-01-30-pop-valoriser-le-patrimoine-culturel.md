@@ -4,6 +4,7 @@ title: "POP\_: valoriser le patrimoine culturel"
 date: 2019-01-31T15:39:45.354Z
 categories: dinsic
 tags: pop
+image: /img/posts/2019-01-30-pop-banniere.jpg
 excerpt: >-
   Pour POP, la Plateforme Ouverte du Patrimoine, Jennifer Stephan est chargée de
   déploiement et Sandrine Della Bartolomea est intrapreneuse. Près d’un an après
@@ -24,6 +25,9 @@ excerpt: >-
 **Sandrine** : Il s’agit d’une barrière juridique que nous ne pouvons pas nous permettre de franchir seuls. On apporte notre pierre à l’édifice en collaboration avec les services, on commence à voir les premiers résultats.
 
 **Jennifer** : Notre but, c’est bien évidemment de mettre un maximum de données en open data.
+
+![L'interface de POP pour le classement thématique](/img/posts/2019-01-30-pop-thematique.jpg)
+<small>L'interface de POP pour le classement thématique</small>
 
 ## Quelle est votre stratégie pour récupérer les données ?
 
