@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "POP\_: valoriser le patrimoine culturel"
-date: 2019-01-31T15:39:45.354Z
+date: 2019-01-30T15:39:45.354Z
 categories: dinsic
 tags: pop
 image: /img/posts/2019-01-30-pop-banniere.jpg
