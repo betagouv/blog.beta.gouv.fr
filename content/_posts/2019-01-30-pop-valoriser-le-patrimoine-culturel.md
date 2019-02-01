@@ -45,4 +45,4 @@ excerpt: >-
 
 **Sandrine** : On a déjà identifié notre public en interne au sein du Ministère. Une boite de Pandore assez passionnante a été ouverte : je pense qu’on a encore de beaux mois si ce n’est de belles années de transformations numériques devant nous !
 
->En savoir plus sur [POP](https://beta.gouv.fr/startups/pop.html)
+> En savoir plus sur [POP](https://beta.gouv.fr/startups/pop.html)
