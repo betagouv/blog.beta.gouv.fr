@@ -134,12 +134,12 @@ D’accord, mais ça reste du texte brut, pas très avenant. Et où est passé c
 
 L’essentiel est que **le citoyen comprenne ces briques algorithmiques sur le Web**. Le code, l’explication et la visualisation de ces briques reste accessible et modifiable par le développeur curieux.
 
-Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr) : saisissez un salaire puis explorez les calculs ! C’est la première fois que l’État les explique en ligne, avec vos données 🎉. On attend vos retours !
+Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr) : saisissez un salaire puis explorez les calculs ! C’est la première fois que l’État les explique en ligne, avec vos données 🎉, et plus de 100 000 personnes en font usage chaque mois (par exemple, passer du net mensuel voulu au brut annuel à négocier). On attend vos retours !
 
 ### Pourquoi tout n’est pas développé comme ça ?
+ 
+Cette nouvelle façon d’écrire des algorithmes est clairement plus coûteuse à court terme. Mais à long terme, nous pensons que l’administration et ses développeurs en bénéficieront autant que les citoyens, car ils s’y retrouveront eux mêmes, ce qui n’est assurément pas le cas aujourd’hui. 
 
-Si on peut le faire sur le sujet des cotisations sociales et des impôts, c’est parce qu’on s’est occupés d’un domaine restreint, simplifié. Cela dit, 100 000 personnes par mois utilisent le service pour leur projet d’embauche (par exemple, passer du net mensuel voulu au brut annuel à négocier), et les développeurs n’ont plus le privilège d’être les seuls à savoir comment on arrive à ces résultats.
-
-Cette nouvelle façon d’écrire des algorithmes est clairement plus coûteuse à court terme. Mais à long terme, nous pensons que l’administration et ses développeurs en bénéficieront autant que les citoyens, car ils s’y retrouveront eux mêmes, ce qui n’est assurément pas le cas aujourd’hui. C’est même peut être un *début* de solution à un problème à plusieurs milliards d’euros : l’État tente régulièrement de moderniser la paie de ses fonctionnaires et y laisse ce genre de sommes sans améliorer grand chose (exemple avec [l’éducation nationale](https://www.acteurspublics.com/2018/07/20/projet-sirhen-l-education-nationale-arrete-les-frais) qui vient d’abandonner son logiciel tout neuf).
+C’est même peut être un *début* de solution à un problème à plusieurs milliards d’euros : l’État tente régulièrement de moderniser la paie de ses agents et y laisse ce genre de sommes sans améliorer grand chose (exemple avec [l’éducation nationale](https://www.acteurspublics.com/2018/07/20/projet-sirhen-l-education-nationale-arrete-les-frais) qui vient d’abandonner son logiciel tout neuf).
 
 Évidemment l’origine du problème est l’explosion de complexité due aux exceptions accumulées au fil des années. Mais un langage intermédiaire *que tout le monde peut comprendre* est sûrement une base intéressante pour la construction d’un tel édifice.
