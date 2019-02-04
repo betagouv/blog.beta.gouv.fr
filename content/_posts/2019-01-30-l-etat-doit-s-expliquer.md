@@ -5,18 +5,18 @@ date: 2019-01-30
 authors:
   - mael.thomas
 categories: dinsic
-tags: algorithmes
+tags: embauche
 image: https://cdn-images-1.medium.com/max/2048/1*RbIsqc5VcBlXSWNrGNkN0Q.png
 excerpt: "Après l'*open data*, l'État continue de s'ouvrir en publiant le code source de ses algorithmes. Ce sera loin d'être suffisant : exemple pratique sur le calcul de l'impôt."
 ---
 
-Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Données_ouvertes_en_France) à l’*open data*. C’est quoi au fait, ces données ouvertes ? Le principe est simple : les fonctionnaires et autres employés qui travaillent pour des missions publiques sont payés par nos impôts, ainsi les données qu’ils collectent ou font collecter doivent être rendues publiques. Plus précisément, je dois pouvoir trouver en ligne la qualité de l’air dans mon quartier, c’est une *donnée accessible*, mais je dois aussi pouvoir réutiliser tout un jeu de données pour lancer villes-les-moins-polluées.fr, ce sont des *données réutilisables librement*.
+Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Données_ouvertes_en_France) à l’*open data*. C’est quoi au fait ? Le principe est simple : les agents de l'État et autres employés du privé qui travaillent pour des missions publiques sont payés par nos impôts, ainsi les données qu’ils collectent ou font collecter doivent être rendues publiques. Plus précisément, je dois pouvoir trouver en ligne la qualité de l’air dans mon quartier : c’est une *donnée accessible*, mais je dois aussi pouvoir réutiliser tout un jeu de données pour lancer villes-les-moins-polluées.fr : ce sont des *données réutilisables librement*.
 
 ## Des données ouvertes aux algorithmes ouverts
 
-L’*open data* est déjà un vieux combat, et vous aurez remarqué qu’un autre sujet prend de l’ampleur : une fois que l’on dispose de la *donnée*, on veut en faire quelque chose, et souvent, on *code un programme*. L’administration tourne de plus en plus aux algorithmes. Ce sujet a récemment fait surface avec les pépins de parcoursSup, le jeu d’algorithmes controversé qui décide de l’avenir des lycéens après le bac. En entrée, il prend une liste ordonnée des souhaits de chacun. En sortie, il interroge à la suite les lycéens pour afficher un établissement supérieur à chacun.
+L’*open data* est un vieux combat. Vous aurez remarqué qu’un autre sujet prend de l’ampleur : une fois que l’on dispose de la *donnée*, on veut en faire quelque chose, et souvent on *code un programme*. L’administration tourne de plus en plus aux algorithmes. Ce sujet a récemment fait surface avec Parcoursup, le jeu d’algorithmes controversé qui décide de l’avenir des lycéens après le bac. En entrée, il prend une liste ordonnée des souhaits de chacun. En sortie, il interroge à la suite les lycéens pour afficher un établissement supérieur à chacun.
 
-Heureusement, comme pour l’*open data*, la loi [*oblige*](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924) l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux. Contrairement aux grandes entreprises, l’État est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
+Heureusement, comme pour l’*open data*, la loi [*oblige*](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924) l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux : ceux qui conduisent à des *décisions individuelles*. Contrairement aux grandes entreprises, l’État est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
 
 ### Ils se cachent où, ces fameux algorithmes ?
 
@@ -24,9 +24,9 @@ On l’a vu, Parcoursup en est un bon exemple. Un autre qui jusqu’à cette ann
 
 ![](https://cdn-images-1.medium.com/max/800/1*-cb4qaPgbF0Q1wij6j7YpA.jpeg)
 
-Si vous comprenez l’articulation de ce document, félicitations ! Notamment cette “valeur locative brute” qui s’est [trompée d’époque](https://www.lesechos.fr/08/10/2013/lesechos.fr/0203053213415_impots-locaux---la-valeur-locative-sert-de-base-de-calcul.htm) (en bref, elle considère que les loyers ont autant augmenté dans le centre Finistère qu’à Paris 16ème…). Pour vous aider, une [explication en ligne](https://shiny.eig-forever.org/TaxeHabitation/) de cette taxe vient d’être construite.
+Si vous comprenez l’articulation de ce document, félicitations ! Notamment cette “valeur locative brute” qui s’est [trompée d’époque](https://www.lesechos.fr/08/10/2013/lesechos.fr/0203053213415_impots-locaux---la-valeur-locative-sert-de-base-de-calcul.htm) (en bref, elle considère que les loyers ont autant augmenté dans le centre Finistère qu’à Paris 16…). Pour vous aider, une [explication en ligne](https://shiny.eig-forever.org/TaxeHabitation/) de cette taxe vient d’être construite.
 
-Deux autres algorithmes publics vous parleront encore plus : **le calcul des cotisations sociales**, et **l’impôt sur le revenu**. On les voit aujourd’hui comme séparés, mais ils se rapprochent en 2019 : une nouvelle ligne “impôt sur le revenu” apparaîtra en bas de la fiche de paie.
+Deux autres algorithmes publics vous parleront encore plus : **le calcul des cotisations sociales**, et **l’impôt sur le revenu**. On les voit aujourd’hui comme séparés, mais ils se sont rapprochés en janvier 2019 : une nouvelle ligne “impôt sur le revenu” apparaîtra en bas de la fiche de paie.
 
 Que se passe-t-il si un salarié curieux veut comprendre ces calculs (il[ aurait bien raison de le faire](https://lentreprise.lexpress.fr/rh-management/remuneration-salaire/un-tiers-des-salaries-a-deja-constate-une-erreur-sur-sa-fiche-de-paie_1732106.html)) ? Il lui suffit de scruter le fameux tableau !
 
@@ -42,9 +42,9 @@ Et cette nouvelle ligne “impôt sur le revenu” en 2019, c’est calculé com
 
 ### Google à la rescousse
 
-Une simple recherche sur le Web vous donnera accès à un nombre incroyable de pages de documentation. Que ce soit pour l’impôt ou les cotisations sociales ou tout autre algorithme, elles peuvent certes donnner une explication des grandes lignes du calcul, avec même quelques exemples pour des situations simples.
+Une simple recherche sur le Web vous donnera accès à un nombre incroyable de pages de documentation. Que ce soit pour l’impôt ou les cotisations sociales ou tout autre algorithme, elles peuvent certes donner une explication des grandes lignes du calcul, avec même quelques exemples pour des situations simples.
 
-**Mais ces pages ne sont pas l’algorithme des impôts** : ce sont des paragraphes et tableaux simplifiés qui peuvent comporter des erreurs, des chapitres pas à jour, des conditions ambiguës, des termes techniques définis nulle part, qui *n’ont de toute évidence jamais calculé aucun impôt d’aucun citoyen.* **Ça c’est à vous de le faire**, sortez votre calculette et tapotez, buvez beaucoup de café, priez pour ne pas vous tromper.
+**Mais ces pages ne sont pas l’algorithme des impôts** : ce sont des paragraphes et tableaux simplifiés qui peuvent comporter des erreurs, des chapitres pas à jour, des conditions ambiguës, des termes techniques définis nulle part, qui *n’ont de toute évidence jamais calculé aucun impôt d’aucun citoyen.* **Ça c’est à vous de le faire** : sortez votre calculette et tapotez, buvez beaucoup de café et priez pour ne pas vous tromper.
 
 Des erreurs dans cette documentation, il y en a. Deux exemples :
 
@@ -56,7 +56,7 @@ Des erreurs dans cette documentation, il y en a. Deux exemples :
 
 Le propos ici n’est pas de critiquer les auteurs de ces erreurs, simplement de mettre en évidence les conséquences d’une séparation complète entre les algorithmes et leur documentation.
 
-Bien sûr, il y a aussi la loi, directement accessible[ en ligne](http://www.legifrance.gouv.fr) . Elle n’a aucun des défauts précédents… sauf qu’elle est *trop technique pour un citoyen,* et surtout elle n’est pas intéractive : on ne peut pas saisir son salaire et attendre qu’elle nous ponde l’impôt, et ni même filtrer tous les paragraphes qui parlent d’un cas (salarié cadre) alors que nous sommes dans l’autre (salarié non cadre). D’ailleurs, voilà un mauvais exemple : le statut cadre n’est pas dans le code du travail… mais un peu à part, dans la convention collective nationale des cadres de 1972. Comment ça vous l’ignoriez ? 🤯
+Bien sûr, il y a aussi la loi, directement accessible[ en ligne](http://www.legifrance.gouv.fr) . Elle n’a aucun des défauts précédents… sauf qu’elle est *trop technique pour un citoyen,* et surtout elle n’est pas intéractive : on ne peut pas saisir son salaire et attendre qu’elle nous ponde l’impôt, et ni même filtrer tous les paragraphes qui parlent d’un cas (salarié cadre) alors que nous sommes dans l’autre (salarié non cadre). D’ailleurs, voilà un mauvais exemple : le statut cadre n’est pas dans le code du travail… mais un peu à part, dans la convention collective nationale des cadres de 1972. Comment ça, vous l’ignoriez ? 🤯
 
 ### Le code source
 
@@ -64,9 +64,9 @@ Revenons à l’impôt. Si vous voyez ce prélèvement de l’État sur votre co
 
 Il est donc très important d’avoir accès au *code source*. Après l’*open data*, la transition vers les algorithmes ouverts serait lancée et le problème serait-il donc en voie d’être réglé ?
 
-Pas si simple ! Moins de 1% des français sont développeurs. En outre, un petit effort suffira en général à n’importe lequel de ces développeurs pour comprendre un jeu de données, et l’utiliser pour construire une application utile à quelqu’un (par exemple, prendre les coordonnées GPS de chaque arbre de Paris et en faire [une carte](https://opendata.paris.fr/explore/dataset/les-arbres/map/?location=13,48.8596,2.36033)). A l’inverse, le *code source* moyen qu’une administration pourrait publier lui demandera d’immenses efforts.
+Pas si simple ! Moins de 1% des français sont développeurs. En outre, alors qu'un petit effort leur suffira en général pour transformer un jeu de données en une application utile (par exemple, prendre les coordonnées GPS de chaque arbre de Paris et en faire [une carte](https://opendata.paris.fr/explore/dataset/les-arbres/map/?location=13,48.8596,2.36033)), comprendre le *code source* moyen qu’une administration pourrait publier leur demandera d’immenses efforts.
 
-### A quoi ressemble ce code ?
+### À quoi ressemble ce code ?
 
 Voici un extrait du code source officiel des impôts, ouvert au monde en 2016 grâce à [Étalab](http://www.etalab.gouv.fr/), la mission de l’Etat qui presse les administrations à ouvrir leurs données. N’essayez pas de le comprendre…
 
@@ -82,7 +82,7 @@ Ce dernier code imbuvable et en apparence sophistiqué sert à … diviser un no
 
 > On a donc d’un côté une littérature florissante qui décrit les grandes lignes des algorithmes, et de l’autre le code, imbuvable, qui lui fera les virements monétaires ou décisions importantes dans la vie d’un citoyen.
 
-En bref, voilà où nous en sommes aujourd’hui :
+En bref, où nous en sommes aujourd’hui :
 
 ![La plupart des algorithmes publics sont des boîtes noires](https://cdn-images-1.medium.com/max/2000/1*GQVFEdpK-TG4ZtbRntuEXg.png)
 *La plupart des algorithmes publics sont des boîtes noires*
@@ -92,6 +92,7 @@ Voilà où nous risquons d’aller :
 ![Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !](https://cdn-images-1.medium.com/max/2000/1*-NTQAZz5feN7ia3e4XFa8Q.jpeg)
 *Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !*
 
+
 ## Comment expliquer les algorithmes ?
 
 Combiner la documentation et l’implémentation, c’est possible ! On peut tout à fait joindre ces deux bouts : publier sur le Web un code informatique compréhensible, qui serait aussi bien la source des calculs que la documentation.
@@ -100,7 +101,7 @@ Combiner la documentation et l’implémentation, c’est possible ! On peut tou
 
 Voyons **comment écrire une version simple d’un calculateur d’impôt. On va l’écrire en JavaScript (c’est le langage de programmation le plus utilisé aujourd’hui), **là dans cet article**.
 
-Si vous ne comprenez pas ce premier bout de code, c’est pas grave, car on a là un exemple de ce qu’il ne faut pas faire. Nous allons l’améliorer ensemble jusqu’à ce qu’il soit lisible.
+Si vous ne comprenez pas ce premier bout de code, ce n'est pas grave, car on a là un exemple de ce qu’il ne faut pas faire. Nous allons l’améliorer ensemble jusqu’à ce qu’il soit lisible.
 
 Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bout de texte qui ne ferait que décrire un calcul : **cliquez sur le bouton vert `Run`** et il va prendre les 2 300 € en entrée pour sortir les 7000€ d’impôt.
 
@@ -108,7 +109,7 @@ Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bo
 
 Vous pouvez même changer le code et le refaire tourner, par exemple avec 3 000€ en entrée.
 
-Ce code sera considéré par tous les programmeurs comme de mauvaise qualité, fais à la va-vite : à aucun endroit on ne peut voir mention de cette pierre angulaire de l’impôt, le *barème*. En fait, aucun bloc n’a de nom, il sera difficile à lire. Deuxième essai :
+Ce code sera considéré par tous les programmeurs comme de mauvaise qualité, fait à la va-vite : à aucun endroit on ne peut voir mention de cette pierre angulaire de l’impôt, le *barème*. En fait, aucun bloc n’a de nom, il sera difficile à lire. Deuxième essai :
 
 {% oembed https://runkit.com/com/2 %}
 
@@ -116,13 +117,13 @@ Voilà qui est mieux : on a créé une fonction `barème`, et une autre fonction
 
 N’empêche, il reste toujours des expressions pas très familières : `function`, `return`, `Math.max` et `Math.min`, les accolades `{` et `}`.
 
-Comment écrire ce barème plus simplement ? On va faire un truc simple. On va séparer la fonction qui fait l’opération (le barème) des données utilisées dans l’opération (les tranches de l’impôt et les % correspondants). Après tout, ça fait 300 ans qu’un barème se calcule de la même façon, seules ses données changent !
+Comment écrire ce barème plus simplement ? Facile : on va séparer la fonction qui fait l’opération (le barème) des données utilisées dans l’opération (les tranches de l’impôt et les % correspondants). Après tout, ça fait 300 ans qu’un barème se calcule de la même façon, seules ses données changent !
 
 {% oembed https://runkit.com/com/3 %}
 
 On vient de poser les premières briques d’un langage de programmation spécialisé dans le calcul de l’impôt sur le revenu ! 
 
-> 💡 Libérez le legislateur qui sommeille en vous : jouez sur le montant de l'impôt calculé en changeant le taux des tranches puis en cliquant à nouveau sur le bouton `Run`. 
+> 💡 Libérez le législateur qui sommeille en vous : jouez sur le montant de l'impôt calculé en changeant le taux des tranches puis en cliquant à nouveau sur le bouton `Run`. 
 
 On a ici le meilleur des deux mondes : comme une documentation, notre code est une *description* du calcul qui n’est pas noyée dans des accolades et autres détails techniques. Comme un code traditionnel, il contient des *instructions* que votre ordinateur comprend et qui feront les calculs pour nous.
 
@@ -133,7 +134,7 @@ D’accord, mais ça reste du texte brut, pas très avenant. Et où est passé c
 
 L’essentiel est que **le citoyen comprenne ces briques algorithmiques sur le Web**. Le code, l’explication et la visualisation de ces briques reste accessible et modifiable par le développeur curieux.
 
-Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr) : saisissez un salaire puis explorez les calculs ! C’est la première fois que l’État les explique en ligne, avec vos données 🎉. On attends vos retours !
+Tout ceci est déjà en ligne sur [embauche.beta.gouv.fr](https://embauche.beta.gouv.fr) : saisissez un salaire puis explorez les calculs ! C’est la première fois que l’État les explique en ligne, avec vos données 🎉. On attend vos retours !
 
 ### Pourquoi tout n’est pas développé comme ça ?
 
