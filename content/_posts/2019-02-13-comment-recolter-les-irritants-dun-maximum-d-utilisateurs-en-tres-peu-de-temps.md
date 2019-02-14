@@ -32,4 +32,14 @@ Concernant les organismes contrôlés, nous avons sollicité les différents ré
 
 # Les facteurs clés à réunir
 
-En conclusion, nos craintes de blocage ou de ralentissement au sein de la Cour des comptes en raison du mode de fonctionnement de l'administration étaient surestimées. Un positionnement hiérarchique près du secrétaire général adjoint de la Cour, une approche directe bienveillante et accepter de s’excuser et d’expliquer la démarche auprès des plus réticents ont certainement permis de passer cette première phase d’investigation sans embûches.
+Nos craintes de blocage ou de ralentissement au sein de la Cour des comptes en raison du mode de fonctionnement de l'administration étaient surestimées. Un positionnement hiérarchique près du secrétaire général adjoint de la Cour, une approche directe bienveillante et accepter de s’excuser et d’expliquer la démarche auprès des plus réticents ont certainement permis de passer cette première phase d’investigation sans embûches.
+
+# Quels irritants récoltés
+
+Au final, nous avons récolté plusieurs lots d'irritants dont un propre aux échanges de documents lors de la phase de questions-réponses.
+
+Voici deux témoignages illustrant ces difficultés:
+
+\- un contrôlé : "Je suis obligé de bloquer ma soirée pour déposer les 150 documents de réponse l'un après l'autre car la plateforme mise à disposition ne me permet pas de la faire en masse. Si je le fais en journée, je bloque le réseau de ma trésorerie et mes collègues ne peuvent plus travailler";
+
+\- un contrôleur : "Hier, nous avons reçu 1500 réponses déposées en vrac et sans nommage. Il va me falloir la semaine pour les trier, les nommer et comprendre à quelles questions ils correspondent. C'est du temps en moins pour les analyser et rédiger mon rapport."
