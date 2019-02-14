@@ -3,10 +3,13 @@ layout: post
 title: "Et de 100 réseaux sur transport.data.gouv.fr\_!"
 date: 2019-02-13T16:01:00.962Z
 authors: ''
+=======
+authors: tristramg
 categories: dinsic
 tags: transport
 excerpt: "La Startup d’État transport.data.gouv.fr a été initiée et financée par le Ministère chargé des Transports afin de devenir le Point d’accès national (PAN) des données transport en France. Initialement, il s’agissait de respecter une obligation européenne. Aujourd’hui, notre but est devenu plus ambitieux\_: nous souhaitons rendre l’offre transport omniprésente."
 ---
+
 Notre travail de fond auprès des collectivités a porté ses fruits. Nous sommes très fiers d’avoir dépassé les 100 territoires dont les horaires théoriques sont disponibles sur [transport.data.gouv.fr](transport.data.gouv.fr). Ces [données couvrent](https://transport.data.gouv.fr/stats) une population de plus de 18 millions d’habitants dans quasiment toutes les grandes métropoles.
 
 Comment avons-nous fait pour arriver à cette première victoire symbolique ? Parce qu’il fallait bien commencer quelque part, nous nous sommes d’abord focalisés sur les horaires théoriques des transports en commun, en appliquant des règles nous permettant de passer à l’échelle rapidement.
