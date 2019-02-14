@@ -4,9 +4,9 @@ title: >-
   Comment récolter les irritants d'un maximum d’utilisateurs en très peu de
   temps ?
 date: 2019-02-13T07:56:25.621Z
-authors: Léry JICQUEL
+authors: lery.jicquel
 categories: dinsic
-tags: e-contrôle
+tags: e-controle
 image: /img/posts/e-controle-logo.png
 excerpt: >-
   La majorité des Startup d'Etat évolue dans un environnement bureaucratique
