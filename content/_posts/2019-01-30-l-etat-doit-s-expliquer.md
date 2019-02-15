@@ -99,11 +99,11 @@ Combiner la documentation et l’implémentation, c’est possible ! On peut tou
 
 **Illustrons-le** ! Vous savez tous qu’au cœur de la mécanique de l’impôt sur le revenu, on trouve ce qu’on appelle un barème progressif : plus on gagne, plus on paie, jusqu’à 150 000€.
 
-Voyons **comment écrire une version simple d’un calculateur d’impôt. On va l’écrire en JavaScript (c’est le langage de programmation le plus utilisé aujourd’hui), **là dans cet article**.
+Voyons **comment écrire une version simple d’un calculateur d’impôt**. On va l’écrire en JavaScript (c’est le langage de programmation le plus utilisé aujourd’hui), **là dans cet article**.
 
 Si vous ne comprenez pas ce premier bout de code, ce n'est pas grave, car on a là un exemple de ce qu’il ne faut pas faire. Nous allons l’améliorer ensemble jusqu’à ce qu’il soit lisible.
 
-Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bout de texte qui ne ferait que décrire un calcul : **cliquez sur le bouton vert `Run`** et il va prendre les 2 300 € en entrée pour sortir les 7000€ d’impôt.
+Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bout de texte qui ne ferait que décrire un calcul : **cliquez sur le bouton vert `Run`** et il va prendre les 2 300 € en entrée pour sortir les 1650€ d’impôt.
 
 {% oembed https://runkit.com/com/1 %}
 
