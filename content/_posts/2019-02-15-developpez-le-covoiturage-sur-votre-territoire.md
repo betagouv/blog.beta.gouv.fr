@@ -38,7 +38,7 @@ Le fonctionnement du dispositif est présenté sur cette vidéo :
 
 [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/) se construit depuis le 5 octobre 2018 à travers une équipe de quatre personnes. Trois agglomérations pilotes sont déjà engagées en faveur du développement du covoiturage : la communauté d’agglomération de Privas Centre Ardèche, la communauté d’agglomération de l’Ouest Rhodanien, et Concarneau Cornouailles Agglomération. Les autorités organisatrices ainsi que les entreprises intéressées peuvent prendre contact avec l’équipe pour bénéficier d’un accompagnement pas à pas dans la mise en place de programmes d’incitations.
 
-Le covoiturage courte-distance n’a pas encore connu le même essor en France que son pendant sur la longue distance – on connaît par exemple le succès de Blablacar ! Les bénéfices à l’échelle locale sont pourtant sans appel :
+Le covoiturage courte-distance n’a pas encore connu le même essor en France que son pendant sur la longue distance – on connaît par exemple le succès de Blablacar. Les bénéfices à l’échelle locale sont pourtant sans appel :
 
 * désengorgement des routes et gain sur l’espace public
 * réduction des gaz à effets de serre
