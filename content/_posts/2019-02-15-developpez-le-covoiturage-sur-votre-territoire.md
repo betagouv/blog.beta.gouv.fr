@@ -2,9 +2,11 @@
 layout: post
 title: "Développez le covoiturage sur votre territoire\_!"
 date: 2019-02-15T14:23:26.663Z
-authors: 'margot.sanchez, ishan.bhojwani'
+authors: 
+  - margot.sanchez
+  - ishan.bhojwani
 categories: dinsic
-tags: covoiturage
+tags: preuve-de-covoiturage
 image: /img/posts/2019-02-15-covoiturage-banniere.png
 excerpt: >-
   Le registre de preuve de covoiturage est un nouveau service public, construit
@@ -32,7 +34,8 @@ Le fonctionnement du dispositif est présenté sur cette vidéo :
 
 <div style="text-align: center; width: 75%; display: block; margin-left: auto; margin-right: auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/S3EXNMWPGXs" allowfullscreen></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+ src="https://www.youtube.com/embed/S3EXNMWPGXs" allowfullscreen></iframe>
   </div>
 </div>
 
