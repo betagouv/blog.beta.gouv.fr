@@ -18,6 +18,8 @@ excerpt: >-
 ---
 En mettant en place des incitations pour développer le covoiturage sur son territoire, un acteur public comme une autorité organisatrice de la mobilité peut favoriser le changement de comportement de la population. Cependant, ces acteurs peinent à lancer ce type de programmes pour essentiellement deux raisons : la fraude massive et la complexité de l’ingénierie financière, opérationnelle et juridique à mettre en œuvre.
 
+![](/img/posts/2019-02-15-covoiturage-visuel.png)
+
 La Startup d’Etat [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/) vise à construire, de manière incrémentale, un service public répondant à ces problèmes. Grâce à ce service, une autorité organisatrice (et à terme une entreprise) peut obtenir tous les outils lui permettant de mettre en œuvre une politique incitative efficace en faveur du covoiturage.
 
 [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/) est constitué de :
