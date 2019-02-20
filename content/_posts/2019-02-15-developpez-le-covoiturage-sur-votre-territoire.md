@@ -26,7 +26,9 @@ La Startup d’Etat [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/)
 * **Un label d’entreprises compatibles**. Il permet aux autorités organisatrices de visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet de l’opérateur de covoiturage ;
 * **Une équipe dédiée à l'accompagnement pas à pas des autorités organisatrices** (et bientôt des employeurs) pour leur offrir une boîte à outils facilitant au maximum l’ingénierie financière, opérationnelle et juridique à mettre en place.
 
-Le fonctionnement du dispositif est présenté [sur cette vidéo](https://youtu.be/S3EXNMWPGXs) ainsi que sur l'illustration ci-dessous.
+Le fonctionnement du dispositif est présenté sur cette vidéo :  
+
+<iframe src="https://www.youtube.com/embed/S3EXNMWPGXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/) se construit depuis le 5 octobre 2018 à travers une équipe de quatre personnes. Trois agglomérations pilotes sont déjà engagées en faveur du développement du covoiturage : la communauté d’agglomération de Privas Centre Ardèche, la communauté d’agglomération de l’Ouest Rhodanien, et Concarneau Cornouailles Agglomération. Les autorités organisatrices ainsi que les entreprises intéressées peuvent prendre contact avec l’équipe pour bénéficier d’un accompagnement pas à pas dans la mise en place de programmes d’incitations.
 
