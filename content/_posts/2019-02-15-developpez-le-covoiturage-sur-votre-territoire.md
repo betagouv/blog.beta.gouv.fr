@@ -30,7 +30,11 @@ La Startup d’Etat [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/)
 
 Le fonctionnement du dispositif est présenté sur cette vidéo :  
 
-<iframe src="https://www.youtube.com/embed/S3EXNMWPGXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center; width: 75%; display: block; margin-left: auto; margin-right: auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%">
+    <iframe src="https://www.youtube.com/embed/S3EXNMWPGXs" allowfullscreen></iframe>
+  </div>
+</div>
 
 [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/) se construit depuis le 5 octobre 2018 à travers une équipe de quatre personnes. Trois agglomérations pilotes sont déjà engagées en faveur du développement du covoiturage : la communauté d’agglomération de Privas Centre Ardèche, la communauté d’agglomération de l’Ouest Rhodanien, et Concarneau Cornouailles Agglomération. Les autorités organisatrices ainsi que les entreprises intéressées peuvent prendre contact avec l’équipe pour bénéficier d’un accompagnement pas à pas dans la mise en place de programmes d’incitations.
 
