@@ -5,6 +5,7 @@ date: 2019-02-15T14:23:26.663Z
 authors: 'margot.sanchez, ishan.bhojwani'
 categories: dinsic
 tags: covoiturage
+image: /img/posts/2019-02-15-covoiturage-banniere.png
 excerpt: >-
   Le registre de preuve de covoiturage est un nouveau service public, construit
   selon les méthodes des Startups d'État grâce au financement de l’ADEME. Très
