@@ -14,7 +14,7 @@ layout: default
           {% capture target %}/authors/{{ authors }}{% endcapture %}
           {% assign author = site.authors | where: "id", target | first %}
             <div class="article__author">
-              <img alt="" src="{% if author.avatar %}{{ author.avatar }}{% else %}/img{{ target }}.jpg{% endif %}" />
+              {% include avatar.html author=author force=true %}
               <span class="article__author-name">{{ author.fullname }}</span>
             </div>
           {% endfor %}
