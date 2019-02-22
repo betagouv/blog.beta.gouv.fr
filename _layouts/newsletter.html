@@ -25,7 +25,7 @@ layout: default
       <ul>
       {% assign sorted = site.newsletters | sort: 'date' | reverse %}
       {% for item in sorted %}
-        <li><a href="{{ item.target }}">Newsletter du {{ item.date | date_to_long_string }}</a>{% if item.focus %} avec un focus sur {{ item.focus }}{% endif %}</li>
+        <li><a href="{{ item.target }}">Newsletter du {% include date.html date=item.date %}</a>{% if item.focus %} avec un focus sur {{ item.focus }}{% endif %}</li>
       {% endfor %}
       </ul>
     </div>
