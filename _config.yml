@@ -64,7 +64,7 @@ collections:
   - authors
   - incubators
 
-scope:
+defaults:
   - scope:
       path: "img/authors"
     values:
