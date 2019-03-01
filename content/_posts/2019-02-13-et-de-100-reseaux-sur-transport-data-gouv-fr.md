@@ -21,7 +21,7 @@ Les conditions d’utilisation des données devaient également être homogènes
 
 Enfin, une grande partie de notre travail a consisté à échanger avec les AOM pour expliquer leurs obligations réglementaires mais aussi de les rassurer sur les coûts, avec les partenaires techniques qui produisent la données et les utilisateurs que donneront une valeur utile à ces données afin de mieux comprendre leurs besoins et les aider à diffuser l’information transport.
 
-Fortes et forts du succès de notre première phase de consolidation, nous allons tripler nos efforts. Nos principes vont rester les mêmes au fur et et à mesure que nous intégrons de nouveaux modes de transport (temps réel, micro-mobilité, données routières…). Notre objectif est bien évidemment une couverture à 100 % après ce premier cap des 100 territoires.
+Fortes et forts du succès de notre première phase de consolidation, nous allons tripler nos efforts. Nos principes vont rester les mêmes au fur et à mesure que nous intégrons de nouveaux modes de transport (temps réel, micro-mobilité, données routières…). Notre objectif est bien évidemment une couverture à 100 % après ce premier cap des 100 territoires.
 
 À Angers, Besançon ou à Caen, que vous utilisiez une application locale, celle d’un développeur indépendant ou bien celle d’une multinationale, que vous préfériez des afficheurs et des dépliants papier, que vous aimiez le tramway, le vélo libre service ou la trottinette électrique : l’information est la même et de qualité.
 
