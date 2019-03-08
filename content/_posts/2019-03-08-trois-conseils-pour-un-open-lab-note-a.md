@@ -22,8 +22,8 @@ excerpt: >-
 
 « Dans chaque groupe, il y a des personnes contentes, d’autres réticentes, et toujours une ou deux mécontentes. Ce qu’il faut faire, c’est fédérer :
 
-* Être content avec les personnes contente et leur montrer qu’elles ont de la valeur à nos yeux
-* Charger les agents déjà conquis de s’occuper des personnes réticentes : ce sont les meilleurs ambassadeurs pour convaincre
+* Être content avec les personnes contentes et leur montrer qu’elles ont de la valeur à nos yeux ;
+* Charger les agents déjà conquis de s’occuper des personnes réticentes : ce sont les meilleurs ambassadeurs pour convaincre ;
 * Se rapprocher personnellement des personnes mécontentes. C’est mon rôle : je dois leur montrer que les Startups d’État sont au service des usagers et des agents publics dans un esprit bienveillant. »
 
 ## Et une fois l’événement terminé...
