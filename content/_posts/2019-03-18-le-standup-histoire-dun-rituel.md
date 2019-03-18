@@ -7,15 +7,15 @@ categories: general
 image: /img/posts/lery-1024x576.jpg
 excerpt: >-
   Tous les mercredi, à 12h00, a lieu dans les locaux de l’incubateur
-  beta.gouv.fr une “réunion de service debout”, que nous nommons “le standup”...
+  beta.gouv.fr une “réunion de service debout”, que nous nommons “le standup”.
   De toute mon expérience professionnelle, c’est l’unique réunion de service à
   laquelle je sois heureux de me rendre ...
 ---
-Tous les mercredi, à 12h00, a lieu dans les locaux de l’incubateur beta.gouv.fr une “réunion de service debout”, que nous nommons “le standup”. Ce moment de convivialité est aussi un exercice millimétré où le temps de parole est limité à une minute par startup du portefeuille, environ 80 à ce jour. Nous y accueillons régulièrement de nombreux invités, la réunion étant ouverte à tous :
+Ce moment de convivialité est aussi un exercice millimétré où le temps de parole est limité à une minute par startup du portefeuille, environ 80 à ce jour. Nous y accueillons régulièrement de nombreux invités, la réunion étant ouverte à tous :
 
 ![J’ai participé ce mercredi midi au point d’actualité de l’incubateur de Startups d’État, beta.gouv.fr. Leur mission est d’améliorer le service public de l’intérieur en favorisant le passage à l’action d’agents publics. Ils animent une communauté en croissance qui construit les services publics numériques de demain.](/img/posts/capture-d-e-cran-2019-03-14-a-15.11.21.png "Guillaume Gouffier-Cha, député Val de Marne")
 
-De toute mon expérience professionnelle, c’est l’unique réunion de service à laquelle je sois heureux de me rendre. En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le coeur auprès de pairs qui vivent la même aventure d’innovateurs publics. 
+En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le coeur auprès de pairs qui vivent la même aventure d’innovateurs publics. 
 
 Votre réunion de service est plus probablement semblable à mes précédentes expériences : longue, balayant tout un portefeuille d’activité avec peu de temps utile pour vous, pleine de non-dits, de postures destinées à plaire au chef…
 
