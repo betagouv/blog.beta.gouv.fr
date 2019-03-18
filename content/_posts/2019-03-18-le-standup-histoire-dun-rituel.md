@@ -23,7 +23,7 @@ Mais ce standard de réunion ne s’est pas créé ex-nihilo, il est le fruit de
 
 ## Version 0.1 - le prototype
 
-Début 2016, un certain Thibaut Gerby (@ThibautGery), membre récent de l’incubateur, suggère d’organiser un standup hebdomadaire. Face au peu d’enthousiasme, les équipes se sentant plus concernées par leur startup que par le “projet incubateur”, il persévère, et nous réveille tous les mercredi à coup de Bob Marley où nous traînons les pieds pour prendre la parole chacun à tour de rôle.
+Début 2016, un certain Thibaut Gery (@ThibautGery), membre récent de l’incubateur, suggère d’organiser un standup hebdomadaire. Face au peu d’enthousiasme, les équipes se sentant plus concernées par leur startup que par le “projet incubateur”, il persévère, et nous réveille tous les mercredi à coup de Bob Marley où nous traînons les pieds pour prendre la parole chacun à tour de rôle.
 
 ## Version 0.2 : trop long, peu de contenu utile, nouvelle règle “une startup, une prise de parole”
 
