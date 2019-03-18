@@ -67,8 +67,6 @@ Depuis plusieurs mois, le mur n’est plus à jour. Ce qui fait foi, c’est le 
 
 ## Version 1.1.1 beta2 : le standup s’invite à la formation Alpha
 
-{% oembed https://mobile.twitter.com/AlphaGouv/status/1106595914146168837 %}
-
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Ce midi on a délocalisé le standup hebdomadaire de la communauté <a href="https://twitter.com/BetaGouv?ref_src=twsrc%5Etfw">@BetaGouv</a> pour rencontrer nos alphas. Tous les mercredis à 12h pile, chaque membre des <a href="https://twitter.com/hashtag/Startupd%C3%89tat?src=hash&amp;ref_src=twsrc%5Etfw">#StartupdÉtat</a> a 1 min pour parler des avancées de la semaine. 100 personnes dans une salle : le record des 5 dernières années 😅 <a href="https://t.co/Qw3t5mf4dN">pic.twitter.com/Qw3t5mf4dN</a></p>&mdash; Formation Alpha (@AlphaGouv) <a href="https://twitter.com/AlphaGouv/status/1098210761686638592?ref_src=twsrc%5Etfw">20 février 2019</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
