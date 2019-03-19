@@ -81,4 +81,4 @@ La sincérité, les valeurs de transparence qui nous animent en font un moment t
 
 La dynamique d’amélioration continue heurte toujours les individus en ce qu’elle leur impose de changer. Changer c’est faire le deuil de ce que l’on faisait avant, des fois depuis longtemps. Elle nous incite à parler des problèmes, sans tabou, ce qui n’est pas toujours aisé. Comme on dit chez nous, soyons dur avec le système et doux avec les gens. J’observe que plus on change régulièrement, plus il est facile de changer, et plus les changements ont des impacts positifs, contribuent à notre bonheur au travail et à notre efficacité.
 
-Elle témoigne enfin de la vacuité d'une pensée managériale et politique - encore dominante - qui voudrait trouver LA solution à tous leurs problèmes, là où ne peut fonctionner qu'une patiente attention des acteurs du système à leurs propres problèmes.
+Elle témoigne enfin de la vacuité d'une pensée managériale et politique - encore dominante - qui voudrait trouver LA solution à TOUS les problèmes, là où ne peut fonctionner qu'une patiente attention des acteurs du système à leurs propres problèmes.
