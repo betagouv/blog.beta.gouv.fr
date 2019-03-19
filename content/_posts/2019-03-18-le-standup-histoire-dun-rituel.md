@@ -13,6 +13,8 @@ excerpt: >-
 ---
 Ce moment de convivialité est aussi un exercice millimétré où le temps de parole est limité à une minute par startup du portefeuille, environ 80 à ce jour. Nous y accueillons régulièrement de nombreux invités, la réunion étant ouverte à tous :
 
+{% oembed https://mobile.twitter.com/AlphaGouv/status/1106595914146168837 %}
+
 ![J’ai participé ce mercredi midi au point d’actualité de l’incubateur de Startups d’État, beta.gouv.fr. Leur mission est d’améliorer le service public de l’intérieur en favorisant le passage à l’action d’agents publics. Ils animent une communauté en croissance qui construit les services publics numériques de demain.](/img/posts/capture-d-e-cran-2019-03-14-a-15.11.21.png "Guillaume Gouffier-Cha, député Val de Marne")
 
 En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le coeur auprès de pairs qui vivent la même aventure d’innovateurs publics. 
