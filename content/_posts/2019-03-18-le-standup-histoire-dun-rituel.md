@@ -13,8 +13,6 @@ excerpt: >-
 ---
 Ce moment de convivialité est aussi un exercice millimétré où le temps de parole est limité à une minute par startup du portefeuille, environ 80 à ce jour. Nous y accueillons régulièrement de nombreux invités, la réunion étant ouverte à tous :
 
-{% oembed https://twitter.com/AlphaGouv/status/1098210761686638592 %}
-
 ![J’ai participé ce mercredi midi au point d’actualité de l’incubateur de Startups d’État, beta.gouv.fr. Leur mission est d’améliorer le service public de l’intérieur en favorisant le passage à l’action d’agents publics. Ils animent une communauté en croissance qui construit les services publics numériques de demain.](/img/posts/capture-d-e-cran-2019-03-14-a-15.11.21.png "Guillaume Gouffier-Cha, député Val de Marne")
 
 En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le coeur auprès de pairs qui vivent la même aventure d’innovateurs publics. 
@@ -69,9 +67,7 @@ Depuis plusieurs mois, le mur n’est plus à jour. Ce qui fait foi, c’est le 
 
 ## Version 1.1.1 beta2 : le standup s’invite à la formation Alpha
 
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Ce midi on a délocalisé le standup hebdomadaire de la communauté <a href="https://twitter.com/BetaGouv?ref_src=twsrc%5Etfw">@BetaGouv</a> pour rencontrer nos alphas. Tous les mercredis à 12h pile, chaque membre des <a href="https://twitter.com/hashtag/Startupd%C3%89tat?src=hash&amp;ref_src=twsrc%5Etfw">#StartupdÉtat</a> a 1 min pour parler des avancées de la semaine. 100 personnes dans une salle : le record des 5 dernières années 😅 <a href="https://t.co/Qw3t5mf4dN">pic.twitter.com/Qw3t5mf4dN</a></p>&mdash; Formation Alpha (@AlphaGouv) <a href="https://twitter.com/AlphaGouv/status/1098210761686638592?ref_src=twsrc%5Etfw">20 février 2019</a></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% oembed https://twitter.com/AlphaGouv/status/1098210761686638592 %}
 
 Quoi de mieux pour des stagiaires venus s’initier aux pratiques de l’innovation de voir débarquer au milieu de leur cursus les praticiens expérimentés qu’ils aspirent à devenir ?
 
