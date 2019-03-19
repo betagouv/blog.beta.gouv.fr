@@ -2,7 +2,7 @@
 layout: post
 title: 'Le standup, histoire d''un rituel'
 date: 2019-03-18T13:57:00.861Z
-authors: Pierre Pezziardi
+authors: Pierre.Pezziardi
 categories: general
 image: /img/posts/lery-1024x576.jpg
 excerpt: >-
