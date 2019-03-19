@@ -11,11 +11,11 @@ excerpt: >-
   De toute mon expérience professionnelle, c’est l’unique réunion de service à
   laquelle je sois heureux de me rendre ...
 ---
-Ce moment de convivialité est aussi un exercice millimétré où le temps de parole est limité à une minute par startup du portefeuille, environ 80 à ce jour. Nous y accueillons régulièrement de nombreux invités, la réunion étant ouverte à tous :
+Ce moment de convivialité est aussi un exercice millimétré où le temps de parole est limité à une minute par startup du portefeuille, un peu plus de 80 à ce jour. Nous y accueillons régulièrement de nombreux invités, la réunion étant ouverte à tous :
 
 ![J’ai participé ce mercredi midi au point d’actualité de l’incubateur de Startups d’État, beta.gouv.fr. Leur mission est d’améliorer le service public de l’intérieur en favorisant le passage à l’action d’agents publics. Ils animent une communauté en croissance qui construit les services publics numériques de demain.](/img/posts/capture-d-e-cran-2019-03-14-a-15.11.21.png "Guillaume Gouffier-Cha, député Val de Marne")
 
-En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le coeur auprès de pairs qui vivent la même aventure d’innovateurs publics. 
+En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le cœur auprès de pairs qui vivent la même aventure d’innovateurs publics. 
 
 Votre réunion de service est plus probablement semblable à mes précédentes expériences : longue, balayant tout un portefeuille d’activité avec peu de temps utile pour vous, pleine de non-dits, de postures complaisantes à l'égard de la hiérarchie …
 
@@ -35,7 +35,7 @@ Un animateur prend la main pour inviter les participants et expliciter les règl
 
 ## Version 0.4 : plus de contexte, le Mur des startups
 
-Les invités ou les nouveaux qui assistent à la réunion ne comprennent pas grand chose à ce qui se passe car chaque prise de parole fait l’hypothèse que l’auditeur connaît le contexte de chaque startup, son but, c’est à dire le problème qu’elle souhaite adresser. Nous décidons donc de réaliser un mur des startups, avec une photo pour chacune et des post-its sur son actualité. Le mur permet de séquencer les prises de parole, il simplifie le travail de l’animateur et permet à chaque équipe d’anticiper son tour de chant.
+Les invités ou les nouveaux qui assistent à la réunion ne comprennent pas grand chose à ce qui se passe car chaque prise de parole fait l’hypothèse que l’auditeur connaît le contexte de chaque startup, son but, c’est à dire le problème qu’elle souhaite adresser. Nous décidons donc de réaliser un mur des startups, avec une photo pour chacune et des post-it sur son actualité. Le mur permet de séquencer les prises de parole, il simplifie le travail de l’animateur et permet à chaque équipe d’anticiper son tour de chant.
 
 ## Version 0.4.1 : toujours trop long, on mesure ce que l’on souhaite améliorer
 
@@ -59,7 +59,7 @@ De plus en plus de monde se retrouve au standup : stagiaires de la formation Alp
 
 ![Standup Machine](/img/posts/capture-d-e-cran-2019-03-14-a-16.30.19.png "https://stand-up.surge.sh/")
 
-Mesure radicale : le temps de parole est désormais limité à une minute. Impossible ? Non, cela crée simplement un exercice stimulant dans son fond comme dans sa forme. Petit à petit s’institue la pratique d’une parole tournante au sein de l’équipe, les plus juniors étant tout particulièrement invités à s’y confronter… A noter : après une première version qui passait à la startup suivante au bout d’une minute pile, nous optons pour une machine qui fait dig dong au bout d’une minute et continue ainsi, laissant un minimum de marges de manoeuvre...
+Mesure radicale : le temps de parole est désormais limité à une minute. Impossible ? Non, cela crée simplement un exercice stimulant dans son fond comme dans sa forme. Petit à petit s’institue la pratique d’une parole tournante au sein de l’équipe, les plus juniors étant tout particulièrement invités à s’y confronter… A noter : après une première version qui passait à la startup suivante au bout d’une minute pile, nous optons pour une machine qui fait dig dong au bout d’une minute et continue ainsi, laissant un minimum de marges de manœuvre...
 
 ## Version 1.1 : la fin du Mur
 
