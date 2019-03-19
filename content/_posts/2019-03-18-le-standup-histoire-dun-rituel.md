@@ -2,8 +2,8 @@
 layout: post
 title: 'Le standup, histoire d''un rituel'
 date: 2019-03-18T13:57:00.861Z
-authors: Pierre.Pezziardi
-categories: general
+authors: pierre.pezziardi
+categories: dinsic
 image: /img/posts/lery-1024x576.jpg
 excerpt: >-
   Tous les mercredi, à 12h00, a lieu dans les locaux de l’incubateur
