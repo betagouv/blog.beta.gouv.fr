@@ -57,7 +57,7 @@ De plus en plus de monde se retrouve au standup : stagiaires de la formation Alp
 
 ## Version 1.0 : le standup bot minute la réunion
 
-![Standup Machine](/img/posts/capture-d-e-cran-2019-03-14-a-16.30.19.png "http://stand-up.surge.sh/")
+![Standup Machine](/img/posts/capture-d-e-cran-2019-03-14-a-16.30.19.png "https://stand-up.surge.sh/")
 
 Mesure radicale : le temps de parole est désormais limité à une minute. Impossible ? Non, cela crée simplement un exercice stimulant dans son fond comme dans sa forme. Petit à petit s’institue la pratique d’une parole tournante au sein de l’équipe, les plus juniors étant tout particulièrement invités à s’y confronter… A noter : après une première version qui passait à la startup suivante au bout d’une minute pile, nous optons pour une machine qui fait dig dong au bout d’une minute et continue ainsi, laissant un minimum de marges de manoeuvre...
 
