@@ -77,7 +77,7 @@ Quoi de mieux pour des stagiaires venus s’initier aux pratiques de l’innovat
 
 La pratique de cet exercice hebdomadaire a induit chez tous une amélioration dans la forme et dans le fond : parler en public, juger de ce qui est intéressant pour les autres, avoir une parole inclusive qui intègre les “non-sachants”, ne pas abuser du temps des gens, prendre soin d'évoquer son propre apprentissage, ses faiblesses ...
 
-La sincérité, les valeurs de transparence qui nous animent en font un moment très énergétique, même dans les mauvaises nouvelles que l’on partage.
+La sincérité, les valeurs de transparence qui nous animent en font un moment très énergisant, même dans les mauvaises nouvelles que l’on partage.
 
 La dynamique d’amélioration continue heurte toujours les individus en ce qu’elle leur impose de changer. Changer c’est faire le deuil de ce que l’on faisait avant, des fois depuis longtemps. Elle nous incite à parler des problèmes, sans tabou, ce qui n’est pas toujours aisé. Comme on dit chez nous, soyons dur avec le système et doux avec les gens. J’observe que plus on change régulièrement, plus il est facile de changer, et plus les changements ont des impacts positifs, contribuent à notre bonheur au travail et à notre efficacité.
 
