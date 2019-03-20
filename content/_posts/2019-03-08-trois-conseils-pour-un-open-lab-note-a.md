@@ -32,5 +32,5 @@ excerpt: >-
 
 « Très rapidement, il faut faire un retour de l’Open Lab aux participants – pour ne pas qu’on nous oublie ! Par exemple, si l’événement se déroule un mercredi, il faut prévoir un mail récapitulatif d’ici le vendredi. Je m’attache à ce que chacun des participants reçoive un mail légèrement personnalisé avec des statistiques. Nous prenons avec toute l’équipe beaucoup de notes avec les noms des personnes présentes. Cela nous permet de les mettre en valeur, de convaincre à nouveau les personnes réticentes, et même d’influencer celles qui ont beaucoup de pouvoir décisionnel ! »
 
-> [En savoir plus sur A+](https://beta.gouv.fr/startups/aplus)
-> [Découvrir la page Linkedin d’A+](https://www.linkedin.com/company/startup-d-etat-a-le-service-public-vip/)
+> [En savoir plus sur A+](https://beta.gouv.fr/startups/aplus)  
+> [Découvrir la page LinkedIn d’A+](https://www.linkedin.com/company/startup-d-etat-a-le-service-public-vip/)
