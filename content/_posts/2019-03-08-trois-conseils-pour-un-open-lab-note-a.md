@@ -26,6 +26,8 @@ excerpt: >-
 * Charger les agents déjà conquis de s’occuper des personnes réticentes : ce sont les meilleurs ambassadeurs pour convaincre ;
 * Se rapprocher personnellement des personnes mécontentes. C’est mon rôle : je dois leur montrer que les Startups d’État sont au service des usagers et des agents publics dans un esprit bienveillant. »
 
+![A+ à Marseille](/img/posts/2019-03-08-trois-conseils-pour-un-open-lab-note-a-marseille.jpg "A+ à Marseille")
+
 ## Et une fois l’événement terminé...
 
 « Très rapidement, il faut faire un retour de l’Open Lab aux participants – pour ne pas qu’on nous oublie ! Par exemple, si l’événement se déroule un mercredi, il faut prévoir un mail récapitulatif d’ici le vendredi. Je m’attache à ce que chacun des participants reçoive un mail légèrement personnalisé avec des statistiques. Nous prenons avec toute l’équipe beaucoup de notes avec les noms des personnes présentes. Cela nous permet de les mettre en valeur, de convaincre à nouveau les personnes réticentes, et même d’influencer celles qui ont beaucoup de pouvoir décisionnel ! »
