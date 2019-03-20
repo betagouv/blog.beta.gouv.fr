@@ -2,7 +2,8 @@
 layout: post
 title: La modernisation numérique, un enjeu de souveraineté
 date: 2017-03-21
-authors: pierre.pezziardi
+authors:
+  - pierre.pezziardi
 categories:
   - general
   - presse

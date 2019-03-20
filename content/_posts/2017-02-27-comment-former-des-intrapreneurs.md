@@ -2,7 +2,8 @@
 layout: post
 title: Comment former les intrapreneurs de Startup d'État ?
 date: 2017-02-27
-authors: ismael.hery
+authors:
+  - ismael.hery
 categories: general
 tags:
 image: /img/posts/2017-02-27-comment-former-des-intrapreneurs.jpg

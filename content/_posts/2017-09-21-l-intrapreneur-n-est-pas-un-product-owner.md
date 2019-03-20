@@ -2,7 +2,8 @@
 layout: post
 title: "L’intrapreneur n’est pas un Product Owner"
 date: 2017-09-21
-authors: ismael.hery
+authors:
+  - ismael.hery
 categories: general
 tags:
 image: /img/posts/2017-09-21-l-intrapreneur-n-est-pas-un-product-owner.jpg

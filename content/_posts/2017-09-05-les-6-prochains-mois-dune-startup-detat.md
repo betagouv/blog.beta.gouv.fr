@@ -2,7 +2,8 @@
 layout: post
 title: Les 6 prochains mois d’une Startup d’État
 date: 2017-09-05
-authors: ismael.hery
+authors:
+  - ismael.hery
 categories: general
 tags:
 image: /img/posts/2017-09-05-les-6-prochains-mois-dune-startup-detat.jpg

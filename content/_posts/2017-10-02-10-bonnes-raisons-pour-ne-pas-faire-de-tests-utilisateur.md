@@ -2,7 +2,8 @@
 layout: post
 title: "10 bonnes raisons pour ne pas faire de tests utilisateur"
 date: 2017-10-02
-authors: ismael.hery
+authors:
+  - ismael.hery
 categories: general
 tags:
 image: /img/posts/2017-10-02-10-bonnes-raisons-pour-ne-pas-faire-de-tests-utilisateur.jpg

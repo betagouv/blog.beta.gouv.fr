@@ -2,7 +2,8 @@
 layout: post
 title: Intrapreneur de Startup d'État, les conditions du succès
 date: 2017-03-06
-authors: ismael.hery
+authors:
+  - ismael.hery
 categories: general
 tags:
 image: /img/posts/2017-03-06-intrapreneur-les-conditions-du-succes.jpg

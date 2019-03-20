@@ -2,7 +2,8 @@
 layout: post
 title: Ça pousse à Amiens grâce à Plante & Moi !
 date: 2018-08-04
-authors: julien.dauphant
+authors:
+  - julien.dauphant
 categories: dinsic
 tags: plante-et-moi
 image: /img/posts/2018-09-04-amiens-plante-et-moi.jpg

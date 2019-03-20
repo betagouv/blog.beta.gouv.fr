@@ -2,7 +2,8 @@
 layout: post
 title: "Intrapreneurs de Startups d'État, comment les trouver ?"
 date: 2017-03-22
-authors: ismael.hery
+authors:
+  - ismael.hery
 categories: general
 tags:
 image: /img/posts/2017-03-22-intrapreneurs-comment-les-trouver.jpg

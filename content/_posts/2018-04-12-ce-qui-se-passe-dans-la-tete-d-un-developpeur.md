@@ -2,7 +2,8 @@
 layout: post
 title: Ce qui se passe dans la tête d'un développeur
 date: 2018-04-02
-authors: philippe.blayo
+authors:
+  - philippe.blayo
 categories: dinsic
 tags: mes-aides openfisca
 image: /img/posts/2018-04-12-ce-qui-se-passe-dans-la-tete-d-un-developpeur.jpg

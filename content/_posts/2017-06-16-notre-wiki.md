@@ -2,7 +2,8 @@
 layout: post
 title: Notre Wiki
 date: 2017-06-16
-authors: laurent.bossavit
+authors:
+  - laurent.bossavit
 categories: general
 tags:
 image: /img/posts/2017-06-16-notre-wiki.jpg

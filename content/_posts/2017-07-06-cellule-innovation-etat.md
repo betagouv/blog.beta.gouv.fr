@@ -2,7 +2,8 @@
 layout: post
 title: Un mois au sein d’une cellule innovation de l’Etat
 date: 2017-07-06
-authors: ishan.bhojwani
+authors:
+  - ishan.bhojwani
 categories: general
 tags:
 image: /img/posts/2017-07-06-cellule-innovation-etat.jpg

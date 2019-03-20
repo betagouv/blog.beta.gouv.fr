@@ -2,7 +2,7 @@
 layout: post
 title: "Développez le covoiturage sur votre territoire\_!"
 date: 2019-02-15T14:23:26.663Z
-authors: 
+authors:
   - margot.sanchez
   - ishan.bhojwani
 categories: dinsic
