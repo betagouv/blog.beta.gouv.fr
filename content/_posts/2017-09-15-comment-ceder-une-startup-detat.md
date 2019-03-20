@@ -2,7 +2,8 @@
 layout: post
 title: Comment céder une Startup d’État ?
 date: 2017-09-15
-authors: pierre.pezziardi
+authors:
+  - pierre.pezziardi
 categories: general
 tags:
 image: /img/posts/2017-09-15-comment-ceder-une-startup-detat.jpg

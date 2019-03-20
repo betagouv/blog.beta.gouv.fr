@@ -2,7 +2,8 @@
 layout: post
 title: Le pitch à 6 mois
 date: 2018-10-05T08:34:49.835Z
-authors: elise.marion
+authors:
+  - elise.marion
 categories: mtes
 tags: aides-territoires
 image: /img/posts/2018-10-05-le-pitch-a-6-mois.jpeg
@@ -18,7 +19,7 @@ excerpt: >-
 Il y a 6 mois, vous avez convaincu un comité décisionnel de vous faire confiance, pour apporter un premier niveau de réponse à un irritant rencontré par des professionnels (de l’administration ou non), ou des citoyens.
 
 Depuis, vous êtes devenu expert·e ès pitch capable de vous produire devant tous les publics en 1, 3 ou 10 minutes.
- 
+
 C’est désormais l’heure du premier bilan.
  À la [Fabrique Numérique](https://beta.gouv.fr/incubateur/mtes), incubateur des Ministères de la transition écologique et solidaire et de la Cohésion des territoires, cette rencontre prend la forme d’un **board**.
  Objectif ? Décider ensemble des suites à donner en fonction de l’avancement du produit, des premiers résultats, et bien sûr de votre volonté de poursuivre le service numérique !
@@ -34,12 +35,12 @@ C’est désormais l’heure du premier bilan.
 
 ### Un pitch comme un autre ?
 
-Le pitch à 6 mois intervient à un moment où vous et votre équipe êtes focalisés sur la première vraie version de votre service numérique, en ligne depuis un, deux mois voire plus. Cette version beta est perfectible, tant sur le front office (améliorations suite aux premiers retours utilisateurs), que sur le back office trop artisanal à ce stade. Cela vous parle forcément les soirées passées à compiler des données à la main, les documents vérifiés un à un, les bases de données consolidées moyennant quelques centaines de CTRL-C/CTRL-V ! 
+Le pitch à 6 mois intervient à un moment où vous et votre équipe êtes focalisés sur la première vraie version de votre service numérique, en ligne depuis un, deux mois voire plus. Cette version beta est perfectible, tant sur le front office (améliorations suite aux premiers retours utilisateurs), que sur le back office trop artisanal à ce stade. Cela vous parle forcément les soirées passées à compiler des données à la main, les documents vérifiés un à un, les bases de données consolidées moyennant quelques centaines de CTRL-C/CTRL-V !
 En parallèle vous poursuivez vos échanges avec vos utilisateurs et partenaires, en parfait VRP de votre service numérique.
 
 ### Le pitch, pour qui et avec qui ?
 
-Face à vous, vos « financeurs » et sponsors à haut niveau. 
+Face à vous, vos « financeurs » et sponsors à haut niveau.
 Il faut (1) leur montrer qu’ils ont eu raison de vous faire confiance et (2) leur exprimer clairement vos ambitions, souhaits et besoins pour la suite.
 
 Ce pitch, c’est le vôtre… mais n’hésitez pas à venir accompagné de votre équipe (développeur·e + coach), qui seront une présence rassurante et profiteront également des retours.

@@ -2,7 +2,8 @@
 layout: post
 title: Comment améliorer son support ?
 date: 2018-09-20
-authors: clemence.leurent
+authors:
+  - clemence.leurent
 categories: dinsic
 tags: demarches-simplifiees.fr
 image: /img/posts/2018-09-20-ameliorer-son-support.jpg

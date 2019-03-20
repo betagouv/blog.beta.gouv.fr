@@ -2,7 +2,8 @@
 layout: post
 title: Pourquoi la sécurité des produits numériques n’est pas celle des projets informatiques
 date: 2018-05-23
-authors: laurent.bossavit
+authors:
+  - laurent.bossavit
 categories: general
 tags:
 image: /img/posts/2018-05-23-securite-numerique-produits.jpg

@@ -2,7 +2,8 @@
 layout: post
 title: Statistiques descriptives au service de l'intérêt général
 date: 2017-05-03
-authors: matti.schneider
+authors:
+  - matti.schneider
 categories: dinsic
 tags: mes-aides
 image: /img/posts/2017-05-03-mes-aides-datascience-public.jpg

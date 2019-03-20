@@ -2,7 +2,8 @@
 layout: post
 title: "Et de 100 réseaux sur transport.data.gouv.fr\_!"
 date: 2019-02-13T16:01:00.962Z
-authors: tristram.grabener
+authors:
+  - tristram.grabener
 categories: dinsic
 tags: transport
 image: >-

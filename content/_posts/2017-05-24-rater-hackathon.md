@@ -2,7 +2,8 @@
 layout: post
 title: Beyond Digital Bullshit, ou comment rater son Hackathon ?
 date: 2017-05-24
-authors: laurent.bossavit
+authors:
+  - laurent.bossavit
 categories: general
 tags:
 image: /img/posts/2017-05-24-rater-hackathon.jpg

@@ -2,7 +2,8 @@
 layout: post
 title: Comment choisir le vocabulaire d'une proposition de valeur
 date: 2017-07-21
-authors: matti.schneider
+authors:
+  - matti.schneider
 categories: general
 tags:
 image: /img/posts/2017-07-21-comment-choisir-vocabulaire-proposition-valeur.jpg

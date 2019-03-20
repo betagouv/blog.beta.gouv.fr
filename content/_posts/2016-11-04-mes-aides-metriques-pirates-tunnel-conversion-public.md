@@ -2,7 +2,8 @@
 layout: post
 title: Comment utiliser métriques pirates et tunnels de conversion au bénéfice de vos usagers
 date: 2016-11-04
-authors: matti.schneider
+authors:
+  - matti.schneider
 categories: dinsic
 tags: mes-aides
 image: /img/posts/2016-11-04-mes-aides-metriques-pirates-tunnel-conversion-public.jpg

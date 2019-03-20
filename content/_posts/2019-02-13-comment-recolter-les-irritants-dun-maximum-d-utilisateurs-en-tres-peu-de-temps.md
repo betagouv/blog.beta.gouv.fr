@@ -4,7 +4,8 @@ title: >-
   Comment récolter les irritants d'un maximum d’utilisateurs en très peu de
   temps ?
 date: 2019-02-13T07:56:25.621Z
-authors: lery.jicquel
+authors:
+  - lery.jicquel
 categories: dinsic
 tags: e-controle
 image: /img/posts/e-controle-logo.png
@@ -30,7 +31,7 @@ Avec l’aide de Julien Dauphant, coach en méthode Startup d’État, et de Moh
 
 ## S’appuyer sur les communautés
 
-Concernant les organismes contrôlés, nous avons sollicité les différents réseaux et communautés professionnels qui nous entouraient pour lancer un appel à manifestation d’intérêts : 
+Concernant les organismes contrôlés, nous avons sollicité les différents réseaux et communautés professionnels qui nous entouraient pour lancer un appel à manifestation d’intérêts :
 
 > La Startup d'État de la Cour des comptes recherche des agents ayant répondu à des questionnaires de la Cour des comptes pour recueillir leur retour d’expérience.
 

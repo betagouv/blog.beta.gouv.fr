@@ -2,7 +2,8 @@
 layout: post
 title: Comment j’ai mis fin à ma Start-up d’État en 3 semaines
 date: 2018-02-28
-authors: yan.tanguy
+authors:
+  - yan.tanguy
 categories: dinsic
 tags:
 image: /img/posts/2018-02-28-comment-j-ai-mis-fin-a-ma-startup.jpg
