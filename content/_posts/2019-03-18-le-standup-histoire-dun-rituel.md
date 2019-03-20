@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Le standup, histoire d''un rituel'
+title: 'Histoire d''un rituel : le stand-up'
 date: 2019-03-18T13:57:00.861Z
 authors:
   - pierre.pezziardi
