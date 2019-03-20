@@ -2,7 +2,8 @@
 layout: post
 title: Trois conseils pour un Open Lab noté A+
 date: 2019-03-08T13:38:28.682Z
-authors: zohra.lebel
+authors:
+  - zohra.lebel
 categories: dinsic
 tags: aplus
 excerpt: >-
