@@ -33,8 +33,8 @@ collections:
      fields:
        - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
        - {label: "Titre", name: "title", widget: "string"}
-       - {label: "Date", name: "date", widget: "date"}
-       - {label: "Auteurs (optionnel)", name: "authors", widget: "string", required: false}
+       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+       - {label: "Auteur(s)", name: "authors", widget: "list", field: {label: "Format : prenom.nom", name: "authors", widget: "string", required: false}}
        - {label: "Catégories (incubateur)", name: "categories", widget: "select", options: ["general", "presse", "dinsic", "innolab-62", "lab-mi", "mtes", "pole-emploi", "sgmas"]}
        - {label: "Tags (startup)(optionnel)", name: "tags", widget: "string", required: false}
        - {label: "Image de couverture (optionnel)", name: "image", widget: image, required: false}
