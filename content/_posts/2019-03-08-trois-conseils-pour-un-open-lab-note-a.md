@@ -16,7 +16,7 @@ excerpt: >-
 ---
 ## Comment se décide l’organisation d’un Open Lab ?
 
-« Un Open Lab, c’est l’occasion de présenter notre produit à plusieurs administrations pour pouvoir nous implanter sur un territoire. Pour en préparer un, nous suivons un plan d’action déterminé il y a plusieurs mois : rencontrer des agents en préfecture, expliquer le projet, récupérer de nouveaux contacts, et inviter un maximum de décideurs. Tout l’OpenLab est structuré en avance, du déroulé de la manifestation aux intervenants et aux prises de parole. Pour que l’ensemble soit naturel, tout doit être travaillé ! »
+« Un Open Lab, c’est l’occasion de présenter notre produit à plusieurs administrations pour pouvoir nous implanter sur un territoire. Pour en préparer un, nous suivons un plan d’action déterminé il y a plusieurs mois : rencontrer des agents en préfecture, expliquer le projet, récupérer de nouveaux contacts, et inviter un maximum de décideurs. Tout l’Open Lab est structuré en avance, du déroulé de la manifestation aux intervenants jusqu'aux prises de parole. Pour que l’ensemble soit naturel, tout doit être travaillé ! »
 
 ## Le jour J, sur quoi faut-il faire attention ?
 
@@ -31,6 +31,8 @@ excerpt: >-
 ## Et une fois l’événement terminé...
 
 « Très rapidement, il faut faire un retour de l’Open Lab aux participants – pour ne pas qu’on nous oublie ! Par exemple, si l’événement se déroule un mercredi, il faut prévoir un mail récapitulatif d’ici le vendredi. Je m’attache à ce que chacun des participants reçoive un mail légèrement personnalisé avec des statistiques. Nous prenons avec toute l’équipe beaucoup de notes avec les noms des personnes présentes. Cela nous permet de les mettre en valeur, de convaincre à nouveau les personnes réticentes, et même d’influencer celles qui ont beaucoup de pouvoir décisionnel ! »
+
+  
 
 > [En savoir plus sur A+](https://beta.gouv.fr/startups/aplus)  
 > [Découvrir la page LinkedIn d’A+](https://www.linkedin.com/company/startup-d-etat-a-le-service-public-vip/)
