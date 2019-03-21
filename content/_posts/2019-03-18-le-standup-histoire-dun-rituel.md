@@ -20,7 +20,7 @@ En 30 minutes environ, je suis informé de l’ensemble des avancées et des pro
 
 Votre réunion de service est plus probablement semblable à mes précédentes expériences : longue, balayant tout un portefeuille d’activité avec peu de temps utile pour vous, pleine de non-dits, de postures complaisantes à l'égard de la hiérarchie …
 
-Mais ce standard de réunion ne s’est pas créé ex-nihilo, il est le fruit de nombreuses itérations, dont je vais retracer la genèse, car elle illustre assez bien ce que signifie une discipline d’amélioration continue. Je vous la fournit en mode release note donc.
+Mais ce standard de réunion ne s’est pas créé ex-nihilo, il est le fruit de nombreuses itérations, dont je vais retracer la genèse, car elle illustre assez bien ce que signifie une discipline d’amélioration continue. Je vous la fournis en mode release note donc.
 
 ## Version 0.1 - le prototype
 
