@@ -16,7 +16,7 @@ Ce moment de convivialité est aussi un exercice millimétré où le temps de pa
 
 ![J’ai participé ce mercredi midi au point d’actualité de l’incubateur de Startups d’État, beta.gouv.fr. Leur mission est d’améliorer le service public de l’intérieur en favorisant le passage à l’action d’agents publics. Ils animent une communauté en croissance qui construit les services publics numériques de demain.](/img/posts/capture-d-e-cran-2019-03-14-a-15.11.21.png "Guillaume Gouffier-Cha, député Val de Marne")
 
-En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le cœur auprès de pairs qui vivent la même aventure d’innovateurs publics. 
+En 30 minutes environ, je suis informé de l’ensemble des avancées et des problèmes que rencontrent les équipes, je peux demander de l’aide ou en fournir, je rencontre de nouvelles têtes, je me réchauffe le cœur auprès de pairs qui vivent la même aventure d’innovateurs publics.
 
 Votre réunion de service est plus probablement semblable à mes précédentes expériences : longue, balayant tout un portefeuille d’activité avec peu de temps utile pour vous, pleine de non-dits, de postures complaisantes à l'égard de la hiérarchie …
 
@@ -68,7 +68,7 @@ Depuis plusieurs mois, le mur n’est plus à jour. Ce qui fait foi, c’est le 
 
 ## Version 1.1.1 beta2 : le standup s’invite à la formation Alpha
 
-{% oembed https://twitter.com/AlphaGouv/status/1098210761686638592 %}
+![Un record à Alpha](/img/posts/2019-03-18-le-standup-histoire-dun-rituel-tweet-alpha.png "https://twitter.com/AlphaGouv/status/1098210761686638592")
 
 Quoi de mieux pour des stagiaires venus s’initier aux pratiques de l’innovation de voir débarquer au milieu de leur cursus les praticiens expérimentés qu’ils aspirent à devenir ?
 
