@@ -20,7 +20,7 @@ En 30 minutes environ, je suis informé de l’ensemble des avancées et des pro
 
 Votre réunion de service est plus probablement semblable à mes précédentes expériences : longue, balayant tout un portefeuille d’activité avec peu de temps utile pour vous, pleine de non-dits, de postures complaisantes à l'égard de la hiérarchie …
 
-Mais ce standard de réunion ne s’est pas créé ex-nihilo, il est le fruit de nombreuses itérations, dont je vais retracer la genèse, car elle illustre assez bien ce que signifie une discipline d’amélioration continue. Je vous la fournis en mode release note donc.
+Mais ce standard de réunion ne s’est pas créé ex-nihilo, il est le fruit de nombreuses itérations, dont je vais retracer la genèse, car elle illustre assez bien ce que signifie une discipline d’amélioration continue. Je vous la fournit en mode release note donc.
 
 ## Version 0.1 - le prototype
 
@@ -68,7 +68,7 @@ Depuis plusieurs mois, le mur n’est plus à jour. Ce qui fait foi, c’est le 
 
 ## Version 1.1.1 beta2 : le standup s’invite à la formation Alpha
 
-{% oembed https://twitter.com/AlphaGouv/status/1098210761686638592 %}
+![Un record à Alpha](/img/posts/2019-03-18-le-standup-histoire-dun-rituel-tweet-alpha.png "https://twitter.com/AlphaGouv/status/1098210761686638592")
 
 Quoi de mieux pour des stagiaires venus s’initier aux pratiques de l’innovation de voir débarquer au milieu de leur cursus les praticiens expérimentés qu’ils aspirent à devenir ?
 
