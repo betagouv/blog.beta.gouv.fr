@@ -68,7 +68,7 @@ Depuis plusieurs mois, le mur n’est plus à jour. Ce qui fait foi, c’est le 
 
 ## Version 1.1.1 beta2 : le standup s’invite à la formation Alpha
 
-![Un record à Alpha](/img/posts/2019-03-18-le-standup-histoire-dun-rituel-tweet-alpha.png "https://twitter.com/AlphaGouv/status/1098210761686638592")
+{% oembed https://twitter.com/AlphaGouv/status/1098210761686638592 %}
 
 Quoi de mieux pour des stagiaires venus s’initier aux pratiques de l’innovation de voir débarquer au milieu de leur cursus les praticiens expérimentés qu’ils aspirent à devenir ?
 
