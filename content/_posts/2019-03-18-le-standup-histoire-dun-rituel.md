@@ -58,7 +58,7 @@ De plus en plus de monde se retrouve au standup : stagiaires de la formation Alp
 
 ## Version 1.0 : le standup bot minute la réunion
 
-![Standup Machine](/img/posts/capture-d-e-cran-2019-03-14-a-16.30.19.png "https://stand-up.surge.sh/")
+[![Standup Machine](/img/posts/capture-d-e-cran-2019-03-14-a-16.30.19.png)](https://stand-up.surge.sh/)
 
 Mesure radicale : le temps de parole est désormais limité à une minute. Impossible ? Non, cela crée simplement un exercice stimulant dans son fond comme dans sa forme. Petit à petit s’institue la pratique d’une parole tournante au sein de l’équipe, les plus juniors étant tout particulièrement invités à s’y confronter… A noter : après une première version qui passait à la startup suivante au bout d’une minute pile, nous optons pour une machine qui fait dig dong au bout d’une minute et continue ainsi, laissant un minimum de marges de manœuvre...
 
@@ -68,7 +68,7 @@ Depuis plusieurs mois, le mur n’est plus à jour. Ce qui fait foi, c’est le 
 
 ## Version 1.1.1 beta2 : le standup s’invite à la formation Alpha
 
-![Un record à Alpha](/img/posts/2019-03-18-le-standup-histoire-dun-rituel-tweet-alpha.png "https://twitter.com/AlphaGouv/status/1098210761686638592")
+[![Un record à Alpha](/img/posts/2019-03-18-le-standup-histoire-dun-rituel-tweet-alpha.png)](https://twitter.com/AlphaGouv/status/1098210761686638592)
 
 Quoi de mieux pour des stagiaires venus s’initier aux pratiques de l’innovation de voir débarquer au milieu de leur cursus les praticiens expérimentés qu’ils aspirent à devenir ?
 
