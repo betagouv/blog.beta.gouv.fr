@@ -53,17 +53,16 @@ Comme dans les autres grandes organisations qui ont des services achat, les serv
 
 - Un service de l'État exprime son besoin à son fournisseur
 - Le fournisseur lui transmet un devis
-  - _Pour accepter ce devis, le service de l'État transmet une demande d'achat à ses gestionnaires_
+- **Pour accepter ce devis, le service de l'État transmet une demande d'achat à ses gestionnaires**
 - Cette demande d'achat est instruite et génère un bon de commande transmis au fournisseur
   - _La dépense d'autorisation d'engagement coincide avec l'émisison du bon de commande_ 
 - Après un certain temps, le fournisseur livre une partie de la commande
-  - _Le service de l'État établi un procès verbal de service fait qui confirme la livraison effectuée_
+- **Le service de l'État établi un procès verbal de service fait qui confirme la livraison effectuée**
 - Le fournisseur envoie une facture correspondante à la partie livrée au service facturier
 - 30 jours après l'émission de la facture, l'État paie le fournisseur
   - _Il y a, à ce moment-là, une dépense de crédits de paiment_
 - Enfin, le fournisseur livre le reste de la commande avec une facture finale
-  _- Cette livraison finale fait, elle aussi, l'objet d'un procès verbal de service fait_
-  - Le fournisseur émet une facture finale
+- **Cette livraison finale fait, elle aussi, l'objet d'un procès verbal de service fait**
 - L'État, 30 jours plus tard, paie la facture finale
    - _Il y a, là encore, une dépense de crédits de paiment_
 - Tout le monde est content 🙂
@@ -75,7 +74,7 @@ Comme dans les autres grandes organisations qui ont des services achat, les serv
 
 Jusqu'à présent, l'incubateur de services numériques prenait à sa charge cette complexité et sa gestion. En passant de 50 Startups d'État à 85, nous ne pouvons plus cacher cette complexité à tout le monde, la nécessité d'autonomiser et de responsabiliser les équipes des Startups d'État sur ces sujets budgétairo-comptables est de plus en plus prégnante.
 
-Vous l'aurez compris, toutes dépenses en autorisations d'engagement fera l'objet d'une dépense en crédits de paiement une fois le travail réalisé. Mais pourquoi donc [le budget de l'incubateur pour 2019](https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2019/lfi/pdf/DBGPGMLFIPGM352.pdf) ne respecte-t-il pas cette symétrie avec 7,2 millions d'euros en autorisation d'engagement et seulement 2,1 millions d'euros en crédits de paiment&nbsp;?
+Vous l'aurez compris, toutes dépenses en autorisations d'engagement fera l'objet d'une dépense en crédits de paiement une fois le travail réalisé.
 
 <style type="text/css">
   svg {
