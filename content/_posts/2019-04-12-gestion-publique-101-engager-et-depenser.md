@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gestion publique 101 Engager et dépenser'
+title: 'Gestion publique 101&nbsp;: Engager et dépenser'
 authors:
   - thomas.guillet
 categories: dinsic
@@ -16,15 +16,15 @@ Nota bene&nbsp;: Cette description est une simplification de la réalité qui pe
 ## Un achat classique _dans le privé_
 
 Lorsqu'une société souhaite acheter des produits auprès d'un fournisseur, on passe par les étapes suivantes.
-- Le client potentiel exprime son besoin à son fournisseur.
-- Le fournisseur transmet un devis à son futur client.
-- Le client accepte un devis en lui transmettant un bon de commande.
-- Après un certain temps, le fournisseur livre une partie de la commande.
-  - À cette livraison, le fournisseur ajoute une facture correspondante à la partie livrée.
-- 30 jours après l'émission de la facture, le client paie le fournisseur.
-- Le fournisseur livre le reste de la commande avec une facture finale.
-- Le client, 30 jours plus tard, paie la facture finale.
-- Tout le monde est content 🙂.
+- Le client potentiel exprime son besoin à son fournisseur
+- Le fournisseur transmet un devis à son futur client
+- Le client accepte un devis en lui transmettant un bon de commande
+- Après un certain temps, le fournisseur livre une partie de la commande
+  - À cette livraison, le fournisseur ajoute une facture correspondante à la partie livrée
+- 30 jours après l'émission de la facture, le client paie le fournisseur
+- Le fournisseur livre le reste de la commande avec une facture finale
+- Le client, 30 jours plus tard, paie la facture finale
+- Tout le monde est content 🙂
 
 Pour illustrer cet achat, on peut regarder les dépenses réalisées par le client en fil du temps.
 
@@ -34,7 +34,7 @@ Avec cette illustration, on voit bien que les flux d'argent ne capturent que par
 
 ## Des processus longs et un suivi plus fin nécessaire
 
-Si il fallait le préciser, l'État français est une grosse organisation. En tant qu'organisation, il a besoin de suivre finement ses dépenses pour s'assurer que tout se passe bien. C'est en particulier le cas quand plusieurs années séparent la livraison de l'expression de besoin.
+S'il fallait le préciser, l'État français est une grosse organisation. En tant qu'organisation, il a besoin de suivre finement ses dépenses pour s'assurer que tout se passe bien. C'est en particulier le cas quand plusieurs années séparent la livraison de l'expression de besoin.
 
 C'est pour cette raison que l'État, en plus de comptabiliser ces dépenses d'argent sonnant et trébuchant, comptabilise ses engagements. À chaque émission de bon de commande, on enregistre une dépense. Ainsi, on se retrouve au sein de l'État avec deux comptes différents&nbsp;:
 - Un compte pour suivre les engagements matérialisés par les bons de commandes. Pour ce compte, on parle d'**autorisations d'engagement** (AE).
@@ -51,33 +51,31 @@ Ces deux comptes permettent d'avoir une meilleure vision de la situation budgét
 
 Comme dans les autres grandes organisations qui ont des services achat, les services de l'État sont accompagnées par des services gestionnaires. Cela ajoute deux étapes importantes dans le processus d'achat décrit précédemment.
 
-- Un service de l'État exprime son besoin à son fournisseur.
-- Le fournisseur lui transmet un devis.
-  - _Pour accepter ce devis, le service de l'État transmet une demande d'achat à ses gestionnaires._
-- Cette demande d'achat est instruite et génère un bon de commande transmis au fournisseur.
-  - _La dépense d'autorisation d'engagement coincide avec l'émisison du bon de commande._ 
-- Après un certain temps, le fournisseur livre une partie de la commande.
-  - _Le service de l'État établi un procès verbal de service fait qui confirme la livraison effectuée._
-- Le fournisseur envoie une facture correspondante à la partie livrée au service facturier.
-- 30 jours après l'émission de la facture, l'État paie le fournisseur.
-  - _Il y a, à ce moment-là, une dépense de crédits de paiment._
-- Enfin, le fournisseur livre le reste de la commande avec une facture finale.
-  _- Cette livraison finale fait, elle aussi, l'objet d'un procès verbal de service fait._
-  - Le fournisseur émet une facture finale.
-- L'État, 30 jours plus tard, paie la facture finale.
-   - _Il y a, là encore, une dépense de crédits de paiment._
-- Tout le monde est content 🙂.
+- Un service de l'État exprime son besoin à son fournisseur
+- Le fournisseur lui transmet un devis
+  - _Pour accepter ce devis, le service de l'État transmet une demande d'achat à ses gestionnaires_
+- Cette demande d'achat est instruite et génère un bon de commande transmis au fournisseur
+  - _La dépense d'autorisation d'engagement coincide avec l'émisison du bon de commande_ 
+- Après un certain temps, le fournisseur livre une partie de la commande
+  - _Le service de l'État établi un procès verbal de service fait qui confirme la livraison effectuée_
+- Le fournisseur envoie une facture correspondante à la partie livrée au service facturier
+- 30 jours après l'émission de la facture, l'État paie le fournisseur
+  - _Il y a, à ce moment-là, une dépense de crédits de paiment_
+- Enfin, le fournisseur livre le reste de la commande avec une facture finale
+  _- Cette livraison finale fait, elle aussi, l'objet d'un procès verbal de service fait_
+  - Le fournisseur émet une facture finale
+- L'État, 30 jours plus tard, paie la facture finale
+   - _Il y a, là encore, une dépense de crédits de paiment_
+- Tout le monde est content 🙂
 
 <p></p><!-- Pour décaler le graphique -->
 <svg id="chart3"></svg>
 
 ## Mais pourquoi nous infliger tout ça ?
 
-Jusqu'à présent, l'incubateur de services numériques prenait à sa charge cette complexité et sa gestion. En passant de 2 délégations de gestion en 2017 à XXX en 2018, nous voyons bien la nécessité d'autonomiser et de responsabiliser les équipes des Startups d'État sur ces sujets budgétairo-comptables.
+Jusqu'à présent, l'incubateur de services numériques prenait à sa charge cette complexité et sa gestion. En passant de 50 Startups d'État à 85, nous ne pouvons plus cacher cette complexité à tout le monde, la nécessité d'autonomiser et de responsabiliser les équipes des Startups d'État sur ces sujets budgétairo-comptables est de plus en plus prégnante.
 
-Pour annoncer le prochain sujet dans cette série.
-
-Le FAST
+Vous l'aurez compris, toutes dépenses en autorisations d'engagement fera l'objet d'une dépense en crédits de paiement une fois le travail réalisé. Mais pourquoi donc [le budget de l'incubateur pour 2019](https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2019/lfi/pdf/DBGPGMLFIPGM352.pdf) ne respecte-t-il pas cette symétrie avec 7,2 millions d'euros en autorisation d'engagement et seulement 2,1 millions d'euros en crédits de paiment&nbsp;?
 
 <style type="text/css">
   svg {
