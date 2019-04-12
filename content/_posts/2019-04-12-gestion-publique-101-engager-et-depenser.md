@@ -6,7 +6,7 @@ authors:
 categories: dinsic
 image: /img/posts/lery-1024x576.jpg
 excerpt: >-
-  Les Startups d'État sont des équipes autonomes. Elles sont intégrées, c'est à dire avec toutes les compétences pour répondre au problème qu'elles se sont données à résoudre. Il y a toutefois une problématique que nous ne faisons pas porter dès le départ aux équipes : la comptabilité publique. Voici quelques éléments pour en savoir plus et gagner en autonomie sur ce sujet aussi.
+  Les Startups d'État sont des équipes autonomes. Elles sont intégrées, c'est à dire qu'elles disposent de toutes les compétences pour répondre au problème qu'elles se sont données à résoudre. Il y a toutefois une problématique que nous ne faisons pas porter dès le départ aux équipes : la comptabilité publique. Voici quelques éléments pour en savoir plus et gagner en autonomie sur ce sujet aussi.
 ---
 
 <script src="/assets/additional/js/d3.js" type="text/javascript"></script>
@@ -36,7 +36,7 @@ Avec cette illustration, on voit bien que les flux d'argent ne capturent que par
 
 Si il fallait le préciser, l'État français est une grosse organisation. En tant qu'organisation, il a besoin de suivre finement ses dépenses pour s'assurer que tout se passe bien. C'est en particulier le cas quand plusieurs années séparent la livraison de l'expression de besoin.
 
-C'est pour cette raison que l'État, en plus de comptabiliser ces dépenses d'argent sonnant et tribuchant, comptabilise ses engagements. À chaque émission de bon de commande, on enregistre une dépense. Ainsi, on se retrouve au sein de l'État avec deux comptes différents&nbsp;:
+C'est pour cette raison que l'État, en plus de comptabiliser ces dépenses d'argent sonnant et trébuchant, comptabilise ses engagements. À chaque émission de bon de commande, on enregistre une dépense. Ainsi, on se retrouve au sein de l'État avec deux comptes différents&nbsp;:
 - Un compte pour suivre les engagements matérialisés par les bons de commandes. Pour ce compte, on parle d'**autorisations d'engagement** (AE).
 - Un second compte pour suivre les euros qui vont *effectivement* arriver sur les comptes de ses prestataires. Pour ce compte, on parle de **crédit de paiement** (CP).
 
@@ -73,7 +73,7 @@ Comme dans les autres grandes organisations qui ont des services achat, les serv
 
 ## Mais pourquoi nous infliger tout ça ?
 
-Jusqu'à présent, l'incubateur de services numériques prenait à sa charge cette complexité et sa gestion. En passant de 2 délégations de gestion en 2017 à XXX en 2018, nous voyons bien la nécessaire d'autonomiser et de responsabiliser les équipes des Startups d'État sur ces sujets budgétairo-comptables.
+Jusqu'à présent, l'incubateur de services numériques prenait à sa charge cette complexité et sa gestion. En passant de 2 délégations de gestion en 2017 à XXX en 2018, nous voyons bien la nécessité d'autonomiser et de responsabiliser les équipes des Startups d'État sur ces sujets budgétairo-comptables.
 
 Pour annoncer le prochain sujet dans cette série.
 
