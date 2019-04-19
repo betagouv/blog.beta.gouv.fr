@@ -12,7 +12,7 @@ excerpt: >-
   cofinance le lancement de Startups d'État en charge de résoudre des problèmes
   de politique publique identifiés par des agents.
 ---
-La phase pilote nous permet de tester nos hypothèses et de voir ce qui fonctionne ou ce qui gagne à être amélioré lors des prochains appels à candidatures. Cette approche incrémentale s’applique au développement des Startups d’État :  il n’y a donc pas de raison de ne pas l’appliquer pour le FAST !
+Nous lançons l'appel à projet pilote pour tester nos hypothèses et de voir ce qui fonctionne ou ce qui gagne à être amélioré lors des prochains appels à candidatures. Cette approche incrémentale s’applique au développement des Startups d’État :  il n’y a donc pas de raison de ne pas l’appliquer pour le FAST !
 
 Vous voulez en savoir plus sur le FAST ? Découvrez notre FAQ dédiée ! Les informations pour participer à la phase pilote se trouvent en deuxième partie.
 
@@ -94,4 +94,4 @@ Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présent
 
 **J’ai une question, qui puis-je contacter ?**
 
-Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à [fast@beta.gouv.fr](mailto:fast@beta.gouv.fr).
+Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à <mailto:fast@beta.gouv.fr>.
