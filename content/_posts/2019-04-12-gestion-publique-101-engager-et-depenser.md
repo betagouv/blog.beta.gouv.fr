@@ -4,7 +4,7 @@ title: 'Gestion publique 101 : Engager et dépenser'
 authors:
   - thomas.guillet
 categories: dinsic
-image: /img/posts/lery-1024x576.jpg
+image: /img/posts/2019-04-12-gestion-publique-101-engager-et-depenser.jpg
 excerpt: >-
   Les Startups d'État sont des équipes autonomes. Elles sont intégrées, c'est à dire qu'elles disposent de toutes les compétences pour répondre au problème qu'elles se sont données à résoudre. Il y a toutefois une problématique que nous ne faisons pas porter dès le départ aux équipes : la comptabilité publique. Voici quelques éléments pour en savoir plus et gagner en autonomie sur ce sujet aussi.
 ---
