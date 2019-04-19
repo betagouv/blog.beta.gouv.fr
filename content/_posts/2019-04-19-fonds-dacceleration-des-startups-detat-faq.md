@@ -64,11 +64,8 @@ Vous pouvez également parcourir le [portefeuille](https://beta.gouv.fr/startups
 Vous devez adresser à tous vos agents un message inspiré du format suivant :
 
 > _Chers agents,_
->
 > _Votre administration se lance dans une politique d’innovation ambitieuse._
->
 > _Vous êtes confrontés à un problème de politique publique, un irritant récurrent pour les usagers ? Vous avez une idée de solution numérique qui pourrait permettre d’y répondre ? Vous êtes prêts à vous engager au moins six mois à temps plein dans le développement de cette solution ?_
->
 > _Candidatez pour participer à notre prochain challenge innovation et devenir intrapreneur._
 
 Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présenter à l’appel à projet. 
