@@ -20,7 +20,7 @@ Lorsqu'une société souhaite acheter des produits auprès d'un fournisseur, on 
 - Le fournisseur transmet un devis à son futur client
 - Le client accepte un devis en lui transmettant un bon de commande
 - Après un certain temps, le fournisseur livre une partie de la commande
-  - À cette livraison, le fournisseur ajoute une facture correspondante à la partie livrée
+- À cette livraison, le fournisseur ajoute une facture correspondante à la partie livrée
 - 30 jours après l'émission de la facture, le client paie le fournisseur
 - Le fournisseur livre le reste de la commande avec une facture finale
 - Le client, 30 jours plus tard, paie la facture finale
