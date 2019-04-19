@@ -3,8 +3,8 @@ layout: post
 title: 'Fonds d''accélération des Startups d''État : FAQ'
 date: '2019-04-19'
 authors:
-  - hela.ghariani
   - charlotte.lecuit
+  - hela.ghariani
 categories: dinsic
 ---
 Le FAST est le Fonds d’accélération des Startups d’État. Il a pour objectif d’investir dans des projets d’innovation radicale dans le secteur public. Ce fonds cofinance le lancement de Startups d'État en charge de résoudre des problèmes de politique publique identifiés par des agents.
