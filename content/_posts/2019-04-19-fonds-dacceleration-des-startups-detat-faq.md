@@ -12,7 +12,7 @@ excerpt: >-
   cofinance le lancement de Startups d'État en charge de résoudre des problèmes
   de politique publique identifiés par des agents.
 ---
-Nous lançons un appel à projet pilote pour tester nos hypothèses et de voir ce qui fonctionne ou ce qui gagne à être amélioré lors des prochains appels à candidatures. Cette approche incrémentale s’applique au développement des Startups d’État :  il n’y a donc pas de raison de ne pas l’appliquer pour le FAST !
+Nous lançons un appel à projet pilote pour tester nos hypothèses, voir ce qui fonctionne ou ce qui gagne à être amélioré lors des prochains appels à candidatures. Cette approche incrémentale s’applique au développement des Startups d’État :  il n’y a donc pas de raison de ne pas l’appliquer pour le FAST !
 
 Vous voulez en savoir plus sur le FAST ? Découvrez notre FAQ dédiée ! Les informations pour participer à la phase pilote se trouvent en deuxième partie.
 
@@ -46,8 +46,8 @@ L’appel à projet pilote cible des projets au stade de l’idée qui seront co
 
 Nous proposons deux tickets : 
 
-1. Ticket de préincubation : 35 000 € (donc 70 000 € au total) : Ce budget finance le coaching de l’intrapreneur pour investiguer le problème qu’il veut résoudre et tester une première solution pendant 3 mois.
-2. Ticket d’amorçage : 70 000 € (donc 140 000 € au total) : Ce budget finance le coaching, le développement des premières solutions (coaching de l’intrapreneur, développement informatique, design…) pendant 6 mois. 
+1. Un cofinancement à hauteur de 35 000 € (donc 70 000 € au total) : Ce budget finance le coaching de l’intrapreneur pour investiguer le problème qu’il veut résoudre et tester une première solution pendant 3 mois.
+2. Un cofinancement à hauteur de 70 000 € (donc 140 000 € au total) : Ce budget finance le coaching, le développement des premières solutions (coaching de l’intrapreneur, développement informatique, design…) pendant 6 mois. 
 
 Dans les deux cas, vous devez être en capacité de financer 50% du projet. 
 
@@ -91,6 +91,12 @@ Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présent
 * Si votre candidature est retenue, vous signez une convention de partenariat avec la DINSIC,
 * La Startup d’État est lancée,
 * Les intrapreneurs suivent une session de formation Alpha et commencent à travailler sur le problème à résoudre.
+
+Au total, le FAST cofinancera 4 projets lors de la phase pilote : 2 en préincubation et 2 en amorçage.
+
+**Jusqu'à quand puis-je postuler ?**
+
+Vous avez jusqu'au 5 juin 2019 pour envoyer votre candidature.
 
 **J’ai une question, qui puis-je contacter ?**
 
