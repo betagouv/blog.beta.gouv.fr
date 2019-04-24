@@ -94,7 +94,7 @@ Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présent
 
 Au total, le FAST cofinancera 4 projets lors de la phase pilote : 2 en préincubation et 2 en amorçage.
 
-**Jusqu'à quand puis-je postuler ?**
+**Jusqu'à quand peut-on postuler ?**
 
 Vous avez jusqu'au 5 juin 2019 pour [envoyer votre candidature](https://charlottelecuit.typeform.com/to/NMW4wn).
 
