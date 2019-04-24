@@ -51,7 +51,7 @@ Nous proposons deux tickets :
 
 Dans les deux cas, vous devez être en capacité de financer 50% du projet. 
 
-Ces dépenses peuvent être réalisées via le marché Startup d'État de la DINSIC ou via vos supports contractuels qui répondrait au besoin.
+Ces dépenses peuvent être réalisées via le marché Startup d'État de la DINSIC ou via vos supports contractuels qui répondraient au besoin.
 
 **Qu’est-ce qu’une Startup d’État ?**
 
@@ -96,8 +96,8 @@ Au total, le FAST cofinancera 4 projets lors de la phase pilote : 2 en préincu
 
 **Jusqu'à quand puis-je postuler ?**
 
-Vous avez jusqu'au 5 juin 2019 pour envoyer votre candidature.
+Vous avez jusqu'au 5 juin 2019 pour [envoyer votre candidature](https://charlottelecuit.typeform.com/to/NMW4wn).
 
 **J’ai une question, qui puis-je contacter ?**
 
-Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à [fast@beta.gouv.fr](mailto:fast@beta.gouv.fr).
+Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à <mailto:fast@beta.gouv.fr>.
