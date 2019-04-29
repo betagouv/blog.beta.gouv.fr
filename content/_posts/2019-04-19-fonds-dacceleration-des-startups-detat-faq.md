@@ -57,7 +57,7 @@ Ces dépenses peuvent être réalisées via le marché Startup d'État de la DIN
 
 Pour mieux comprendre ce qu’est une Startup d’État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter le [guide de lancement](https://beta.gouv.fr/content/docs/guide.pdf) des Startups d’État. Vous pouvez également parcourir le [portefeuille](https://beta.gouv.fr/startups/) des Startups d’État, qui vous permettra d’identifier le type de problèmes auxquels nous pouvons répondre avec vous. 
 
-La méthode de développement de solutions par le modèle des startups d’Etat constitue l’un des leviers principaux de transformation numérique du service public, [portée par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
+Les startups d’Etat constituent l’un des principaux leviers de transformation numérique du service public, [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
 
 **Comment les projets sont-ils sélectionnés ?** 
 
@@ -75,18 +75,18 @@ Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présent
 
 ## Votre candidature
 
-**Quelles sont les principales conditions d’engagement ?**
+**Quelles sont les conditions d’engagement ?**
 
 * Identifier un problème de politique publique précis,
 * Cofinancer l’investissement à 50%,
 * Mobiliser un agent public au rôle d’intrapreneur.
 
-**Quels sont les critères de choix du comité d'investissement ?**
+**Quels sont les critères de sélection du comité d'investissement ?**
 
-* Impact escompté pour les bénéficiaires du projet
-* Portage managérial du projet au sein de la structure demandeuse
-* Utilité du cofinancement pour lancer la startup, au regard des budgets de la structure demandeuse
-* Cohérence avec la stratégie TECH.GOUV et [ses six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) : simplification, inclusion, attractivité, maîtrise, économies, alliances.
+* L'impact attendu pour l'utilisateur final 
+* Un _sponsor_ dans l'administration porteuse
+* L'effet de levier que constitue le cofinancement pour lancer la Startup d'Etat
+* L'adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV : simplification, inclusion, attractivité, maîtrise, économies, alliances.
 
 **Quel est le processus de sélection du FAST ?**
 
