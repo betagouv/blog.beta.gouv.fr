@@ -86,7 +86,7 @@ Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présent
 * L'impact attendu pour l'utilisateur final 
 * Un _sponsor_ dans l'administration porteuse
 * L'effet de levier que constitue le cofinancement pour lancer la Startup d'Etat
-* L'adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV : simplification, inclusion, attractivité, maîtrise, économies, alliances.
+* L'adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
 **Quel est le processus de sélection du FAST ?**
 
