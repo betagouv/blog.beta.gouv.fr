@@ -46,18 +46,18 @@ L’appel à projet pilote cible des projets au stade de l’idée qui seront co
 
 Nous proposons deux tickets : 
 
-1. Un cofinancement à hauteur de 35 000 € (donc 70 000 € au total) : Ce budget finance le coaching de l’intrapreneur pour investiguer le problème qu’il veut résoudre et tester une première solution pendant 3 mois.
-2. Un cofinancement à hauteur de 70 000 € (donc 140 000 € au total) : Ce budget finance le coaching, le développement des premières solutions (coaching de l’intrapreneur, développement informatique, design…) pendant 6 mois. 
+1. Préincubation : un financement à hauteur de 35 000 € pour financer le coaching de l’intrapreneur pour investiguer le problème qu’il veut résoudre et tester une première solution pendant 3 mois. Le budget total de cette Startup d'État sera donc de 70 000 €.
+2. Amorçage : un cofinancement à hauteur de 70 000 € pour financer le coaching, le développement des premières solutions (coaching de l’intrapreneur, développement informatique, design…) pendant 6 mois. Le budget total de cette Startup d'État sera donc de 140 000 €.
 
-Dans les deux cas, vous devez être en capacité de financer 50% du projet. 
+Dans les deux cas, vous devez donc être en capacité de financer 50% du projet. 
 
 Ces dépenses peuvent être réalisées via le marché Startup d'État de la DINSIC ou via vos supports contractuels qui répondraient au besoin.
 
 **Qu’est-ce qu’une Startup d’État ?**
 
-Pour mieux comprendre ce qu’est une Startup d’État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter le [guide de lancement](https://beta.gouv.fr/content/docs/guide.pdf) des Startups d’État. 
+Pour mieux comprendre ce qu’est une Startup d’État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter le [guide de lancement](https://beta.gouv.fr/content/docs/guide.pdf) des Startups d’État. Vous pouvez également parcourir le [portefeuille](https://beta.gouv.fr/startups/) des Startups d’État, qui vous permettra d’identifier le type de problèmes auxquels nous pouvons répondre avec vous. 
 
-Vous pouvez également parcourir le [portefeuille](https://beta.gouv.fr/startups/) des Startups d’État, qui vous permettra d’identifier le type de problèmes auxquels nous pouvons répondre avec vous. 
+Les startups d’Etat constituent l’un des principaux leviers de transformation numérique du service public, [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
 
 **Comment les projets sont-ils sélectionnés ?** 
 
@@ -75,11 +75,18 @@ Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présent
 
 ## Votre candidature
 
-**Quelles sont les principales conditions d’engagement ?**
+**Quelles sont les conditions d’engagement ?**
 
 * Identifier un problème de politique publique précis,
 * Cofinancer l’investissement à 50%,
 * Mobiliser un agent public au rôle d’intrapreneur.
+
+**Quels sont les critères de sélection du comité d'investissement ?**
+
+* L'impact attendu pour l'utilisateur final 
+* Un _sponsor_ dans l'administration porteuse
+* L'effet de levier que constitue le cofinancement pour lancer la Startup d'Etat
+* L'adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
 **Quel est le processus de sélection du FAST ?**
 
