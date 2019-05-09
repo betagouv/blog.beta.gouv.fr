@@ -61,6 +61,8 @@ Les startups d’Etat constituent l’un des principaux leviers de transformatio
 
 **Comment les projets sont-ils sélectionnés ?** 
 
+Que vous représentiez une administration de l’État central ou déconcentré, une collectivité territoriale, une agence publique, un établissement public ou une autre administration :
+
 * Si vous avez déjà identifié un ou plusieurs problèmes de politique publique, vous pouvez remplir le [formulaire de candidature](https://charlottelecuit.typeform.com/to/NMW4wn). 
 * Si vous n’avez pas encore identifié de problème précis, vous pouvez utiliser le modèle classique d’appel à intrapreneur mis en place par les Startups d'État.
 
