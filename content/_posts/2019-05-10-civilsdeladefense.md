@@ -65,8 +65,11 @@ Nous rencontrons bientôt les recrutés pour recueillir leur retours sur leur ex
 
 Nous sommes d’abord en croissance en interne, pour toucher tous les services mais aussi intégrer de nouvelles populations à recruter (autre types de contrats moins classiques comme les apprentis...). Nous allons aussi développer une gestion de viviers afin de mutualiser les profils.
 
-Mais ce produit répond à des problèmes fréquents dans l’administration (manque de visibilité, complexité des circuits, forte concurrence sur des métiers en tension…). Comme tous les produits beta.gouv.fr le logiciel est libre et donc, en théorie, réutilisable par tous les ministères intéressés.
+Mais ce produit répond à des problèmes fréquents dans l’administration (manque de visibilité, complexité des circuits, forte concurrence sur des métiers en tension…). Comme tous les produits beta.gouv.fr le logiciel est libre et donc réutilisable par tous les ministères intéressés.
 
 Nous avons déjà fait des présentations à plusieurs d’entre eux. Le parcours candidat que nous avons élaboré et les rôles que nous avons créés dans l’outil (employer, RH etc..) sont facilement transposables. Le design du produit est volontairement générique et aucune spécificité propre au recrutement des Armées n’a été intégrée au service.
 
-N’hésitez pas à nous contacter pour une présentation ou un accompagnement pour ceux qui seraient intéressés par une reprise !
+Pour réutiliser Civils de la Défense, deux options s'offrent à vous :
+
+1. Installer votre propre instance à partir de [dépôt Github](https://github.com/betagouv/civilsdeladefense).
+2. Utiliser le logiciel depuis internet sans rien installer chez vous. Pour plus d'informations, contactez-nous sur [infos@fabnum.fr](mailto:infos@fabnum.fr?subject=Demande d'information Civils de la Défense&)
