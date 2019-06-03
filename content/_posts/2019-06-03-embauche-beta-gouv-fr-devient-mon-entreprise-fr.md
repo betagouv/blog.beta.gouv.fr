@@ -3,8 +3,8 @@ layout: post
 title: Embauche.beta.gouv.fr devient mon-entreprise.fr
 date: '2019-06-03'
 authors:
-  - girod.johan
-categories: presse
+  - johan.girod
+categories: dinsic
 tags: mon-entreprise.fr
 excerpt: ''
 ---
