@@ -6,7 +6,11 @@ authors:
   - johan.girod
 categories: dinsic
 tags: mon-entreprise.fr
-excerpt: ''
+excerpt: >-
+  En mai 2019, embauche.beta.gouv.fr s'enrichit et devient mon-entreprise.fr.
+  Vous pourrez y trouver, en plus de l'incontournable simulateur d'embauche, de
+  nouveaux services destinés aux créateurs d'entreprise, dont trois simulateurs
+  de cotisations pour dirigeant inédits.
 ---
 
 # Embauche.beta.gouv.fr devient mon-entreprise.fr 
