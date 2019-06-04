@@ -41,7 +41,7 @@ Depuis, le simulateur n'a jamais cessé d'évoluer :
 * ✨ de nouvelles fonctionnalités ont vu le jour (sauvegarde de la simulation précédente, intégration du simulateur sur des sites extérieurs...)
 * ⚡ la performance a été améliorée (temps de calcul réduit, pas de lag, même sur mobile) 
 
-Et le succès a été au rendez-vous, puisque ce sont plus de **130 000** fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 4 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
+Et le succès a été au rendez-vous, puisque ce sont plus de **130 000 fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 4 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
 ![](https://pad.etalab.studio/uploads/upload_2ed328f200936165eeb6cb5236f60e08.png)
 
 ## Mon-entreprise.fr
@@ -67,7 +67,7 @@ Cela passe notamment par :
 * **la possibilité de laisser des commentaires** sur le site, ainsi que votre email si vous souhaitez une réponse
 * **des sondages et questionnaires** où vous pourrez nous communiquer vos difficultés et frustrations en tant que créateur d'entreprise, pour que nous puissions y répondre au mieux lors des prochaines versions du site.
 
- [\>> 👉 Répondre à notre dernier sondage (moins de 3 min) <<](https://startupdetat.typeform.com/to/TSqq99)
+ [\ 👉 Répondre à notre dernier sondage (moins de 3 min) ](https://startupdetat.typeform.com/to/TSqq99)
 
 Les prochaines pistes de développement : 
 
