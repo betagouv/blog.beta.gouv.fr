@@ -7,28 +7,24 @@ authors:
 categories: dinsic
 tags: mon-entreprise.fr
 excerpt: >-
-  Embauche.beta.gouv.fr s'enrichit et devient mon-entreprise.fr. Vous pourrez y
-  trouver, en plus de l'incontournable simulateur d'embauche, de nouveaux
+  Le simulateur d'embauche s'enrichit et devient mon-entreprise.fr. Vous pourrez
+  y trouver, en plus de l'incontournable simulateur d'embauche, de nouveaux
   services destinés aux créateurs d'entreprise, dont trois simulateurs de
   cotisations pour dirigeant inédits.
 ---
-# Embauche.beta.gouv.fr devient mon-entreprise.fr
+# Le simulateur d'embauche devient [mon-entreprise.fr](https://mon-entreprise.fr)
 
-Embauche.beta.gouv.fr s'enrichit et devient mon-entreprise.fr. 
-Vous pourrez y trouver, en plus de l'incontournable simulateur d'embauche, de nouveaux services destinés aux créateurs d'entreprise.
+Le simulateur d'embauche s'enrichit et devient mon-entreprise.fr. 
+Vous pourrez y trouver, en plus de l'incontournable simulateur d'embauche, de nouveaux services destinés aux créateurs d'entreprise. 
 
-**Un accompagnement personnalisé** :
+Ceux-ci pourront comparer les différences entre les statuts juridiques de manière inédite afin de choisir celui le plus adapté à leur situation. 
+![](https://pad.etalab.studio/uploads/upload_663d56fe53f10b1f0253c7d2d4b3b529.png)
 
-* une aide au choix du statut juridique
-* une liste des formalités pour créer son entreprise
-* un comparatif des différents régimes de protection sociale
-* une liste des formalités administratives à effectuer dès l'embauche d'un nouveau salarié
 
-**3 nouveaux simulateurs de cotisations**
-
-* assimilé salarié (SASU, SAS ou pour une SARL si gérant ou associé minoritaire)
-* indépendant (Entreprise individuelle, EURL ou pour une SARL si gérant ou associé majoritaire)
-* auto-entrepreneur
+Parmi les autres nouveauté, on trouve également **3 nouveaux simulateurs de rémunération** pour dirigeant d'entreprises, permettant de simuler ses cotisations et impôt à l'euro près.
+* [assimilé salarié](https://mon-entreprise.fr/sécurité-sociale/assimilé-salarié) (SASU, SAS ou pour une SARL si gérant ou associé minoritaire)
+* [indépendant](https://mon-entreprise.fr/sécurité-sociale/indépendant) (Entreprise individuelle, EURL ou pour une SARL si gérant ou associé majoritaire)
+* [auto-entrepreneur](https://mon-entreprise.fr/sécurité-sociale/auto-entrepreneur)
 
 Ces 3 simulateurs intègrent la nouvelle réduction de cotisations ACRE 2019 et permettent de connaître une estimation des cotisations et impôts :
     - en partant d'une rémunération net (combien je souhaite toucher sur mon compte en banque)
@@ -82,10 +78,11 @@ Cela passe notamment par :
 Les prochaines pistes de développement : 
 
 * Un parcours dédié pour les revenus issus des plateformes en ligne (Airbnb, Leboncoin, Blablacar...)
-* Amélioration des simulateurs (heures supplémentaires, contrat pro, impôt sur les sociétés, ...)
+* Amélioration des simulateurs (heures supplémentaires, contrat pro, impôt sur les sociétés, contrats unique d'insertion...)
 * Accéder et compléter sa situation plus facilement sur tout le site
 * Se connecter pour sauvegarder et retrouver ses informations, sur tout support
 * Partager ses simulations
+* Editer des fiches de paie pour les dirigeants de SASU
 * ... et tout ce que vous jugerez nécessaire !
 
 L'équipe mon-entreprise.fr
