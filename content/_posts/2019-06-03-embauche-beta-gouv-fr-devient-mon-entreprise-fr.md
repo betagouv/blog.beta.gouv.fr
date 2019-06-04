@@ -47,7 +47,7 @@ Et le succès a été au rendez-vous, puisque ce sont plus de **130 000 fiches d
 ## Mon-entreprise.fr
 
 Début 2018, l'Acoss (la caisse nationale des URSSAF) nous a contactés avec une proposition : améliorer le simulateur, le traduire, et l'intégrer dans un nouveau site à destination des entreprises étrangères. 
-Quelques mois plus tard, le site mycompanyinfrance.fr est lancé, avec pour but de guider les entrepreneurs étrangers dans leur installation en France, depuis le choix du statut juridique jusqu'à la première embauche.
+Quelques mois plus tard, le site [mycompanyinfrance.fr](https://mycompanyinfrance.fr) est lancé, avec pour but de guider les entrepreneurs étrangers dans leur installation en France, depuis le choix du statut juridique jusqu'à la première embauche.
 
 On s'aperçoit vite du potentiel d'un tel site, y compris pour les créateurs français. 
 En effet, bien qu'il y ait un gros volume de documentation officielle destinée aux créateurs d'activité, celle-ci :
@@ -60,7 +60,7 @@ Le site est donc traduit en français et, dans la foulée, sont développés les
 
 ## Et maintenant ?
 
-Mon-entreprise.fr a pour mission de faciliter la vie du créateur d'entreprise, en proposant un accompagnement personnalisé, facile d'accès et utile. Dans la continuité de la méthode [Startup d'État](https://beta.gouv.fr/) qui a été la nôtre jusqu'à présent, nous voulons construire un site qui réponde au besoin **des usagers** avant ceux de l'administration. 
+[Mon-entreprise.fr](https://mon-entreprise.fr) a pour mission de faciliter la vie du créateur d'entreprise, en proposant un accompagnement personnalisé, facile d'accès et utile. Dans la continuité de la méthode [Startup d'État](https://beta.gouv.fr/) qui a été la nôtre jusqu'à présent, nous voulons construire un site qui réponde au besoin **des usagers** avant ceux de l'administration. 
 Cela passe notamment par :
 
 * **des rencontres usagers**, au cours desquelles nous récupérons vos besoins et nous vous faisons tester les dernières fonctionnalités développées
