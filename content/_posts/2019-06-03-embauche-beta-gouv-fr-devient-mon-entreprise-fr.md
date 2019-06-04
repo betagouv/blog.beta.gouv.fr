@@ -67,7 +67,7 @@ Cela passe notamment par :
 * **la possibilité de laisser des commentaires** sur le site, ainsi que votre email si vous souhaitez une réponse
 * **des sondages et questionnaires** où vous pourrez nous communiquer vos difficultés et frustrations en tant que créateur d'entreprise, pour que nous puissions y répondre au mieux lors des prochaines versions du site.
 
- [\ 👉 Répondre à notre dernier sondage (moins de 3 min) ](https://startupdetat.typeform.com/to/TSqq99)
+👉 [Répondre à notre dernier sondage (moins de 3 min) ](https://startupdetat.typeform.com/to/TSqq99) 👈
 
 Les prochaines pistes de développement : 
 
