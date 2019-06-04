@@ -41,7 +41,7 @@ Depuis, le simulateur n'a jamais cessé d'évoluer :
 * ✨ de nouvelles fonctionnalités ont vu le jour (sauvegarde de la simulation précédente, intégration du simulateur sur des sites extérieurs...)
 * ⚡ la performance a été améliorée (temps de calcul réduit, pas de lag, même sur mobile) 
 
-Et le succès a été au rendez-vous, puisque ce sont plus de **130 000 fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 4 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
+Et le succès a été au rendez-vous, puisque ce sont plus de **130 000 fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 3 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
 ![](https://pad.etalab.studio/uploads/upload_2ed328f200936165eeb6cb5236f60e08.png)
 
 ## Mon-entreprise.fr
@@ -56,7 +56,7 @@ En effet, bien qu'il y ait un gros volume de documentation officielle destinée 
 * **manque de contexte** : que vous soyez artisant ou directeur de SARL, c'est à vous de trier les informations qui s'appliquent à votre cas.
 * **est compliquée** : si vous pouvez facilement trouver les différents taux de cotisations pour un indépendant, calculer précisément combien il vous reste après prélèvement relève d'une autre paire de manche.
 
-Le site est donc traduit en français et, dans la foulée, sont développés les trois nouveaux simulateurs à destination des dirigeants. C'est le lancement de https://mon-entreprise.fr
+Le site est donc traduit en français et, dans la foulée, sont développés les trois nouveaux simulateurs à destination des dirigeants. C'est le lancement de [mon-entreprise.fr](https://mon-entreprise.fr)
 
 ## Et maintenant ?
 
