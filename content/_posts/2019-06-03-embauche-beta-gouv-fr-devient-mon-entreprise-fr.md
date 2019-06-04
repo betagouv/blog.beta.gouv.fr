@@ -41,7 +41,7 @@ Depuis, le simulateur n'a jamais cessé d'évoluer :
 * ✨ de nouvelles fonctionnalités ont vu le jour (sauvegarde de la simulation précédente, intégration du simulateur sur des sites extérieurs...)
 * ⚡ la performance a été améliorée (temps de calcul réduit, pas de lag, même sur mobile) 
 
-Et le succès a été au rendez-vous, puisque ce sont plus de **130 000* fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 4 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
+Et le succès a été au rendez-vous, puisque ce sont plus de **130 000** fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 4 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
 ![](https://pad.etalab.studio/uploads/upload_2ed328f200936165eeb6cb5236f60e08.png)
 
 ## Mon-entreprise.fr
