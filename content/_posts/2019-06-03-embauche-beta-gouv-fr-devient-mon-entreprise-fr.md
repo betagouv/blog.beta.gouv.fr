@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embauche.beta.gouv.fr devient mon-entreprise.fr
+title: Le simulateur d'embauche devient mon-entreprise.fr
 date: '2019-06-03'
 authors:
   - johan.girod
@@ -8,12 +8,10 @@ categories: dinsic
 tags: mon-entreprise.fr
 excerpt: >-
   Le simulateur d'embauche s'enrichit et devient mon-entreprise.fr. Vous pourrez
-  y trouver, en plus de l'incontournable simulateur d'embauche, de nouveaux
-  services destinés aux créateurs d'entreprise, dont trois simulateurs de
-  cotisations pour dirigeant inédits.
+  y découvrir tout un tas de nouveaux services destinés aux créateurs
+  d'entreprise, avec notamment un comparatif personnalisé des différents statuts
+  juridique, complètement inédit.
 ---
-# Le simulateur d'embauche devient [mon-entreprise.fr](https://mon-entreprise.fr)
-Le simulateur d'embauche s'enrichit et devient mon-entreprise.fr. Vous pourrez y découvrir tout un tas de nouveaux services destinés aux créateurs d'entreprise, dont notament un comparatif personalisé des différents statuts juridique, complètement inédit.
 ![](https://pad.etalab.studio/uploads/upload_bea11a3c4b0fd30d57d6e68ffccb22a5.png)
 
 
