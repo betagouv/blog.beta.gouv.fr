@@ -16,9 +16,9 @@ excerpt: >-
 
 
 Parmi les autres nouveauté, on trouve également **3 nouveaux simulateurs de rémunération** pour dirigeant d'entreprises, permettant de simuler ses cotisations et impôt à l'euro près :
-- [assimilé salarié](https://mon-entreprise.fr/sécurité-sociale/assimilé-salarié) (SASU, SAS ou pour une SARL si gérant ou associé minoritaire)
-- [indépendant](https://mon-entreprise.fr/sécurité-sociale/indépendant)(Entreprise individuelle, EURL ou pour une SARL si gérant ou associé majoritaire)
-- [auto-entrepreneur](https://mon-entreprise.fr/sécurité-sociale/auto-entrepreneur)
+- ☂️ [assimilé salarié](https://mon-entreprise.fr/sécurité-sociale/assimilé-salarié) *(SASU, SAS ou pour une SARL si gérant ou associé minoritaire)*
+- 👩‍🔧 [indépendant](https://mon-entreprise.fr/sécurité-sociale/indépendant) *(Entreprise individuelle, EURL ou pour une SARL si gérant ou associé majoritaire)*
+- 🚶 [auto-entrepreneur](https://mon-entreprise.fr/sécurité-sociale/auto-entrepreneur)
 
 Ces 3 simulateurs intègrent la nouvelle réduction de cotisations ACRE 2019 et permettent de connaître une estimation des cotisations et impôts :
 - en partant d'une rémunération net (combien je souhaite toucher sur mon compte en banque)
