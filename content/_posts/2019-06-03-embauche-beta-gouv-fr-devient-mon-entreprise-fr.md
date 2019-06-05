@@ -12,6 +12,7 @@ excerpt: >-
   y découvrir tout un tas de nouveaux services destinés aux créateurs
   d'entreprise, avec notamment un comparatif personnalisé des différents statuts
   juridique, complètement inédit.
+ 
 ---
 ![](https://pad.etalab.studio/uploads/upload_bea11a3c4b0fd30d57d6e68ffccb22a5.png)
 
@@ -25,9 +26,9 @@ Ces 3 simulateurs intègrent la nouvelle réduction de cotisations ACRE 2019 et 
 - en partant d'une rémunération net (combien je souhaite toucher sur mon compte en banque)
 - ou en partant du montant total alloué à la rémunération du dirigeant 
 
-## De l'embauche à la création
+## Le simulateur d'embauche évolue...
 
-Cette évolution est une étape dans la continuité de l'histoire du simulateur et de l'équipe qui est derrière, dont la genèse remonte à 2014. A l'époque, un groupe s'est constitué à l'intérieur des services de modernisation de l'État avec pour mission rien de moins que la création d'un logiciel de paie publique, libre et à destination des TPE. 
+L'origine du simulateur remonte à 2014. À l'époque, une poignée de personnes se réunissent à l'intérieur des services de modernisation de l'État avec pour mission rien de moins que la création d'un logiciel de paie publique, libre et à destination des TPE. 
 
 Devant l'ampleur de la tâche, et notamment la difficulté d'intégrer les spécificités des 600 conventions collectives existantes, l'ambition initiale est abandonnée. Mais de ces travaux naîtra le simulateur d'embauche : un outil unique permettant d'estimer d'un seul coup l'ensemble des cotisations et taxes touchant à l'embauche en France. 
 
@@ -35,7 +36,7 @@ Devant l'ampleur de la tâche, et notamment la difficulté d'intégrer les spéc
 
    _Le tout premier simulateur d'embauche_
 
-Depuis, le simulateur n'a jamais cessé d'évoluer :
+Depuis, le simulateur n'a jamais cessé de s'améliorer
 
 * 📖 la couverture législative s'est renforcée (ajout du CDD, forfait social, prélèvement de l'impôt à la source), 
 * 🎨 l'interface s'est améliorée (meilleure explication des calculs, vue fiche de paie et cotisations)
@@ -45,7 +46,11 @@ Depuis, le simulateur n'a jamais cessé d'évoluer :
 Et le succès a été au rendez-vous, puisque ce sont plus de **130 000 fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 3 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
 ![](https://pad.etalab.studio/uploads/upload_2ed328f200936165eeb6cb5236f60e08.png)
 
-## Mon-entreprise.fr
+> Bon à savoir :
+>  - Tout le code informatique derrière le simulateur est libre, c'est à dire [accessible](https://github.com/betagouv/syso) et réutilisable par tous
+>  - L'équipe n'a jamais excedé deux personnes (travaillant à temps partiel)
+
+## ... et devient [mon-entreprise.fr](https://mon-entreprise.fr)
 
 Début 2018, l'Acoss (la caisse nationale des URSSAF) nous a contactés avec une proposition : améliorer le simulateur, le traduire, et l'intégrer dans un nouveau site à destination des entreprises étrangères. 
 Quelques mois plus tard, le site [mycompanyinfrance.fr](https://mycompanyinfrance.fr) est lancé, avec pour but de guider les entrepreneurs étrangers dans leur installation en France, depuis le choix du statut juridique jusqu'à la première embauche.
@@ -59,9 +64,10 @@ En effet, bien qu'il y ait un gros volume de documentation officielle destinée 
 
 Le site est donc traduit en français et, dans la foulée, sont développés les trois nouveaux simulateurs à destination des dirigeants. C'est le lancement de [mon-entreprise.fr](https://mon-entreprise.fr)
 
-## Et maintenant ?
+## Et pour la suite ?
 
-[Mon-entreprise.fr](https://mon-entreprise.fr) a pour mission de faciliter la vie du créateur d'entreprise, en proposant un accompagnement personnalisé, facile d'accès et utile. Dans la continuité de la méthode [Startup d'État](https://beta.gouv.fr/) qui a été la nôtre jusqu'à présent, nous voulons construire un site qui réponde au besoin **des usagers** avant ceux de l'administration. 
+[Mon-entreprise.fr](https://mon-entreprise.fr) a pour mission de faciliter la vie du créateur d'entreprise, en proposant un accompagnement personnalisé, facile d'accès et utile. Dans la continuité de la méthode [Startup d'État](https://beta.gouv.fr/) qui a été la nôtre jusqu'à présent, nous voulons construire un site qui réponde au besoin **des usagers** avant ceux de l'administration.
+
 Cela passe notamment par :
 
 * **des rencontres usagers**, au cours desquelles nous récupérons vos besoins et nous vous faisons tester les dernières fonctionnalités développées
