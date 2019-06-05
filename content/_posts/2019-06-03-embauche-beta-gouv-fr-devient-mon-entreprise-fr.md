@@ -6,6 +6,7 @@ authors:
   - johan.girod
 categories: dinsic
 tags: mon-entreprise.fr
+image: /img/posts/2019-06-03-embauche-beta-gouv-devient-mon-entreprise.jpg
 excerpt: >-
   Le simulateur d'embauche s'enrichit et devient mon-entreprise.fr. Vous pourrez
   y découvrir tout un tas de nouveaux services destinés aux créateurs
