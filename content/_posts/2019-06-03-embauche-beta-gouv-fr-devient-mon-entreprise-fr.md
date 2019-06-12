@@ -11,7 +11,7 @@ excerpt: >-
   Le simulateur d'embauche s'enrichit et devient mon-entreprise.fr. Vous pourrez
   y découvrir tout un tas de nouveaux services destinés aux créateurs
   d'entreprise, avec notamment un comparatif personnalisé des différents statuts
-  juridique, complètement inédit.
+  juridiques, complètement inédit.
  
 ---
 ![](https://pad.etalab.studio/uploads/upload_bea11a3c4b0fd30d57d6e68ffccb22a5.png)
@@ -23,12 +23,12 @@ Parmi les autres nouveauté, on trouve également **3 nouveaux simulateurs de r�
 - 🚶 [auto-entrepreneur](https://mon-entreprise.fr/sécurité-sociale/auto-entrepreneur)
 
 Ces 3 simulateurs intègrent la nouvelle réduction de cotisations ACRE 2019 et permettent de connaître une estimation des cotisations et impôts :
-- en partant d'une rémunération net (combien je souhaite toucher sur mon compte en banque)
+- en partant d'une rémunération nette (combien je souhaite toucher sur mon compte en banque)
 - ou en partant du montant total alloué à la rémunération du dirigeant 
 
 ## Le simulateur d'embauche évolue...
 
-L'origine du simulateur remonte à 2014. À l'époque, une poignée de personnes se réunissent à l'intérieur des services de modernisation de l'État avec pour mission rien de moins que la création d'un logiciel de paie publique, libre et à destination des TPE. 
+L'origine du simulateur remonte à 2014. À l'époque, une poignée de personnes se réunissent à l'intérieur des services de modernisation de l'État avec pour mission rien de moins que la création d'un logiciel de paie public, libre et à destination des TPE. 
 
 Devant l'ampleur de la tâche, et notamment la difficulté d'intégrer les spécificités des 600 conventions collectives existantes, l'ambition initiale est abandonnée. Mais de ces travaux naîtra le simulateur d'embauche : un outil unique permettant d'estimer d'un seul coup l'ensemble des cotisations et taxes touchant à l'embauche en France. 
 
@@ -41,7 +41,7 @@ Depuis, le simulateur n'a jamais cessé de s'améliorer
 * 📖 la couverture législative s'est renforcée (ajout du CDD, forfait social, prélèvement de l'impôt à la source), 
 * 🎨 l'interface s'est améliorée (meilleure explication des calculs, vue fiche de paie et cotisations)
 * ✨ de nouvelles fonctionnalités ont vu le jour (sauvegarde de la simulation précédente, intégration du simulateur sur des sites extérieurs...)
-* ⚡ la performance a été améliorée (temps de calcul réduit, pas de lag, même sur mobile) 
+* ⚡ la performance a été améliorée (temps de calcul réduit, pas de ralentissements, même sur mobile) 
 
 Et le succès a été au rendez-vous, puisque ce sont plus de **130 000 fiches de paie** qui sont simulées chaque mois, depuis un simulateur intégré sur **190 sites web**, dont 3 institutionnels (urssaf.fr, pole-emploi.fr, economie.gouv.fr)
 ![](https://pad.etalab.studio/uploads/upload_2ed328f200936165eeb6cb5236f60e08.png)
@@ -59,8 +59,8 @@ On s'aperçoit vite du potentiel d'un tel site, y compris pour les créateurs fr
 En effet, bien qu'il y ait un gros volume de documentation officielle destinée aux créateurs d'activité, celle-ci :
 
 * **est dispersée** à travers les sites des différents acteurs officiels (pôle-emploi, Urssaf, CCI, BPI, infogreffe, ...) et privés (avec souvent une confusion entretenue entre les deux).
-* **manque de contexte** : que vous soyez artisant ou directeur de SARL, c'est à vous de trier les informations qui s'appliquent à votre cas.
-* **est compliquée** : si vous pouvez facilement trouver les différents taux de cotisations pour un indépendant, calculer précisément combien il vous reste après prélèvement relève d'une autre paire de manche.
+* **manque de contexte** : que vous soyez artisan ou directeur de SARL, c'est à vous de trier les informations qui s'appliquent à votre cas.
+* **est compliquée** : si vous pouvez facilement trouver les différents taux de cotisations pour un indépendant, calculer précisément combien il vous reste après prélèvement relève d'une autre paire de manches.
 
 Le site est donc traduit en français et, dans la foulée, sont développés les trois nouveaux simulateurs à destination des dirigeants. C'est le lancement de [mon-entreprise.fr](https://mon-entreprise.fr)
 
