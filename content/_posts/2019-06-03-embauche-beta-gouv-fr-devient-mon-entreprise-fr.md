@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le simulateur d'embauche devient mon-entreprise.fr
-date: '2019-06-03'
+date: '2019-06-11'
 authors:
   - johan.girod
 categories: dinsic
