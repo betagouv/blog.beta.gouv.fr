@@ -6,6 +6,7 @@ authors:
   - charlotte.lecuit
 categories: general
 tags: mes aides
+image: /img/posts/mes_aides.gouv__0.jpg
 excerpt: >-
   Vous l'attendiez, l'équipe Mes Aides met à votre disposition un outil qui vous
   permet de référencer en quelques clics les Centres Communaux et Intercommunaux
