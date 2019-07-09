@@ -22,9 +22,9 @@ Depuis sa création, 34 prestations sociales nationales et aides locales ont ét
 
 L’étape de la mise en contact entre les personnes éligibles et les lieux d’accueil est un moment primordial dans le parcours des usagers, raison pour laquelle nous tenons à valoriser les lieux d'accueil et d'accompagnement.
 
-En fin de simulation sur [mes-aides.gouv.fr](https://mes-aides.gouv.fr/), les points d’accueil physique les plus proches du code postal indiqué par l’utilisateur sont donc affichés, notamment le CCAS ou CIAS auquel dépend la commune où il réside.
+En fin de simulation sur [mes-aides.gouv.fr](https://mes-aides.gouv.fr/), les points d’accueil physique pertinents sont affichés en fonction de la situation géographique des usagers.
 
-C’est notamment en ce sens que Mes Aides ne vient pas en remplacement des aidants et travailleurs sociaux, mais bien en complément de l’accompagnement qu’ils permettent : nous cherchons à outiller les aidants, et à rediriger nos utilisateurs vers eux quand ils en ressentent le besoin.
+En effet, Mes Aides nous permet d'orienter, d'une part, les personnes qui ont besoin d'un accompagnement vers des agents et des travailleurs sociaux et, d'autre part, les personnes à l'aise avec le numérique vers des ressources en ligne.
 
 ![](/img/posts/capture_d___e__cran_2019-06-26_a___18.08.54.png)
 
