@@ -10,8 +10,7 @@ image: /img/posts/courtney-corlew-l5b_jd8ttfg-unsplash.jpg
 excerpt: >-
   Vous l'attendiez, l'équipe Mes Aides met à votre disposition un outil qui vous
   permet de référencer en quelques clics les Centres Communaux et Intercommunaux
-  d'Action Sociale pour leur donner de la visibilité auprès des habitants de
-  leur commune de référence !
+  d'Action Sociale pour leur donner de la visibilité !
 ---
 ## La lutte contre le non-recours aux prestations sociales
 
@@ -21,7 +20,7 @@ Depuis sa création, 34 prestations sociales nationales et aides locales ont ét
 
 ## Comment pouvez-vous contribuer à diminuer ce taux de non-recours ?
 
-L’étape de la mise en contact entre les personnes éligibles et les lieux d’accueil est un moment primordial dans le parcours des utilisateurs, raison pour laquelle nous tenons à valoriser les points d'accueil. 
+L’étape de la mise en contact entre les personnes éligibles et les lieux d’accueil est un moment primordial dans le parcours des usagers, raison pour laquelle nous tenons à valoriser les lieux d'accueil et d'accompagnement.
 
 En fin de simulation sur [mes-aides.gouv.fr](https://mes-aides.gouv.fr/), les points d’accueil physique les plus proches du code postal indiqué par l’utilisateur sont donc affichés, notamment le CCAS ou CIAS auquel dépend la commune où il réside.
 
@@ -32,7 +31,6 @@ C’est notamment en ce sens que Mes Aides ne vient pas en remplacement des aida
 Les Centres Communaux d’Action Sociale (CCAS) font partie des points de repère principaux pour les personnes qui ont besoin d’un accompagnement, puisque les agents et travailleurs sociaux peuvent à la fois accueillir les personnes et les rediriger vers d’autres services. Aujourd’hui, peu de CCAS sont référencés en fin de simulation. Pourtant, nous savons que ce référencement contribue à une meilleure orientation des personnes, tout particulièrement de celles qui se trouvent dans une situation précaire.
 
 Nous avons donc créé un outil qui vous permet d’ajouter de nouvelles informations sur un ou plusieurs CCAS si vous voyez que celles-ci sont absentes ou incomplètes. Que vous travailliez dans un CCAS ou que vous ayez simplement le souhait de contribuer à une meilleure information des personnes, vous êtes invité.e.s à remplir [ce court formulaire](https://betagouv.github.io/ccas/) - cela ne vous prendra qu’une minute !
-
 
 [
 ![](/img/posts/capture_d___e__cran_2019-07-03_a___18.06.23.png)](https://betagouv.github.io/ccas/)
