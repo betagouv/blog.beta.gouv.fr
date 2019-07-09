@@ -4,13 +4,15 @@ title: Donnez de la visibilité aux CCAS et CIAS sur mes-aides.gouv.fr !
 date: '2019-07-02'
 authors:
   - charlotte.lecuit
+  - thomas.guillet
 categories: general
 tags: mes aides
 image: /img/posts/courtney-corlew-l5b_jd8ttfg-unsplash.jpg
 excerpt: >-
-  Vous l'attendiez, l'équipe Mes Aides met à votre disposition [un outil](https://betagouv.github.io/ccas/) qui vous
-  permet de référencer en quelques clics les Centres Communaux et Intercommunaux
-  d'Action Sociale pour leur donner de la visibilité !
+  Vous l'attendiez, l'équipe Mes Aides met à votre disposition [un
+  outil](https://betagouv.github.io/ccas/) qui vous permet de référencer en
+  quelques clics les Centres Communaux et Intercommunaux d'Action Sociale pour
+  leur donner de la visibilité !
 ---
 ## La lutte contre le non-recours aux prestations sociales
 
