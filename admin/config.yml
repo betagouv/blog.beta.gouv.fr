@@ -1,6 +1,5 @@
 backend:
   name: github
-  base_url: https://api.staticweb-01.etalab.gouv.fr
   site_domain: blog.beta.gouv.fr
   repo: betagouv/blog.beta.gouv.fr
   # Personnalisation des messages de commit
