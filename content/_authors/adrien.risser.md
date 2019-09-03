@@ -6,7 +6,7 @@ github: risseraka
 avatar: https://i.goopics.net/wLLYD.png
 missions:
   - start: '2018-10-15'
-    end : '2019-07-15'
+    end : '2019-11-15'
     status: independent
 startups:
   - camino
