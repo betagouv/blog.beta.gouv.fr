@@ -22,7 +22,7 @@ En avril 2019, beta.gouv.fr lançait [le premier appel à projets FAST,](https:/
 
 A la suite de cette 1re édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l’accélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
 
-De ce fait, beta.gouv.fr lance dès aujourd'hui un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets allant de 200 000 à 300 000 euros. 
+Afin de valider cette hypothèse, beta.gouv.fr expérimente dès aujourd'hui le lancement d'un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets allant de 200 000 à 300 000 euros. 
 
 Vous voulez en savoir plus sur le FAST ? Découvrez [notre FAQ dédiée](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) ! Retrouvez ci-dessous, les conditions pour participer à cette 2e édition. 
 
@@ -45,13 +45,13 @@ Sur une durée de 6 à 8 mois, ce ticket permettra de mobiliser des moyens suppl
 
 ## Quel est la nature de l'engagement de l'administration sponsor ?
 
-L'administration ou le groupe d'administrations doit **justifier d’un co-financement de l’équipe à minima à hauteur du ticket d’investissement** (donc de 200 000 à 300 000 euros) sur la période.
+L'administration ou le groupe d'administrations doit **justifier d’un co-financement de l’équipe a minima à hauteur du ticket d’investissement** (donc de 200 000 à 300 000 euros) sur la période.
 
 Ces fonds doivent être soit déjà engagés, soit à engager (le FAST ne saurait être le seul vecteur de financement).
 
 ## Quelle utilisation sera faite du budget global ?
 
-L’ensemble de ce ticket sera utilisé par les marchés Startups d’Etat de la DINSIC (coachs, développeurs, chargés de déploiement). Si vous êtes une administration centrale vous pouvez demander à utiliser les dépenses en AE sur 2019 ou sur 2020 au choix. Autrement, il faudra passer par un fonds de concours. 
+L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d’Etat de la DINSIC pour renforcer l'équipe (coachs, développeurs, chargés de déploiement). Si vous êtes une administration centrale vous pouvez demander à utiliser les dépenses en AE sur 2019 ou sur 2020 au choix. Autrement, il faudra passer par un fonds de concours. _(Si vous avez des questions à ce sujet n'hésitez pas à contacter Jihane Herizi à fast@beta.gouv.fr)_
 
 ## Quelles sont les modalités de candidature ?
 
