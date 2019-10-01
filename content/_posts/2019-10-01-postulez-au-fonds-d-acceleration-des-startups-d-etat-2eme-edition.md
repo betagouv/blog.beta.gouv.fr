@@ -11,9 +11,10 @@ excerpt: >-
   Startups d’État et de Territoire (FAST), qui co-financera l’accélération de
   services publics numériques. 
 
-  1 million d’euros pourront être partagés par les 4 à 5 lauréats. Votre équipe
-  est intéressée ? Vous avez jusqu’au 1er novembre pour envoyer votre
-  candidature !
+  1 million d’euros pourront être partagés par les 4 à 5 lauréats. 
+
+  Votre équipe est intéressée ? Vous avez jusqu’au 1er novembre pour envoyer
+  votre candidature !
 ---
 Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans le secteur public. 
 
