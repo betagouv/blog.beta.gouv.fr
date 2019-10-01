@@ -77,7 +77,7 @@ Chaque lauréat, choisi sur avis du comité, obtiendra un ticket de 200 000 à 3
 
 * L’impact attendu pour l’utilisateur final
 * Un sponsor dans l’administration porteuse
-* L’effet de levier que constitue le cofinancement pour accélérer la Startup d’État
+* L’effet de levier que constitue le cofinancement pour accélérer le service public numérique
 * L’adéquation du sujet avec les six enjeux stratégiques de TECH.GOUV.
 
 L’administration pourra continuer à faire appel à beta.gouv.fr pour l’accompagner dans la phase de consolidation (mentorat par l’équipe consolidation de l’incubateur de la DINSIC).
