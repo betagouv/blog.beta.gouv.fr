@@ -67,7 +67,7 @@ Le dossier de candidature doit préciser clairement :
 
 À la clôture de l’appel à projets, une présélection de 10 à 15 produits est opérée par l’équipe en charge du FAST. 
 
-La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du jury. 
+La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement. 
 
 Les porteurs de projets présélectionnés seront invités à présenter leur candidature sous la forme d’un pitch day devant un comité d'investissement qui aura lieu le vendredi 15 novembre. Ils seront accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
 
@@ -90,7 +90,7 @@ L’administration pourra continuer à faire appel à beta.gouv.fr pour l’acco
 
 À noter : si une administration identifie un projet qui n’est pas éligible au FAST mais qu’elle souhaite tout de même s’engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, elle peut passer par le mode habituel de fonctionnement et établir une convention avec la DINSIC.
 
-## Comment candidater ? 
+## Comment candidater ?
 
 [Cliquez-ici pour compléter le dossier de candidature avant le 1er novembre.](https://www.demarches-simplifiees.fr/commencer/fast2)
 
