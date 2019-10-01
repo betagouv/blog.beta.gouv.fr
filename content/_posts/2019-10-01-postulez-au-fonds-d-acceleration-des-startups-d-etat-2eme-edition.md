@@ -28,7 +28,7 @@ Vous voulez en savoir plus sur le FAST ? Découvrez [notre FAQ dédiée](https:/
 
 ## Quelles sont les conditions spécifiques pour candidater ?
 
-*  Avoir mis en place une solution à un problème de politique publique ou une inititative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
+* Avoir mis en place une solution à un problème de politique publique ou une inititative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
 * Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
 * Avoir une feuille de route produit et de diffusion (pistes d’amélioration du produit, leviers substantiels de diffusion du services) ;
 * Vouloir faire passer ce produit à l’échelle.
@@ -40,8 +40,8 @@ Pour ce ticket, plusieurs administrations peuvent se regrouper pour constituer u
 Sur une durée de 6 à 8 mois, ce ticket permettra de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
 1. Tester plusieurs canaux de diffusion ;
-2.  Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
-3.  Accompagner cette mise en oeuvre de façon opérationnelle.
+2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
+3. Accompagner cette mise en oeuvre de façon opérationnelle.
 
 ## Quel est la nature de l'engagement de l'administration sponsor ?
 
@@ -69,9 +69,7 @@ A la clôture de l’appel à projets, une présélection de 10 à 15 produits e
 
 La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du jury. 
 
-Les porteurs de projets présélectionnés seront invités à présenter leur candidature, sous la forme d’un pitch day devant le jury du FAST qui aura lieu le vendredi 15 novembre. 
-
-Ils seront accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
+Les porteurs de projets présélectionnés seront invités à présenter leur candidature, sous la forme d’un pitch day devant le jury du FAST qui aura lieu le vendredi 15 novembre. Ils seront accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
 
 Chaque lauréat, choisi sur avis du jury, obtiendra un ticket de 200 000 à 300 000 euros.
 
