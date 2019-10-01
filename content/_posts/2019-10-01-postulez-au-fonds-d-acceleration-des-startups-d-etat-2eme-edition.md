@@ -13,14 +13,14 @@ excerpt: >-
 
   1 million d’euros pourront être partagés par les 4 à 5 lauréats. 
 
-  Votre équipe est intéressée ? Vous avez jusqu’au 1er novembre pour envoyer
+  Votre équipe est intéressée ? Vous avez jusqu'au 1er novembre pour envoyer
   votre candidature !
 ---
 Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans le secteur public. 
 
 En avril 2019, Beta.gouv._fr_ lançait [le premier appel à projets FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoires](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
 
-Suite à cette 1ère édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l'acccélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
+Suite à cette 1re édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l’accélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
 
 De ce fait, beta.gouv.fr lance dès aujourd'hui un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets allant de 200 000 à 300 000 euros. 
 
@@ -92,4 +92,4 @@ A noter : si une administration identifie un projet qui n’est pas éligible au
 
 ## J’ai une question, qui puis-je contacter ?
 
-Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à Jihane Herizi à l’adresse fast@beta.gouv.fr.
+Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à Jihane Herizi à l’adresse <mailto:fast@beta.gouv.fr>.
