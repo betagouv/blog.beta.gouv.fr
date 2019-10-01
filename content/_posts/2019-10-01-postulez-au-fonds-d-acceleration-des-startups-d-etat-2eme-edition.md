@@ -7,7 +7,7 @@ authors:
 categories: dinsic
 image: /img/posts/2019-10-01-fast-season-2.png
 excerpt: >-
-  Beta.gouv.fr lance le deuxième appel à projet du Fonds d’accélération des
+  beta.gouv.fr lance le deuxième appel à projet du Fonds d’accélération des
   Startups d’État et de Territoire (FAST), qui co-financera l’accélération de
   services publics numériques. 
 
@@ -18,9 +18,9 @@ excerpt: >-
 ---
 Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans le secteur public. 
 
-En avril 2019, Beta.gouv._fr_ lançait [le premier appel à projets FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoires](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
+En avril 2019, beta.gouv.fr lançait [le premier appel à projets FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoires](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
 
-Suite à cette 1re édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l’accélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
+A la suite de cette 1re édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l’accélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
 
 De ce fait, beta.gouv.fr lance dès aujourd'hui un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets allant de 200 000 à 300 000 euros. 
 
@@ -61,7 +61,7 @@ Le dossier de candidature doit préciser clairement :
 * Son impact sur le réel chiffré ;
 * En cas de passage à l’échelle, les réorganisations et transformations prévues pour pérenniser le produit (sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
 
-Cliquez ici pour compléter le dossier de candidature avant le 1er novembre. 
+[Cliquez-ici pour compléter le dossier de candidature avant le 1er novembre.](https://www.demarches-simplifiees.fr/commencer/fast2)
 
 ## De quel manière se déroulera la sélection ?
 
@@ -89,6 +89,10 @@ L’administration pourra continuer à faire appel à beta.gouv.fr pour l’acco
 * Des projets censés résoudre des problèmes d’organisation interne 
 
 À noter : si une administration identifie un projet qui n’est pas éligible au FAST mais qu’elle souhaite tout de même s’engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, elle peut passer par le mode habituel de fonctionnement et établir une convention avec la DINSIC.
+
+## Comment candidater ? 
+
+[Cliquez-ici pour compléter le dossier de candidature avant le 1er novembre.](https://www.demarches-simplifiees.fr/commencer/fast2)
 
 ## J’ai une question, qui puis-je contacter ?
 
