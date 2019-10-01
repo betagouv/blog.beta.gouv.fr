@@ -24,11 +24,11 @@ Suite à cette 1re édition, nous avons identifié que **le problème principal 
 
 De ce fait, beta.gouv.fr lance dès aujourd'hui un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets allant de 200 000 à 300 000 euros. 
 
-Vous voulez en savoir plus sur le FAST ? Découvrez [notre FAQ dédiée](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) ! Retrouvez ci-dessous, les conditions pour participer à cette 2ème édition. 
+Vous voulez en savoir plus sur le FAST ? Découvrez [notre FAQ dédiée](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) ! Retrouvez ci-dessous, les conditions pour participer à cette 2e édition. 
 
 ## Quelles sont les conditions spécifiques pour candidater ?
 
-* Avoir mis en place une solution à un problème de politique publique ou une inititative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
+* Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
 * Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
 * Avoir une feuille de route produit et de diffusion (pistes d’amélioration du produit, leviers substantiels de diffusion du services) ;
 * Vouloir faire passer ce produit à l’échelle.
@@ -51,7 +51,7 @@ Ces fonds doivent être soit déjà engagés, soit à engager (le FAST ne saurai
 
 ## Quelle utilisation sera faite du budget global ?
 
-L’ensemble de ce ticket sera utilisé par les marchés Startups d’Etat de la DINSIC (coachs, développeurs, chargés de déploiement). Si vous êtes une administration centrale vous pouvez demander à utiliser les dépenses en AE sur 2019 ou sur 2020 au choix autrement il faudra passer par un fonds de concours. 
+L’ensemble de ce ticket sera utilisé par les marchés Startups d’Etat de la DINSIC (coachs, développeurs, chargés de déploiement). Si vous êtes une administration centrale vous pouvez demander à utiliser les dépenses en AE sur 2019 ou sur 2020 au choix. Autrement, il faudra passer par un fonds de concours. 
 
 ## Quelles sont les modalités de candidature ?
 
@@ -65,11 +65,11 @@ Cliquez ici pour compléter le dossier de candidature avant le 1er novembre.
 
 ## De quel manière se déroulera la sélection ?
 
-A la clôture de l’appel à projets, une présélection de 10 à 15 produits est opérée par l’équipe en charge du FAST. 
+À la clôture de l’appel à projets, une présélection de 10 à 15 produits est opérée par l’équipe en charge du FAST. 
 
 La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du jury. 
 
-Les porteurs de projets présélectionnés seront invités à présenter leur candidature, sous la forme d’un pitch day devant un comité d'investissement qui aura lieu le vendredi 15 novembre. Ils seront accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
+Les porteurs de projets présélectionnés seront invités à présenter leur candidature sous la forme d’un pitch day devant un comité d'investissement qui aura lieu le vendredi 15 novembre. Ils seront accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
 
 Chaque lauréat, choisi sur avis du comité, obtiendra un ticket de 200 000 à 300 000 euros.
 
@@ -88,7 +88,7 @@ L’administration pourra continuer à faire appel à beta.gouv.fr pour l’acco
 * Des produits existants avec un cahier des charges des fonctionnalités à développer
 * Des projets censés résoudre des problèmes d’organisation interne 
 
-A noter : si une administration identifie un projet qui n’est pas éligible au FAST mais qu’elle souhaite tout de même s’engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, elle peut passer par le mode habituel de fonctionnement et établir une convention avec la DINSIC.
+À noter : si une administration identifie un projet qui n’est pas éligible au FAST mais qu’elle souhaite tout de même s’engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, elle peut passer par le mode habituel de fonctionnement et établir une convention avec la DINSIC.
 
 ## J’ai une question, qui puis-je contacter ?
 
