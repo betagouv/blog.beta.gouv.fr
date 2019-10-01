@@ -3,9 +3,9 @@ layout: post
 title: 'Postulez au Fonds d’accélération des Startups d’État ! - 2ème édition '
 date: '2019-10-01'
 authors:
-  - Jihane.herizi
+  - jihane.herizi
 categories: dinsic
-image: ''
+image: /img/posts/2019-10-01-fast-season-2.png
 excerpt: >-
   Beta.gouv.fr lance le deuxième appel à projet du Fonds d’accélération des
   Startups d’État et de Territoire (FAST), qui co-financera l’accélération de
