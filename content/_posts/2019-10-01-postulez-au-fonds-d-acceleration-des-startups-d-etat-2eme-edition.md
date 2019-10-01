@@ -92,4 +92,4 @@ L’administration pourra continuer à faire appel à beta.gouv.fr pour l’acco
 
 ## J’ai une question, qui puis-je contacter ?
 
-Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à Jihane Herizi à l’adresse <mailto:fast@beta.gouv.fr>.
+Si vous avez d’autres questions, vous pouvez envoyer un mail à Jihane Herizi à l’adresse <mailto:fast@beta.gouv.fr>.
