@@ -17,7 +17,7 @@ excerpt: >-
 ---
 Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans le secteur public. 
 
-En avril 2019, Beta.gouv._fr_ lançait [le premier appel à projet FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoires](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
+En avril 2019, Beta.gouv._fr_ lançait [le premier appel à projets FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoires](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
 
 Suite à cette 1ère édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l'acccélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
 
@@ -27,13 +27,10 @@ Vous voulez en savoir plus sur le FAST ? Découvrez [notre FAQ dédiée](https:/
 
 ## Quelles sont les conditions spécifiques pour candidater ?
 
-\-> Avoir mis en place une solution à un problème de politique publique ou une inititative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
-
-\-> Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
-
-\-> Avoir une feuille de route produit et de diffusion (pistes d’amélioration du produit, leviers substantiels de diffusion du services) ;
-
-\-> Vouloir faire passer ce produit à l’échelle.
+*  Avoir mis en place une solution à un problème de politique publique ou une inititative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
+* Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
+* Avoir une feuille de route produit et de diffusion (pistes d’amélioration du produit, leviers substantiels de diffusion du services) ;
+* Vouloir faire passer ce produit à l’échelle.
 
 Pour ce ticket, plusieurs administrations peuvent se regrouper pour constituer un dossier de candidature.
 
@@ -41,11 +38,9 @@ Pour ce ticket, plusieurs administrations peuvent se regrouper pour constituer u
 
 Sur une durée de 6 à 8 mois, ce ticket permettra de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
-1/ Tester plusieurs canaux de diffusion ;
-
-2/ Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
-
-3/ Accompagner cette mise en oeuvre de façon opérationnelle.
+1. Tester plusieurs canaux de diffusion ;
+2.  Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
+3.  Accompagner cette mise en oeuvre de façon opérationnelle.
 
 ## Quel est la nature de l'engagement de l'administration sponsor ?
 
@@ -59,7 +54,13 @@ L’ensemble de ce ticket sera utilisé par les marchés Startups d’Etat de la
 
 ## Quelles sont les modalités de candidature ?
 
-Le dossier de candidature doit préciser clairement quel est le problème auquel la solution répond, ainsi que son impact sur le réel chiffré : cliquez ici pour compléter le dossier de candidature avant le 1er novembre. 
+Le dossier de candidature doit préciser clairement :
+
+* Le problème auquel la solution répond ; 
+* Son impact sur le réel chiffré ;
+* En cas de passage à l’échelle, les réorganisations et transformations prévues pour pérenniser le produit (sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
+
+Cliquez ici pour compléter le dossier de candidature avant le 1er novembre. 
 
 ## De quel manière se déroulera la sélection ?
 
@@ -67,42 +68,29 @@ A la clôture de l’appel à projets, une présélection de 10 à 15 produits e
 
 La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du jury. 
 
-Les porteurs de projets présélectionnés sont invités à présenter leur candidature, sous la forme d’un pitch devant le jury du FAST qui aura lieu le vendredi 15 novembre . Ils sont accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
+Les porteurs de projets présélectionnés seront invités à présenter leur candidature, sous la forme d’un pitch day devant le jury du FAST qui aura lieu le vendredi 15 novembre. 
 
-A la fin de ce pitch day, chacun des juré consolidera une liste de 4 à 10 projets qu’il souhaite voir être lauréat en précisant un ordre de préférence. 
+Ils seront accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
 
-Cette liste sera remise à Nadi Bou Hanna, DINSIC et président du jury, qui sélectionnera les lauréats finaux. 
+Chaque lauréat, choisi sur avis du jury, obtiendra un ticket de 200 000 à 300 000 euros.
 
-Chaque lauréat obtiendra un ticket de 100 000 euros à 250 000 euros. De 200 000 à 300 000 euros.
+## Quels seront les critères de sélection du comité d’investissement ?
 
-Sélection le mardi 12 novembre 2019.
+* L’impact attendu pour l’utilisateur final
+* Un sponsor dans l’administration porteuse
+* L’effet de levier que constitue le cofinancement pour accélérer la Startup d’État
+* L’adéquation du sujet avec les six enjeux stratégiques de TECH.GOUV.
 
-Quels sont les critères de sélection du comité d’investissement ?
+L’administration pourra continuer à faire appel à beta.gouv.fr pour l’accompagner dans la phase de consolidation (mentorat par l’équipe consolidation de l’incubateur de la DINSIC).
 
-L’impact attendu pour l’utilisateur final
+## Quels sont les projets non-éligibles au FAST pour cet appel à projets ?
 
-Un sponsor dans l’administration porteuse
+* Des produits en phase d’amorçage qui n’ont pas rencontré leurs premiers utilisateurs
+* Des produits existants avec un cahier des charges des fonctionnalités à développer
+* Des projets censés résoudre des problèmes d’organisation interne 
 
-L’effet de levier que constitue le cofinancement pour accélérer la Startup d’État
+A noter : si une administration identifie un projet qui n’est pas éligible au FAST mais qu’elle souhaite tout de même s’engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, elle peut passer par le mode habituel de fonctionnement et établir une convention avec la DINSIC.
 
-L’adéquation du sujet avec les six enjeux stratégiques de TECH.GOUV.
-
-En cas de passage à l’échelle, quelles sont les réorganisations et transformations prévues pour pérenniser (sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc). L’administration pourra continuer à faire appel à beta.gouv.fr pour l’accompagner dans la phase de consolidation (mentorat par l’équipe consolidation de l’incubateur de la DINSIC).
-
-Projets non-éligibles au FAST pour cet appel à projet
-
-Des produits en phase d’amorçage qui n’ont pas rencontré leurs premiers utilisateurs
-
-Des produits existants avec un cahier des charges des fonctionnalités à développer
-
-Des projets censés résoudre des problèmes d’organisation interne 
-
-Si une administration identifie un projet qui n’est pas éligible au FAST mais qu’elle souhaite tout de même s’engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, elle peut passer par le mode habituel de fonctionnement.
-
-J’ai une question, qui puis-je contacter ?
+## J’ai une question, qui puis-je contacter ?
 
 Si vous avez d’autres questions que celles posées ici, vous pouvez envoyer un mail à Jihane Herizi à l’adresse fast@beta.gouv.fr.
-
-\*Les frais de déplacement le jour du jury ne sont pas pris en charge. Il est possible de prévoir une participation en visioconférence. 
-
-OLD
