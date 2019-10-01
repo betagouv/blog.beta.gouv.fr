@@ -19,23 +19,25 @@ Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans 
 
 En avril 2019, Beta.gouv._fr_ lançait [le premier appel à projet FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoires](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
 
-Suite à cette 1ère édition, nous avons identifié que le problème principal des initiatives d'innovation publique réside dans le passage à l'échelle. Il est en effet beaucoup plus compliqué de financer l'acccélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
+Suite à cette 1ère édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l'acccélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
 
-De ce fait, beta.gouv.fr lance dès aujourd'hui un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser **le passage à échelle avec des tickets** allant de 200 000 à 300 000 euros. 
+De ce fait, beta.gouv.fr lance dès aujourd'hui un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets allant de 200 000 à 300 000 euros. 
 
-## Quelles sont les conditions spécifiques à ce ticket ?
+Vous voulez en savoir plus sur le FAST ? Découvrez [notre FAQ dédiée](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) ! Retrouvez ci-dessous, les conditions pour participer à cette 2ème édition. 
 
-\-> Avoir mis en place une solution à un problème de politique publique ou une inititative locale qui pourrait passer  à l’échelle grâce au levier du numérique ;
+## Quelles sont les conditions spécifiques pour candidater ?
 
-\-> Avoir clairement mesuré l’impact sur le réel de cette solution, de façon chiffrée ;
+\-> Avoir mis en place une solution à un problème de politique publique ou une inititative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
+
+\-> Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
 
 \-> Avoir une feuille de route produit et de diffusion (pistes d’amélioration du produit, leviers substantiels de diffusion du services) ;
 
 \-> Vouloir faire passer ce produit à l’échelle.
 
-Pour ce ticket, il est possible que plusieurs administrations se regroupent pour constituer un dossier de candidature.
+Pour ce ticket, plusieurs administrations peuvent se regrouper pour constituer un dossier de candidature.
 
-## À quoi servira le ticket de financement ? 
+## À quoi servira le ticket de financement ?
 
 Sur une durée de 6 à 8 mois, ce ticket permettra de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
@@ -45,27 +47,27 @@ Sur une durée de 6 à 8 mois, ce ticket permettra de mobiliser des moyens suppl
 
 3/ Accompagner cette mise en oeuvre de façon opérationnelle.
 
-## Quel est la nature de l'engagement de l'administration sponsor ? 
+## Quel est la nature de l'engagement de l'administration sponsor ?
 
 L'administration ou le groupe d'administrations doit **justifier d’un co-financement de l’équipe à minima à hauteur du ticket d’investissement** (donc de 200 000 à 300 000 euros) sur la période.
 
 Ces fonds doivent être soit déjà engagés, soit à engager (le FAST ne saurait être le seul vecteur de financement).
 
-## Quelle utilisation sera fait du budget global ?
+## Quelle utilisation sera faite du budget global ?
 
 L’ensemble de ce ticket sera utilisé par les marchés Startups d’Etat de la DINSIC (coachs, développeurs, chargés de déploiement). Si vous êtes une administration centrale vous pouvez demander à utiliser les dépenses en AE sur 2019 ou sur 2020 au choix autrement il faudra passer par un fonds de concours. 
 
-## Quelles sont les modalités de candidature ? 
+## Quelles sont les modalités de candidature ?
 
-Il Dossier à compléter qui précise clairement quel est le problème auquel la solution répond, quel est son impact sur le réel chiffré.
+Le dossier de candidature doit préciser clairement quel est le problème auquel la solution répond, ainsi que son impact sur le réel chiffré : cliquez ici pour compléter le dossier de candidature avant le 1er novembre. 
 
-Sélection
+## De quel manière se déroulera la sélection ?
 
 A la clôture de l’appel à projets, une présélection de 10 à 15 produits est opérée par l’équipe en charge du FAST. 
 
 La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du jury. 
 
-Les porteurs de projets présélectionnés sont invités à présenter leur candidature, sous la forme d’un pitch devant le jury du FAST. Ils sont accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
+Les porteurs de projets présélectionnés sont invités à présenter leur candidature, sous la forme d’un pitch devant le jury du FAST qui aura lieu le vendredi 15 novembre . Ils sont accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch. 
 
 A la fin de ce pitch day, chacun des juré consolidera une liste de 4 à 10 projets qu’il souhaite voir être lauréat en précisant un ordre de préférence. 
 
