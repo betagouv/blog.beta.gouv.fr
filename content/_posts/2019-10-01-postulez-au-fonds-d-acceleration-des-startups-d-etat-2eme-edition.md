@@ -13,8 +13,8 @@ excerpt: >-
 
   1 million d’euros pourront être partagés par les 4 à 5 lauréats. 
 
-  Votre équipe est intéressée ? Vous avez jusqu'au 1er novembre pour envoyer
-  votre candidature !
+  Votre équipe est intéressée ? Vous avez jusqu'au Lundi 4 novembre 23h59 pour
+  envoyer votre candidature !
 ---
 Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans le secteur public. 
 
@@ -61,7 +61,7 @@ Le dossier de candidature doit préciser clairement :
 * Son impact sur le réel chiffré ;
 * En cas de passage à l’échelle, les réorganisations et transformations prévues pour pérenniser le produit (sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).
 
-[Cliquez-ici pour compléter le dossier de candidature avant le 1er novembre.](https://www.demarches-simplifiees.fr/commencer/fast2)
+[Cliquez-ici pour compléter le dossier de candidature avant le 4 novembre 23h59.](https://www.demarches-simplifiees.fr/commencer/fast2)
 
 ## De quel manière se déroulera la sélection ?
 
@@ -92,7 +92,7 @@ L’administration pourra continuer à faire appel à beta.gouv.fr pour l’acco
 
 ## Comment candidater ?
 
-[Cliquez-ici pour compléter le dossier de candidature avant le 1er novembre.](https://www.demarches-simplifiees.fr/commencer/fast2)
+[Cliquez-ici pour compléter le dossier de candidature avant le 4 novembre 23h59.](https://www.demarches-simplifiees.fr/commencer/fast2)
 
 ## J’ai une question, qui puis-je contacter ?
 
