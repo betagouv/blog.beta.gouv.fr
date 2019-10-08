@@ -26,7 +26,7 @@ A la suite de cette 1re édition, nous avons identifié que **le problème princ
 
 Afin de valider cette hypothèse, beta.gouv.fr expérimente dès aujourd'hui le lancement d'un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques (Etat ou Collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets de cofinancement allant de 200 000 à 300 000 euros. 
 
-Vous voulez en savoir plus sur le FAST ? Découvrez [notre FAQ dédiée](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) ! Retrouvez ci-dessous, les conditions pour participer à cette 2e édition. 
+Vous voulez en savoir plus sur le FAST ? Découvrez [la FAQ dédiée](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) de la 1ère édition  ! Retrouvez ci-dessous, les conditions spécifiques pour participer à cette 2e édition. 
 
 ## Quelles sont les conditions spécifiques pour candidater ?
 
