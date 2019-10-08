@@ -20,7 +20,7 @@ excerpt: >-
 ---
 Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans le secteur public. 
 
-En avril 2019, beta.gouv.fr, lançait [le premier appel à projets FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoires](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
+En avril 2019, beta.gouv.fr, lançait [le premier appel à projets FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoire](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics. 
 
 A la suite de cette 1re édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l’accélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
 
