@@ -9,9 +9,9 @@ authors:
 categories: dinsic
 image: /img/posts/2019-10-01-fast-season-2.png
 excerpt: >-
-  beta.gouv.fr, le réseau des incubateurs de la DINSIC, lance le deuxième appel
-  à projet du Fonds d’accélération des Startups d’État et de Territoire (FAST),
-  qui co-financera l’accélération de services publics numériques. 
+  beta.gouv.fr, le réseau des incubateurs animé par la DINSIC, lance le deuxième
+  appel à projet du Fonds d’accélération des Startups d’État et de Territoire
+  (FAST), qui co-financera l’accélération de services publics numériques. 
 
   1 million d’euros pourront être partagés par les 4 à 5 lauréats. 
 
