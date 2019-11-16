@@ -30,11 +30,11 @@ Pour illustrer cet achat, on peut regarder les dépenses réalisées par le clie
 
 <svg id="chart1" style="background-color: #FAFAFA"></svg>
 
-Avec cette illustration, on voit bien que les flux d'argent ne capturent que partiellement ce processus d'achat.
+Avec cette illustration, on voit bien que les flux d'argent ne capturent que partiellement ce processus d'achat (il ne se passe rien de l'expression de besoin au premier paiement d'une facture).
 
 ## Des processus longs et un suivi plus fin nécessaire
 
-S'il fallait le préciser, l'État français est une grosse organisation. En tant qu'organisation, il a besoin de suivre finement ses dépenses pour s'assurer que tout se passe bien. C'est en particulier le cas quand plusieurs années séparent la livraison de l'expression de besoin.
+S'il fallait le préciser, l'État français est une grosse organisation. En tant qu'organisation, il a besoin de suivre finement ses dépenses pour s'assurer que tout se passe bien. C'est en particulier le cas lorsque la livraison d'une commande intervient plusieurs années après l'expression de besoin associée.
 
 C'est pour cette raison que l'État, en plus de comptabiliser ses dépenses d'argent sonnant et trébuchant, comptabilise ses engagements. À chaque émission de bon de commande, on enregistre une dépense. Ainsi, on se retrouve au sein de l'État avec deux comptes différents&nbsp;:
 - Un compte pour suivre les engagements matérialisés par les bons de commandes. Pour ce compte, on parle d'**autorisations d'engagement** (AE).
