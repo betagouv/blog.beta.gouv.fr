@@ -26,7 +26,7 @@ Un simulateur multi-prestations pour lutter contre les différentes causes du no
 
 - [5,5 années d'existence](https://github.com/betagouv/mes-aides-ui/commit/d76371887f49bf9ecb20b9b267bc697f3b6871ce)
 - Une équipe à 2 équivalents temps plein en moyenne
-- 1 230 000 euros investis depuis le début soit 210 000 € par an en moyenne
+- 1 230 000 euros investis depuis le début soit 210 000 euros par an en moyenne
 - [Des contributions de 16 personnes](https://github.com/betagouv/mes-aides-ui)
 
 
