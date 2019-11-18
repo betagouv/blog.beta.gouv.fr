@@ -22,7 +22,7 @@ excerpt: >-
 - [+ de 1 600 000 familles informées sur leurs droits en 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=year&date=2019-11-07&segment=&category=Goals_Goals&subcategory=General_Overview)
 - [+ de 420 000 familles ont commencé leurs démarches sur 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=year&date=2019-11-07&segment=&category=Goals_Goals&subcategory=General_Overview)
 - [+ de 55% des familles vont au bout d'au moins une démarche](https://mes-aides.gouv.fr/stats)
-- Une équipe à 2 équivalent temps plein en moyenne
+- Une équipe à 2 équivalents temps plein en moyenne
 - 1 230 000 euros investis depuis le début soit 210 000 € par an en moyenne
 - [16 personnes ayant contribuées](https://github.com/betagouv/mes-aides-ui)
 
