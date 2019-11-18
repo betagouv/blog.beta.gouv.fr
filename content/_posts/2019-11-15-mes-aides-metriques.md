@@ -14,8 +14,14 @@ excerpt: >-
   Retour sur son impact et l'investissement associé !
 ---
 
-# [mes-aides.gouv.fr](https://mes-aides.gouv.fr), c'est quoi ?
+## [mes-aides.gouv.fr](https://mes-aides.gouv.fr), c'est quoi ?
 
+Un simulateur multi-prestation pour lutter contre les différentes causes du non-recours aux prestations sociales et ainsi assurer un reste à vivre minimal aux familles qui résident sur le territoire.
+
+
+## En chiffres, ça donne quoi ?
+
+Aujourd’hui, faisons le bilan en s’intéressant aux mesures d’impact identifiées par l’équipe et mettons cet impact en perspective de l’investissement réalisé sur le service public numériques [mes-aides.gouv.fr](https://mes-aides.gouv.fr).
 
 - [5,5 années d'existence](https://github.com/betagouv/mes-aides-ui/commit/d76371887f49bf9ecb20b9b267bc697f3b6871ce)
 - [33 aides dont 13 locales évaluées](https://mes-aides.gouv.fr/)
@@ -24,12 +30,11 @@ excerpt: >-
 - [+ de 55% des familles vont au bout d'au moins une démarche](https://mes-aides.gouv.fr/stats)
 - Une équipe à 2 équivalents temps plein en moyenne
 - 1 230 000 euros investis depuis le début soit 210 000 € par an en moyenne
-- [16 personnes ayant contribuées](https://github.com/betagouv/mes-aides-ui)
+- [16 personnes ayant contribué](https://github.com/betagouv/mes-aides-ui)
 
 
-## Vous voulez en savoir plus ?
+### Vous voulez en savoir plus ?
 
 - Nos statistiques d'usage [sont publiques](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today).
 - La [page `/stats`](https://mes-aides.gouv.fr/stats) [d'usage dans les équipes de beta.gouv.fr](https://blog.beta.gouv.fr/general/2017/03/24/no-more-digital-bullshit-please/) permet de regarder au niveau de chaque prestation.
 - Nous sommes toujours disponibles [pour échanger](mailto:contact@mes-aides.gouv.fr).
-
