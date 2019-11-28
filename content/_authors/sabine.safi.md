@@ -1,14 +1,14 @@
 ---
 fullname: Sabine Safi
-role: PO / Chargée de déploiement
+role: PO / coach
 github: sabinesafi
 missions:
   - start: '2019-02-04'
-    end:
+    end: '2020-06-30'
     status: independent
     employer: lazone
 startups:
     - transport
+    - lotocar
 ---
 
-A renoncé à écrire une biographie percutante.
