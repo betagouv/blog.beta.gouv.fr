@@ -8,7 +8,9 @@ excerpt: >-
   Découvrez dans cet article les lauréats de la 2è édition du Fonds
   d'Accélération des Startups d'État.
 ---
-\-                                                                                                                                                                                        Le FAST a été doté de 5 millions d’euros par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754). Il a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
+5 millions d’euros c'est le montant accordé par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754) pour la dotation du FAST. 
+
+Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
 
 [La 1ère édition en avril 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) avait permis d’aboutir au financement de [3 Startups d'État et de Territoires](https://www.laurentsaintmartin.fr/actualites/articles/le-fast-a-ses-premiers-laureats). 
 
@@ -55,7 +57,7 @@ Les 6 autres produits présentés n’ont pas pu être retenus pour les conditio
 
 ## La suite du FAST
 
-Nous lancerons dans les prochains jours notre 3ème appel à projets à ce Fonds d’accélération qui se clôturera en février.
+Nous lancerons dans les prochains jours notre 3ème appel à projets à ce Fonds d’accélération qui se clôturera en février. Que vous soyez en amorçage, en développement ou en accélération, vous pourrez candidater pour tenter de bénéficier d'un ticket de co-financement de la Direction Interministérielle du Numérique. 
 
 Si vous êtes intéressés pour recevoir cette information, vous pouvez nous faire part de votre intérêt à [fast@beta.gouv.fr](<mailto: fast@beta.gouv.fr>), nous suivre sur nos réseaux sociaux linkedin et twitter à @betagouv ou sur [notre blog](https://blog.beta.gouv.fr).
 
