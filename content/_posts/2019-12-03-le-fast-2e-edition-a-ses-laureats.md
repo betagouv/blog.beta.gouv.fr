@@ -7,7 +7,7 @@ tags: ''
 image: /img/posts/2018-01-08-le-conseil-d-administration.jpg
 excerpt: ''
 ---
-5 millions d’euros c'est le montant accordé par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754) pour la dotation du fonds FAST. 
+5 millions d’euros c'est le montant accordé par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754) pour la dotation du fonds d'Accélération des Startups d'État. 
 
 Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique. [La 1ère édition en avril 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) avait permis d’aboutir au financement de [3 Startups d'État et de Territoires](https://www.laurentsaintmartin.fr/actualites/articles/le-fast-a-ses-premiers-laureats). 
 
