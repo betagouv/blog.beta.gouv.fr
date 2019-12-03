@@ -8,11 +8,11 @@ excerpt: >-
   Découvrez dans cet article les lauréats de la 2è édition du Fonds
   d'Accélération des Startups d'État.
 ---
-5 millions d’euros c'est le montant accordé par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754) pour la dotation du FAST. 
+5 millions d’euros c'est le montant accordé par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754) pour la dotation du fonds FAST. 
 
-Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
+Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique. [La 1ère édition en avril 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) avait permis d’aboutir au financement de [3 Startups d'État et de Territoires](https://www.laurentsaintmartin.fr/actualites/articles/le-fast-a-ses-premiers-laureats). 
 
-[La 1ère édition en avril 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) avait permis d’aboutir au financement de [3 Startups d'État et de Territoires](https://www.laurentsaintmartin.fr/actualites/articles/le-fast-a-ses-premiers-laureats). 
+## FAST 2è édition
 
 En octobre 2019, nous avons lancé [notre deuxième appel à projet FAST](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/) visant à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle. 
 
@@ -28,7 +28,7 @@ Les critères de présélection :
 * Avoir besoin de l’appui de la DINUM pour déployer le produit ;
 * Prévoir un cofinancement de la période d’accélération par son sponsor administratif. 
 
-## Les lauréats de la 2è édition
+## Les lauréats retenus
 
 La Direction interministérielle du numérique (DINUM) a retenu 4 lauréats : 
 
