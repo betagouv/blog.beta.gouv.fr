@@ -8,9 +8,7 @@ excerpt: >-
   Découvrez dans cet article les lauréats de la 2è édition du Fonds
   d'Accélération des Startups d'État.
 ---
-\---
-
-Le FAST a été doté de 5 millions d’euros par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754). Il a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
+\-                                                                                                                                                                                        Le FAST a été doté de 5 millions d’euros par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754). Il a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
 
 [La 1ère édition en avril 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) avait permis d’aboutir au financement de [3 Startups d'État et de Territoires](https://www.laurentsaintmartin.fr/actualites/articles/le-fast-a-ses-premiers-laureats). 
 
