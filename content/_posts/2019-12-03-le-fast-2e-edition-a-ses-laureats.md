@@ -24,6 +24,8 @@ Les critères de présélection :
 * Avoir besoin de l’appui de la DINUM pour déployer le produit ;
 * Prévoir un cofinancement de la période d’accélération par son sponsor administratif. 
 
+## Les lauréats de la 2è édition 
+
 La Direction interministérielle du numérique (DINUM) a retenu 4 lauréats : 
 
 [Lapins](https://beta.gouv.fr/startups/lapins.html) : Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité _(Consortium de collectivités territoriales)_  
@@ -48,6 +50,8 @@ Les 6 autres produits présentés n’ont pas pu être retenus pour les conditio
 * Produits censés résoudre des problèmes d’organisation interne ;
 * Produits encore en amorçage et pas en phase de développement ou d’accélération ;
 * Produits déjà soutenu activement par l’administration porteuse.
+
+## La suite du FAST 
 
 Nous lancerons dans les prochains jours notre 3ème appel à projets à ce Fonds d’accélération qui se clôturera en février.
 
