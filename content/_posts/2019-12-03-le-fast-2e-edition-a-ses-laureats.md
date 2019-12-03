@@ -5,26 +5,10 @@ date: '2019-12-03'
 categories: general
 tags: ''
 excerpt: >
-  Le fonds d’accélération des Startups d’État (FAST) a été doté de 5 millions
-  d’euros par la Loi de Finances pour 2019. Il a pour objectif d’investir dans
-  des projets apportant des solutions concrètes à des problèmes de politique
-  publique.
-
-  La 1ère édition en avril 2019 avait permis d’aboutir au financement de 3
-  Startups d'État et de Territoires. 
-
-
-  En octobre 2019, nous avons lancé notre deuxième appel à projet FAST visant à
-  soutenir des solutions numériques existantes et ayant fait la preuve de leur
-  impact, développées par des administrations publiques, pour en accélérer le
-  développement et en favoriser le passage à échelle. 
-
-  Nous avons reçu 22 candidatures issues de différentes administrations
-  centrales et locales (ministères, chambre de métiers, départements,
-  établissements publics administratifs...) répondant à des problèmes concrets
-  de terrain au plus près des besoins des utilisateurs.
+  Découvrez les lauréats de la 2è édition du Fonds d'accélération des Startups
+  d'État !
 ---
-Le fonds d’’accélération des Startups d’État (FAST) a été doté de 5 millions d’euros par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754). Il a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
+Le fonds d’accélération des Startups d’État (FAST) a été doté de 5 millions d’euros par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754). Il a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
 
 [La 1ère édition en avril 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) avait permis d’aboutir au financement de [3 Startups d'État et de Territoires](https://www.laurentsaintmartin.fr/actualites/articles/le-fast-a-ses-premiers-laureats). 
 
@@ -50,7 +34,7 @@ La Direction interministérielle du numérique (DINUM) a retenu 4 lauréats :
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour:
 
-1.  tester plusieurs canaux de diffusion ;
+1. tester plusieurs canaux de diffusion ;
 2. mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
 3. Accompagner cette mise en oeuvre de façon opérationnelle.
 
