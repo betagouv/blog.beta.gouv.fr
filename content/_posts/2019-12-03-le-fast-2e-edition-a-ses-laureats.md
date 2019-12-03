@@ -5,9 +5,7 @@ date: '2019-12-03'
 categories: general
 tags: ''
 image: /img/posts/2018-01-08-le-conseil-d-administration.jpg
-excerpt: >-
-  Découvrez dans cet article les lauréats de la 2è édition du Fonds
-  d'Accélération des Startups d'État.
+excerpt: ''
 ---
 5 millions d’euros c'est le montant accordé par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754) pour la dotation du fonds FAST. 
 
