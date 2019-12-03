@@ -4,9 +4,24 @@ title: Le FAST 2è édition a ses lauréats !
 date: '2019-12-03'
 categories: general
 tags: ''
-excerpt: >
-  Découvrez les lauréats de la 2è édition du Fonds d'accélération des Startups
-  d'État !
+excerpt: >-
+  Le fonds d’accélération des Startups d’État (FAST) a été doté de 5 millions
+  d’euros par la Loi de Finances pour 2019. Il a pour objectif d’investir dans
+  des projets apportant des solutions concrètes à des problèmes de politique
+  publique.La 1ère édition en avril 2019 avait permis d’aboutir au financement
+  de 3 Startups d'État et de Territoires. 
+
+
+  En octobre 2019, nous avons lancé notre deuxième appel à projet FAST visant à
+  soutenir des solutions numériques existantes et ayant fait la preuve de leur
+  impact, développées par des administrations publiques, pour en accélérer le
+  développement et en favoriser le passage à échelle. 
+
+
+  Nous avons reçu 22 candidatures issues de différentes administrations
+  centrales et locales (ministères, chambre de métiers, départements,
+  établissements publics administratifs...) répondant à des problèmes concrets
+  de terrain au plus près des besoins des utilisateurs.
 ---
 Le fonds d’accélération des Startups d’État (FAST) a été doté de 5 millions d’euros par [la Loi de Finances pour 2019](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754). Il a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
 
