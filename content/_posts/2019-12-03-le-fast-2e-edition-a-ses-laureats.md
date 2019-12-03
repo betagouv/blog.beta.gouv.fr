@@ -39,9 +39,7 @@ La Direction interministérielle du numérique (DINUM) a retenu 4 lauréats :
 
 **Classe à 12** : Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves _(Ministére de l'éducation nationale)._ [En savoir plus](https://classe-a-12.beta.gouv.fr).
 
-**PHOTO en cours de téléchargement**
-
-![]()
+![](/img/posts/laure__ats_fast2.png "Comité de sélection du FAST 2è édition - vendredi 15 novembre 2019 ")
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour:
 
