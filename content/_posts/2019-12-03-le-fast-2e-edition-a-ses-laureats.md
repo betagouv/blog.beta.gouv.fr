@@ -43,6 +43,8 @@ La Direction interministérielle du numérique (DINUM) a retenu 4 lauréats :
 
 **PHOTO en cours de téléchargement**
 
+![]()
+
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour:
 
 1. tester plusieurs canaux de diffusion ;
