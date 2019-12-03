@@ -28,15 +28,15 @@ Les critères de présélection :
 
 La Direction interministérielle du numérique (DINUM) a retenu 4 lauréats : 
 
-**PHOTO en cours de téléchargement**
-
 [Lapins](https://beta.gouv.fr/startups/lapins.html) : **Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité** _(Consortium de collectivités territoriales)_  
 
-[Trackdéchets](https://trackdechets.beta.gouv.fr) ****: **Gérer la traçabilité des déchets, en toute sécurité** _(Ministère de la transition écologique et solidaire)_
+[Trackdéchets](https://trackdechets.beta.gouv.fr) : **Gérer la traçabilité des déchets, en toute sécurité** _(Ministère de la transition écologique et solidaire)_
 
-[Cmachance.fr](https://www.cmachance.fr) ****: **Faciliter la mise en relation entre candidat(e)s et employeurs dans l'artisanat des Hauts-de-France _(_**_Chambre des métiers et de l'Artisanat des Hauts de France)_
+[Cmachance.fr](https://www.cmachance.fr) : **Faciliter la mise en relation entre candidat(e)s et employeurs dans l'artisanat des Hauts-de-France** _(Chambre des métiers et de l'Artisanat des Hauts de France)_
 
-[Classe à 12](https://classe-a-12.beta.gouv.fr) ****: **Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves** _(Ministére de l'éducation nationale)_ 
+[Classe à 12](https://classe-a-12.beta.gouv.fr) : **Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves** _(Ministére de l'éducation nationale)_ 
+
+**PHOTO en cours de téléchargement**
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour:
 
