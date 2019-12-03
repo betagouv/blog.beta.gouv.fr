@@ -4,6 +4,7 @@ title: Le FAST 2è édition a ses lauréats !
 date: '2019-12-03'
 categories: general
 tags: ''
+image: /img/posts/2018-01-08-le-conseil-d-administration.jpg
 excerpt: >-
   Découvrez dans cet article les lauréats de la 2è édition du Fonds
   d'Accélération des Startups d'État.
