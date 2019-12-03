@@ -24,15 +24,15 @@ Les critères de présélection :
 * Avoir besoin de l’appui de la DINUM pour déployer le produit ;
 * Prévoir un cofinancement de la période d’accélération par son sponsor administratif. 
 
-## Les lauréats de la 2è édition 
+## Les lauréats de la 2è édition
 
 La Direction interministérielle du numérique (DINUM) a retenu 4 lauréats : 
 
-[Lapins](https://beta.gouv.fr/startups/lapins.html) : Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité _(Consortium de collectivités territoriales)_  
+****[**Lapins**](https://beta.gouv.fr/startups/lapins.html) : Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité _(Consortium de collectivités territoriales)_  
 
-[Trackdéchets](https://trackdechets.beta.gouv.fr) : Gérer la traçabilité des déchets, en toute sécurité _(Ministère de la transition écologique et solidaire)_
+****[**Trackdéchets**](https://trackdechets.beta.gouv.fr) : Gérer la traçabilité des déchets, en toute sécurité _(Ministère de la transition écologique et solidaire)_
 
-[Cmachance.fr](https://www.cmachance.fr) : Faciliter la mise en relation entre candidat(e)s et employeurs dans l'artisanat des Hauts-de-France _(Chambre des métiers et de l'Artisanat des Hauts de France)_
+****[**Cmachance.fr**](https://www.cmachance.fr) : Faciliter la mise en relation entre candidat(e)s et employeurs dans l'artisanat des Hauts-de-France _(Chambre des métiers et de l'Artisanat des Hauts de France)_
 
 [Classe à 12](https://classe-a-12.beta.gouv.fr) : Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves _(Ministére de l'éducation nationale)_ 
 
@@ -51,7 +51,7 @@ Les 6 autres produits présentés n’ont pas pu être retenus pour les conditio
 * Produits encore en amorçage et pas en phase de développement ou d’accélération ;
 * Produits déjà soutenu activement par l’administration porteuse.
 
-## La suite du FAST 
+## La suite du FAST
 
 Nous lancerons dans les prochains jours notre 3ème appel à projets à ce Fonds d’accélération qui se clôturera en février.
 
