@@ -11,7 +11,7 @@ excerpt: ''
 
 Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique. [La 1ère édition en avril 2019](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) avait permis d’aboutir au financement de [3 Startups d'État et de Territoires](https://www.laurentsaintmartin.fr/actualites/articles/le-fast-a-ses-premiers-laureats). 
 
-## FAST 2è édition
+## FAST - 2è édition
 
 En octobre 2019, nous avons lancé [notre deuxième appel à projet FAST](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/) visant à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle. 
 
