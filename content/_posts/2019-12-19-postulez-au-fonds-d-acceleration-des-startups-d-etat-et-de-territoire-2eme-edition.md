@@ -16,16 +16,57 @@ excerpt: >-
 
   Jusque 1 million d’euros pourront être partagés par plusieurs lauréats.
 
-  Votre équipe est intéressée ? Vous avez jusqu'au Lundi 24 novembre 23h59 pour
+  Votre équipe est intéressée ? Vous avez jusqu'au Lundi 24 février 23h59 pour
   envoyer votre candidature !
 ---
 En avril et en octobre 2019 beta.gouv.fr, lançait [les premier](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) et [second appel](https://blog.beta.gouv.fr/general/2019/12/03/le-fast-2e-edition-a-ses-laureats/) à candidatures qui ont abouti au co-financement de Startups d’État et de Territoire [en amorcage ](https://bit.ly/2KWcIPq)ou [en accélération](https://blog.beta.gouv.fr/general/2019/12/03/le-fast-2e-edition-a-ses-laureats/) en charge de résoudre des problèmes de politique publique remontés par des agents publics.
 
 A la suite de ces deux éditions, nous lançons notre 3è appel à candidatures pour investir dans de nouveaux services / produits issus du secteur public. 
 
-Que vous soyez une administration centrale ou une collectivité territoriale, en amorçage, en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un co-financement de la Direction du Numérique de l'Etat entre 35 000 et 300 000 euros. 
+Que vous soyez une administration centrale ou une collectivité territoriale, en amorçage, en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction du Numérique de l'Etat entre 35 000 et 300 000 euros. 
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la FAQ dédiée ainsi que les conditions spécifiques pour participer à cette 3e édition.
+
+## À propos du FAST
+
+**Quels sont les objectifs du fonds ?**
+
+Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique. En ciblant des problèmes de politique publique remontés par des agents, le FAST cofinance le lancement de Startups d’État ou de Territoires en charge de résoudre les problèmes en question.
+
+Les Startups d’État ou de Territoires financées amorceront ou développeront de façon autonome et incrémentale des solutions numériques aux problèmes retenus.
+
+**Quel est le contexte législatif du fonds ?**
+
+La commission des finances a adopté mardi 23 octobre 2018 un amendement du député Laurent Saint-Martin visant à créer un nouveau Fonds pour l’accélération du financement des Startups d’État (FAST).
+
+Vous pouvez lire [le rapport](http://www.assemblee-nationale.fr/15/budget/plf2019/b1302-tIII-a25.asp#P2071_138754) de l’Assemblée Nationale qui détaille le contexte.
+
+**Quelles sont les modalités d’investissement ?**
+
+L’appel à candidatures de cette 3ème édition cible des projets qui peuvent être autant au stade de l’idée, que déjà en développement. Ils seront cofinancés par le fonds selon les besoins nécessaires pour construire ou développer l'équipe produit. 
+
+L'administration doit s'assurer en amont de la candidature d'être en capacité de financer la même somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 de la DINUM et vous financez 50 000 euros sur [une convention public public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)). 
+
+Le montant du ticket global sera dépensé via le marché Startup d’État de la DINUM pour développer l'équipe nécessaire à construire le produit et le développer (coaching, développement informatique, déploiement utilisateurs...) 
+
+**Qu’est-ce qu’une Startup d’État ?**
+
+Pour mieux comprendre ce qu’est une Startup d’État ou de Territoires, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter [le guide de lancement](https://beta.gouv.fr/content/docs/guide.pdf) des Startups d’État ou de Territoires. Vous pouvez également parcourir [le portefeuille](https://beta.gouv.fr/startups/) des Startups d’État, qui vous donnera une idée des types de problèmes que nous résolvons. 
+
+Les startups d’Etat constituent l’un des principaux leviers de transformation numérique du service public [portés par le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/).
+
+**Comment les projets sont-ils sélectionnés ?**
+
+Que vous représentiez une administration de l’État central ou déconcentré, une agence publique, un établissement public ou une autre administration :
+
+* Si vous avez déjà identifié un ou plusieurs problèmes de politique publique, vous pouvez remplir le [formulaire de candidature](https://charlottelecuit.typeform.com/to/NMW4wn).
+* Si vous n’avez pas encore identifié de problème précis, vous pouvez utiliser le modèle classique d’appel à intrapreneur mis en place par beta.gouv.fr 
+
+Vous devez adresser à tous vos agents un message inspiré du format suivant :
+
+> *Chers agents, votre administration se lance dans une politique d’innovation ambitieuse. Vous êtes confrontés à un problème de politique publique, un irritant récurrent pour les usagers ? Vous avez une idée de solution numérique qui pourrait permettre d’y répondre ? Vous êtes prêts à vous engager au moins six mois à temps plein dans le développement de cette solution ? Postulez pour participer à notre prochain challenge innovation et devenir intrapreneur.*
+
+Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présenter à l’appel à projet et faites leur remplir l'appel à candidature. 
 
 ## Quelles sont les conditions spécifiques pour candidater ?
 
