@@ -113,12 +113,16 @@ Cliquez ici pour compléter le dossier de candidature avant le 24 février 23h59
 * Le produit est lancé ou accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (sponsor + DINUM).
 * Pour l'amorçage, les intrapreneurs suivent une session de formation Alpha et commencent à travailler sur le problème à résoudre.
 
+\---
+
 ## **Quels sont les critères de sélection du comité d’investissement ?**
 
 * L’impact attendu pour l’utilisateur final
 * Un *sponsor* dans l’administration porteuse
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
+
+\---
 
 ## À quoi servira le ticket de cofinancement ?
 
@@ -132,10 +136,8 @@ Sur une durée d'environ mois, ce ticket permettra donc de mobiliser des moyens 
 2. Rencontrer les utilisateurs 
 3. Construire une solution centrée sur leurs besoins
 4. Tester plusieurs canaux de diffusion ;
-
-   1. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
-
-Accompagner cette mise en oeuvre de façon opérationnelle.
+5. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
+6. Accompagner cette mise en oeuvre de façon opérationnelle.
 
 ## Quels sont les projets non-éligibles au FAST
 
@@ -144,7 +146,7 @@ Accompagner cette mise en oeuvre de façon opérationnelle.
 
 ## Comment candidater ?
 
-[Cliquez ici pour compléter le dossier de candidature avant le 4 novembre 23h59.](https://www.demarches-simplifiees.fr/commencer/fast2)
+Cliquez ici pour compléter le dossier de candidature avant le 24 février 23h59.
 
 ## J’ai une question, qui puis-je contacter ?
 
