@@ -27,6 +27,8 @@ Que vous soyez une administration centrale ou une collectivité territoriale, en
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la FAQ dédiée ainsi que les conditions spécifiques pour participer à cette 3e édition.
 
+\---
+
 ## À propos du FAST
 
 **Quels sont les objectifs du fonds ?**
@@ -60,22 +62,66 @@ Les startups d’Etat constituent l’un des principaux leviers de transformatio
 Que vous représentiez une administration de l’État central ou déconcentré, une agence publique, un établissement public ou une autre administration :
 
 * Si vous avez déjà identifié un ou plusieurs problèmes de politique publique, vous pouvez remplir le [formulaire de candidature](https://charlottelecuit.typeform.com/to/NMW4wn).
-* Si vous n’avez pas encore identifié de problème précis, vous pouvez utiliser le modèle classique d’appel à intrapreneur mis en place par beta.gouv.fr 
-
-Vous devez adresser à tous vos agents un message inspiré du format suivant :
+* Si vous n’avez pas encore identifié de problème précis, vous pouvez utiliser le modèle classique d’appel à intrapreneur mis en place par beta.gouv.fr en adressant à tous vos agents un message inspiré du format suivant :
 
 > *Chers agents, votre administration se lance dans une politique d’innovation ambitieuse. Vous êtes confrontés à un problème de politique publique, un irritant récurrent pour les usagers ? Vous avez une idée de solution numérique qui pourrait permettre d’y répondre ? Vous êtes prêts à vous engager au moins six mois à temps plein dans le développement de cette solution ? Postulez pour participer à notre prochain challenge innovation et devenir intrapreneur.*
 
 Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présenter à l’appel à projet et faites leur remplir l'appel à candidature. 
 
+\---
+
 ## Quelles sont les conditions spécifiques pour candidater ?
+
+* Identifier un problème de politique publique précis,
+* Mobiliser un agent public au rôle d’intrapreneur 
+
+*En cas de développement / accélération :* 
 
 * Avoir mis en place une solution à un problème de politique publique ou une initiative locale qui pourrait passer à l’échelle grâce au levier du numérique ;
 * Avoir clairement mesuré l’impact sur le réel de cette solution de façon chiffrée ;
 * Avoir une feuille de route produit et de diffusion (pistes d’amélioration du produit, leviers substantiels de diffusion du service) ;
 * Vouloir faire passer ce produit à l’échelle.
 
-Pour ce ticket, plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+Dans les 2 cas, l'administration doit cofinancer l’investissement demandé à 50%.
+
+Par ailleurs plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
+
+\---
+
+## Quelles sont les modalités de candidature ?
+
+Le dossier de candidature doit préciser clairement :
+
+* Le problème auquel la solution répond et l'idée de solution envisagée.
+* Son impact sur le réel chiffré si elle existe déjà ;
+* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois *(ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).*
+
+L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante (accélération ou consolidation). 
+
+[Cliquez ici pour compléter le dossier de candidature avant le 4 novembre 23h59.](https://www.demarches-simplifiees.fr/commencer/fast2)
+
+\---
+
+## **Quel est le processus de sélection du FAST ?**
+
+* Dans le cas de l'amorçage vous sélectionnez un ou plusieurs problèmes de politique publique au(x)quel(s) vous voulez répondre. Dans le cas de l'accélération, vous sélectionnez un ou plusieurs produits existants ayant un impact mesuré que vous souhaitez déployer. 
+* Vous postulez en remplissant [ce formulaire](https://charlottelecuit.typeform.com/to/NMW4wn)
+* À la clôture de l’appel à candidatures, une présélection de 10 produits maximum est opérée par l’équipe en charge du FAST. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
+* Les candidats retenus sont coachés par les mentors de beta.gouv.fr pendant une demi-journée
+* Les candidats retenus pitchent leur idée devant les membres du comité du FAST,
+* Si votre candidature est retenue, vous signez une convention de partenariat avec la DINUM dans les semaine suivantes,
+* Le produit est lancé ou accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (sponsor + DINUM)
+* Pour l'amorçage, les intrapreneurs suivent une session de formation Alpha et commencent à travailler sur le problème à résoudre.
+
+## **Quels sont les critères de sélection du comité d’investissement ?**
+
+* L’impact attendu pour l’utilisateur final
+* Un *sponsor* dans l’administration porteuse
+* L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
+* L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
+
+
+*
 
 ## À quoi servira le ticket de cofinancement ?
 
@@ -89,50 +135,10 @@ Sur une durée de 6 à 8 mois, ce ticket permettra donc de mobiliser des moyens 
 2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
 3. Accompagner cette mise en oeuvre de façon opérationnelle.
 
-## Quelle est la nature de l'engagement de l'administration sponsor ?
+## Quels sont les projets non-éligibles au FAST 
 
-L'administration ou le groupe d'administrations doit **justifier d’un co-financement de l’équipe a minima à hauteur du ticket d’investissement** (donc de 200 000 à 300 000 euros) sur la période.
-
-Ces fonds doivent être soit déjà engagés, soit à engager (le FAST ne saurait être le seul vecteur de financement).
-
-Ce montant peut également être apporté en ressources humaines allouées au projet.
-
-## Quelles sont les modalités de candidature ?
-
-Le dossier de candidature doit préciser clairement :
-
-* Le problème auquel la solution répond ;
-* Son impact sur le réel chiffré ;
-* En cas de passage à l’échelle réussi, les réorganisations et transformations prévues pour pérenniser le produit après la période de 6 mois *(ex : sécurisation d’une équipe dédiée, modification des processus, recrutements supplémentaires, etc).*
-
-[Cliquez ici pour compléter le dossier de candidature avant le 4 novembre 23h59.](https://www.demarches-simplifiees.fr/commencer/fast2)
-
-## De quelle manière se déroulera la sélection ?
-
-À la clôture de l’appel à projets, une présélection de 10 à 15 produits est opérée par l’équipe en charge du FAST.
-
-La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
-
-Les porteurs de projets présélectionnés seront invités à présenter leur candidature sous la forme d’un pitch day devant un comité d'investissement qui aura lieu le vendredi 15 novembre. Ils seront accompagnés par des coachs de beta.gouv.fr, pendant toute la journée, pour préparer leur pitch.
-
-Chaque lauréat, choisi sur avis du comité, obtiendra un ticket de 200 000 à 300 000 euros.
-
-## Quels seront les critères de sélection du comité d’investissement ?
-
-* L’impact attendu pour l’utilisateur final
-* Un sponsor dans l’administration porteuse
-* L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
-* L’adéquation du sujet avec les six enjeux stratégiques de [TECH.GOUV.](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
-
-L’administration pourra continuer à faire appel à beta.gouv.fr pour l’accompagner dans la phase de consolidation (mentorat par l’équipe consolidation de l’incubateur de la DINSIC).
-
-## Quels sont les projets non-éligibles au FAST pour cet appel à projets ?
-
-* Des produits en phase d’amorçage qui n’ont pas rencontré leurs premiers utilisateurs
 * Des produits existants avec un cahier des charges des fonctionnalités à développer
 * Des projets censés résoudre des problèmes d’organisation interne
-
-À noter : si une administration identifie un projet qui n’est pas éligible au FAST mais qu’elle souhaite tout de même s’engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, elle peut passer par le mode habituel de fonctionnement et établir une convention avec la DINSIC.
 
 ## Comment candidater ?
 
