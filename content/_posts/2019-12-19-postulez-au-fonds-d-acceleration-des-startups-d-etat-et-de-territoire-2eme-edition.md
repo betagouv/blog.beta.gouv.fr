@@ -11,23 +11,21 @@ image: /img/posts/2019-10-01-fast-season-2.jpg
 excerpt: >-
   beta.gouv.fr, le réseau des incubateurs animé par la DINSIC, lance son
   troisième appel à candidatures du Fonds d’accélération des Startups d’État et
-  de Territoire (FAST), qui co-financera l’accélération de services publics
-  numériques.
+  de Territoire (FAST), qui co-financera l’amorçage, le développement ou
+  l'accélération de services publics numériques.
 
   Jusque 1 million d’euros pourront être partagés par plusieurs lauréats.
 
   Votre équipe est intéressée ? Vous avez jusqu'au Lundi 24 novembre 23h59 pour
   envoyer votre candidature !
 ---
-Le fonds FAST a pour objectif d’investir dans des projets d’innovation dans le secteur public.
+En avril et en octobre 2019 beta.gouv.fr, lançait [les premier](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) et [second appel](https://blog.beta.gouv.fr/general/2019/12/03/le-fast-2e-edition-a-ses-laureats/) à candidatures qui ont abouti au co-financement de Startups d’État et de Territoire [en amorcage ](https://bit.ly/2KWcIPq)ou [en accélération](https://blog.beta.gouv.fr/general/2019/12/03/le-fast-2e-edition-a-ses-laureats/) en charge de résoudre des problèmes de politique publique remontés par des agents publics.
 
-En avril 2019, beta.gouv.fr, lançait [le premier appel à projets FAST,](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) qui a abouti au [co-financement de Startups d’État et de Territoire](https://bit.ly/2KWcIPq) en charge de résoudre des problèmes de politique publique remontés par des agents publics.
+A la suite de ces deux éditions, nous lançons notre 3è appel à candidatures pour investir dans de nouveaux services / produits issus du secteur public. 
 
-A la suite de cette 1re édition, nous avons identifié que **le problème principal des initiatives d'innovation publique** réside dans **le passage à l'échelle**. Il est en effet beaucoup plus compliqué de financer l’accélération de produits qui sont prometteurs, que d’en financer l’amorçage ou l’expérimentation.
+Que vous soyez une administration centrale ou une collectivité territoriale, en amorçage, en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un co-financement de la Direction du Numérique de l'Etat entre 35 000 et 300 000 euros. 
 
-Afin de valider cette hypothèse, beta.gouv.fr expérimente dès aujourd'hui le lancement d'un second type d’appel à projet qui vise cette fois à soutenir **des solutions numériques existantes**, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle avec des tickets de cofinancement allant de 200 000 à 300 000 euros.
-
-Vous voulez en savoir plus sur le FAST ? Découvrez [la FAQ dédiée](https://blog.beta.gouv.fr/dinsic/2019/04/19/fonds-dacceleration-des-startups-detat-faq/) de la 1ère édition et retrouvez ci-dessous, les conditions spécifiques pour participer à cette 2e édition.
+Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la FAQ dédiée ainsi que les conditions spécifiques pour participer à cette 3e édition.
 
 ## Quelles sont les conditions spécifiques pour candidater ?
 
