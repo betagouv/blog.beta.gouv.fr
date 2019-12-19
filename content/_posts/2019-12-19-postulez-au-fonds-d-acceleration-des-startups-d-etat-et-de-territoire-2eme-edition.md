@@ -105,12 +105,12 @@ Cliquez ici pour compléter le dossier de candidature avant le 24 février 23h59
 ## **Quel est le processus de sélection du FAST ?**
 
 * Dans le cas de l'amorçage vous sélectionnez un ou plusieurs problèmes de politique publique au(x)quel(s) vous voulez répondre. Dans le cas de l'accélération, vous sélectionnez un ou plusieurs produits existants ayant un impact mesuré que vous souhaitez déployer. 
-* Vous postulez en remplissant ce formulaire
+* Vous postulez en remplissant ce formulaire.
 * À la clôture de l’appel à candidatures, une présélection de 10 produits maximum est opérée par l’équipe en charge du FAST. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
-* Les candidats retenus sont coachés par les mentors de beta.gouv.fr pendant une demi-journée
-* Les candidats retenus pitchent leur idée devant les membres du comité du FAST,
-* Si votre candidature est retenue, vous signez une convention de partenariat avec la DINUM dans les semaine suivantes,
-* Le produit est lancé ou accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (sponsor + DINUM)
+* Les candidats retenus sont coachés par les mentors de beta.gouv.fr pendant une demi-journée.
+* Les candidats retenus pitchent leur idée devant les membres du comité du FAST.
+* Si votre candidature est retenue, vous signez une convention de partenariat avec la DINUM dans les semaine suivantes.
+* Le produit est lancé ou accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (sponsor + DINUM).
 * Pour l'amorçage, les intrapreneurs suivent une session de formation Alpha et commencent à travailler sur le problème à résoudre.
 
 ## **Quels sont les critères de sélection du comité d’investissement ?**
@@ -122,15 +122,20 @@ Cliquez ici pour compléter le dossier de candidature avant le 24 février 23h59
 
 ## À quoi servira le ticket de cofinancement ?
 
-L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d’Etat de la DINSIC pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, chargés de déploiement). Si vous êtes une administration centrale vous pouvez demander à utiliser les dépenses en AE sur 2019 ou sur 2020 au choix.
+L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d’Etat et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, chargés de déploiement). 
 
 Autrement, il faudra passer par un fonds de concours. *(Si vous avez des questions à ce sujet n'hésitez pas à contacter Jihane Herizi à fast@beta.gouv.fr)*
 
-Sur une durée de 6 à 8 mois, ce ticket permettra donc de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
+Sur une durée d'environ mois, ce ticket permettra donc de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
-1. Tester plusieurs canaux de diffusion ;
-2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
-3. Accompagner cette mise en oeuvre de façon opérationnelle.
+1. Investiguer un problème de politique publique
+2. Rencontrer les utilisateurs 
+3. Construire une solution centrée sur leurs besoins
+4. Tester plusieurs canaux de diffusion ;
+
+   1. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
+
+Accompagner cette mise en oeuvre de façon opérationnelle.
 
 ## Quels sont les projets non-éligibles au FAST
 
