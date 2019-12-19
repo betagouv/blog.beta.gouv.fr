@@ -98,14 +98,14 @@ Le dossier de candidature doit préciser clairement :
 
 L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr pour l’accompagner dans la phase suivante (accélération ou consolidation). 
 
-[Cliquez ici pour compléter le dossier de candidature avant le 4 novembre 23h59.](https://www.demarches-simplifiees.fr/commencer/fast2)
+Cliquez ici pour compléter le dossier de candidature avant le 24 février 23h59.
 
 \---
 
 ## **Quel est le processus de sélection du FAST ?**
 
 * Dans le cas de l'amorçage vous sélectionnez un ou plusieurs problèmes de politique publique au(x)quel(s) vous voulez répondre. Dans le cas de l'accélération, vous sélectionnez un ou plusieurs produits existants ayant un impact mesuré que vous souhaitez déployer. 
-* Vous postulez en remplissant [ce formulaire](https://charlottelecuit.typeform.com/to/NMW4wn)
+* Vous postulez en remplissant ce formulaire
 * À la clôture de l’appel à candidatures, une présélection de 10 produits maximum est opérée par l’équipe en charge du FAST. La présélection vérifie les conditions d’éligibilité et s’appuie sur les critères de sélection du comité d'investissement.
 * Les candidats retenus sont coachés par les mentors de beta.gouv.fr pendant une demi-journée
 * Les candidats retenus pitchent leur idée devant les membres du comité du FAST,
@@ -120,9 +120,6 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
-
-*
-
 ## À quoi servira le ticket de cofinancement ?
 
 L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d’Etat de la DINSIC pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, chargés de déploiement). Si vous êtes une administration centrale vous pouvez demander à utiliser les dépenses en AE sur 2019 ou sur 2020 au choix.
@@ -135,7 +132,7 @@ Sur une durée de 6 à 8 mois, ce ticket permettra donc de mobiliser des moyens 
 2. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
 3. Accompagner cette mise en oeuvre de façon opérationnelle.
 
-## Quels sont les projets non-éligibles au FAST 
+## Quels sont les projets non-éligibles au FAST
 
 * Des produits existants avec un cahier des charges des fonctionnalités à développer
 * Des projets censés résoudre des problèmes d’organisation interne
