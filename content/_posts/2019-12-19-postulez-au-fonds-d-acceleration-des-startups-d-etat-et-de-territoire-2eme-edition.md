@@ -132,11 +132,11 @@ Autrement, il faudra passer par un fonds de concours. *(Si vous avez des questio
 
 Sur une durée d'environ mois, ce ticket permettra donc de mobiliser des moyens supplémentaires sur l’accompagnement d’une équipe de développement et de déploiement pour :
 
-1. Investiguer un problème de politique publique
-2. Rencontrer les utilisateurs 
-3. Construire une solution centrée sur leurs besoins
-4. Tester plusieurs canaux de diffusion ;
-5. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
+1. Investiguer un problème de politique publique *(amorçage) ;*
+2. Rencontrer les premiers utilisateurs *(amorçage) ;*
+3. Construire une solution centrée sur leurs besoins *(amorçage) ;*
+4. Tester de nouveaux canaux de diffusion *(développement) ;*
+5. Mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages *(développement)* ;
 6. Accompagner cette mise en oeuvre de façon opérationnelle.
 
 ## Quels sont les projets non-éligibles au FAST
