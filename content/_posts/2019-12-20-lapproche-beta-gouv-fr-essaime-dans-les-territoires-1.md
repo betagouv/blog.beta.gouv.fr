@@ -5,7 +5,7 @@ date: '2019-12-20'
 authors:
   - ines.hijazi@beta.gouv.fr
 categories: dinsic
-tags: 'Territoires, Incubateur, Préincubation'
+tags: 'Territoires, Préincubation'
 ---
 L'année 2019 a été une année particulièrement tournée vers les collectivités territoriales pour l'incubateur de la Direction Interministérielle du Numérique (DINUM).
 
