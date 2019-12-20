@@ -9,9 +9,9 @@ tags: 'Territoires, Préincubation'
 ---
 L'année 2019 a été une année particulièrement tournée vers les collectivités territoriales pour l'incubateur de la Direction Interministérielle du Numérique (DINUM).
 
-Depuis janvier 2019, onze collectivités ont décidé de coopérer avec la DINUM afin d'expérimenter l'approche[beta.gouv.fr](https://slack-redir.net/link?url=http%3A%2F%2Fbeta.gouv.fr)au sein de leur organisation. Deux régions, sept départements, une agglomération et une ville ont effectivement décidé de permettre à leurs agents publics d'apprendre de nouvelles façons de concevoir l'exécution des politiques publiques et de réfléchir à la construction de services publics orientés usagers.
+Depuis janvier 2019, onze collectivités ont décidé de coopérer avec la DINUM afin d'expérimenter l'approche [beta.gouv.fr](https://slack-redir.net/link?url=http%3A%2F%2Fbeta.gouv.fr) au sein de leur organisation. Deux régions, sept départements, une agglomération et une ville ont effectivement décidé de permettre à leurs agents publics d'apprendre de nouvelles façons de concevoir l'exécution des politiques publiques et de réfléchir à la construction de services publics orientés usagers.
 
-Grâce à ces coopérations Etat - Territoires, environ 60 agents publics territoriaux ont été accompagnés pendant 9 semaines dans le cadre du programme de préincubation de[beta.gouv.fr](https://slack-redir.net/link?url=http%3A%2F%2Fbeta.gouv.fr). Leurs objectifs sont simples : conduire l'investigation d'un problème de politique publique et définir des pistes de solutions concrètes pouvant être expérimentées à petite échelle rapidement.
+Grâce à ces coopérations Etat - Territoires, environ 60 agents publics territoriaux ont été accompagnés pendant 9 semaines dans le cadre du programme de préincubation de [beta.gouv.fr](https://slack-redir.net/link?url=http%3A%2F%2Fbeta.gouv.fr). Leurs objectifs sont simples : conduire l'investigation d'un problème de politique publique et définir des pistes de solutions concrètes pouvant être expérimentées à petite échelle rapidement.
 
 A la suite de ce programme, plusieurs sorties sont possibles :
 
