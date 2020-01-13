@@ -7,7 +7,7 @@ authors:
 categories: general
 tags:
 excerpt: >-
-  Florilèges d'améliorations plus ou moins attendues qui nous ont permis d'avoir plus d'impact sans augmenter la taille de l'équipe !
+  Dans cet article, nous allons présenter des améliorations plus ou moins attendues qui nous ont permis d'accroitre notre impact sans faire grossir l'équipe.
 ---
 
 Au sein du collectif [beta.gouv.fr](https://beta.gouv.fr), nous déclinons l'[obsession du service client](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) pour améliorer la qualité des services publics numériques que nous développons.
@@ -20,16 +20,18 @@ C'est particulièrement important en phase de croissance commes l'illustrent tr�
 ![Sans amélioration, le nombre de problèmes augmente avec le nombre d'utilisateurs](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-base.png)
 ![Avec de l'amélioration continue, le nombre de problèmes est stable, la qualité du produit permet d'avoir](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-amelioration.png)
 
+Dans le contexte de Capitain Train, les _tickets_ correspondent aux problèmes signalés par les usagers.
 
-## Comment faire en pratique ?
 
-Pour commencer, il faut être à l'écoute des usagers en ouvrant les canaux de communication.
+## Comment faison-nous en pratique ?
 
-Ensuite, il faut expérimenter des améliorations du service qui rendent autonomes les usagers et leur apportent les réponses aux questions qu'ils se posent.
+Il est très important pour nous d'être à l'écoute des usagers et d'ouvrir au maximum les canaux de communication.
 
-### Prendre en compte le cas général 🙃
+L'organisation en petite équipe autonome pour permet aussi d'expérimenter des améliorations du service qui rendent les usagers autonomes à leur tour et leur apportent les réponses aux questions qu'ils se posent.
 
-> Je suis bloqué sur la première page, je ne suis dans aucune des situations indiquées.
+### Prendre en compte le cas général
+
+> «&nbsp;Je suis bloqué sur la première page, je ne suis dans aucune des situations indiquées.&nbsp;»
 
 En [mars 2017](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=day&date=2017-03-31&segment=&category=Dashboard_Dashboard&subcategory=1), lors d'une campagne de communication nous avons reçu de nombreux messages similaires à celui-là.
 
@@ -60,7 +62,7 @@ Avec cette modification, nous évitons aux usagers de se lancer dans une simulat
 
 > Constat : Malgré cette page intermédiaire, des sollicitations continuent d'arriver au sujet de l'éligibilité aux dispositifs de l'assurance maladie (CMU-C, ACS et plus récemment la CSS).
 
-Une partie du flux provenant d'[ameli.fr](https://www.ameli.fr/) cherche bien à savoir si elle est éligible à des prestations sociales et en particulier à la Couverture maladie universelle complémentaire (CMU-C), l'Aide au paiement d’une complémentaire santé (ACS) et la Complémentaire santé solidaire (CSS).
+Une partie des personnes provenant d'[ameli.fr](https://www.ameli.fr/) cherche bien à savoir si elle est éligible à des prestations sociales et en particulier à la Couverture Maladie Universelle Complémentaire (CMU-C), l'Aide au paiement d’une Complémentaire Santé (ACS) et la Complémentaire Santé Solidaire (CSS).
 
 Pour ces personnes provenant d'ameli.fr, nous avons ajouté une section à la page de résultats qui permet d'expliciter la non-éligiblité à ces trois prestations en fonction des résultats du simulateur. En effet, le parti pris sur Mes Aides était de limiter l'information affichée et de n'afficher que les prestations auxquelles les personnes semblent éligibles.
 
@@ -77,7 +79,7 @@ Avec cette modification, les personnes ne nous contactent plus pour partager leu
 
 > Constat : Cette question, extraite du [simulateur de la prime d'activité sur caf.fr](http://www.caf.fr/allocataires/mes-services-en-ligne/estimer-vos-droits/simulation-prime-d-activite), est à l'origine de nombreux signalements d'écart entre les deux simulateurs.
 
-Pourquoi tant de signalements&nbsp;? Car il faut répondre «&nbsp;Non&nbsp;» lorsque vous êtes toujours en train de rembourser le crédit pour votre logement principal ou si vous êtes hébergé en participant aux frais du logement. C'est d'ailleurs ce qui est précisé dans une infobulle près de la question mais celle-ci n'est pas utilisée en pratique&nbsp;:
+Pourquoi tant de signalements&nbsp;? Car il faut répondre «&nbsp;Non&nbsp;» lorsque l'on est toujours en train de rembourser le crédit pour son logement principal ou si l'on est hébergé en participant aux frais du logement. C'est d'ailleurs ce qui est précisé dans une infobulle près de la question mais celle-ci n'est pas utilisée en pratique&nbsp;:
 ![Capture d'écran de l'infobulle du simulateur de la CAF](/img/posts/2020-01-13-mes-aides-amelioration-continue/ppa-proprietaire-popover.png)
 
 
@@ -92,7 +94,7 @@ En novembre 2019, environ 600 personnes ont cliqué sur ce lien. Informées, ces
 
 ### Aider à aller plus loins dans les démarches
 
-> Constat : Pas assez de personnes qui arrivent sur la page de résultats se lancent dans les démarches
+> Constat : Trop peu de personnes se lancent dans les démarches à partir des liens mis à disposition
 
 Nous avons pu faire ce constat après avoir [mis en place un indicateur](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=day&date=today&segment=&category=Goals_Goals&subcategory=3) pour savoir si les visites débouchaient sur le lancement de démarches. C'est à dire si les personnes cliquaient sur l'un des liens qui les amenaient sur les pages dédiées des sites des organismes sociaux.
 
@@ -103,10 +105,7 @@ Lorsque ce constat a été fait, la page de résultats ressemblait à ça&nbsp;:
 
 À cette époque, nous avons demandé à notre expert de l'expérience usager préféré (UX) de nous aider à modifier la page de résultats pour augmenter le nombre de personnes qui commencent leurs démarches.
 
-La [proposition suivante](https://github.com/jeremiecook/beta.gouv.fr-ux/tree/master/mes-aides) nous a été faite&nbsp;:
-![Wireframe de la page de résultats](https://user-images.githubusercontent.com/1410356/49874493-edfc2980-fe1e-11e8-9401-31c6687168ed.png)
-
-À partir de cette suggestion, [nous avons implémenté](https://github.com/betagouv/mes-aides-ui/pull/990) la version suivante&nbsp;:
+À partir de [cette suggestion](https://github.com/jeremiecook/beta.gouv.fr-ux/tree/master/mes-aides), [nous avons implémenté](https://github.com/betagouv/mes-aides-ui/pull/990) la version suivante&nbsp;:
 <video width="100%" height="690" controls>
 <source src="/img/posts/2020-01-13-mes-aides-amelioration-continue/apres.m4v">
 </video>
@@ -120,18 +119,18 @@ Version | Visites | Conversions | Taux de conversion
 Nouvelle version (A[lternative]) | 20&nbsp;765 | 6&nbsp;605 | 31,81%
 Ancienne version (B[ase]) | 20&nbsp;824 | 4&nbsp;321 | 20,75%
 
-cf. les [statistiques publiques](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-01-31&segment=&category=Goals_Goals&subcategory=3) (Objectif 'Démarche commencée' puis «&nbsp;Objectifs par Attribut de l'utilisateur&nbsp;» puis «&nbsp;Variables personnalisées&nbsp;» et enfin regarde pour «&nbsp;Nom de la variable personnalisée&nbsp;»&nbsp;: resultat).
+Cf. les [statistiques publiques](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-01-31&segment=&category=Goals_Goals&subcategory=3) (Objectif 'Démarche commencée' puis «&nbsp;Objectifs par Attribut de l'utilisateur&nbsp;» puis «&nbsp;Variables personnalisées&nbsp;» et enfin regarde pour «&nbsp;Nom de la variable personnalisée&nbsp;»&nbsp;: «&nbsp;resultat&nbsp;»&nbsp;).
 
-Avec cette nouvelle version, le nombre de personnes qui commencent au moins une démarches a augmenté de plus de 50%&nbsp;!
+Avec cette nouvelle version, le nombre de personnes qui commencent au moins une démarche a augmenté de plus de 50%&nbsp;!
 
 
 ### Plus d'options pour lancer les démarches
 
-> Vous affichez le lien pour les démarches en ligne c'est bien mais, s'il vous plaît, conservez les liens vers les alternatives papier quand elles existent&nbsp;!
+> «&nbsp;Vous affichez le lien pour les démarches en ligne c'est bien mais, s'il vous plaît, conservez les liens vers le formulaire à imprimer quand elles existent&nbsp;!&nbsp;»
 
-Cette remarque nous a été faits lors d'une rencontre avec des travailleurs sociaux dans l'Ardèche en début d'année 2019. L'assistante sociale qui nous a interpellés accompagne des personnes âgées&nbsp;; démunies lorsqu'elles doivent faire leurs démarches en ligne elles sont tout à fait autonomes quand il s'agit de remplir un formulaire papier.
+Cette remarque nous a été faite lors d'une rencontre avec des travailleurs sociaux dans l'Ardèche en début d'année 2019. L'assistante sociale qui nous a interpellés accompagne des personnes âgées&nbsp;; démunies lorsqu'elles doivent faire leurs démarches en ligne elles sont tout à fait autonomes quand il s'agit de remplir un formulaire papier.
 
-Nous avons affiché les alternatives sur la page de résultats pour que les personnes puissent choisir celle qu'elle préfèrent. Nous avons pu constaté que lorsque le téléservice et le formulaire sont affichés près de 20% des personnes choississent le formulaire (Comme pour la Complémentaire santé solidaire en [novembre 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-11-16&segment=&category=General_Actions&subcategory=Events_Events)).
+Nous avons affiché le lien vers le formulaire sur la page de résultats pour que les personnes puissent choisir l'alternative qu'elles préfèrent. Nous avons pu constaté que lorsque le téléservice et le formulaire sont affichés près de 20% des personnes choississent le formulaire (Comme pour la Complémentaire Santé Solidaire en [novembre 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-11-16&segment=&category=General_Actions&subcategory=Events_Events)).
 
 Avec le même objectif, nous avons ajoutons des liens vers des lieux d'accueil physique où les personnes peuvent se rendre pour être accompagner et faire leurs démarches. Pour l'allocation de solidarité aux personnes âgées, environ 10% des personnes choississent d'afficher la liste de ces lieux. Pour un dispositif comme la Complémentaire santé solidaire, seulement 4% mais pour un dispositif comme l'allocation de solidarité aux personnes âgées cela représente près de 10%. Cela s'explique par le fait que le public est plus éloigné du numérique et préfère aller à la rencontre des agents proche de chez eux.
 
@@ -141,7 +140,7 @@ Pour vous faire une meilleure idée, voilà à quoi ça ressemble&nbsp;:
 
 ## Quel bilan ?
 
-Le numérique est un outil que nous devons utiliser pour rendre service aux humains. Les services que nous produisons sont maléables ; facilement modifiables pour s'adapter aux personnes qui les utilisent.
+Le numérique est un outil que nous devons utiliser comme en levier pour améliorer les services rendues aux personnes. Ne voyons pas les solutions numériques comme des objets figés à construire une fois et profitons plutôt de leur caractères intrinséquement maléable pour les adapter et les faire évoluer en même temps que les usages.
 
 
 <style type="text/css">
