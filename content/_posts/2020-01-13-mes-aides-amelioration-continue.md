@@ -16,7 +16,7 @@ Au sein du collectif [beta.gouv.fr](https://beta.gouv.fr), nous déclinons l'[ob
 
 Nous souhaitons créer des services publics numériques performants avec de petites équipes autonomes, nous devons donc être très attentifs à la qualité de ce que nous produisons.
 
-C'est particulièrement important en phase de croissance comme l'illustrent très bien les graphiques suivants repris de la [présentation](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) de [Jonathan Lefèvre](https://medium.com/@djo)&nbsp;:
+C'est particulièrement important en phase de croissance comme l'illustrent très bien les graphiques suivants repris de la [présentation](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) de [Jonathan Lefèvre](https://jonathanlefevre.com)&nbsp;:
 ![Sans amélioration, le nombre de problèmes augmente avec le nombre d'utilisateurs](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-base.png)
 ![Avec de l'amélioration continue, le nombre de problèmes est stable, la qualité du produit permet d'avoir](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-amelioration.png)
 
