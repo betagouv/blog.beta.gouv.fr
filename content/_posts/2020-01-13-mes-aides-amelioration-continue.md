@@ -7,7 +7,7 @@ authors:
 categories: general
 tags:
 excerpt: >-
-  Dans cet article, nous allons présenter des améliorations plus ou moins attendues qui nous ont permis d'accroitre notre impact sans faire grossir l'équipe.
+  Dans cet article, nous allons présenter des améliorations plus ou moins attendues qui nous ont permis d'accroître notre impact sans faire grossir l'équipe.
 ---
 
 Au sein du collectif [beta.gouv.fr](https://beta.gouv.fr), nous déclinons l'[obsession du service client](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) pour améliorer la qualité des services publics numériques que nous développons.
@@ -16,7 +16,7 @@ Au sein du collectif [beta.gouv.fr](https://beta.gouv.fr), nous déclinons l'[ob
 
 Nous souhaitons créer des services publics numériques performants avec de petites équipes autonomes, nous devons donc être très attentifs à la qualité de ce que nous produisons.
 
-C'est particulièrement important en phase de croissance commes l'illustrent très bien les graphiques suivants repris de la [présentation](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) de [Jonathan Lefèvre](https://medium.com/@djo)&nbsp;:
+C'est particulièrement important en phase de croissance comme l'illustrent très bien les graphiques suivants repris de la [présentation](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) de [Jonathan Lefèvre](https://medium.com/@djo)&nbsp;:
 ![Sans amélioration, le nombre de problèmes augmente avec le nombre d'utilisateurs](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-base.png)
 ![Avec de l'amélioration continue, le nombre de problèmes est stable, la qualité du produit permet d'avoir](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-amelioration.png)
 
@@ -66,7 +66,7 @@ Avec cette modification, nous évitons aux usagers de se lancer dans une simulat
 
 Une partie des personnes provenant d'[ameli.fr](https://www.ameli.fr/) cherche bien à savoir si elle est éligible à des prestations sociales et en particulier à la Couverture Maladie Universelle Complémentaire (CMU-C), l'Aide au paiement d’une Complémentaire Santé (ACS) et la Complémentaire Santé Solidaire (CSS).
 
-Pour ces personnes provenant d'ameli.fr, nous avons ajouté une section à la page de résultats qui permet d'expliciter la non-éligiblité à ces trois prestations en fonction des résultats du simulateur. En effet, le parti pris sur Mes Aides était de limiter l'information affichée et de n'afficher que les prestations auxquelles les personnes semblent éligibles.
+Pour ces personnes provenant d'ameli.fr, nous avons ajouté une section à la page de résultats qui permet d'expliciter la non-éligibilité à ces trois prestations en fonction des résultats du simulateur. En effet, le parti pris sur Mes Aides était de limiter l'information affichée et de n'afficher que les prestations auxquelles les personnes semblent éligibles.
 
 Lorsqu'elles y sont éligibles, les personnes ont accès à la page de résultats habituelle&nbsp;:
 ![Extrait de la page de résultats avec les aides](/img/posts/2020-01-13-mes-aides-amelioration-continue/css-eligible.png)
@@ -74,7 +74,7 @@ Lorsqu'elles y sont éligibles, les personnes ont accès à la page de résultat
 Lorsque ces personnes ne sont pas éligibles, une section supplémentaire est ajoutée à la page de résultats pour les informer de leur non-éligibilité&nbsp;:
 ![Version avec le texte « Dans aucune de ces situations&nbsp;? Validez directement ! »](/img/posts/2020-01-13-mes-aides-amelioration-continue/css-non-eligible.png)
 
-Avec cette modification, les personnes ne nous contactent plus pour partager leur incompréhension et pour connaître leur éligiblité à ces dispositifs.
+Avec cette modification, les personnes ne nous contactent plus pour partager leur incompréhension et pour connaître leur éligibilité à ces dispositifs.
 
 
 ### «&nbsp;Vous (ou votre conjoint) êtes propriétaire de votre logement principal ou êtes logés gratuitement&nbsp;?&nbsp;»
@@ -96,7 +96,7 @@ En cliquant dessus, on accède à une page où la différence d'interprétations
 En novembre 2019, environ 600 personnes ont cliqué sur ce lien. Informées, ces personnes n'ont pas eu à nous contacter.
 
 
-### Aider à aller plus loins dans les démarches
+### Aider à aller plus loin dans les démarches
 
 > Constat : Trop peu de personnes se lancent dans les démarches à partir des liens mis à leur disposition en fin de simulation
 
@@ -134,7 +134,7 @@ Avec cette nouvelle version, le nombre de personnes qui commencent au moins une 
 
 Cette remarque nous a été faite lors d'une rencontre avec des travailleurs sociaux en l'Ardèche en début d'année 2019. L'assistante sociale qui nous a interpellés accompagne des personnes âgées&nbsp;; démunies lorsqu'elles doivent faire leurs démarches en ligne elles sont tout à fait autonomes quand il s'agit de remplir un formulaire.
 
-Nous avons donc affiché le lien vers le formulaire sur la page de résultats pour que les personnes puissent choisir l'alternative qu'elles préfèrent. Nous n'avons pas oublié d'enrichir les informations collectées pour savoir dans quelle mesure cette modification était utile aux usagers. Ainsi, nous avons pu constater que lorsque le téléservice et le formulaire sont affichés près de 20% des personnes choississent le formulaire (Comme pour la Complémentaire Santé Solidaire en [novembre 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-11-16&segment=&category=General_Actions&subcategory=Events_Events)).
+Nous avons donc affiché le lien vers le formulaire sur la page de résultats pour que les personnes puissent choisir l'alternative qu'elles préfèrent. Nous n'avons pas oublié d'enrichir les informations collectées pour savoir dans quelle mesure cette modification était utile aux usagers. Ainsi, nous avons pu constater que lorsque le téléservice et le formulaire sont affichés près de 20% des personnes choisissent le formulaire (Comme pour la Complémentaire Santé Solidaire en [novembre 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-11-16&segment=&category=General_Actions&subcategory=Events_Events)).
 
 Concrètement, voilà à quoi ça ressemble&nbsp;:
 ![Extrait de la page de résultats avec les liens pour aller plus loin dans les démarches](/img/posts/2020-01-13-mes-aides-amelioration-continue/ctas.png)
