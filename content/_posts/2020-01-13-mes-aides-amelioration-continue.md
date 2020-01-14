@@ -21,15 +21,15 @@ C'est particulièrement important en phase de croissance comme l'illustrent trè
 ![Sans amélioration, le nombre de problèmes augmente avec le nombre d'utilisateurs](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-base.png)
 ![Avec de l'amélioration continue, le nombre de problèmes est stable, la qualité du produit permet d'avoir](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-amelioration.png)
 
-Dans le contexte de Capitain Train, les _tickets_ correspondent aux problèmes signalés par les usagers. L'amélioration continue permet de faire diminuer la proportion de problèmes par rapport au nombre d'usagers.
+Dans le contexte de Captain Train, les _tickets_ correspondent aux problèmes signalés par les usagers. L'amélioration continue permet de faire diminuer la proportion de problèmes par rapport au nombre d'usagers.
 
 ## Comment faisons-nous en pratique&nbsp;?
 
-Il est très important pour nous d'être à l'écoute des usagers et d'ouvrir au maximum les canaux de communication. Encore aujourd'hui, nous collectons les retours principalement par email même si nous avons aussi créé une page Facebook et un compte Twitter.
+Il est très important pour nous d'être à l'écoute des usagers et d'ouvrir au maximum les canaux de communication. Encore aujourd'hui, nous collectons les retours principalement par courriel même si nous avons aussi créé une page Facebook et un compte Twitter.
 
 Nous profitons aussi de l'organisation en petite équipe autonome qui permet d'expérimenter des améliorations du service qui rendent les usagers autonomes à leur tour et leur apportent les réponses aux questions qu'ils se posent.
 
-Voici quelques exemples d'améliorations que nous avons fait au cours des années précédentes.
+Voici quelques exemples d'améliorations que nous avons faites au cours des années précédentes.
 
 ### Prendre en compte le cas général
 
@@ -43,15 +43,15 @@ En effet, de nombreux utilisateurs croyaient que le simulateur _ne traitait que_
 Pour remédier à ce problème nous avons fait une [première tentative](https://github.com/betagouv/mes-aides-ui/pull/489) qui ressemblait à cela&nbsp;:
 ![Version avec le texte « Dans aucune de ces situations&nbsp;? Validez directement ! »](/img/posts/2020-01-13-mes-aides-amelioration-continue/demandeur-1eret.png)
 
-Au fil des évolutions nous sommes arrivés à la [version suivante](https://mes-aides.gouv.fr/foyer/demandeur)&nbsp;:
+Au fil des évolutions, nous sommes arrivés à la [version suivante](https://mes-aides.gouv.fr/foyer/demandeur)&nbsp;:
 ![Version actuelle avec une case à cocher « Je ne suis dans aucune de ces situations »](/img/posts/2020-01-13-mes-aides-amelioration-continue/demandeur-maintenant.png)
 
-Cette amélioration n'a pas eu d'effet sur les statistiques d'usage mais les personnes ne semblent plus bloquées et nous ne recevons plus d'email sur ce sujet. Nous pouvons consacrer notre temps et notre énergie sur d'autres aspects du simulateur.
+Cette amélioration n'a pas eu d'effet sur les statistiques d'usage mais les personnes ne semblent plus bloquées et nous ne recevons plus d'courriel sur ce sujet. Nous pouvons consacrer notre temps et notre énergie sur d'autres aspects du simulateur.
 
 
 ### Une page dédiée pour le trafic provenant d'ameli.fr
 
-> Constat : 33% du trafic de Mes Aides provient d'[ameli.fr](https://www.ameli.fr/), le site de l'Assurance Maladie et ce trafic génère de nombreuses sollicitations par email.
+> Constat : 33% du trafic de Mes Aides provient d'[ameli.fr](https://www.ameli.fr/), le site de l'Assurance Maladie et ce trafic génère de nombreuses sollicitations par courriel.
 
 Les personnes qui arrivent sur le simulateur ont un problème précis en tête. À vrai dire, la plupart d'entre elles ne cherchent pas à faire une simulation et c'est pour cette raison qu'elles nous contactent.
 
@@ -100,7 +100,7 @@ En novembre 2019, environ 600 personnes ont cliqué sur ce lien. Informées, ces
 
 > Constat : Trop peu de personnes se lancent dans les démarches à partir des liens mis à leur disposition en fin de simulation
 
-Nous avons pu faire ce constat après avoir [mis en place un indicateur](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=day&date=today&segment=&category=Goals_Goals&subcategory=3) pour savoir si les visites débouchaient effectivement sur des démarches. C'est à dire si les personnes cliquent sur l'un des liens qui les amènent sur les pages dédiées des sites des organismes sociaux.
+Nous avons pu faire ce constat après avoir [mis en place un indicateur](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=day&date=today&segment=&category=Goals_Goals&subcategory=3) pour savoir si les visites débouchaient effectivement sur des démarches, autrement dit, si les personnes cliquent sur l'un des liens qui les amènent sur les pages dédiées des sites des organismes sociaux.
 
 Lorsque ce constat a été fait, la page de résultats ressemblait à ça&nbsp;:
 <video width="100%" height="630" controls>
@@ -132,22 +132,21 @@ Avec cette nouvelle version, le nombre de personnes qui commencent au moins une 
 
 > «&nbsp;Vous affichez le lien vers les démarches en ligne c'est bien mais, s'il vous plaît, conservez les liens vers les formulaires à imprimer quand ils existent encore&nbsp;!&nbsp;»
 
-Cette remarque nous a été faite lors d'une rencontre avec des travailleurs sociaux en l'Ardèche en début d'année 2019. L'assistante sociale qui nous a interpellés accompagne des personnes âgées&nbsp;; démunies lorsqu'elles doivent faire leurs démarches en ligne elles sont tout à fait autonomes quand il s'agit de remplir un formulaire.
+Cette remarque nous a été faite lors d'une rencontre avec des travailleurs sociaux en Ardèche en début d'année 2019. L'assistante sociale qui nous a interpellés accompagne des personnes âgées&nbsp;; démunies lorsqu'elles doivent faire leurs démarches en ligne, elles sont tout à fait autonomes quand il s'agit de remplir un formulaire.
 
-Nous avons donc affiché le lien vers le formulaire sur la page de résultats pour que les personnes puissent choisir l'alternative qu'elles préfèrent. Nous n'avons pas oublié d'enrichir les informations collectées pour savoir dans quelle mesure cette modification était utile aux usagers. Ainsi, nous avons pu constater que lorsque le téléservice et le formulaire sont affichés près de 20% des personnes choisissent le formulaire (Comme pour la Complémentaire Santé Solidaire en [novembre 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-11-16&segment=&category=General_Actions&subcategory=Events_Events)).
+Nous avons donc affiché le lien vers le formulaire sur la page de résultats pour que les personnes puissent choisir l'alternative qu'elles préfèrent. Nous n'avons pas oublié d'enrichir les informations collectées pour savoir dans quelle mesure cette modification était utile aux usagers. Ainsi, nous avons pu constater que lorsque le téléservice et le formulaire sont affichés, près de 20% des personnes choisissent le formulaire (Comme pour la Complémentaire Santé Solidaire en [novembre 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=month&date=2019-11-16&segment=&category=General_Actions&subcategory=Events_Events)).
 
 Concrètement, voilà à quoi ça ressemble&nbsp;:
 ![Extrait de la page de résultats avec les liens pour aller plus loin dans les démarches](/img/posts/2020-01-13-mes-aides-amelioration-continue/ctas.png)
 
 Avec le même objectif, vous pouvez voir que nous avons aussi ajouté des liens vers des lieux d'accueil physique où les personnes peuvent se rendre pour être accompagnées et faire leurs démarches.
 
-À titre d'exemples, pour un dispositif comme la Complémentaire Santé Solidaire, seulement 4% mais pour un dispositif comme l'Allocation de Solidarité aux Personnes Âgées cela représente près de 10%. Cela s'explique par le fait que le public est plus éloigné du numérique et préfère aller à la rencontre des agents proche de chez eux.
+À titre d'exemples, pour un dispositif comme la Complémentaire Santé Solidaire, seulement 4% des personnes utilisent ces liens-là mais pour un dispositif comme l'Allocation de Solidarité aux Personnes Âgées cela représente près de 10%. Cela s'explique par le fait que le public est plus éloigné du numérique et préfère aller à la rencontre des agents proche de chez eux.
 
 
 ## En résumé
 
-Le numérique est un outil que nous devons utiliser comme en levier pour améliorer les services rendus aux personnes. Ne voyons pas les solutions numériques comme des objets physiques figés et à construire une fois pour toute mais profitons de leur plasticité pour les adapter en même temps que les usages évoluent.
-
+Le numérique est un outil que nous devons utiliser comme en levier pour améliorer les services rendus aux personnes. Ne voyons pas les solutions numériques comme des objets physiques figés et à construire une fois pour toute, mais profitons de leur plasticité pour les adapter en même temps que les usages évoluent.
 
 <style type="text/css">
 table {
