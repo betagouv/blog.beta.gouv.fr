@@ -7,25 +7,25 @@ authors:
 categories: general
 tags:
 excerpt: >-
-  Dans cet article, nous allons présenter des améliorations plus ou moins attendues qui nous ont permis d'accroître notre impact sans faire grossir l'équipe.
+  Au sein du collectif [beta.gouv.fr](https://beta.gouv.fr), nous déclinons l'[obsession du service client](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) pour améliorer la qualité des services publics numériques que nous développons.
 ---
 
-Au sein du collectif [beta.gouv.fr](https://beta.gouv.fr), nous déclinons l'[obsession du service client](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) pour améliorer la qualité des services publics numériques que nous développons.
+Dans cet article, nous allons présenter des améliorations plus ou moins attendues qui nous ont permis d'accroître notre impact sans faire grossir l'équipe.
+
 
 ## Pourquoi est-ce important&nbsp;?
 
 Nous souhaitons créer des services publics numériques performants avec de petites équipes autonomes, nous devons donc être très attentifs à la qualité de ce que nous produisons.
 
-C'est particulièrement important en phase de croissance comme l'illustrent très bien les graphiques suivants repris de la [présentation](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) de [Jonathan Lefèvre](https://jonathanlefevre.com)&nbsp;:
+C'est particulièrement important en phase de croissance comme l'illustrent très bien le graphique suivant repris de la [présentation](https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9) de [Jonathan Lefèvre](https://jonathanlefevre.com)&nbsp;:
 ![Sans amélioration, le nombre de problèmes augmente avec le nombre d'utilisateurs](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-base.png)
 ![Avec de l'amélioration continue, le nombre de problèmes est stable, la qualité du produit permet d'avoir](/img/posts/2020-01-13-mes-aides-amelioration-continue/ticket-amelioration.png)
 
-Dans le contexte de Capitain Train, les _tickets_ correspondent aux problèmes signalés par les usagers.
-
+Dans le contexte de Capitain Train, les _tickets_ correspondent aux problèmes signalés par les usagers. L'amélioration continue permet de faire diminuer la proportion de problèmes par rapport au nombre d'usagers.
 
 ## Comment faisons-nous en pratique&nbsp;?
 
-Il est très important pour nous d'être à l'écoute des usagers et d'ouvrir au maximum les canaux de communication.
+Il est très important pour nous d'être à l'écoute des usagers et d'ouvrir au maximum les canaux de communication. Encore aujourd'hui, nous collectons les retours principalement par email même si nous avons aussi créé une page Facebook et un compte Twitter.
 
 Nous profitons aussi de l'organisation en petite équipe autonome qui permet d'expérimenter des améliorations du service qui rendent les usagers autonomes à leur tour et leur apportent les réponses aux questions qu'ils se posent.
 
@@ -49,11 +49,11 @@ Au fil des évolutions nous sommes arrivés à la [version suivante](https://mes
 Cette amélioration n'a pas eu d'effet sur les statistiques d'usage mais les personnes ne semblent plus bloquées et nous ne recevons plus d'email sur ce sujet. Nous pouvons consacrer notre temps et notre énergie sur d'autres aspects du simulateur.
 
 
-### Une page dédié pour le trafic provenant d'ameli.fr
+### Une page dédiée pour le trafic provenant d'ameli.fr
 
 > Constat : 33% du trafic de Mes Aides provient d'[ameli.fr](https://www.ameli.fr/), le site de l'Assurance Maladie et ce trafic génère de nombreuses sollicitations par email.
 
-Les personnes qui arrivent sur le simulateur ont un problème précis en tête. À vrai dire, la plupart d'entre elles ne cherche pas à faire une simulation et c'est pour cette raison qu'elles nous contactent.
+Les personnes qui arrivent sur le simulateur ont un problème précis en tête. À vrai dire, la plupart d'entre elles ne cherchent pas à faire une simulation et c'est pour cette raison qu'elles nous contactent.
 
 Pour leur apporter une information pertinente sans surcharger la page d'accueil, nous avons mis en place une redirection automatique vers [une page dédiée](https://mes-aides.gouv.fr/ameli). Nous y avons compilé les réponses aux problèmes les plus fréquents.
 
@@ -114,7 +114,7 @@ Lorsque ce constat a été fait, la page de résultats ressemblait à ça&nbsp;:
 <source src="/img/posts/2020-01-13-mes-aides-amelioration-continue/apres.m4v">
 </video>
 
-Pour garantir l'amélioration de la situation avec cette modification, nous avons fait de l'[A/B testing](https://fr.wikipedia.org/wiki/Test_A/B). Les deux versions étaient en production en parallèle. C'est à dire que la moitié du trafic continuait à voir l'ancienne version et l'autre moitié voyait la nouvelle version. Les usagers étaient répartis au hasard sur chaque version. Étant donné que le site [mes-aides.gouv.fr](https://mes-aides.gouv.fr/) a un trafic important, nous avons rapidement pu avoir des écarts statistiques significatifs.
+Pour garantir l'amélioration de la situation avec cette modification, nous avons fait des [tests A/B](https://fr.wikipedia.org/wiki/Test_A/B). Les deux versions étaient en production en parallèle. Une première moitié des usagers sélectionnée aléatoirement continuait à voir l’ancienne version et l’autre moitié voyait la nouvelle. Étant donné que le site [mes-aides.gouv.fr](https://mes-aides.gouv.fr/) a un trafic important, nous avons rapidement pu avoir des écarts statistiques significatifs.
 
 Voici le résultat sur la période [du 18 au 24 janvier 2019](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=9&period=day&date=today#?idSite=9&period=range&date=2019-01-18,2019-01-24&segment=&category=Goals_Goals&subcategory=3)&nbsp;:
 
