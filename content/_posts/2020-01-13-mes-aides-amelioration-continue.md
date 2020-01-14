@@ -46,7 +46,7 @@ Pour remédier à ce problème nous avons fait une [première tentative](https:/
 Au fil des évolutions, nous sommes arrivés à la [version suivante](https://mes-aides.gouv.fr/foyer/demandeur)&nbsp;:
 ![Version actuelle avec une case à cocher « Je ne suis dans aucune de ces situations »](/img/posts/2020-01-13-mes-aides-amelioration-continue/demandeur-maintenant.png)
 
-Cette amélioration n'a pas eu d'effet sur les statistiques d'usage mais les personnes ne semblent plus bloquées et nous ne recevons plus d'courriel sur ce sujet. Nous pouvons consacrer notre temps et notre énergie sur d'autres aspects du simulateur.
+Cette amélioration n'a pas eu d'effet sur les statistiques d'usage mais les personnes ne semblent plus bloquées et nous ne recevons plus de courriel sur ce sujet. Nous pouvons consacrer notre temps et notre énergie sur d'autres aspects du simulateur.
 
 
 ### Une page dédiée pour le trafic provenant d'ameli.fr
@@ -141,12 +141,12 @@ Concrètement, voilà à quoi ça ressemble&nbsp;:
 
 Avec le même objectif, vous pouvez voir que nous avons aussi ajouté des liens vers des lieux d'accueil physique où les personnes peuvent se rendre pour être accompagnées et faire leurs démarches.
 
-À titre d'exemples, pour un dispositif comme la Complémentaire Santé Solidaire, seulement 4% des personnes utilisent ces liens-là mais pour un dispositif comme l'Allocation de Solidarité aux Personnes Âgées cela représente près de 10%. Cela s'explique par le fait que le public est plus éloigné du numérique et préfère aller à la rencontre des agents proche de chez eux.
+À titre d'exemples, pour un dispositif comme la Complémentaire Santé Solidaire, seulement 4% des personnes utilisent ces liens-là mais pour un dispositif comme l'Allocation de Solidarité aux Personnes Âgées cela représente près de 10%. Cela s'explique par le fait que le public est plus éloigné du numérique et préfère aller à la rencontre des agents proches de chez eux.
 
 
 ## En résumé
 
-Le numérique est un outil que nous devons utiliser comme en levier pour améliorer les services rendus aux personnes. Ne voyons pas les solutions numériques comme des objets physiques figés et à construire une fois pour toute, mais profitons de leur plasticité pour les adapter en même temps que les usages évoluent.
+Le numérique est un outil que nous devons utiliser comme un levier pour améliorer les services rendus aux personnes. Ne voyons pas les solutions numériques comme des objets physiques figés et à construire une fois pour toutes, mais profitons de leur plasticité pour les adapter en même temps que les usages évoluent.
 
 <style type="text/css">
 table {
