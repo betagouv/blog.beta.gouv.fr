@@ -22,7 +22,7 @@ A la suite de ce programme, plusieurs sorties sont possibles :
 
 Au total, le programme de préincubation a permis d'investiguer 20 problèmes en 2019 et à date, environ 30 autres sujets sont prévus d'être diagnostiqués en 2020.
 
-Les problèmes de politiques publiques auxquels se sont attaqués les agents font parti, sans surprise, des grands défis politiques actuels : la lutte contre l'isolement des personnes âgées, la baisse des déchets non réutilisés, l'amélioration de la vie des enfants détachés de leur famille et placés à l'Aide Sociale à l'Enfance, la lutte contre l'exclusion des jeunes de cités, l'inclusion numérique, la lutte contre les logements insalubres, la protection des personnes victimes de violences conjugales…
+Les problèmes de politiques publiques auxquels se sont attaqués les agents font partie, sans surprise, des grands défis politiques actuels : la lutte contre l'isolement des personnes âgées, la baisse des déchets non réutilisés, l'amélioration de la vie des enfants détachés de leur famille et placés à l'Aide Sociale à l'Enfance, la lutte contre l'exclusion des jeunes de cités, l'inclusion numérique, la lutte contre les logements insalubres, la protection des personnes victimes de violences conjugales…
 
 Autant de problèmes qui ne peuvent être résolus sans repenser de manière radicale la façon dont l'administration territoriale construit et anime ses services publics et responsabilise les agents publics dans leur relation, parfois quotidienne, avec les citoyens.
 
