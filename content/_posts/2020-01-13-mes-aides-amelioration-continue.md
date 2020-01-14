@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L'amélioration continue au service de l'augmentation de l'impact sur Mes Aides"
-date: 2020-01-01
+date: 2020-01-13
 authors:
   - thomas.guillet
 categories: general
