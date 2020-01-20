@@ -2,6 +2,8 @@
 layout: post
 title: Le FAST 2è édition a ses lauréats !
 date: '2019-12-03'
+authors:
+  - jihane.herizi
 categories: general
 tags: ''
 image: /img/posts/2018-01-08-le-conseil-d-administration.jpg
