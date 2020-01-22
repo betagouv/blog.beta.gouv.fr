@@ -52,7 +52,7 @@ Coder les règles de la législation n’est pas un acte neutre, et les équipes
 
 Les règles de la législation écrites en code informatique constituent une véritable infrastructure numérique commune, qui facilite déjà l’accès transparent à l’information au bénéfice des usagers, des entrepreneurs et du législateur.
 
-Si nous créons déjà des services publics numériques comme [MesAides](https://mes-aides.gouv.fr/) et [LexImpact](https://leximpact.an.fr/), à l’appui de cette infrastructure, qu’est-ce qui nous empêche de mettre à disposition des administrations, des collectivités et des entrepreneurs, une[API garantie par l’État](https://api.legifrance.gouv.fr), pour qu’elles puissent construire encore plus des services à destination des usagers ?
+Si nous créons déjà des services publics numériques comme [MesAides](https://mes-aides.gouv.fr/) et [LexImpact](https://leximpact.an.fr/), à l’appui de cette infrastructure, qu’est-ce qui nous empêche de mettre à disposition des administrations, des collectivités et des entrepreneurs, une [API garantie par l’État](https://api.legifrance.gouv.fr), pour qu’elles puissent construire encore plus des services à destination des usagers ?
 
 Si les producteurs des règles peuvent déjà traduire en code informatique des réformes pour en mesurer l’impact, qu’est-ce qui les empêche d’écrire les nouvelles règles de la législation en code informatique même avant de les écrire en français, pour les vérifier en collaboration avec des juristes, des développeurs, des designers, des usagers… ?
 
