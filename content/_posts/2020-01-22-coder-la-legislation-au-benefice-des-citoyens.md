@@ -9,16 +9,14 @@ categories: dinsic
 image: /img/posts/coder-la-legislation-au-benefice-des-citoyens.jpg
 excerpt: >-
   beta.gouv.fr est le réseau des incubateurs des services publics numériques de
-  l’État et des territoires. En son sein ont été développées plusieurs solutions
+  l’État et des territoires. En son sein ont été développées plusieurs produits
   dont le point commun est de coder les règles de la législation en code
   informatique, pour les restituer aux usagers dans un format compréhensible.
   L’objet de cet article est d’en partager quelques enseignements.
 ---
-Nous sommes gouvernés par des règles ! Celles-ci prennent la forme d’une loi, d’un décret, d’une circulaire interne à une administration, voire des usages. Leur rôle est de nous informer, de façon ouverte, transparente, et complète — toutes les situations possibles doivent y être considérées — de nos droits et de nos obligations : l’impôt que nous devons payer, les aides sociales auxquelles nous avons droit, le montant de cotisations patronales et sociales dont s’acquitte un salarié, etc.
+Nous sommes gouvernés par des règles ! Celles-ci prennent la forme d’une loi, d’un décret, d’une circulaire interne à une administration, voire des usages. Leur rôle est de nous informer de manière complète — toutes les situations possibles doivent être considérées — de nos droits et de nos obligations : l’impôt que nous devons payer, les aides sociales auxquelles nous avons droit, le montant de cotisations patronales et sociales dont s’acquitte un salarié, etc.
 
-Nul n'est censé ignorer la loi. Et pourtant les règles qui font la législation sont rarement faciles à comprendre, encore moins à mettre en place. Les juristes ou agents de l’administration qui les écrivent visent davantage la précision et l’exhaustivité que leur appropriation par le grand public.
-
-Se fonder sur ces règles pour créer des services publics numériques à destination des usagers et des entrepreneurs relève d’un véritable parcours du combattant. La dispersion des règles, leur évolution et la production constante de nouvelles règles dans un même domaine rendent l'émergence de tels services difficile.
+Or les règles qui font la législation sont rarement faciles à comprendre, encore moins à mettre en place. Les juristes ou agents de l’administration qui les écrivent visent davantage la précision et l’exhaustivité que leur appropriation par le grand public.
 
 Conséquence directe : le non-recours au droit, ou à de nombreuses aides qui ne sont pas connues des citoyens.
 
