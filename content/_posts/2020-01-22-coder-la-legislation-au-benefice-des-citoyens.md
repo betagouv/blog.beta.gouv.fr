@@ -24,13 +24,13 @@ Conséquence directe : le non-recours au droit, ou à de nombreuses aides qui n
 
 beta.gouv.fr est le réseau des incubateurs des services publics numériques de l’État et des territoires. En son sein ont été développées plusieurs solutions dont le point commun est de coder les règles de la législation en code informatique, pour les restituer aux usagers dans un format compréhensible. L’objet de cet article est d’en partager quelques.
 
-# Un enjeu de souveraineté numérique
+## Un enjeu de souveraineté numérique
 
 Les règles de la législation, lorsqu’elles sont écrites sous forme de code informatique, peuvent devenir accessibles aux usagers par le truchement de simulateurs, de « moteurs de règles », de l’échange de données… Ce qui permet à l’État, aux collectivités, et aux entrepreneurs, de construire plus facilement des services de meilleure qualité à destination des citoyens.
 
 L’[OCDE considère](https://trends.oecd-opsi.org/embracing-innovation-in-government-global-trends-2019.pdf) l’écriture des règles de la législation en code informatique comme l’une des innovations les plus importantes en ce qui concerne la modernisation de l’action publique. Des pays comme le [Danemark](https://en.digst.dk/policy-and-strategy/digital-ready-legislation/), la [Nouvelle-Zélande](https://serviceinnovationlab.github.io/assets/Exploring_Machine_Consumable_Code_With_ACC.pdf) et l’[Australie](https://www.digital.nsw.gov.au/digital-transformation/policy-lab/rules-code), parmi d’autres, s’y investissent très fortement. La France elle-même a été en pointe sur le sujet, avec le développement d’[OpenFisca](https://fr.openfisca.org/), logiciel open source, contributif et réutilisable librement et gratuitement, qui permet d’écrire les règles de la législation d’un [pays](https://github.com/openfisca/openfisca-france) ou d’une [ville](https://github.com/openfisca/openfisca-paris) en code informatique.
 
-# Coder la législation : pour quel bénéfice ?
+## Coder la législation : pour quel bénéfice ?
 
 **Pour les usagers**, il s’agit de rendre l’information réellement disponible au moment opportun et sans délai. Aujourd’hui, entre le moment où un dispositif est créé, par exemple une nouvelle aide à la formation professionnelle dans une région, et le moment où l’information est connue, il peut se passer plusieurs semaines, voire des mois. Conséquence : de nombreuses personnes continueront d’en ignorer l’existence. Lorsque l’équipe du site [Clara](https://clara.pole-emploi.fr/) « codifie » les aides sociales pour mettre à disposition un simulateur en ligne, elle permet à de nombreux demandeurs d’emploi de se découvrir éligibles à une aide et de la mobiliser pour retrouver plus vite un emploi ou se former.
 
@@ -38,7 +38,7 @@ L’[OCDE considère](https://trends.oecd-opsi.org/embracing-innovation-in-gover
 
 **Pour le législateur et tous les producteurs des règles**, il s’agit d’en améliorer le processus d’élaboration. Aujourd’hui, la manière de créer des règles n’est pas pensée dans une optique de déploiement des politiques publiques. Rendre compréhensibles les règles de la législation par des ordinateurs permet, comme le fait [LexImpact](https://leximpact.an.fr/) avec l’impôt sur le revenu, d’estimer leur impact en amont de leur officialisation. Ainsi, de lorsque qu’elles sont écrites en code informatique avant de leur mise en application, les services publics numériques qui en dépendent réduisent à zéro le délai de leur prise en compte, au profit direct des citoyens. C’en est le cas du [PNDS](https://www.mesdroitssociaux.gouv.fr/).
 
-# Quels sont les écueils à éviter ?
+## Quels sont les écueils à éviter ?
 
 Coder les règles de la législation n’est pas un acte neutre, et les équipes en charge de développer des services publics numériques chez beta.gouv.fr doivent rester vigilantes :
 
@@ -48,7 +48,7 @@ Coder les règles de la législation n’est pas un acte neutre, et les équipes
 
 **« Désintermédier » systématiquement.** La diffusion des règles au travers d’interfaces grand public encourage un accès direct des usagers à leurs droits, ce qui peut conduire à négliger le rôle précieux de certains médiateurs, avoir des effets inattendus sur le consentement à l’impôt, etc. À cet égard, les services créés par beta.gouv.fr sont des outils numériques en commun, développés en collaboration avec les agents et les usagers, à l’instar des milliers de conseillers Pôle emploi qui utilisent chaque semaine [Clara](https://clara.pole-emploi.fr/) en rendez-vous pour informer les personnes qu’ils accompagnent.
 
-# Le futur, c’est maintenant !
+## Le futur, c’est maintenant !
 
 Les règles de la législation écrites en code informatique constituent une véritable infrastructure numérique commune, qui facilite déjà l’accès transparent à l’information au bénéfice des usagers, des entrepreneurs et du législateur.
 
