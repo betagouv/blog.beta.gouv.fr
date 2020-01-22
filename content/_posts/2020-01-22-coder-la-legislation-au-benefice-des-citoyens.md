@@ -46,7 +46,7 @@ Coder les règles de la législation n’est pas un acte neutre, et les équipes
 
 ## Et après ?
 
-Les règles de la législation écrites en code informatique et branchées sur des services publics facilitent déjà l’accès transparent à l’information pour les usagers.
+Les règles de la législation écrites en code informatique et branchées sur des services publics facilitent déjà l’accès à l’information pour les usagers.
 
 Qu’est-ce qui nous empêche de mettre à disposition des administrations, des collectivités et des entreprises, une API garantie par l’État  telle que l'[API Légifrance](https://api.legifrance.gouv.fr), pour qu’elles puissent construire encore plus des services à destination des usagers ?
 
