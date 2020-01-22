@@ -9,7 +9,7 @@ categories: dinsic
 image: /img/posts/coder-la-legislation-au-benefice-des-citoyens.jpg
 excerpt: >-
   beta.gouv.fr est le réseau des incubateurs des services publics numériques de
-  l’État et des territoires. En son sein ont été développées plusieurs produits
+  l’État et des territoires. En son sein ont été développés plusieurs produits
   dont le point commun est de coder les règles de la législation en code
   informatique, pour les restituer aux usagers dans un format compréhensible.
   L’objet de cet article est d’en partager quelques enseignements.
