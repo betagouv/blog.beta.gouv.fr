@@ -14,7 +14,7 @@ excerpt: >-
   informatique, pour les restituer aux usagers dans un format compréhensible.
   L’objet de cet article est d’en partager quelques enseignements.
 ---
-Nous sommes gouvernés par des règles. Celles-ci prennent la forme d’une loi, d’un décret, d’une circulaire interne à une administration, voire d'usages. Leur rôle est de nous informer de manière complète — tous les cas de figure doivent être considérés — de nos droits et de nos obligations : l’impôt que nous devons payer, les aides sociales auxquelles nous avons droit, le montant de cotisations patronales et sociales dont s’acquitte un salarié, etc.
+Nous sommes gouvernés par des règles. Celles-ci prennent la forme d’une loi, d’un décret, d’une circulaire interne à une administration, voire d'usages. Leur rôle est de nous informer de manière complète — tous les cas de figure doivent être considérés — de nos droits et de nos obligations : l’impôt que nous devons payer, les aides sociales auxquelles nous avons droit, le montant de cotisations sociales dont s’acquitte un salarié, etc.
 
 Or les règles qui font la législation sont rarement faciles à comprendre, encore moins à mettre en place. Les juristes ou agents de l’administration qui les écrivent visent davantage la précision et l’exhaustivité que leur appropriation par le grand public.
 
