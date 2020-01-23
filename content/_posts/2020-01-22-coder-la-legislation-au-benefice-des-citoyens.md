@@ -18,7 +18,7 @@ Nous sommes gouvernés par des règles. Celles-ci prennent la forme d’une loi,
 
 Or les règles qui font la législation sont rarement faciles à comprendre, encore moins à mettre en place. Les juristes ou agents de l’administration qui les écrivent visent davantage la précision et l’exhaustivité que leur appropriation par le grand public.
 
-Conséquence directe : le non-recours au droit, ou à de nombreuses aides qui ne sont pas connues des citoyens. Ansi que la profusion de services concurrents qui « réinventent la roue » pour implémenter ces règles et dont certains — sites privés — prélèvent même une commission pour aider les usagers à bénéficier d'une aide.
+Conséquence directe : le non-recours au droit, ou à de nombreuses aides qui ne sont pas connues des citoyens. Ansi que la profusion de services concurrents qui « réinventent la roue » pour implémenter ces règles et dont certains — sites privés — prélèvent même une commission pour aider les usagers à bénéficier d'une aide.
 
 ## Un enjeu de souveraineté numérique
 
