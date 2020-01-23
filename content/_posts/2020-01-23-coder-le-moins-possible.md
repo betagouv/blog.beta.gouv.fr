@@ -48,7 +48,7 @@ Le plus gros du code de cette solution est du code JavaScript côté client. Il 
 
 [Mobicoop](https://www.mobicoop.fr/) [distribue le code de sa plateforme](https://gitlab.com/mobicoop/mobicoop-platform) sous une licence qui permet la réutilisabilité.
 
-Toutefois, il avait l'air de s'agir d'un gros outil dont il était difficile de savoir à l'avance si l'investissement qui consiste à le maîtriser vaudrait le coup.
+Toutefois, il avait l'air de s'agir d'un gros outil dont il était difficile de savoir à l'avance si l'investissement qui consiste à le maîtriser vaudrait vraiment le coup. D'autant plus que la taille de cette investissement elle-même était dure à estimer.
 
 
 ### Tout internaliser
@@ -58,12 +58,14 @@ Une autre approche aurait pu consister à tout internaliser, c'est-à-dire crée
 Google Forms et Google Spreadsheet ont les avantages, pour des personnes qui ne codent pas comme Sabine et Nathalie, de permettre de modifier les données pour les corriger, mais aussi de modifier librement les questions des formulaires, changer les choix multiples, rajouter des questions, etc. En terme technique, Google Forms et Google Spreadsheet permettent à des personnes non-développeur.euse d'avoir un accès direct aux données et de modifier librement le *[modèle de données](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_donn%C3%A9es)*. Si ceci peut être reproduit dans une base de données que l'on gère soi-même, c'est rarement le cas par défaut et celà demande généralement beaucoup de travail.
 Et nous préférions dépenser ce travail sur des outils qui rajoutent de la valeur plutôt que recréer ce que d'autres outils résolvent déjà pour nous "[gratuitement](https://www.laquadrature.net/2016/08/17/si-vous-etes-le-produit/)".
 
-Un autre avantage à ne pas internaliser est que ça permet de ne rien remettre en question du fonctionnement des inscriptions. Aussi, le temps que l'outil fasse ses preuves, Nathalie peut continuer à utiliser les outils et process qu'elle connait et maitrise.
-Aussi, si nous constations que Nathalie continuait à chercher des correspondances directement dans le Google Spreadsheet, il s'agirait d'un signal précieux que l'outil que nous avons créé ne résolvait pas autant un problème qu'on l'imaginait. Ou peut-être pas un problème suffisamment important pour changer d'outil.
-Au final, l'outil est sensé être là pour lui rendre la vie plus simple. Si elle ne l'utilise pas, il s'agit peut-être d'une erreur d'écoute de notre part.
+Un autre avantage à ne pas internaliser est que ça permet de ne rien remettre en question du fonctionnement des inscriptions. Le temps que l'outil fasse ses preuves, Nathalie peut continuer à utiliser les outils et process qu'elle connait et maitrise.
+Si nous constations que Nathalie continuait à chercher des correspondances directement dans le Google Spreadsheet, il s'agirait d'un signal précieux que l'outil que nous avons créé ne résolvait pas autant un problème qu'on l'imaginait. Ou peut-être pas un problème suffisamment important pour changer d'outil.
+Au final, l'outil est sensé être là pour lui rendre la vie plus simple. Si elle ne l'utilise pas, il s'agit sûrement d'une erreur d'écoute de notre part.
 
 
-## 
+## Chaque heure de code compte
+
+Quand nous sommes arrivés dans le projet, la partie la plus importante était de trouver des conducteur.rice.s et des passager.ère.s. Des moyens minimaux en terme de budget et donc de temps ont été alloués à la partie outil numérique. Et ces moyens devaient avoir pour objectif de libérer du temps à Nathalie pour qu'elle puisse passer plus de temps à trouver des personnes intéressées par le service.
 
 
 
