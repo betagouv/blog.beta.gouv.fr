@@ -31,7 +31,7 @@ Ces services publics cherchent à résoudre des problèmes de politique publique
 
 A la suite de ces deux éditions, nous lançons notre 3ème appel à candidature pour investir dans de nouveaux services publics numériques animés par la volonté de répondre aux grands défis publics actuels. 
 
-Que vous soyez une administration, un établissement public, ou une collectivité territoriale, en amorçage, en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique, pouvant aller de 35 000 à 300 000 euros.
+Que vous soyez une administration, un établissement public, ou une collectivité territoriale, en amorçage, en développement ou en accélération d'un produit / service, vous pouvez nous faire part de votre candidature et tenter d'obtenir un cofinancement de la Direction interministérielle du numérique pouvant aller de 35 000 à 300 000 euros.
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée ainsi que les conditions d’éligibilité.
 
