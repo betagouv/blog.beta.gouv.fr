@@ -21,7 +21,7 @@ excerpt: >-
 
 
   Votre équipe est intéressée ? Vous avez jusqu'au lundi 9 mars 23h59 pour
-  envoyer votre candidature ! `
+  envoyer votre candidature !
 
   Le comité d’investissement aura lieu le vendredi 20 mars.
 ---
