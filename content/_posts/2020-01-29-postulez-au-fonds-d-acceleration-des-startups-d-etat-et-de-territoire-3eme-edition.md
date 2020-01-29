@@ -35,8 +35,6 @@ Que vous soyez une administration, un établissement public, ou une collectivit�
 
 Vous voulez en savoir plus sur le FAST ? Découvrez ci-dessous la foire aux questions dédiée ainsi que les conditions d’éligibilité.
 
-\---
-
 ## À propos du FAST
 
 ##### Qu’est-ce que beta.gouv.fr ?
