@@ -72,8 +72,6 @@ Chers agents, votre administration se lance dans une politique d’innovation am
 
 Parmi les candidatures reçues, sélectionnez celles que vous souhaitez présenter et faites remplir aux agents sélectionnés l'appel à candidatures.
 
-\---
-
 ## Quelles sont les conditions spécifiques pour candidater ?
 
 * Identifier un irritant administratif ou un problème de politique publique précis
@@ -95,8 +93,6 @@ En cas de développement / accélération :
 
 Par ailleurs, plusieurs administrations et/ou collectivités territoriales peuvent se regrouper pour constituer un dossier de candidature.
 
-\---
-
 ## Quelles sont les modalités de candidature ?
 
 Le dossier de candidature doit préciser clairement :
@@ -109,8 +105,6 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 
 [Cliquez ici pour compléter le dossier de candidature avant le lundi 9 mars 23h59.](https://www.demarches-simplifiees.fr/commencer/fast3)
 
-\---
-
 ## Quel est le processus de sélection du FAST ?
 
 * Dans le cas de l'amorçage vous sélectionnez un ou plusieurs problème(s) de politique publique au(x)quel(s) vous voulez répondre. Dans le cas de l'accélération, vous sélectionnez un ou plusieurs services numériques existants ayant un impact mesuré, que vous souhaitez déployer.
@@ -122,16 +116,12 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 * Le produit est lancé ou accompagné dans son développement par beta.gouv.fr en s'appuyant sur les deux tickets de financement (administration porteuse + DINUM).
 * Pour l'amorçage, les intrapreneurs suivent une session de formation Alpha et commencent à travailler sur le problème à résoudre.
 
-\---
-
 ## Quels sont les critères de sélection du comité d’investissement ?
 
 * L’impact attendu pour l’utilisateur final
 * Unsponsordans l’administration porteuse
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
-
-\---
 
 ## À quoi servira le ticket de cofinancement ?
 
