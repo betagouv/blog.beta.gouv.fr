@@ -7,7 +7,7 @@ date: '2020-01-29'
 authors:
   - jihane.herizi
 categories: dinsic
-image: /img/posts/2019-10-01-fast-season-2.jpg
+image: /img/posts/2019-10-01-fast-season-2 - dinum2.png
 excerpt: >-
   Le programme beta.gouv.fr porté par la Direction Interministérielle du
   Numérique (DINUM) lance le  troisième appel à candidature du Fonds
