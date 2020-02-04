@@ -51,13 +51,15 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 L’appel à candidatures de cette 3ème édition cible des services publics numériques qui peuvent être autant au stade de l’idée, que déjà en développement. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
-L'administration doit être en mesure de garantir sa capacité à financer la même somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 de la DINUM et vous financez 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
+L'administration doit être en mesure de garantir sa capacité à financer la même somme qu'elle sollicite (exemple : si le besoin évalué est de 100 000 euros, vous sollicitez 50 000 euros de la DINUM et vous faites un versement de 50 000 euros sur [une convention public-public](https://www.data.gouv.fr/en/datasets/conventions-de-partenariat/)).
 
-Le montant du ticket global sera dépensé via les marchés de la DINUM pour développer l'équipe nécessaire à l’accompagnement de l’équipe, au développement et au déploiement du produit.
+Le montant du ticket global sera dépensé via les marchés de la DINUM sous forme de prestations pour renforcer l'équipe nécessaire à l’accompagnement, au développement et au déploiement du produit. 
+
+[Plus de détails sur la convention d'un gagnant du Fast 2](https://static.data.gouv.fr/resources/conventions-de-partenariat/20191211-144234/avenant-trackdechets.pdf) 
 
 ##### Qu’est-ce que l’approche Startup d’État ?
 
-Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter[notre guide de lancement](https://beta.gouv.fr/content/docs/guide.pdf). Vous pouvez également parcourir [le portefeuille](https://beta.gouv.fr/startups/) des services accompagnés par beta.gouv.fr, qui vous donnera une idée des types de problèmes que nous résolvons.
+Pour mieux comprendre l’approche Startup d'État, et en savoir plus sur les méthodes mises en place pour les créer et les accompagner, vous pouvez consulter [notre guide de lancement](https://beta.gouv.fr/content/docs/guide.pdf). Vous pouvez également parcourir [le portefeuille](https://beta.gouv.fr/startups/) des services accompagnés par beta.gouv.fr, qui vous donnera une idée des types de problèmes que nous résolvons.
 
 ##### Comment les projets sont-ils pré-sélectionnés ?
 
@@ -117,13 +119,13 @@ L’administration pourra continuer à faire appel à l'équipe de beta.gouv.fr 
 ## Quels sont les critères de sélection du comité d’investissement ?
 
 * L’impact attendu pour l’utilisateur final
-* Unsponsordans l’administration porteuse
+* Un sponsor dans l’administration porteuse
 * L’effet de levier que constitue le cofinancement pour accélérer le développement du service public numérique
 * L’adéquation du sujet avec [les six enjeux stratégiques](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) de TECH.GOUV.
 
 ## À quoi servira le ticket de cofinancement ?
 
-L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d'État et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, designers, chargés de déploiement).
+L’ensemble de ce ticket sera utilisé par les marchés publics des Startups d'État et de Territoires de la DINUM pour renforcer l'équipe pendant une période approximative de 6 mois (coachs, développeurs, designers, chargés de déploiement). 
 
 Autrement, il faudra passer par un fonds de concours.(Si vous avez des questions à ce sujet n'hésitez pas à contacter Jihane Herizi à fast@beta.gouv.fr)
 
