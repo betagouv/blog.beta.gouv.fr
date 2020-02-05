@@ -32,7 +32,7 @@ Lors des travaux de fiabilisation du moteur de calculs, nous avons échangé ave
 
 ![Capture d'écran d'un fichier Excel avec des informations sur des cas-types testés sur le simulateur de la CAF et sur le simulateur Mes Aides](/img/posts/2020-02-06-mes-aides-experts/excel_dhup.png)
 
-Avec l'amélioration continue faite sur le moteur de calculs, ces fichiers Excel sont devenus des outils de plus en plus frustrants lors de nos échanges. En effet, les données n'étaient pas assez explicites et nous obligeaient à faire des trop d'hypothèses. Que signifie «&nbsp;base ressources&nbsp;» quand il peut s'agir de salaire, d'une pension de retraite ou encore autre chose&nbsp;? Il y avait trop d'implicite et trop d'endroits où les «&nbsp;évidences&nbsp;» n'étaient pas partagées.
+Avec l'amélioration continue faite sur le moteur de calculs, ces fichiers Excel sont devenus des outils de plus en plus frustrants lors de nos échanges. En effet, les données n'étaient pas assez explicites et nous obligeaient à faire trop d'hypothèses. Que signifie «&nbsp;base ressources&nbsp;» quand il peut s'agir de salaire, d'une pension de retraite ou encore autre chose&nbsp;? Il y avait trop d'implicite et trop d'endroits où les «&nbsp;évidences&nbsp;» n'étaient pas partagées.
 
 Pour enlever le maximum d'ambiguïtés de ce genre, nous avons pensé que Mes Aides pouvait aussi être utilisé pour décrire les situations de tests c'est à dire les situations pour lesquelles les experts métiers connaissent les résultats attendus.
 
