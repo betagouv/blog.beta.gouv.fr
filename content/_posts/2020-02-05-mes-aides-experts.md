@@ -70,7 +70,7 @@ Dans ce cas-là, le simulateur apparaît comme formidable outil permettant l'exp
 
 Enfin, l'été dernier nous avons essayé quelque chose de plus radical. En effet, derrière la mise à disposition de l'information, il y a la volonté d'aider les personnes à faire _des choix de vie informés_. «&nbsp;Qu'est ce qui se passe si je reprends une activité&nbsp;?&nbsp;» cette question fait partie de celles auxquelles nous souhaitons donner une réponse. «&nbsp;À quoi ressemble le filet de sécurité sociale&nbsp;?&nbsp;» en est une autre.
 
-Avec ces questions en tête nous avons créé un outil permettant de voir comment évoluer les prestations sociales et le revenu disponible en fonction du salaire net. En faisant évoluer le salaire net de 0 à 3&nbsp;000&nbsp;€ par mois il est possible den voir comment les différentes contributions au revenu disponibles évoluent à leur tour.
+Avec ces questions en tête nous avons créé un outil permettant de voir comment évoluer les prestations sociales et le revenu disponible en fonction du salaire net. En faisant évoluer le salaire net de 0 à 3&nbsp;000&nbsp;€ par mois il est possible de voir comment les différentes contributions au revenu disponibles évoluent à leur tour.
 
 Pour donner une idée du résultat, nous avons pris des situations spécifiques et mis à disposition les [résultats associés](https://betagouv.github.io/mes-aides-changent/).
 
