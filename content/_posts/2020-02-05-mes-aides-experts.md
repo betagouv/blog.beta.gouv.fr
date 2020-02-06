@@ -82,4 +82,6 @@ Le troisième lien sur la page de résultats de Mes Aides permet ainsi d'accéde
 
 Les simulateurs et les moteurs de règles sous-jacents sont de formidables outils pour les experts et pour mieux observer et rendre accessible la complexité des systèmes socio-fiscaux. Avec cet article, nous avons partagé certaines des pistes que nous avons explorées.
 
+Vous souhaitez faire une simulation et voir à quoi cela ressemble sur un cas concret&nbsp;? C'est par [ici](https://mes-aides.gouv.fr/foyer/demandeur)&nbsp;!
+
 Vous souhaitez travailler avec nous sur de tels sujets&nbsp;? Contactez-nous à [bonjour@mes-aides.gouv.fr](mailto:bonjour@mes-aides.gouv.fr).
