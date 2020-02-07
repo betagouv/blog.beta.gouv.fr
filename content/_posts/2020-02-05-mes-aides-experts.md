@@ -37,7 +37,7 @@ Avec l'amélioration continue faite sur le moteur de calculs, ces fichiers Excel
 Pour enlever le maximum d'ambiguïtés de ce genre, nous avons pensé que Mes Aides pouvait aussi être utilisé pour décrire les situations de tests c'est à dire les situations pour lesquelles les experts métiers connaissent les résultats attendus.
 
 
-Nous avons donc créé un formulaire qui permet aux personnes ayant une expertise dans les prestations sociales de nous aider à améliorer le simulateur. En voiçi une capture d'écran&nbsp;:
+Nous avons donc créé un formulaire qui permet aux personnes ayant une expertise dans les prestations sociales de nous aider à améliorer le simulateur. En voici une capture d'écran&nbsp;:
 
 ![Capture de l'écran de saisie à destination des experts leur permettant d'indiquer les valeurs attendus et le contexte légal](/img/posts/2020-02-06-mes-aides-experts/Capture_resultats_attendus.png)
 
