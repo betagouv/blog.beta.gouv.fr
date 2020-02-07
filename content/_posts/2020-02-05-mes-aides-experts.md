@@ -36,9 +36,12 @@ Avec l'amélioration continue faite sur le moteur de calculs, ces fichiers Excel
 
 Pour enlever le maximum d'ambiguïtés de ce genre, nous avons pensé que Mes Aides pouvait aussi être utilisé pour décrire les situations de tests c'est à dire les situations pour lesquelles les experts métiers connaissent les résultats attendus.
 
+
+Nous avons donc créé un formulaire qui permet aux personnes ayant une expertise dans les prestations sociales de nous aider à améliorer le simulateur. En voiçi une capture d'écran&nbsp;:
+
 ![Capture de l'écran de saisie à destination des experts leur permettant d'indiquer les valeurs attendus et le contexte légal](/img/posts/2020-02-06-mes-aides-experts/Capture_resultats_attendus.png)
 
-Avec les informations saisies dans ce formulaire, nous pouvons avoir des conversations qui contiennent une part d'implicite beaucoup plus petite. Dans ce cas là, le simulateur apparaît comme formidable outil de médiation pour faire le lien entre des experts métiers et l'équipe qui améliore le moteur de règles.
+Avec les informations saisies dans ce formulaire, nous pouvons avoir des conversations avec beaucoup moins d'implicite. Dans ce cas là, le simulateur apparaît comme formidable outil de médiation pour faire le lien entre des experts métiers et l'équipe qui améliore le moteur de règles.
 
 
 ### Exploration 🧐
@@ -59,7 +62,7 @@ En rentrant un peu plus dans ces détails-là, on peut échanger avec les expert
 
 ![Capture d'écran des calculs intermédiaires pour la bonification dans la prime d'activité](/img/posts/2020-02-06-mes-aides-experts/tracer_ppa_bonification.png)
 
-Par exemple, ici, on peut voir les données qui permettent de calculer la bonification de la prime d'activité. Pour les personnes curieuses, les valeurs affichées sont à mettre en perspective des formules de calcul de la [`ppa_bonification`](https://github.com/openfisca/openfisca-france/blob/master/openfisca_france/model/prestations/minima_sociaux/ppa.py#L328-L346) et de [`ppa_revenu_activite_individu`](https://github.com/openfisca/openfisca-france/blob/master/openfisca_france/model/prestations/minima_sociaux/ppa.py#L143-L178).
+Par exemple, ici, on peut voir les données qui permettent de calculer [la bonification de la prime d'activité](https://www.service-public.fr/particuliers/vosdroits/F2882). Pour les personnes curieuses, les valeurs affichées sont à mettre en perspective des formules de calcul de la [`ppa_bonification`](https://github.com/openfisca/openfisca-france/blob/master/openfisca_france/model/prestations/minima_sociaux/ppa.py#L328-L346) et de [`ppa_revenu_activite_individu`](https://github.com/openfisca/openfisca-france/blob/master/openfisca_france/model/prestations/minima_sociaux/ppa.py#L143-L178).
 
 Dans ce cas-là, le simulateur apparaît comme formidable outil permettant l'exploration des experts métiers dans l'application des règles de la législation.
 
@@ -68,9 +71,9 @@ Dans ce cas-là, le simulateur apparaît comme formidable outil permettant l'exp
 
 > Analysez l'évolution des aides en fonction des ressources
 
-Enfin, l'été dernier nous avons essayé quelque chose de plus radical. En effet, derrière la mise à disposition de l'information, il y a la volonté d'aider les personnes à faire _des choix de vie informés_. «&nbsp;Qu'est ce qui se passe si je reprends une activité&nbsp;?&nbsp;» cette question fait partie de celles auxquelles nous souhaitons donner une réponse. «&nbsp;À quoi ressemble le filet de sécurité sociale&nbsp;?&nbsp;» en est une autre.
+Enfin, l'été dernier nous avons essayé quelque chose de plus radical. En effet, derrière la mise à disposition de l'information, il y a la volonté d'aider les personnes à faire _des choix de vie informés_. «&nbsp;Qu'est ce qui se passe si je reprends une activité&nbsp;?&nbsp;» fait partie des questions auxquelles nous souhaitons apporter une réponse. «&nbsp;À quoi ressemble le filet de sécurité sociale&nbsp;?&nbsp;» en est une autre.
 
-Avec ces questions en tête nous avons créé un outil permettant de voir comment évoluer les prestations sociales et le revenu disponible en fonction du salaire net. En faisant évoluer le salaire net de 0 à 3&nbsp;000&nbsp;€ par mois il est possible de voir comment les différentes contributions au revenu disponibles évoluent à leur tour.
+Avec ces questions en tête nous avons créé un outil représentant l'évolution des prestations sociales et du revenu disponible en fonction du salaire net. En faisant évoluer le salaire net de 0 à 3&nbsp;000&nbsp;€ par mois il est possible de voir comment les différentes contributions au revenu disponibles évoluent à leur tour.
 
 Pour donner une idée du résultat, nous avons pris des situations spécifiques et mis à disposition les [résultats associés](https://betagouv.github.io/mes-aides-changent/).
 
@@ -80,7 +83,7 @@ Pour donner une idée du résultat, nous avons pris des situations spécifiques 
 
 Le troisième lien sur la page de résultats de Mes Aides permet ainsi d'accéder à un tel graphique pour la situation spécifiée dans le simulateur Mes Aides.
 
-Les simulateurs et les moteurs de règles sous-jacents sont de formidables outils pour les experts et pour mieux observer et rendre accessible la complexité des systèmes socio-fiscaux. Avec cet article, nous avons partagé certaines des pistes que nous avons explorées.
+Pour conclure, les simulateurs et les moteurs de règles sous-jacents sont de formidables outils. Avec cet article, nous avons partagé certaines des pistes que nous avons explorées pour rendre plus accessible la complexité des systèmes socio-fiscaux. 
 
 Vous souhaitez faire une simulation et voir à quoi cela ressemble sur un cas concret&nbsp;? C'est par [ici](https://mes-aides.gouv.fr/foyer/demandeur)&nbsp;!
 
