@@ -7,15 +7,13 @@ authors:
 categories: articles
 excerpt: >-
   Plus ou moins brutalement, Slack est devenu notre bureau. Les messages écrits on remplacé les petits échanges du quotidien, les "tu vas bien" et "tu sais que…".
+
   Pour se parler *vraiment* à plusieurs il faut mettre un casque Bluetooth et subir des outils aux noms étranges.
+
   Et oui, tout cela a des conséquences.
 ---
 
-Plus ou moins brutalement, Slack est devenu notre bureau. Les messages écrits on remplacé les petits échanges du quotidien, les "tu vas bien" et "tu sais que…".
-
-Pour se parler *vraiment* à plusieurs il faut mettre un casque Bluetooth et subir des outils aux noms étranges.
-
-Et oui, tout cela a des conséquences. L'écrit est moins sensible aux nuances émotionnelles, il est plus facile de froisser les gens sans s'en rendre compte.
+L'écrit est moins sensible aux nuances émotionnelles, il est plus facile de froisser les gens sans s'en rendre compte.
 
 ## L'intention avant tout
 
