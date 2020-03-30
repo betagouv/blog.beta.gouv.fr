@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conseils pour rester zen en période de confinement"
-date: '2020-04-01'
+date: '2020-03-30'
 authors:
   - laurent.bossavit
 categories: general
