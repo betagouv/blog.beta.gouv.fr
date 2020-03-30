@@ -4,7 +4,7 @@ title: "Conseils pour rester zen en période de confinement"
 date: '2020-03-30'
 authors:
   - laurent.bossavit
-categories: general
+categories: articles
 excerpt: >-
   Plus ou moins brutalement, Slack est devenu notre bureau. Les messages écrits on remplacé les petits échanges du quotidien, les "tu vas bien" et "tu sais que…".
   Pour se parler *vraiment* à plusieurs il faut mettre un casque Bluetooth et subir des outils aux noms étranges.
