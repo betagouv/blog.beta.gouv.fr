@@ -36,6 +36,8 @@ Slack, c'est de l'immédiat. Dans 5 minutes ça sera oublié. Si vous avez besoi
 
 Quand vous intervenez dans une conversation entre d'autres personnes, assurez-vous que vous n'interférez pas avec leurs besoins. On a vite fait d'être débordé par tous les messages qui circulent.
 
+Un emoji :smile: peut apporter de la nuance affective… à utiliser avec sincérité (l'intention avant tout) et modération.
+
 ## Adopter les bons présupposés…
 
 Partez du principe que la personne à qui vous vous adressez est:
