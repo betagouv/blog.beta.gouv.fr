@@ -23,6 +23,9 @@ nav:
       label: Incubateur des Affaires Sociales
       target: _category/sgmas.md
 -
+  label: Articles
+  target: _category/articles.md
+-
   label: Annonces et événements
   target: _category/general.md
 -
