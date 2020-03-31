@@ -6,30 +6,13 @@ categories: dinsic
 tags: ''
 image: /img/posts/beta.jpg
 excerpt: >-
-  L'équipe de co-animateurs de programme Startup d'État (beta.gouv.fr) au coeur
-  de la Direction Interministérielle du Numérique compte aujourd'hui 12
-  personnes. 
-
-
-  Notre rôle ? Mettre en commun des initiatives, partager des informations,
-  détecter des profils à mobiliser et accompagner les équipes sur le coup
-  d'après.
-
-  Nous recevons de nombreuses sollicitations de mise en place de services
-  numériques et accompagnons les initiatives qui ont un portage ministériel pour
-  utiliser notre expérience et trouver la meilleure façon d'y répondre.
-
-  Nous testons également des prototypes d'outils - chatbots / FAQs, expertisons
-  des solutions proposées par le privé ou lançons des instances pour voir.
-
-
   Au coeur de la crise sanitaire du #Covid19, nous accompagnons en ce moment des
   équipes qui se sont mobilisées pour améliorer ou créer des produits à
   destination des citoyens, des entreprises, des associations ou encore les
-  administrations pour faire face à certaines problématiques. 
+  administrations pour faire face à certaines problématiques.
 
 
-  Découvrez 10 d'entre-elles !
+  Découvrez 10 d’entre-elles !
 ---
 **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et le cabinet du sécrétariat chargé du numérique
 
