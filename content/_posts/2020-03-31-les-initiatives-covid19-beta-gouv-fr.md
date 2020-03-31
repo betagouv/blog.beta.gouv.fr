@@ -52,6 +52,8 @@ Nos partenaires historiques se sont également mobilisés contre le covid-19 - [
 
 Aujourd'hui c'est plus de 140 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance des associations sur jeveuxaider.gouv.fr 
 
+![](/img/posts/euwqvvlxgaebqnb.jpg)
+
 **4 -** [Aidants connect](https://aidantsconnect.beta.gouv.fr)
 
 Suite aux mesures de confinement, les aidants, médiateurs numériques, sont en difficultés quant à la possibilité d’assurer la continuité de service à apporter aux usagers. Les fermetures de structures ne permettent pas de réaliser un mandat numérique pour la réalisation d’une démarche « à la place de ».\
