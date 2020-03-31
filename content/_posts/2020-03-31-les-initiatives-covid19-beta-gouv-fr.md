@@ -141,6 +141,6 @@ Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarche
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.19.32.png)
 
-**Ce sujet vous intéresse ? Découvrez [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) une autre initiative de la communauté DesignGouv Beta pour regrouper attestations de sortie et opportunités d'entraide [](https://design.numerique.gouv.fr/covid-19/#initiatives)!**
+**Ce sujet vous intéresse ? Découvrez [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) une autre initiative de la communauté DesignGouv pour regrouper attestations de sortie et opportunités d'entraide [](https://design.numerique.gouv.fr/covid-19/#initiatives)!**
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.20.35.png)
