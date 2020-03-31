@@ -4,6 +4,7 @@ title: 'Les initiatives covid19 @beta.gouv.fr '
 date: '2020-03-31'
 categories: dinsic
 tags: ''
+image: /img/posts/beta.jpg
 excerpt: >-
   L'équipe de co-animateurs de programme Startup d'État (beta.gouv.fr) au coeur
   de la Direction Interministérielle du Numérique compte aujourd'hui 12
