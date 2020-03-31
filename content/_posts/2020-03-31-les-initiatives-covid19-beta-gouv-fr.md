@@ -52,17 +52,7 @@ Nos partenaires historiques se sont également mobilisés contre le covid-19 - [
 
 Aujourd'hui c'est plus de 140 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance des associations sur jeveuxaider.gouv.fr 
 
-\*\*3 -  \[Aidants connect](<L'équipe de co-animateurs de programme Startup d'État (beta.gouv.fr) au coeur de la Direction Interministérielle du Numérique compte aujourd'hui 12 personnes. 
-
-Notre rôle ? Mettre en commun des initiatives, partager des informations, détecter des profils à mobiliser et accompagner les équipes sur le coup d'après.
-
-Nous recevons de nombreuses sollicitations de mise en place de services numériques et accompagnons les initiatives qui ont un portage ministériel pour utiliser notre expérience et trouver la meilleure façon d'y répondre.
-
-Nous testons également des prototypes d'outils - chatbots / FAQs, expertisons des solutions proposées par le privé ou lançons des instances pour voir.
-
-Au coeur de la crise sanitaire du #Covid19, nous accompagnons en ce moment des équipes qui se sont mobilisées pour améliorer ou créer des produits à destination des citoyens, des entreprises, des associations ou encore les administrations pour faire face à certaines problématiques. 
-
-Découvrez-en quelques-unes :>)\*\*
+**4 -** Aidants connect
 
 Suite aux mesures de confinement, les aidants, médiateurs numériques, sont en difficultés quant à la possibilité d’assurer la continuité de service à apporter aux usagers. Les fermetures de structures ne permettent pas de réaliser un mandat numérique pour la réalisation d’une démarche « à la place de ».\
 \
