@@ -63,6 +63,8 @@ L'équipe s'est lancée dans l'inventaire des besoins exprimés par les structur
 Elle s'attaque également à la communication web et aux mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…)\
 Elle a également lancé une réflexion autour de l'aide à distance et apporté du soutien à la réserve civique.
 
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.13.12.png)
+
 **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
 Le gouvernement a annoncé une batterie de mesure afin d'enccourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus.\
@@ -73,15 +75,21 @@ L'équipe a mis au point un simulateur permettant de connaître le revenu net av
 \
 Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
 
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.12.26.png)
+
 **5- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
 
 Pour lutter contre les nouvelles arnaques et infractions liées au COVID-19 ( encadrement des prix des gels désinfectants non respecté,, vente de masque (FFP2, chirurgicaux) non autorisée, abus sur les sites de vente en ligne, arnaque et publicité mensongère), une catégorie spécifique a été ajoutée sur SignalConso. 
 
 Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCCRF à mieux cibler leurs enquêtes. Les entreprises signalées sont également tenues au courant afin de les inciter à rectifier les pratiques.
 
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)
+
 **6 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
 
 Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance. La newsletter comporte aussi des infos accessibles permettant de se divertir et se changer les idées (infos culturelles etc.). Pour s’y inscrire, il faut se connecter sur [andi.beta.gouv.fr.](http://andi.beta.gouv.fr/)
+
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
 
 **7 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr)**
 
@@ -96,6 +104,8 @@ Pour coordonner les interventions sur le terrain dans ce contexte d'urgence, des
 * remontée des cas Covid.
 
 Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.fr>
+
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
 
 **8 - Algorithme d'orientation COVID19**
 
@@ -118,6 +128,8 @@ Cet outil est mis à jour quotidiennement.
 
 Afin d’être au plus près du besoin des entreprises, un espace interactif leur permet de poser directement lesquestions qui n’auraient pas encore été traitées à ce jour. Ces questions complémentaires permettront d’enrichir la foire aux questions en tant que de besoin.
 
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)
+
 **10 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
@@ -126,4 +138,8 @@ L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acte
 
 Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarches-simplifiees-fr/demarches-simplifiees-opportunites-et-regles-pour-le-teletravail>
 
-Découvrez également d'autres initiatives de la communauté DesignGouv Beta, attestations de sortie et opportunités d'entraide [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) !
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.19.32.png)
+
+**Ce sujet vous intéresse ? découvrez également d'autres initiatives de la communauté DesignGouv Beta, attestations de sortie et opportunités d'entraide [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) !**
+
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.20.35.png)
