@@ -28,7 +28,7 @@ excerpt: >-
   administrations pour faire face à certaines problématiques. 
 
 
-  Découvrez-en quelques-unes !
+  Découvrez 10 d'entre-elles !
 ---
 **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et le cabinet du sécrétariat chargé du numérique
 
@@ -46,7 +46,17 @@ Nos partenaires historiques se sont également mobilisés contre le covid-19 - [
 
 Aujourd'hui c'est plus de 140 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance des associations sur jeveuxaider.gouv.fr 
 
-**3 -  [AidantsConnect](**[aidantsconnect.beta.gouv.fr](**[aidantsconnect.beta.gouv.fr](http://aidantsconnect.beta.gouv.fr/)**)**) [](**[aidantsconnect.beta.gouv.fr](http://aidantsconnect.beta.gouv.fr/)**)**
+**3 -  [Aidants connect](<L'équipe de co-animateurs de programme Startup d'État (beta.gouv.fr) au coeur de la Direction Interministérielle du Numérique compte aujourd'hui 12 personnes. 
+
+Notre rôle ? Mettre en commun des initiatives, partager des informations, détecter des profils à mobiliser et accompagner les équipes sur le coup d'après.
+
+Nous recevons de nombreuses sollicitations de mise en place de services numériques et accompagnons les initiatives qui ont un portage ministériel pour utiliser notre expérience et trouver la meilleure façon d'y répondre.
+
+Nous testons également des prototypes d'outils - chatbots / FAQs, expertisons des solutions proposées par le privé ou lançons des instances pour voir.
+
+Au coeur de la crise sanitaire du #Covid19, nous accompagnons en ce moment des équipes qui se sont mobilisées pour améliorer ou créer des produits à destination des citoyens, des entreprises, des associations ou encore les administrations pour faire face à certaines problématiques. 
+
+Découvrez-en quelques-unes :>)**
 
 Suite aux mesures de confinement, les aidants, médiateurs numériques, sont en difficultés quant à la possibilité d’assurer la continuité de service à apporter aux usagers. Les fermetures de structures ne permettent pas de réaliser un mandat numérique pour la réalisation d’une démarche « à la place de ».\
 \
@@ -79,12 +89,13 @@ Pendant la période de confinement, ANDi propose aux personnes en situation de h
 
 Résorption Bidonvilles permet aux parties-prenantes de savoir :
 
-\- où sont les bidonvilles\
-- qui y intervient\
-\
-Pour coordonner les interventions sur le terrain dans ce contexte d'urgence, des fonctionnalités Covid19 ont été développées :\
-- suivi de l'information sur l'aide alimentaire, la distribution de kit d'hygiène\
-- remontée des cas Covid
+* où sont les bidonvilles ;
+* qui y intervient.
+
+Pour coordonner les interventions sur le terrain dans ce contexte d'urgence, des fonctionnalités Covid19 ont été développées :
+
+* suivi de l'information sur l'aide alimentaire, la distribution de kit d'hygiène ;
+* remontée des cas Covid.
 
 Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.fr>
 
@@ -92,9 +103,29 @@ Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.f
 
 Nous proposons notre appui à l'Agence du numérique en santé pour l'aider à la publication de l'algorithme d'orientation pour le mettre à disposition des initiatives citoyennes, et faciliter la remontée des données.\
 \
-La problématique ?\
+**La problématique ?**\
 Outiller les acteurs de la société civile qui contribuent à la mobilisation nationale dans le cadre de la crise sanitaire.\
 S'assurer que toutes les initiatives d'informations, d'orientations et de triage s'appuient sur le même algorithme.\
 Normaliser le format des données pour outiller leurs collectes à des fins de recherche.\
 \
-L'aide apportée : la publication de l'algorithme en pseudo-code, en code, et suivi des initiatives qui l'implémentent.
+**L'aide apportée** : la publication de l'algorithme en pseudo-code, en code, et suivi des initiatives qui l'implémentent.
+
+**9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
+
+Elaboré avec l'aide de la startup d'Etat « Signaux Faibles » un outil pour aider les entreprises pendant la crise sanitaire est consultable [ici](https://info-entreprises-covid19.economie.gouv.fr/kb). 
+
+Construit autour des questions les plus fréquemment posées par les entreprises (comment bénéficier du fonds de solidarité ou de l’activité partielle, comment faire une demande de prêt garanti par l’Etat, etc.), cette aide en ligne doit permettre de leur apporter des réponses simples, concrètes et immédiatement opérationnelles ainsi que les points de contact pour les accompagner à faire face à la crise du Covid-19. 
+
+Cet outil est mis à jour quotidiennement.
+
+Afin d’être au plus près du besoin des entreprises, un espace interactif leur permet de poser directement lesquestions qui n’auraient pas encore été traitées à ce jour. Ces questions complémentaires permettront d’enrichir la foire aux questions en tant que de besoin.
+
+**10 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
+
+Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
+
+L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. Déjà plus de 20 démarches liées au COVID-19 ont été déployées.
+
+Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarches-simplifiees-fr/demarches-simplifiees-opportunites-et-regles-pour-le-teletravail>
+
+Découvrez également d'autres initiatives de la communauté DesignGouv Beta, attestations de sortie et opportunités d'entraide [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) !
