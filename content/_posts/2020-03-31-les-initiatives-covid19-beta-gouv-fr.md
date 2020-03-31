@@ -32,9 +32,15 @@ excerpt: >-
 ---
 **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et le cabinet du sécrétariat chargé du numérique
 
-Nous avons mis à disposition une UX transverse qui à utilisé [https://betagouv.​github.io/template.beta.gouv.​fr/](https://betagouv.github.io/template.beta.gouv.fr/) pour prototyper rapidement une page d'accueil avec un look "officiel" et une expérience usagée issue de l'expertise des équipes AidantsConnect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle UI).
+Site de recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
-Nous avons également mobilisé un dev full-stack qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes-pratiques et accompagner les devs MedNum. Son périmètre ne se limite qu'au front et pas du tout au traitement des demandes et au coeur du système (les agents mobilisés par tel et la production de ressources).
+Nous avons mis à disposition une personne sur l'UX en transverse qui a utilisé [https://betagouv.​github.io/template.beta.gouv.​fr/](https://betagouv.github.io/template.beta.gouv.fr/) pour prototyper rapidement une page d'accueil avec un look "officiel" et une expérience usagée issue de l'expertise des équipes AidantsConnect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle UI).
+
+Nous avons également mobilisé un dev full-stack qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes-pratiques et accompagner les devs MedNum. 
+
+Son périmètre ne se limite qu'au front et pas du tout au traitement des demandes et au coeur du système (les agents mobilisés par tel et la production de ressources).
+
+![](/img/posts/slack-imgs.com.png)
 
 **2 - [Réserve civique](https://covid19.reserve-civique.gouv.fr)**
 
@@ -46,7 +52,7 @@ Nos partenaires historiques se sont également mobilisés contre le covid-19 - [
 
 Aujourd'hui c'est plus de 140 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance des associations sur jeveuxaider.gouv.fr 
 
-**3 -  [Aidants connect](<L'équipe de co-animateurs de programme Startup d'État (beta.gouv.fr) au coeur de la Direction Interministérielle du Numérique compte aujourd'hui 12 personnes. 
+\*\*3 -  \[Aidants connect](<L'équipe de co-animateurs de programme Startup d'État (beta.gouv.fr) au coeur de la Direction Interministérielle du Numérique compte aujourd'hui 12 personnes. 
 
 Notre rôle ? Mettre en commun des initiatives, partager des informations, détecter des profils à mobiliser et accompagner les équipes sur le coup d'après.
 
@@ -56,7 +62,7 @@ Nous testons également des prototypes d'outils - chatbots / FAQs, expertisons d
 
 Au coeur de la crise sanitaire du #Covid19, nous accompagnons en ce moment des équipes qui se sont mobilisées pour améliorer ou créer des produits à destination des citoyens, des entreprises, des associations ou encore les administrations pour faire face à certaines problématiques. 
 
-Découvrez-en quelques-unes :>)**
+Découvrez-en quelques-unes :>)\*\*
 
 Suite aux mesures de confinement, les aidants, médiateurs numériques, sont en difficultés quant à la possibilité d’assurer la continuité de service à apporter aux usagers. Les fermetures de structures ne permettent pas de réaliser un mandat numérique pour la réalisation d’une démarche « à la place de ».\
 \
