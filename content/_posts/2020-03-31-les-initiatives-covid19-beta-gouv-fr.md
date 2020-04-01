@@ -40,11 +40,12 @@ Aujourd'hui c'est plus de 140 000 volontaires inscrits sur la réserve civique p
 
 **4 -** [Aidants connect](https://aidantsconnect.beta.gouv.fr)
 
-Suite aux mesures de confinement, les aidants, médiateurs numériques, sont en difficultés quant à la possibilité d’assurer la continuité de service à apporter aux usagers. Les fermetures de structures ne permettent pas de réaliser un mandat numérique pour la réalisation d’une démarche « à la place de ».\
-\
+Suite aux mesures de confinement, les aidants, médiateurs numériques, sont en difficultés quant à la possibilité d’assurer la continuité de service à apporter aux usagers. Les fermetures de structures ne permettent pas de réaliser un mandat numérique pour la réalisation d’une démarche « à la place de ». 
+
 L'équipe s'est lancée dans l'inventaire des besoins exprimés par les structures et réflexion autour de l’adaptation de l’offre de service Aidants Connect aux circonstances de confinement en se rapprochant également de Administration+ pour mutualiser leurs efforts d’adaptation et de communication. 
 
-Elle s'attaque également à la communication web et aux mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…)\
+Elle s'attaque également à la communication web et aux mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…) 
+
 Elle a également lancé une réflexion autour de l'aide à distance et apporté du soutien à la réserve civique.
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.13.12.png)
@@ -124,6 +125,6 @@ Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarche
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.19.32.png)
 
-**Ce sujet vous intéresse ? Découvrez [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) une autre initiative de la communauté DesignGouv pour regrouper attestations de sortie et opportunités d'entraide [](https://design.numerique.gouv.fr/covid-19/#initiatives)!**
+**Ce sujet vous intéresse ? Découvrez [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) une autre initiative de la communauté DesignGouv pour regrouper attestations de sortie et opportunités d'entraide** [](https://design.numerique.gouv.fr/covid-19/#initiatives)**!**
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.20.35.png)
