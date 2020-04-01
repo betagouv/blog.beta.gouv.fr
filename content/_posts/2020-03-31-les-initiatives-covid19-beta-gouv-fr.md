@@ -52,12 +52,12 @@ Elle a également lancé une réflexion autour de l'aide à distance et apporté
 
 **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
-Le gouvernement a annoncé une batterie de mesure afin d'enccourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus.\
-\
-Les salariés mis en activité partielle ne connaîssent pas aujourd'hui l'impact exact sur le revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte les calculs compliqué de CSG et CRDS pour aboutir au bon résultat\
-\
-L'équipe a mis au point un simulateur permettant de connaître le revenu net avec indemnité perçu par le salarié, ainsi que le coût total restant à charge pour l'entreprise.\
-\
+Le gouvernement a annoncé une batterie de mesure afin d'enccourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus. 
+
+Les salariés mis en activité partielle ne connaîssent pas aujourd'hui l'impact exact sur le revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte les calculs compliqué de CSG et CRDS pour aboutir au bon résultat. 
+
+L'équipe a mis au point un simulateur permettant de connaître le revenu net avec indemnité perçu par le salarié, ainsi que le coût total restant à charge pour l'entreprise. 
+
 Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.12.26.png)
