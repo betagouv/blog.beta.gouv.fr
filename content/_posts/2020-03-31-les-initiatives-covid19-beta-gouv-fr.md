@@ -52,15 +52,13 @@ Elle a également lancé une réflexion autour de l'aide à distance et apporté
 
 **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
-Le gouvernement a annoncé une batterie de mesure afin d'enccourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus. 
+Le gouvernement a annoncé une batterie de mesure afin d'enccourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus.
 
-Les salariés mis en activité partielle ne connaîssent pas aujourd'hui l'impact exact sur le revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte les calculs compliqué de CSG et CRDS pour aboutir au bon résultat. 
+Les salariés mis en activité partielle ne connaîssent pas aujourd'hui l'impact exact sur le revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte les calculs compliqué de CSG et CRDS pour aboutir au bon résultat.
 
-L'équipe a mis au point un simulateur permettant de connaître le revenu net avec indemnité perçu par le salarié, ainsi que le coût total restant à charge pour l'entreprise. 
+L'équipe a mis au point un simulateur permettant de connaître le revenu net avec indemnité perçu par le salarié, ainsi que le coût total restant à charge pour l'entreprise.
 
 Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
-
-![](/img/posts/capture-d-e-cran-2020-03-31-a-20.12.26.png)
 
 **5- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
 
@@ -72,7 +70,9 @@ Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCC
 
 **6 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
 
-Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance. La newsletter comporte aussi des infos accessibles permettant de se divertir et se changer les idées (infos culturelles etc.). Pour s’y inscrire, il faut se connecter sur [andi.beta.gouv.fr.](http://andi.beta.gouv.fr/)
+Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance. 
+
+La newsletter comporte aussi des infos accessibles permettant de se divertir et se changer les idées (infos culturelles etc.). Pour s’y inscrire, il faut se connecter sur [andi.beta.gouv.fr.](http://andi.beta.gouv.fr/)
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
 
@@ -94,13 +94,13 @@ Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.f
 
 **8 - Algorithme d'orientation COVID19**
 
-Nous proposons notre appui à l'Agence du numérique en santé pour l'aider à la publication de l'algorithme d'orientation pour le mettre à disposition des initiatives citoyennes, et faciliter la remontée des données.\
-\
+Nous proposons notre appui à l'Agence du numérique en santé pour l'aider à la publication de l'algorithme d'orientation pour le mettre à disposition des initiatives citoyennes, et faciliter la remontée des données.
+
 **La problématique ?**\
 Outiller les acteurs de la société civile qui contribuent à la mobilisation nationale dans le cadre de la crise sanitaire.\
 S'assurer que toutes les initiatives d'informations, d'orientations et de triage s'appuient sur le même algorithme.\
-Normaliser le format des données pour outiller leurs collectes à des fins de recherche.\
-\
+Normaliser le format des données pour outiller leurs collectes à des fins de recherche.
+
 **L'aide apportée** : la publication de l'algorithme en pseudo-code, en code, et suivi des initiatives qui l'implémentent.
 
 **9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
