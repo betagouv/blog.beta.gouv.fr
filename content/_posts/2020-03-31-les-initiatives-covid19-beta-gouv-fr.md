@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Les initiatives covid19 @beta.gouv.fr '
+title: '10 initiatives covid19 accompagnées par beta.gouv.fr '
 date: '2020-03-31'
 categories: dinsic
 tags: ''
