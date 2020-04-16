@@ -52,13 +52,13 @@ Elle a également lancé une réflexion autour de l'aide à distance et apporté
 
 **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
-Le gouvernement a annoncé une batterie de mesure afin d'enccourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus.
+Le gouvernement a annoncé une batterie de mesure afin d’encourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus.
 
-Les salariés mis en activité partielle ne connaîssent pas aujourd'hui l'impact exact sur le revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte les calculs compliqué de CSG et CRDS pour aboutir au bon résultat.
+Près de 50% des salariés sont concernés par le chômage partiel, et tous ne connaissent pas l'impact exact sur leur revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte le calcul des cotisations sociales et les situations particulières.
 
-L'équipe a mis au point un simulateur permettant de connaître le revenu net avec indemnité perçu par le salarié, ainsi que le coût total restant à charge pour l'entreprise.
+L'équipe a mis au point un simulateur permettant au salarié de connaître l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
 
-Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
+
 
 **5- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
 
@@ -119,7 +119,7 @@ Afin d’être au plus près du besoin des entreprises, un espace interactif l
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
 
-L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. Déjà plus de 60 démarches liées au COVID-19 ont été déployées.
+L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. Déjà plus de 20 démarches liées au COVID-19 ont été déployées.
 
 Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarches-simplifiees-fr/demarches-simplifiees-opportunites-et-regles-pour-le-teletravail>
 
