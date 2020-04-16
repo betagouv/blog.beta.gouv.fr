@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '10 initiatives covid19 accompagnées par beta.gouv.fr '
-date: '2020-03-31'
+title: "10 initiatives covid19 accompagnées par beta.gouv.fr "
+date: 2020-03-31
 categories: dinsic
-tags: ''
+tags: ""
 image: /img/posts/beta.jpg
 excerpt: >-
   Au coeur de la crise sanitaire du #Covid19, nous accompagnons en ce moment des
@@ -52,9 +52,9 @@ Elle a également lancé une réflexion autour de l'aide à distance et apporté
 
 **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
-Le gouvernement a annoncé une batterie de mesure afin d'enccourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus.
+Le gouvernement a annoncé une batterie de mesure afin d’encourager les entreprises qui le souhaitent à recourir au chômage partiel pour faire face à la crise du coronavirus.
 
-Les salariés mis en activité partielle ne connaîssent pas aujourd'hui l'impact exact sur le revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte les calculs compliqué de CSG et CRDS pour aboutir au bon résultat.
+Les salariés mis en activité partielle ne connaissent pas aujourd'hui l'impact exact sur le revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte les calculs compliqué de CSG et CRDS pour aboutir au bon résultat.
 
 L'équipe a mis au point un simulateur permettant de connaître le revenu net avec indemnité perçu par le salarié, ainsi que le coût total restant à charge pour l'entreprise.
 
