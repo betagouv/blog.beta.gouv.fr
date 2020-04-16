@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 initiatives covid19 accompagnées par beta.gouv.fr "
-date: 2020-03-31
+date: 2020-03-31T00:00:00.000Z
 categories: dinsic
 tags: ""
 image: /img/posts/beta.jpg
@@ -52,9 +52,9 @@ Elle a également lancé une réflexion autour de l'aide à distance et apporté
 
 **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
-Pour faire face aux conséquences économiques de la crise du coronavirus, le gouvernement encourage le recours au chômage partiel : l'État prend en charge l'indemnité versée au salarié et les procédures de déclaration ont été simplifiées.
+Pour faire face aux conséquences économiques de la crise du coronavirus, le gouvernement encourage le recours au chômage partiel : l'État prend en charge l'indemnité versée au salarié et la procédure de déclaration a été simplifiée.
 
-Près de la moitité des salariés sont concernés par la mesure, et tous ne connaissent pas l'impact exact sur leur revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte le calcul des cotisations sociales et les situations particulières.
+Près de la moitié des salariés sont concernés par la mesure, et tous ne connaissent pas l'impact exact sur leur revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte le calcul des cotisations sociales et les situations particulières.
 
 L'équipe a mis au point un simulateur permettant au salarié de calculer l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
 
