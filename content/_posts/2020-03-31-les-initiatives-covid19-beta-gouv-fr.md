@@ -46,7 +46,7 @@ L'équipe s'est lancée dans l'inventaire des besoins exprimés par les structur
 
 Elle s'attaque également à la communication web et aux mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…) 
 
-Elle a également lancé une réflexion autour de l'aide à distance et apporté du soutien à la réserve civique.
+Elle a également lancé une réflexion autour de l'accompagnement à distance.
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.13.12.png)
 
