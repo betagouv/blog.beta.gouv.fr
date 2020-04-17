@@ -14,15 +14,15 @@ excerpt: >-
 
   Découvrez 10 d’entre-elles !
 ---
-**1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et le cabinet du sécrétariat chargé du numérique
+**1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
 
 Site de recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
-Nous avons mis à disposition une personne sur l'UX en transverse qui a utilisé [https://betagouv.​github.io/template.beta.gouv.​fr/](https://betagouv.github.io/template.beta.gouv.fr/) pour prototyper rapidement une page d'accueil avec un look "officiel" et une expérience usagée issue de l'expertise des équipes AidantsConnect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle UI).
+Nous avons mis à disposition une personne sur l'UX en transverse qui a utilisé [https://betagouv.​github.io/template.beta.gouv.​fr/](https://betagouv.github.io/template.beta.gouv.fr/) pour prototyper rapidement une page d'accueil avec un look "officiel" et une expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle UI).
 
 Nous avons également mobilisé un dev full-stack qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes-pratiques et accompagner les devs MedNum. 
 
-Son périmètre ne se limite qu'au front et pas du tout au traitement des demandes et au coeur du système (les agents mobilisés par tel et la production de ressources).
+Son périmètre ne se limite qu'au front et pas du tout au traitement des demandes et au coeur du système (les agents mobilisés par téléphone et la production de ressources).
 
 ![](/img/posts/slack-imgs.com.png)
 
