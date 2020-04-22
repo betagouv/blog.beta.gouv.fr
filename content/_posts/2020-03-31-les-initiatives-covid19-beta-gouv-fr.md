@@ -38,17 +38,20 @@ Aujourd'hui c'est plus de 140 000 volontaires inscrits sur la réserve civique p
 
 ![](/img/posts/euwqvvlxgaebqnb.jpg)
 
-**4 -** [Aidants connect](https://aidantsconnect.beta.gouv.fr)
+**3 -** [Aidants Connect](https://aidantsconnect.beta.gouv.fr)
 
-Suite aux mesures de confinement, les aidants, médiateurs numériques, sont en difficultés quant à la possibilité d’assurer la continuité de service à apporter aux usagers. Les fermetures de structures ne permettent pas de réaliser un mandat numérique pour la réalisation d’une démarche « à la place de ». 
+Depuis le début du confinement, les aidants professionnels qui accompagnent les usagers éloignés du numérique rencontrent des obstacles pour assurer la continuité de service : 
 
-L'équipe s'est lancée dans l'inventaire des besoins exprimés par les structures et réflexion autour de l’adaptation de l’offre de service Aidants Connect aux circonstances de confinement en se rapprochant également de Administration+ pour mutualiser leurs efforts d’adaptation et de communication. 
+* fermetures des lieux d'accueil, points de contact habituels avec les usagers ;
+* difficultés d'accès à une information précise quant à tous les changements administratifs qu'a provoqués l'état d'urgence administratif ;
+* L'adaptation de procédures, généralement vues en personne, à être réalisées à distance, avec des équipements peu adaptés (utilisation de materiel personnel par les aidants ...). 
 
-Elle s'attaque également à la communication web et aux mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…) 
+Pour accompagner les aidants dans cette période difficile, Aidants Connect et Administration + ont échangé avec les structures d'accompagnement pour réaliser un inventaire des besoins terrain et trouver les moyens les plus adaptés pour y répondre : 
 
-Elle a également lancé une réflexion autour de l'accompagnement à distance.
+* Apporter l'information la plus pertinente aux aidants : mise en place d'une communication web et mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…) 
+* Sécuriser l'aide à distance pendant le confinement: le mandat Aidants Connect peut maintenant être conclu en envoyant un SMS et couvrir la durée de l'état d'urgence sanitaire.
 
-![](/img/posts/capture-d-e-cran-2020-03-31-a-20.13.12.png)
+![](/img/posts/accueil_aidants_connect.png)
 
 **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
