@@ -99,25 +99,25 @@ Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.f
 
 Nous proposons notre appui pour aider à la publication de l'[algorithme d'orientation COVID-19](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation), ainsi qu'au déploiement du [questionnaire d'orientation officiel](https://www.gouvernement.fr/info-coronavirus/orientation-medicale).
 
-##### Finalités de l'algorithme
+#### Finalités de l'algorithme
 
 * outiller les acteurs de la société civile qui contribuent à la mobilisation nationale dans le cadre de la crise sanitaire ; et
 * s'assurer que toutes les initiatives d'informations, d'orientations et de triage s'appuient sur le même algorithme.
 * normaliser le [format des données](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-schema-donnees) pour outiller leurs collectes à des fins de recherche.
 
-##### Finalités du questionnaire
+#### Finalités du questionnaire
 
 * orienter les personnes qui en ont le plus besoin, en fonction de l’état de santé et des symptômes qu’elles déclarent, vers le bon comportement à adopter ; et
 * appuyer la recherche épidémiologique grâce à la collecte et à la publication en _open data_ des données anonymisées sur le site [data.gouv.fr](https://data.gouv.fr).
 
-##### Diffusion des codes sources
+#### Diffusion des codes sources
 
 Au-delà des données, les codes sources sont eux aussi diffusés publiquement en _open source_ :
 
 * la partie « interface » du questionnaire est publiée [ici](https://github.com/etalab/covid19-orientation) ; 
 * la partie « collecte des données » du questionnaire  est publiée [ici](https://github.com/betagouv/covid19-algorithme-orientation-api).
 
-##### Collaboration interministérielle
+#### Collaboration interministérielle
 
 Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut Pasteur, la Délégation ministérielle du numérique en santé, l'Agence du numérique de la sécurité civile, et le Service d'information du Gouvernement.
 
