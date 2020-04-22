@@ -121,6 +121,8 @@ Au-delà des données, les codes sources sont eux aussi diffusés publiquement e
 
 Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut Pasteur, la Délégation ministérielle du numérique en santé, l'Agence du numérique de la sécurité civile, et le Service d'information du Gouvernement.
 
+![Questionnaire d'orientation COVID-19](/img/posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr/questionnaire.png)
+
 **9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
 
 Elaboré avec l'aide de la startup d'Etat « Signaux Faibles » un outil pour aider les entreprises pendant la crise sanitaire est consultable [ici](https://info-entreprises-covid19.economie.gouv.fr/kb). 
