@@ -95,19 +95,19 @@ Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.f
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
 
-**8 - Algorithme et questionnaitr d'orientation COVID-19**
+**8 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
 
 Nous proposons notre appui pour aider à la publication de l'[algorithme d'orientation COVID-19](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation), ainsi qu'au déploiement du [questionnaire d'orientation officiel](https://www.gouvernement.fr/info-coronavirus/orientation-medicale).
 
 #### Finalités de l'algorithme
 
-* outiller les acteurs de la société civile qui contribuent à la mobilisation nationale dans le cadre de la crise sanitaire ; et
-* s'assurer que toutes les initiatives d'informations, d'orientations et de triage s'appuient sur le même algorithme.
+* outiller les acteurs de la société civile qui contribuent à la mobilisation nationale dans le cadre de la crise sanitaire ;
+* s'assurer que toutes les initiatives d'informations, d'orientations et de triage s'appuient sur le même algorithme ;
 * normaliser le [format des données](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation-schema-donnees) pour outiller leurs collectes à des fins de recherche.
 
 #### Finalités du questionnaire
 
-* orienter les personnes qui en ont le plus besoin, en fonction de l’état de santé et des symptômes qu’elles déclarent, vers le bon comportement à adopter ; et
+* orienter les personnes qui en ont le plus besoin, en fonction de l’état de santé et des symptômes qu’elles déclarent, vers le bon comportement à adopter ;
 * appuyer la recherche épidémiologique grâce à la collecte et à la publication en _open data_ des données anonymisées sur le site [data.gouv.fr](https://data.gouv.fr).
 
 #### Diffusion des codes sources
