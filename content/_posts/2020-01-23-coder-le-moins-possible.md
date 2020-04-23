@@ -40,7 +40,7 @@ Une de nos premières actions avec Sabine a donc été d'aller à Cahors et list
 
 Le premier point douloureux qui remonte tout de suite, c'est de trouver des correspondances géographiques. 
 
-Les conducteur⋅rice⋅s et s'inscrivent via un formulaire Google Form, ces données sont stockées dans un Google Spreadsheet. Quand une personne appelle et a besoin de faire un trajet Pradines => Gourdon un mardi à 9h30, Nathalie cherche une correspondance dans ce tableur d’alors 300 lignes. Et évidemment, une correspondance exacte sur les deux villes est très rare. Alors, elle ouvre Google Maps et cherche quel trajet plus long peut passer par Pradines et Gourdon, puis  replonge dans le Google Spreadsheet pour trouver de nouvelles correspondances... En moyenne, cela lui prenait 20-30 minutes par demande de trajet, et jusqu’à 3h dans le pire des cas.
+Les conducteur⋅rice⋅s et s’inscrivent via un formulaire Google Form, ces données sont stockées dans un Google Spreadsheet. Quand une personne appelle et a besoin de faire un trajet Pradines → Gourdon un mardi à 9 h 30, Nathalie cherche une correspondance dans ce tableur qui comprend 300 lignes. Et évidemment, une correspondance exacte sur les deux villes est très rare. Alors, elle ouvre Google Maps et cherche quel trajet plus long peut passer par Pradines et Gourdon, puis replonge dans le Google Spreadsheet pour trouver de nouvelles correspondances… En moyenne, cela lui prenait 20 à 30 minutes par demande de trajet, et jusqu’à 3 heures dans le pire des cas.
 
 
 ## Une solution locale
