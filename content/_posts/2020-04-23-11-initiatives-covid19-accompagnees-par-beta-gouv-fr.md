@@ -105,7 +105,7 @@ Pour faire face aux conséquences économiques de la crise du coronavirus, le go
 
 Près de la moitié des salariés sont concernés par la mesure, et tous ne connaissent pas l'impact exact sur leur revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte le calcul des cotisations sociales et les situations particulières.
 
-L'équipe a mis au point un simulateur permettant au salarié de calculer l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
+L'équipe a mis au point un simulateur permettant au salarié de calculer l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus).
 
 [![Simulateur chômage partiel](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/chomage-partiel.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/chomage-partiel.png)
 
@@ -157,7 +157,8 @@ La newsletter comporte aussi des infos accessibles permettant de se divertir et 
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
 
-L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. Déjà plus d'une quarantaine de démarches liées au COVID-19 ont été déployées.
+L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. 
+Déjà plus d'une quarantaine de démarches liées au COVID-19 ont été déployées.
 
 Pour en savoir plus : <https://demarches-simplifiees.gitbook.io/articles-demarches-simplifiees-fr/demarches-simplifiees-opportunites-et-regles-pour-le-teletravail>
 
