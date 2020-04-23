@@ -36,7 +36,7 @@ Une de nos premières actions avec Sabine a donc été d'aller à Cahors et list
 
 **Notre interrogation à ce moment-là : quel est le problème, bien compris, délimité, et douloureux, auquel le numérique peut répondre avec un minimum d’effort ?**
 
-## L'irritant dans l'irritant
+## L’irritant dans l’irritant
 
 Le premier point douloureux qui remonte tout de suite, c'est de trouver des correspondances géographiques. 
 
