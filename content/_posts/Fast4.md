@@ -68,8 +68,6 @@ Les 10 autres produits présentés n’ont pas pu être retenus pour les conditi
 
 **[En savoir plus sur les lauréats et les comités d'investissement des 3 éditions du Fast.](https://beta.gouv.fr/fast/promotion/01-fast.html)** 
 
-
-
 # Lancement du Fast 4
 
 **L’appel à candidatures de cette 4ème édition est ouvert !**
