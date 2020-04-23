@@ -14,7 +14,7 @@ excerpt: >-
 
   Découvrez 10 d’entre elles !
 ---
-**1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
+**\## 1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
 
 Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
