@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 initiatives covid19 accompagnées par beta.gouv.fr "
-date: 2020-03-31T00:00:00.000Z
+date: 2020-04-23
 categories: dinsic
 tags: ""
 image: /img/posts/beta.jpg
@@ -18,7 +18,7 @@ excerpt: >-
 
 Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
-Nous avons mis à disposition une personne sur l'UX en transverse qui, en utilisant [https://betagouv.github.io/template.beta.gouv.fr/](https://betagouv.github.io/template.beta.gouv.fr/) à pu prototyper une page d'accueil rapidement exploitable. Nous nous sommes également inspirés de l'expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle interface).
+Nous avons mis à disposition une personne sur l'UX en transverse qui, en utilisant <https://betagouv.github.io/template.beta.gouv.fr/> à pu prototyper une page d'accueil rapidement exploitable. Nous nous sommes également inspirés de l'expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle interface).
 
 Nous avons également mobilisé un développeur qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes pratiques et accompagner les développeurs MedNum qui se sont chargés du back-office de traitement des appels et de reccueil des ressources. 
 
@@ -32,7 +32,7 @@ En quelques jours, des volontaires et chargés de déploiements issus du program
 
 Nos partenaires historiques se sont également mobilisés contre le covid-19 - [https://www.journaldunet.​com/web-tech/cloud/1490053-​jeveuxaider-gouv-fr-pare-pour-​accueillir-600-benevoles-par-​seconde/](https://www.journaldunet.com/web-tech/cloud/1490053-jeveuxaider-gouv-fr-pare-pour-accueillir-600-benevoles-par-seconde/)
 
-Aujourd'hui c'est plus de 140 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance des associations sur jeveuxaider.gouv.fr 
+Aujourd'hui c'est plus de 250 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance des associations sur jeveuxaider.gouv.fr 
 
 ![](/img/posts/euwqvvlxgaebqnb.jpg)
 
@@ -106,11 +106,11 @@ Nous proposons notre appui pour aider à la publication de l'[algorithme d'orien
 #### Finalités du questionnaire
 
 * orienter les personnes qui en ont le plus besoin, en fonction de l’état de santé et des symptômes qu’elles déclarent, vers le bon comportement à adopter ;
-* appuyer la recherche épidémiologique grâce à la collecte et à la publication en _open data_ des données anonymisées sur le site [data.gouv.fr](https://data.gouv.fr).
+* appuyer la recherche épidémiologique grâce à la collecte et à la publication en *open data* des données anonymisées sur le site [data.gouv.fr](https://data.gouv.fr).
 
 #### Diffusion des codes sources
 
-Au-delà des données, les codes sources sont eux aussi diffusés publiquement en _open source_ :
+Au-delà des données, les codes sources sont eux aussi diffusés publiquement en *open source* :
 
 * la partie « interface » du questionnaire est publiée [ici](https://github.com/etalab/covid19-orientation) ; 
 * la partie « collecte des données » du questionnaire  est publiée [ici](https://github.com/betagouv/covid19-algorithme-orientation-api).
@@ -143,6 +143,10 @@ Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarche
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.19.32.png)
 
-**Ce sujet vous intéresse ?** Découvrez [ici](https://design.numerique.gouv.fr/covid-19/#initiatives) une autre initiative de la communauté DesignGouv pour regrouper attestations de sortie et opportunités d'entraide [](https://design.numerique.gouv.fr/covid-19/#initiatives)!
+**Ce sujet vous intéresse ?** Découvrez ici une autre initiative de la communauté DesignGouv pour regrouper attestations de sortie et opportunités d'entraide [](https://design.numerique.gouv.fr/covid-19/#initiatives)!
 
-![](/img/posts/capture-d-e-cran-2020-03-31-a-20.20.35.png)
+**Vous souhaitez vous impliquer ?** Découvrez [les initiatives](https://design.numerique.gouv.fr/covid-19) citoyennes et gouvernementales qui ont besoin de volontaires dans différents domaines (data, dev, ressources numériques, assistance aux personnes, etc).
+
+*Vous souhaitez ajouter une initiative ? [Contactez-nous ](mailto:contact@design.numerique.gouv.fr)ou contribuez sur notre [github](https://github.com/DISIC/design.numerique.gouv.fr)!* 
+
+![](/img/posts/capture-d-e-cran-2020-04-23-a-11.38.10.png)
