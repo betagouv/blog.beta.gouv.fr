@@ -32,7 +32,7 @@ Avant notre arrivée à tous les deux, des travaux avaient été menés pour dé
 
 Mais au vu du budget restant - 120.000 € en tout, et des efforts de déploiement (qui constitue le plus gros de l'effort à fournir), nous ne pouvions pas consacrer ce budget au numérique. Nous avons choisi de réinterroger le besoin avant d’écrire une seule ligne de code.
 
-Une de nos premières actions avec Sabine a donc été d'aller à Cahors et lister avec Nathalie tout ce qu'il se passe entre la réception d’une demande d’un⋅e passager⋅ère, l’inscription d’un⋅e conducteur⋅rice pertinent⋅e et le moment où un trajet a effectivement lieu. But de la manoeuvre : trouver dans cette liste les endroits qui sont à la fois les plus pénibles pour Nathalie et pour lesquels un outil numérique serait pertinent et facile à produire rapidement.
+Une de nos premières actions avec Sabine a donc été d'aller à Cahors et lister avec Nathalie tout ce qu'il se passe entre la réception d’une demande d’un⋅e passager⋅ère, l’inscription d’un⋅e conducteur⋅rice pertinent⋅e et le moment où un trajet a effectivement lieu. But de la manœuvre : trouver dans cette liste les endroits qui sont à la fois les plus pénibles pour Nathalie et pour lesquels un outil numérique serait pertinent et facile à produire rapidement.
 
 **Notre interrogation à ce moment-là : quel est le problème, bien compris, délimité, et douloureux, auquel le numérique peut répondre avec un minimum d’efforts ?**
 
