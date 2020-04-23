@@ -40,8 +40,6 @@ Les critères de présélection :
 * Avoir besoin de l’appui de la DINUM pour déployer le produit ;
 * Prévoir un cofinancement de la période de déploiement / d’accélération par son sponsor administratif.
 
-
-
 ### **Les 5 lauréats du Fast 3:**
 
 1. [Fiche Commune Entreprise](https://fce.fabrique.social.gouv.fr/login), un portail pour faciliter l’accès aux informations disponibles sur les entreprises et les échanges entre services
@@ -67,6 +65,8 @@ Les 10 autres produits présentés n’ont pas pu être retenus pour les conditi
 \- Produits déjà soutenu activement par l’administration porteuse.
 
 **[En savoir plus sur les lauréats et les comités d'investissement des 3 éditions du Fast.](https://beta.gouv.fr/fast/promotion/01-fast.html)** 
+
+\---
 
 # Lancement du Fast 4
 
