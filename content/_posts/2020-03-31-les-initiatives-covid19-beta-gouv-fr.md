@@ -12,19 +12,17 @@ excerpt: >-
   administrations pour faire face à certaines problématiques.
 
 
-  Découvrez 10 d’entre-elles !
+  Découvrez 10 d’entre elles !
 ---
 **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
 
-Site de recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
+Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
-Nous avons mis à disposition une personne sur l'UX en transverse qui a utilisé [https://betagouv.​github.io/template.beta.gouv.​fr/](https://betagouv.github.io/template.beta.gouv.fr/) pour prototyper rapidement une page d'accueil avec un look "officiel" et une expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle UI).
+Nous avons mis à disposition une personne sur l'UX en transverse qui, en utilisant [https://betagouv.github.io/template.beta.gouv.fr/](https://betagouv.github.io/template.beta.gouv.fr/) à pu prototyper une page d'accueil rapidement exploitable. Nous nous sommes également inspirés de l'expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle interface).
 
-Nous avons également mobilisé un dev full-stack qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes-pratiques et accompagner les devs MedNum. 
+Nous avons également mobilisé un développeur qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes pratiques et accompagner les développeurs MedNum qui se sont chargés du back-office de traitement des appels et de reccueil des ressources. 
 
-Son périmètre ne se limite qu'au front et pas du tout au traitement des demandes et au coeur du système (les agents mobilisés par téléphone et la production de ressources).
-
-![](/img/posts/slack-imgs.com.png)
+![Page d'accueil du site solidarite-numerique](/img/posts/slack-imgs.com.png)
 
 **2 - [Réserve civique](https://covid19.reserve-civique.gouv.fr)**
 
