@@ -137,16 +137,14 @@ Afin d’être au plus près du besoin des entreprises, un espace interactif l
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
 
-L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. Déjà plus de 20 démarches liées au COVID-19 ont été déployées.
+L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. Déjà plus d'une quarantaine de démarches liées au COVID-19 ont été déployées.
 
 Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarches-simplifiees-fr/demarches-simplifiees-opportunites-et-regles-pour-le-teletravail>
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.19.32.png)
 
-**Ce sujet vous intéresse ?** Découvrez ici une autre initiative de la communauté DesignGouv pour regrouper attestations de sortie et opportunités d'entraide [](https://design.numerique.gouv.fr/covid-19/#initiatives)!
+**Vous souhaitez vous impliquer ?** Découvrez d'autres [initiatives](https://design.numerique.gouv.fr/covid-19) citoyennes et gouvernementales qui ont besoin de volontaires dans différents domaines (data, dev, ressources numériques, assistance aux personnes, etc).
 
-**Vous souhaitez vous impliquer ?** Découvrez [les initiatives](https://design.numerique.gouv.fr/covid-19) citoyennes et gouvernementales qui ont besoin de volontaires dans différents domaines (data, dev, ressources numériques, assistance aux personnes, etc).
-
-*Vous souhaitez ajouter une initiative ? [Contactez-nous ](mailto:contact@design.numerique.gouv.fr)ou contribuez sur notre [github](https://github.com/DISIC/design.numerique.gouv.fr)!* 
+*Vous souhaitez ajouter une initiative ? [Contactez-nous](mailto:contact@design.numerique.gouv.fr) ou contribuez sur le [github](https://github.com/DISIC/design.numerique.gouv.fr) !*
 
 ![](/img/posts/capture-d-e-cran-2020-04-23-a-11.38.10.png)
