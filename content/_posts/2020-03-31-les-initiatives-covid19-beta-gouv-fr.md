@@ -14,7 +14,7 @@ excerpt: >-
 
   Découvrez 10 d’entre elles !
 ---
-###### **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
+## **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
 
 Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
@@ -24,7 +24,7 @@ Nous avons également mobilisé un développeur qui était sur [api.gouv.fr](htt
 
 ![Page d'accueil du site solidarite-numerique](/img/posts/slack-imgs.com.png)
 
-**2 - [Réserve civique](https://covid19.reserve-civique.gouv.fr)**
+## **2 - [Réserve civique](https://covid19.reserve-civique.gouv.fr)**
 
 Un produit que nous suivons depuis longtemps, qui se préparait à une nouvelle jeunesse en retrouvant un sponsors à la DJEPVA autours des suites du SNU -[https://static.data.gouv.fr/​resources/conventions-de-​partenariat/20200217-121903/​convention-delegation-startup.​pdf](https://static.data.gouv.fr/resources/conventions-de-partenariat/20200217-121903/convention-delegation-startup.pdf) et qui se retrouve au centre d'un dispositif hors-norme.
 
@@ -36,7 +36,7 @@ Aujourd'hui c'est plus de 250 000 volontaires inscrits sur la réserve civique p
 
 ![](/img/posts/euwqvvlxgaebqnb.jpg)
 
-**3 - [Aidants Connect](https://aidantsconnect.beta.gouv.fr)**
+## **3 - [Aidants Connect](https://aidantsconnect.beta.gouv.fr)**
 
 Depuis le début du confinement, les aidants professionnels qui accompagnent les usagers éloignés du numérique rencontrent des obstacles pour assurer la continuité de service : 
 
@@ -51,7 +51,7 @@ Pour accompagner les aidants dans cette période difficile, Aidants Connect et A
 
 ![](/img/posts/accueil_aidants_connect.png)
 
-**4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
+## **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
 Pour faire face aux conséquences économiques de la crise du coronavirus, le gouvernement encourage le recours au chômage partiel : l'État prend en charge l'indemnité versée au salarié et la procédure de déclaration a été simplifiée.
 
@@ -61,7 +61,7 @@ L'équipe a mis au point un simulateur permettant au salarié de calculer l'impa
 
 ![Simulateur chômage partiel](/img/posts/chomage-partiel.png)
 
-**5- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
+## **5- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
 
 Pour lutter contre les nouvelles arnaques et infractions liées au COVID-19 ( encadrement des prix des gels désinfectants non respecté,, vente de masque (FFP2, chirurgicaux) non autorisée, abus sur les sites de vente en ligne, arnaque et publicité mensongère), une catégorie spécifique a été ajoutée sur SignalConso. 
 
@@ -69,7 +69,7 @@ Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCC
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)
 
-**6 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
+## **6 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
 
 Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance. 
 
@@ -77,7 +77,7 @@ La newsletter comporte aussi des infos accessibles permettant de se divertir et 
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
 
-**7 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr)**
+## **7 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr)**
 
 Résorption Bidonvilles permet aux parties-prenantes de savoir :
 
@@ -93,7 +93,7 @@ Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.f
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
 
-**8 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
+## **8 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
 
 Nous proposons notre appui pour aider à la publication de l'[algorithme d'orientation COVID-19](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation), ainsi qu'au déploiement du [questionnaire d'orientation officiel](https://www.gouvernement.fr/info-coronavirus/orientation-medicale).
 
@@ -121,19 +121,19 @@ Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut
 
 ![Questionnaire d'orientation COVID-19](/img/posts/capture-d-e-cran-2020-04-23-a-11.41.09.png)
 
-**9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
+## **9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
 
-Elaboré avec l'aide de la startup d'Etat « Signaux Faibles » un outil pour aider les entreprises pendant la crise sanitaire est consultable [ici](https://info-entreprises-covid19.economie.gouv.fr/kb). 
+Elaboré avec l'aide de la startup d'Etat « Signaux Faibles » un outil pour aider les entreprises pendant la crise sanitaire est consultable [ici](https://info-entreprises-covid19.economie.gouv.fr/kb). 
 
-Construit autour des questions les plus fréquemment posées par les entreprises (comment bénéficier du fonds de solidarité ou de l’activité partielle, comment faire une demande de prêt garanti par l’Etat, etc.), cette aide en ligne doit permettre de leur apporter des réponses simples, concrètes et immédiatement opérationnelles ainsi que les points de contact pour les accompagner à faire face à la crise du Covid-19. 
+Construit autour des questions les plus fréquemment posées par les entreprises (comment bénéficier du fonds de solidarité ou de l’activité partielle, comment faire une demande de prêt garanti par l’Etat, etc.), cette aide en ligne doit permettre de leur apporter des réponses simples, concrètes et immédiatement opérationnelles ainsi que les points de contact pour les accompagner à faire face à la crise du Covid-19. 
 
-Cet outil est mis à jour quotidiennement.
+Cet outil est mis à jour quotidiennement.
 
-Afin d’être au plus près du besoin des entreprises, un espace interactif leur permet de poser directement lesquestions qui n’auraient pas encore été traitées à ce jour. Ces questions complémentaires permettront d’enrichir la foire aux questions en tant que de besoin.
+Afin d’être au plus près du besoin des entreprises, un espace interactif leur permet de poser directement lesquestions qui n’auraient pas encore été traitées à ce jour. Ces questions complémentaires permettront d’enrichir la foire aux questions en tant que de besoin.
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)
 
-**10 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
+## **10 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
 
@@ -143,8 +143,10 @@ Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarche
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.19.32.png)
 
-**Vous souhaitez vous impliquer ?** Découvrez d'autres [initiatives](https://design.numerique.gouv.fr/covid-19) citoyennes et gouvernementales qui ont besoin de volontaires dans différents domaines (data, dev, ressources numériques, assistance aux personnes, etc).
-
-*Vous souhaitez ajouter une initiative ? [Contactez-nous](mailto:contact@design.numerique.gouv.fr) ou contribuez sur le [github](https://github.com/DISIC/design.numerique.gouv.fr) !*
+### **Vous souhaitez vous impliquer ?** 
+Découvrez d'autres [initiatives](https://design.numerique.gouv.fr/covid-19) citoyennes et gouvernementales qui ont besoin de volontaires dans différents domaines (data, dev, ressources numériques, assistance aux personnes, etc).
 
 ![](/img/posts/capture-d-e-cran-2020-04-23-a-11.38.10.png)
+
+### **Vous souhaitez ajouter une initiative ?** 
+[Contactez-nous](mailto:contact@design.numerique.gouv.fr) ou contribuez sur le [github](https://github.com/DISIC/design.numerique.gouv.fr) !
