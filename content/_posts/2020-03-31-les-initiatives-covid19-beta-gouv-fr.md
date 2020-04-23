@@ -32,11 +32,11 @@ En quelques jours, des volontaires et chargés de déploiements issus du program
 
 Nos partenaires historiques se sont également mobilisés contre le covid-19 - [https://www.journaldunet.​com/web-tech/cloud/1490053-​jeveuxaider-gouv-fr-pare-pour-​accueillir-600-benevoles-par-​seconde/](https://www.journaldunet.com/web-tech/cloud/1490053-jeveuxaider-gouv-fr-pare-pour-accueillir-600-benevoles-par-seconde/)
 
-Aujourd'hui c'est plus de 250 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance des associations sur jeveuxaider.gouv.fr 
+Aujourd'hui c'est plus de 250 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance de plus de 3000 associations sur jeveuxaider.gouv.fr 
 
 ![](/img/posts/euwqvvlxgaebqnb.jpg)
 
-**3 -** [Aidants Connect](https://aidantsconnect.beta.gouv.fr)
+**3 - [Aidants Connect](https://aidantsconnect.beta.gouv.fr)**
 
 Depuis le début du confinement, les aidants professionnels qui accompagnent les usagers éloignés du numérique rencontrent des obstacles pour assurer la continuité de service : 
 
@@ -93,7 +93,7 @@ Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.f
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
 
-**8 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
+**8 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
 
 Nous proposons notre appui pour aider à la publication de l'[algorithme d'orientation COVID-19](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation), ainsi qu'au déploiement du [questionnaire d'orientation officiel](https://www.gouvernement.fr/info-coronavirus/orientation-medicale).
 
@@ -119,7 +119,7 @@ Au-delà des données, les codes sources sont eux aussi diffusés publiquement e
 
 Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut Pasteur, la Délégation ministérielle du numérique en santé, l'Agence du numérique de la sécurité civile, et le Service d'information du Gouvernement.
 
-![Questionnaire d'orientation COVID-19](/img/posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr/questionnaire.png)
+![Questionnaire d'orientation COVID-19](/img/posts/capture-d-e-cran-2020-04-23-a-11.41.09.png)
 
 **9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
 
