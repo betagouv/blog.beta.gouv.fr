@@ -22,7 +22,7 @@ Quand Sabine Safi et moi-même arrivons sur le projet Lotocar, 50 trajets ont d�
 
 La tech ne peut pas vraiment être une solution pour les deux premiers problèmes, qui ne dépendent que de la diffusion du service. Par contre, le 3ème point peut potentiellement être résolu par un outil numérique.
 
-**Notre interrogation à ce moment-là : faut-il vraiment coder ? Ou bien continuer avec l’ensemble d’outils qui nous a permis de réaliser 50 trajets ? Ou encore, se tourner vers une “grosse” solution qui fait déjà tout ce dont on a besoin - et bien plus ?**
+**Notre interrogation à ce moment-là : faut-il vraiment coder ? Ou bien continuer avec l’ensemble d’outils qui nous a permis de réaliser 50 trajets ? Ou encore, se tourner vers une « grosse » solution qui fait déjà tout ce dont on a besoin - et bien plus ?**
 
 ## Coder ? Et si oui, coder quoi, pourquoi ?
 
