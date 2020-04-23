@@ -16,7 +16,7 @@ excerpt: >-
 
   Découvrez 11 d'entre elles !
 ---
-## **1 -[Algorithme ](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org)et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale)d'orientation COVID-19**
+## **1 - [Algorithme ](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org)et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
 
 Nous proposons notre appui pour aider à la publication de l'[algorithme d'orientation COVID-19](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation), ainsi qu'au déploiement du [questionnaire d'orientation officiel](https://www.gouvernement.fr/info-coronavirus/orientation-medicale).
 
@@ -44,17 +44,17 @@ Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut
 
 [![Questionnaire d'orientation COVID-19](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/questionnaire.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/questionnaire.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#2---solidarite-numeriquefr--produit-port%C3%A9-par-la-mednum-et-lagence-nationale-de-la-coh%C3%A9sion-des-territoires)**2 -[Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum](https://lamednum.coop/) et l'Agence Nationale de la Cohésion des Territoires
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#2---solidarite-numeriquefr--produit-port%C3%A9-par-la-mednum-et-lagence-nationale-de-la-coh%C3%A9sion-des-territoires)**2 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum](https://lamednum.coop/) et l'Agence Nationale de la Cohésion des Territoires
 
 Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
-Nous avons mis à disposition une personne sur l'UX en transverse qui, en utilisant [ce template](<https://betagouv.github.io/template.beta.gouv.fr/>) a pu prototyper une page d'accueil rapidement exploitable. Nous nous sommes également inspirés de l'expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle interface).
+Nous avons mis à disposition une personne sur l'UX en transverse qui, en utilisant [ce template](https://betagouv.github.io/template.beta.gouv.fr/) a pu prototyper une page d'accueil rapidement exploitable. Nous nous sommes également inspirés de l'expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle interface).
 
 Nous avons également mobilisé un développeur qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes pratiques et accompagner les développeurs MedNum qui se sont chargés du back-office de traitement des appels et de reccueil des ressources.
 
 [![Page d'accueil du site solidarite-numerique](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/slack-imgs.com.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/slack-imgs.com.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#3---r%C3%A9serve-civique)**3 -[Réserve civique](https://covid19.reserve-civique.gouv.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#3---r%C3%A9serve-civique)**3 - [Réserve civique](https://covid19.reserve-civique.gouv.fr/)**
 
 Formalisé par la loi Egalité et citoyenneté de janvier 2017, la Réserve Civique est un dispositif qui met en relation les organismes portant des missions d’intérêt général et les candidats bénévoles, grâce à une plateforme numérique développée au sein de [beta.gouv.fr](http://beta.gouv.fr/). 
 
@@ -72,7 +72,7 @@ Aujourd’hui, plus de 280 000 volontaires sont inscrits pour répondre aux mill
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/euwqvvlxgaebqnb.jpg)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/euwqvvlxgaebqnb.jpg)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#4---aidants-connect)**4 -[Aidants Connect](https://aidantsconnect.beta.gouv.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#4---aidants-connect)**4 - [Aidants Connect](https://aidantsconnect.beta.gouv.fr/)**
 
 Depuis le début du confinement, les aidants professionnels qui accompagnent les usagers éloignés du numérique rencontrent des obstacles pour assurer la continuité de service :
 
@@ -87,23 +87,29 @@ Pour accompagner les aidants dans cette période difficile, Aidants Connect et A
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/accueil_aidants_connect.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/accueil_aidants_connect.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#5---rdv-solidarit%C3%A9s)**5 -[RDV-solidarités](https://www.rdv-solidarites.fr/#info-gov)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#5---rdv-solidarit%C3%A9s)**5 - [RDV-solidarités](https://www.rdv-solidarites.fr)**
 
-Suite aux mesures de confinement, les services de PMI (Protection Maternelles et Infantiles) et les services sociaux ont été contraints d’annuler tout ou partie de leurs rendez-vous sur site et à domicile. Face à cette situation, RDV-Solidarités outille les services pour réduire le coût de coordination entre agents en favorisant la collaboration et pour leur permettre de garder le contact avec les usagers grâce aux rendez-vous téléphoniques et la prise de rdv en ligne. Les services des Pyrénées-Atlantiques ont par exemple permis au nouveaux bénéficiaires du RSA de prendre un rdv téléphonique avec un travailleur social directement en ligne. Quatre jour après le lancement de cette initiative déjà 30% des usagers ont pris leur premier rdv en toute autonomie.
+Suite aux mesures de confinement, les services de PMI (Protection Maternelle et Infantile) et les services sociaux ont été contraints d’annuler tout ou partie de leurs rendez-vous sur site et à domicile. 
+
+Face à cette situation, RDV-Solidarités outille les services pour réduire le coût de coordination entre agents en favorisant la collaboration et pour leur permettre de garder le contact avec les usagers grâce aux rendez-vous téléphoniques et la prise de rdv en ligne. 
+
+Les services des Pyrénées-Atlantiques ont par exemple permis au nouveaux bénéficiaires du RSA de prendre un rdv téléphonique avec un travailleur social directement en ligne.
+
+Quatre jours après le lancement de cette initiative déjà 30% des usagers ont pris leur premier rdv en toute autonomie.
 
 ![](/img/posts/capture-d-e-cran-2020-04-23-a-13.07.08.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#6---mon-entreprisefr)**6 -[Mon-entreprise.fr](http://mon-entreprise.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#6---mon-entreprisefr)**6 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
 Pour faire face aux conséquences économiques de la crise du coronavirus, le gouvernement encourage le recours au chômage partiel : l'État prend en charge l'indemnité versée au salarié et la procédure de déclaration a été simplifiée.
 
 Près de la moitié des salariés sont concernés par la mesure, et tous ne connaissent pas l'impact exact sur leur revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte le calcul des cotisations sociales et les situations particulières.
 
-L'équipe a mis au point un simulateur permettant au salarié de calculer l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.)[https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
+L'équipe a mis au point un simulateur permettant au salarié de calculer l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
 
 [![Simulateur chômage partiel](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/chomage-partiel.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/chomage-partiel.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#7---aide-aux-entreprises)**7 -[Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#7---aide-aux-entreprises)**7 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
 
 Elaboré avec l'aide de la startup d'Etat « Signaux Faibles » un outil pour aider les entreprises pendant la crise sanitaire est consultable [ici](https://info-entreprises-covid19.economie.gouv.fr/kb).
 
@@ -115,7 +121,7 @@ Afin d’être au plus près du besoin des entreprises, un espace interactif leu
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#8---signalconsogouvfr)**8 -[Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#8---signalconsogouvfr)**8 - [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
 
 Pour lutter contre les nouvelles arnaques et infractions liées au COVID-19 ( encadrement des prix des gels désinfectants non respecté,, vente de masque (FFP2, chirurgicaux) non autorisée, abus sur les sites de vente en ligne, arnaque et publicité mensongère), une catégorie spécifique a été ajoutée sur SignalConso.
 
@@ -123,7 +129,7 @@ Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCC
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#9---r%C3%A9sorption-bidonvilles)**9 -[Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#9---r%C3%A9sorption-bidonvilles)**9 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr/)**
 
 Résorption Bidonvilles permet aux parties-prenantes de savoir :
 
@@ -139,7 +145,7 @@ Découvrez plus d'informations sur : [https://resorption-bidonvilles.beta.gouv.f
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#10---andi)**10 - ANDi**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#10---andi)**10 - [ANDi](http://andi.beta.gouv.fr)**
 
 Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance.
 
@@ -147,7 +153,7 @@ La newsletter comporte aussi des infos accessibles permettant de se divertir et 
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#11---demarches-simplifieesfr)**11 -[demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#11---demarches-simplifieesfr)**11 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
 
