@@ -2,6 +2,8 @@
 layout: post
 title: Découvrez les lauréats du Fast 3 & candidatez au fast 4 !
 date: 2020-04-23T00:00:00.000Z
+authors:
+  - jihane.herizi
 categories: dinsic
 image: /img/posts/2018-01-08-le-conseil-d-administration.jpg
 excerpt: >-
@@ -65,8 +67,6 @@ Les 10 autres produits présentés n’ont pas pu être retenus pour les conditi
 \- Produits déjà soutenu activement par l’administration porteuse.
 
 **[En savoir plus sur les lauréats et les comités d'investissement des 3 éditions du Fast.](https://beta.gouv.fr/fast/promotion/01-fast.html)** 
-
-
 
 # Lancement du Fast 4
 
