@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 initiatives covid19 accompagnées par beta.gouv.fr "
-date: 2020-04-23
+date: 2020-04-23T00:00:00.000Z
 categories: dinsic
 tags: ""
 image: /img/posts/beta.jpg
@@ -119,7 +119,7 @@ Au-delà des données, les codes sources sont eux aussi diffusés publiquement e
 
 Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut Pasteur, la Délégation ministérielle du numérique en santé, l'Agence du numérique de la sécurité civile, et le Service d'information du Gouvernement.
 
-![Questionnaire d'orientation COVID-19](/img/posts/capture-d-e-cran-2020-04-23-a-11.41.09.png)
+![Questionnaire d'orientation COVID-19](/img/posts/questionnaire.png)
 
 ## **9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
 
@@ -143,10 +143,12 @@ Pour en savoir plus :<https://demarches-simplifiees.gitbook.io/articles-demarche
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.19.32.png)
 
-### **Vous souhaitez vous impliquer ?** 
+### **Vous souhaitez vous impliquer ?**
+
 Découvrez d'autres [initiatives](https://design.numerique.gouv.fr/covid-19) citoyennes et gouvernementales qui ont besoin de volontaires dans différents domaines (data, dev, ressources numériques, assistance aux personnes, etc).
 
 ![](/img/posts/capture-d-e-cran-2020-04-23-a-11.38.10.png)
 
-### **Vous souhaitez ajouter une initiative ?** 
+### **Vous souhaitez ajouter une initiative ?**
+
 [Contactez-nous](mailto:contact@design.numerique.gouv.fr) ou contribuez sur le [github](https://github.com/DISIC/design.numerique.gouv.fr) !
