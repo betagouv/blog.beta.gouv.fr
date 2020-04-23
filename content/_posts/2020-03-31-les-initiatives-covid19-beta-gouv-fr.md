@@ -14,7 +14,7 @@ excerpt: >-
 
   Découvrez 10 d’entre elles !
 ---
-**\## 1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
+###### **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
 
 Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
 
@@ -44,7 +44,7 @@ Depuis le début du confinement, les aidants professionnels qui accompagnent les
 * difficultés d'accès à une information précise quant à tous les changements administratifs qu'a provoqués l'état d'urgence administratif ;
 * L'adaptation de procédures, généralement vues en personne, à être réalisées à distance, avec des équipements peu adaptés (utilisation de materiel personnel par les aidants ...). 
 
-Pour accompagner les aidants dans cette période difficile, Aidants Connect et Administration + ont échangé avec les structures d'accompagnement pour réaliser un inventaire des besoins terrain et trouver les moyens les plus adaptés pour y répondre : 
+Pour accompagner les aidants dans cette période difficile, Aidants Connect et Administration+ ont échangé avec les structures d'accompagnement pour réaliser un inventaire des besoins terrain et trouver les moyens les plus adaptés pour y répondre : 
 
 * Apporter l'information la plus pertinente aux aidants : mise en place d'une communication web et mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…) 
 * Sécuriser l'aide à distance pendant le confinement: le mandat Aidants Connect peut maintenant être conclu en envoyant un SMS et couvrir la durée de l'état d'urgence sanitaire.
