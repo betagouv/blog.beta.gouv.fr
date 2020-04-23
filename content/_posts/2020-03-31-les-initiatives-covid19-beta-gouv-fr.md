@@ -1,18 +1,15 @@
 ---
 layout: post
-title: "10 initiatives covid19 accompagnées par beta.gouv.fr "
+title: "11 initiatives covid19 accompagnées par beta.gouv.fr "
 date: 2020-04-23T00:00:00.000Z
 categories: dinsic
 tags: ""
 image: /img/posts/beta.jpg
 excerpt: >-
-  Au coeur de la crise sanitaire du #Covid19, nous accompagnons en ce moment des
-  équipes qui se sont mobilisées pour améliorer ou créer des produits à
-  destination des citoyens, des entreprises, des associations ou encore les
-  administrations pour faire face à certaines problématiques.
+Au coeur de la crise sanitaire du #Covid19, nous accompagnons en ce moment des équipes qui se sont mobilisées pour améliorer ou créer des produits à destination des citoyens, des entreprises, des associations ou encore les administrations pour faire face à certaines problématiques.
 
 
-  Découvrez 10 d’entre elles !
+  Découvrez 11 d’entre elles !
 ---
 ## **1 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
 
@@ -80,7 +77,14 @@ Pour accompagner les aidants dans cette période difficile, Aidants Connect et A
 
 ![](/img/posts/accueil_aidants_connect.png)
 
-## **5 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
+## **5 - [RDV-solidarités](https://www.rdv-solidarites.fr/#info-gov)**
+
+Suite aux mesures de confinement, les services de PMI (Protection Maternelles et Infantiles) et les services sociaux ont été contraints d’annuler tout ou partie de leurs rendez-vous sur site et à domicile.
+Face à cette situation, RDV-Solidarités outille les services pour réduire le coût de coordination entre agents en favorisant la collaboration et pour leur permettre de garder le contact avec les usagers grâce aux rendez-vous téléphoniques et la prise de rdv en ligne.
+Les services des Pyrénées-Atlantiques ont par exemple permis au nouveaux bénéficiaires du RSA de prendre un rdv téléphonique avec un travailleur social directement en ligne.
+Quatre jour après le lancement de cette initiative déjà 30% des usagers ont pris leur premier rdv en toute autonomie.
+
+## **6 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
 
 Pour faire face aux conséquences économiques de la crise du coronavirus, le gouvernement encourage le recours au chômage partiel : l'État prend en charge l'indemnité versée au salarié et la procédure de déclaration a été simplifiée.
 
@@ -90,7 +94,7 @@ L'équipe a mis au point un simulateur permettant au salarié de calculer l'impa
 
 ![Simulateur chômage partiel](/img/posts/chomage-partiel.png)
 
-## **6 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
+## **7 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
 
 Elaboré avec l'aide de la startup d'Etat « Signaux Faibles » un outil pour aider les entreprises pendant la crise sanitaire est consultable [ici](https://info-entreprises-covid19.economie.gouv.fr/kb). 
 
@@ -102,7 +106,7 @@ Afin d’être au plus près du besoin des entreprises, un espace interactif leu
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)
 
-## **7- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
+## **8 - [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
 
 Pour lutter contre les nouvelles arnaques et infractions liées au COVID-19 ( encadrement des prix des gels désinfectants non respecté,, vente de masque (FFP2, chirurgicaux) non autorisée, abus sur les sites de vente en ligne, arnaque et publicité mensongère), une catégorie spécifique a été ajoutée sur SignalConso. 
 
@@ -110,7 +114,7 @@ Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCC
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)
 
-## **8 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr)**
+## **9 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr)**
 
 Résorption Bidonvilles permet aux parties-prenantes de savoir :
 
@@ -126,7 +130,7 @@ Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.f
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
 
-## **9 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
+## **10 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
 
 Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance. 
 
@@ -134,7 +138,7 @@ La newsletter comporte aussi des infos accessibles permettant de se divertir et 
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
 
-## **10 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
+## **11 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
 
