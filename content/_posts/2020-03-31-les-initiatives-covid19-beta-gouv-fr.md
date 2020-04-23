@@ -14,86 +14,7 @@ excerpt: >-
 
   Découvrez 10 d’entre elles !
 ---
-## **1 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
-
-Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
-
-Nous avons mis à disposition une personne sur l'UX en transverse qui, en utilisant <https://betagouv.github.io/template.beta.gouv.fr/> à pu prototyper une page d'accueil rapidement exploitable. Nous nous sommes également inspirés de l'expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle interface).
-
-Nous avons également mobilisé un développeur qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes pratiques et accompagner les développeurs MedNum qui se sont chargés du back-office de traitement des appels et de reccueil des ressources. 
-
-![Page d'accueil du site solidarite-numerique](/img/posts/slack-imgs.com.png)
-
-## **2 - [Réserve civique](https://covid19.reserve-civique.gouv.fr)**
-
-Un produit que nous suivons depuis longtemps, qui se préparait à une nouvelle jeunesse en retrouvant un sponsors à la DJEPVA autours des suites du SNU -[https://static.data.gouv.fr/​resources/conventions-de-​partenariat/20200217-121903/​convention-delegation-startup.​pdf](https://static.data.gouv.fr/resources/conventions-de-partenariat/20200217-121903/convention-delegation-startup.pdf) et qui se retrouve au centre d'un dispositif hors-norme.
-
-En quelques jours, des volontaires et chargés de déploiements issus du programme d'incubation des territoires, d'aidantsconnect, des transports, etc. se sont mobilisés et ont contribué en apportant une expertise : mise en place d'outils de gestion du support, kit de déploiement, animation de réseau, communication...
-
-Nos partenaires historiques se sont également mobilisés contre le covid-19 - [https://www.journaldunet.​com/web-tech/cloud/1490053-​jeveuxaider-gouv-fr-pare-pour-​accueillir-600-benevoles-par-​seconde/](https://www.journaldunet.com/web-tech/cloud/1490053-jeveuxaider-gouv-fr-pare-pour-accueillir-600-benevoles-par-seconde/)
-
-Aujourd'hui c'est plus de 250 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance de plus de 3000 associations sur jeveuxaider.gouv.fr 
-
-![](/img/posts/euwqvvlxgaebqnb.jpg)
-
-## **3 - [Aidants Connect](https://aidantsconnect.beta.gouv.fr)**
-
-Depuis le début du confinement, les aidants professionnels qui accompagnent les usagers éloignés du numérique rencontrent des obstacles pour assurer la continuité de service : 
-
-* fermetures des lieux d'accueil, points de contact habituels avec les usagers ;
-* difficultés d'accès à une information précise quant à tous les changements administratifs qu'a provoqués l'état d'urgence administratif ;
-* L'adaptation de procédures, généralement vues en personne, à être réalisées à distance, avec des équipements peu adaptés (utilisation de materiel personnel par les aidants ...). 
-
-Pour accompagner les aidants dans cette période difficile, Aidants Connect et Administration+ ont échangé avec les structures d'accompagnement pour réaliser un inventaire des besoins terrain et trouver les moyens les plus adaptés pour y répondre : 
-
-* Apporter l'information la plus pertinente aux aidants : mise en place d'une communication web et mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…) 
-* Sécuriser l'aide à distance pendant le confinement: le mandat Aidants Connect peut maintenant être conclu en envoyant un SMS et couvrir la durée de l'état d'urgence sanitaire.
-
-![](/img/posts/accueil_aidants_connect.png)
-
-## **4 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
-
-Pour faire face aux conséquences économiques de la crise du coronavirus, le gouvernement encourage le recours au chômage partiel : l'État prend en charge l'indemnité versée au salarié et la procédure de déclaration a été simplifiée.
-
-Près de la moitié des salariés sont concernés par la mesure, et tous ne connaissent pas l'impact exact sur leur revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte le calcul des cotisations sociales et les situations particulières.
-
-L'équipe a mis au point un simulateur permettant au salarié de calculer l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
-
-![Simulateur chômage partiel](/img/posts/chomage-partiel.png)
-
-## **5- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
-
-Pour lutter contre les nouvelles arnaques et infractions liées au COVID-19 ( encadrement des prix des gels désinfectants non respecté,, vente de masque (FFP2, chirurgicaux) non autorisée, abus sur les sites de vente en ligne, arnaque et publicité mensongère), une catégorie spécifique a été ajoutée sur SignalConso. 
-
-Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCCRF à mieux cibler leurs enquêtes. Les entreprises signalées sont également tenues au courant afin de les inciter à rectifier les pratiques.
-
-![](/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)
-
-## **6 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
-
-Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance. 
-
-La newsletter comporte aussi des infos accessibles permettant de se divertir et se changer les idées (infos culturelles etc.). Pour s’y inscrire, il faut se connecter sur [andi.beta.gouv.fr.](http://andi.beta.gouv.fr/)
-
-![](/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
-
-## **7 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr)**
-
-Résorption Bidonvilles permet aux parties-prenantes de savoir :
-
-* où sont les bidonvilles ;
-* qui y intervient.
-
-Pour coordonner les interventions sur le terrain dans ce contexte d'urgence, des fonctionnalités Covid19 ont été développées :
-
-* suivi de l'information sur l'aide alimentaire, la distribution de kit d'hygiène ;
-* remontée des cas Covid.
-
-Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.fr>
-
-![](/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
-
-## **8 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
+## **1 - [Algorithme](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org) et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
 
 Nous proposons notre appui pour aider à la publication de l'[algorithme d'orientation COVID-19](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation), ainsi qu'au déploiement du [questionnaire d'orientation officiel](https://www.gouvernement.fr/info-coronavirus/orientation-medicale).
 
@@ -121,7 +42,55 @@ Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut
 
 ![Questionnaire d'orientation COVID-19](/img/posts/questionnaire.png)
 
-## **9 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
+
+## **2 - [Solidarite-numerique.fr](http://solidarite-numerique.fr/)** / produit porté par [La MedNum ](https://lamednum.coop)et l'Agence Nationale de la Cohésion des Territoires
+
+Le site permet le recensement des ressources de médiations et des médiateurs numériques volontaires pour participer à la mise en place d'un numéro de téléphone d'aide.
+
+Nous avons mis à disposition une personne sur l'UX en transverse qui, en utilisant <https://betagouv.github.io/template.beta.gouv.fr/> à pu prototyper une page d'accueil rapidement exploitable. Nous nous sommes également inspirés de l'expérience usagers issue de l'expertise des équipes Aidants Connect et Administration+ (partage avec les UX de chaque équipe pour comprendre le comportement des usagers, appel à usagers beta-testeurs pour la nouvelle interface).
+
+Nous avons également mobilisé un développeur qui était sur [api.gouv.fr](http://api.gouv.fr/) pour intégrer les travaux UX, mettre en place l'infra selon nos bonnes pratiques et accompagner les développeurs MedNum qui se sont chargés du back-office de traitement des appels et de reccueil des ressources. 
+
+![Page d'accueil du site solidarite-numerique](/img/posts/slack-imgs.com.png)
+
+## **3 - [Réserve civique](https://covid19.reserve-civique.gouv.fr)**
+
+Un produit que nous suivons depuis longtemps, qui se préparait à une nouvelle jeunesse en retrouvant un sponsors à la DJEPVA autours des suites du SNU -[https://static.data.gouv.fr/​resources/conventions-de-​partenariat/20200217-121903/​convention-delegation-startup.​pdf](https://static.data.gouv.fr/resources/conventions-de-partenariat/20200217-121903/convention-delegation-startup.pdf) et qui se retrouve au centre d'un dispositif hors-norme.
+
+En quelques jours, des volontaires et chargés de déploiements issus du programme d'incubation des territoires, d'aidantsconnect, des transports, etc. se sont mobilisés et ont contribué en apportant une expertise : mise en place d'outils de gestion du support, kit de déploiement, animation de réseau, communication...
+
+Nos partenaires historiques se sont également mobilisés contre le covid-19 - [https://www.journaldunet.​com/web-tech/cloud/1490053-​jeveuxaider-gouv-fr-pare-pour-​accueillir-600-benevoles-par-​seconde/](https://www.journaldunet.com/web-tech/cloud/1490053-jeveuxaider-gouv-fr-pare-pour-accueillir-600-benevoles-par-seconde/)
+
+Aujourd'hui c'est plus de 250 000 volontaires inscrits sur la réserve civique pour remplir les milliers de demande de missions en provenance de plus de 3000 associations sur jeveuxaider.gouv.fr 
+
+![](/img/posts/euwqvvlxgaebqnb.jpg)
+
+## **4 - [Aidants Connect](https://aidantsconnect.beta.gouv.fr)**
+
+Depuis le début du confinement, les aidants professionnels qui accompagnent les usagers éloignés du numérique rencontrent des obstacles pour assurer la continuité de service : 
+
+* fermetures des lieux d'accueil, points de contact habituels avec les usagers ;
+* difficultés d'accès à une information précise quant à tous les changements administratifs qu'a provoqués l'état d'urgence administratif ;
+* L'adaptation de procédures, généralement vues en personne, à être réalisées à distance, avec des équipements peu adaptés (utilisation de materiel personnel par les aidants ...). 
+
+Pour accompagner les aidants dans cette période difficile, Aidants Connect et Administration+ ont échangé avec les structures d'accompagnement pour réaliser un inventaire des besoins terrain et trouver les moyens les plus adaptés pour y répondre : 
+
+* Apporter l'information la plus pertinente aux aidants : mise en place d'une communication web et mailing pour centraliser l’information sur les services maintenus / disponibles à distance et orienter vers les sites appropriés (ex : solidarité numérique…) 
+* Sécuriser l'aide à distance pendant le confinement: le mandat Aidants Connect peut maintenant être conclu en envoyant un SMS et couvrir la durée de l'état d'urgence sanitaire.
+
+![](/img/posts/accueil_aidants_connect.png)
+
+## **5 - [Mon-entreprise.fr](http://mon-entreprise.fr/)**
+
+Pour faire face aux conséquences économiques de la crise du coronavirus, le gouvernement encourage le recours au chômage partiel : l'État prend en charge l'indemnité versée au salarié et la procédure de déclaration a été simplifiée.
+
+Près de la moitié des salariés sont concernés par la mesure, et tous ne connaissent pas l'impact exact sur leur revenu. Bien que des chiffres circulent (100% au SMIC, 70% ensuite), il sont approximatifs et ne prennent pas en compte le calcul des cotisations sociales et les situations particulières.
+
+L'équipe a mis au point un simulateur permettant au salarié de calculer l'impact du chômage partiel sur son revenu net, et à l'employeur celui sur son coût total. Il prend en entrée le salaire brut, et permet d'affiner les résultats en répondant à des questions (pourcentage activité, temps partiel, etc.) [https://mon-entreprise.fr/​coronavirus](https://mon-entreprise.fr/coronavirus)
+
+![Simulateur chômage partiel](/img/posts/chomage-partiel.png)
+
+## **6 - [Aide aux entreprises](https://info-entreprises-covid19.economie.gouv.fr/kb)**
 
 Elaboré avec l'aide de la startup d'Etat « Signaux Faibles » un outil pour aider les entreprises pendant la crise sanitaire est consultable [ici](https://info-entreprises-covid19.economie.gouv.fr/kb). 
 
@@ -132,6 +101,38 @@ Cet outil est mis à jour quotidiennement.
 Afin d’être au plus près du besoin des entreprises, un espace interactif leur permet de poser directement lesquestions qui n’auraient pas encore été traitées à ce jour. Ces questions complémentaires permettront d’enrichir la foire aux questions en tant que de besoin.
 
 ![](/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)
+
+## **7- [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
+
+Pour lutter contre les nouvelles arnaques et infractions liées au COVID-19 ( encadrement des prix des gels désinfectants non respecté,, vente de masque (FFP2, chirurgicaux) non autorisée, abus sur les sites de vente en ligne, arnaque et publicité mensongère), une catégorie spécifique a été ajoutée sur SignalConso. 
+
+Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCCRF à mieux cibler leurs enquêtes. Les entreprises signalées sont également tenues au courant afin de les inciter à rectifier les pratiques.
+
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)
+
+## **8 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr)**
+
+Résorption Bidonvilles permet aux parties-prenantes de savoir :
+
+* où sont les bidonvilles ;
+* qui y intervient.
+
+Pour coordonner les interventions sur le terrain dans ce contexte d'urgence, des fonctionnalités Covid19 ont été développées :
+
+* suivi de l'information sur l'aide alimentaire, la distribution de kit d'hygiène ;
+* remontée des cas Covid.
+
+Découvrez plus d'informations sur : <https://resorption-bidonvilles.beta.gouv.fr>
+
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
+
+## **9 - [ANDi]([andi.beta.gouv.fr](http://andi.beta.gouv.fr/))**
+
+Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance. 
+
+La newsletter comporte aussi des infos accessibles permettant de se divertir et se changer les idées (infos culturelles etc.). Pour s’y inscrire, il faut se connecter sur [andi.beta.gouv.fr.](http://andi.beta.gouv.fr/)
+
+![](/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
 
 ## **10 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
 
