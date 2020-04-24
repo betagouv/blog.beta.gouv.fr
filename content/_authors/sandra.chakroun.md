@@ -1,10 +1,13 @@
 ---
 fullname: Sandra Chakroun
 role: Développeuse
-missions:
-  - start: '2017-05-10'
-    end: '2019-06-30'
-    status: independent
-    employer: octo
 link: https://www.linkedin.com/in/sandra-chakroun
+missions:
+  - employer: octo
+    end: '2020-06-15'
+    start: '2017-05-10'
+    status: independent
+startups:
+  - _openfisca_
+  - leximpact
 ---

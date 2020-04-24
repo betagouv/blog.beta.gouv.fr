@@ -6,10 +6,11 @@ missions:
   - start: '2016-06-20'
     end:
     status: independent
-    employer: octo
+    employer: Living Data
 startups:
     - geo.data.gouv.fr
     - api-geo
+    - ban
 ---
 
 « The answer to life, the universe and everything. »

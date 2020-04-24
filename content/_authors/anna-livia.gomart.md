@@ -6,15 +6,15 @@ avatar: 'https://avatars3.githubusercontent.com/Anna-Livia?s=600'
 link: 'https://www.anna-livia.com/'
 missions:
   - employer: octo
-    end: '2019-05-31'
+    end: '2020-06-01'
     start: '2017-05-18'
-    status: service
+    status: independent
 startups:
   - aidantsconnect
-  - api.gouv.fr
-  - api-particulier
 previously:
   - _openfisca_
+  - api.gouv.fr
+  - api-particulier
 ---
 
 Développeuse et amélioratrice de parcours utilisateur. Le reste du temps, je collectionne des livres et de la papeterie.
