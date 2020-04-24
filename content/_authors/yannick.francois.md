@@ -5,11 +5,11 @@ github: yaf
 link: 'https://elsif.fr'
 missions:
   - employer: Scopyleft
-    end: '2019-06-28'
+    end: '2020-12-31'
     start: '2018-12-12'
     status: service
 startups:
-  - dossiersco
+  - lapins
 ---
 
-Développeur à tout faire, accompagne les apprenants en programmation.
+Coéquipier à tout faire.

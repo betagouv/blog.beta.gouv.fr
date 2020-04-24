@@ -1,13 +1,15 @@
 ---
 fullname: Clément Chapalain
-role: Coach
+role: Chef de produit
 github: ClementChapalain
 missions:
   - start: '2018-09-05'
-    end: '2019-12-31'
+    end: '2020-06-30'
     status: independent
 startups:
-    - gps-usagers
     - action-bidonvilles
     - codedutravail
+    - didoc
+previously:
+    - gps-usagers
 ---

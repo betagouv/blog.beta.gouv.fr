@@ -5,14 +5,14 @@ avatar: https://larlet.fr/static/david/david-larlet-avatar.jpg
 link: https://larlet.fr/david/
 missions:
   - start: '2015-04-22'
-    end: '2019-06-30'
+    end: '2020-06-30'
     status: independent
-    employer: lazone
 startups:
+  - data.gouv.fr
   - zam
+  - visam
 previously:
   - api-drones
-  - data.gouv.fr
 ---
 
 Artisan, geek et citoyen.
