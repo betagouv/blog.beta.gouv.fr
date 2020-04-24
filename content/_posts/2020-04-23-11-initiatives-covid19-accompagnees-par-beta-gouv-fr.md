@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11 initiatives Covid19 accompagnées par beta.gouv.fr "
+title: "12 initiatives Covid19 accompagnées par beta.gouv.fr "
 date: 2020-04-23T00:00:00.000Z
 authors:
   - florian.delezenne
@@ -14,7 +14,7 @@ excerpt: >-
   administrations pour faire face à certaines problématiques.
 
 
-  Découvrez 11 d'entre elles !
+  Découvrez 12 d'entre elles !
 ---
 ## **1 - [Algorithme ](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/blob/master/pseudo-code.org)et [questionnaire](https://www.gouvernement.fr/info-coronavirus/orientation-medicale) d'orientation COVID-19**
 
@@ -121,7 +121,23 @@ Afin d’être au plus près du besoin des entreprises, un espace interactif leu
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.16.50.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#8---signalconsogouvfr)**8 - [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#8---signalconsogouvfr)**8 - [Place des Entreprises](https://place-des-entreprises.beta.gouv.fr/)**
+
+**Un guichet public et gratuit qui accompagne les TPE & PME**.
+
+Le chef d’entreprise dépose simplement sa demande sur le site et il est rappelé par LE conseiller qui peut l’aider. Ce service personnalisé compte plus de 1000 conseillers référencés au sein de 50 partenaires publics en Hauts-de-France sur tous les sujets d’entreprises : ressources humaines, droit du travail, développement commercial, stratégie numérique, difficultés financières, investissements, environnement et transition écologique…
+
+Face à la crise du Coronavirus, [une page thématique dédiée](https://place-des-entreprises.beta.gouv.fr/aide-entreprises/coronavirus) a été créée avec les conseillers compétents pour répondre aux difficultés.**Plus de 5 000 entreprises en Hauts-de-France ont déposé une demande sur le site en quelques semaines.**
+
+* Pour répondre à ce flux, nous avons refondu la page afin de guider les chefs d’entreprise dans leurs démarches, notamment sur les sites spécialement mis en place par certains partenaires publics comme Bpifrance ou l’Urssaf.
+* Nous continuons en parallèle d’adresser les demandes des entreprises aux conseillers compétents sur plusieurs sujets : refus des banques d’octroyer un prêt ou de suspendre les remboursements de crédits, aides régionales, difficulté avec un client ou un fournisseur, formation des salariés en chômage partiel et diverses questions autour de la poursuite d’activité.
+* **Chaque demande est automatiquement attribuée au conseiller compétent pour y répondre au sein des partenaires mobilisés**(Banque de France, CCI, CMA, Direccte, DRFiP, Médiation des Entreprises, Région). Experts de leurs sujets, ces conseillers ont abattu un travail incroyable.
+* Une équipe de conseillers s’occupe également de rappeler les personnes perdues, qui indiquent ne pas savoir quelles mesures de soutien mettre en place.
+* Enfin, une newsletter dédiée permet d'informer les entreprises inscrites de l’évolution des dispositifs, aussi bien nationaux comme régionaux.
+
+![](/img/posts/screenshot-place-des-entreprises.beta.gouv.fr-2020.04.24-11_15_50.png)
+
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#9---r%C3%A9sorption-bidonvilles)**9 - [Signal.conso.gouv.fr](http://signal.conso.gouv.fr/)**
 
 Pour lutter contre les nouvelles arnaques et infractions liées au COVID-19 ( encadrement des prix des gels désinfectants non respecté,, vente de masque (FFP2, chirurgicaux) non autorisée, abus sur les sites de vente en ligne, arnaque et publicité mensongère), une catégorie spécifique a été ajoutée sur SignalConso.
 
@@ -129,7 +145,7 @@ Le consommateur peut signaler le problème pour aider les enquêteurs de la DGCC
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.14.30.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#9---r%C3%A9sorption-bidonvilles)**9 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#9---r%C3%A9sorption-bidonvilles)**10 - [Résorption Bidonvilles](https://resorption-bidonvilles.beta.gouv.fr/)**
 
 Résorption Bidonvilles permet aux parties-prenantes de savoir :
 
@@ -145,7 +161,7 @@ Découvrez plus d'informations sur : [https://resorption-bidonvilles.beta.gouv.f
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.17.51.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#10---andi)**10 - [ANDi](http://andi.beta.gouv.fr)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#10---andi)**11 - [ANDi](http://andi.beta.gouv.fr)**
 
 Pendant la période de confinement, ANDi propose aux personnes en situation de handicap de découvrir chaque semaine des ressources et des conseils pour préparer leur projet professionnel, et s’informer à distance.
 
@@ -153,12 +169,11 @@ La newsletter comporte aussi des infos accessibles permettant de se divertir et 
 
 [![](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/capture-d-e-cran-2020-03-31-a-20.15.16.png)
 
-## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#11---demarches-simplifieesfr)**11 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
+## [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#11---demarches-simplifieesfr)**12 - [demarches-simplifiees.fr](http://demarches-simplifiees.fr/)**
 
 Le conditionnement d’une partie des agents a un effet révélateur sur la difficulté d’assurer l’instruction de démarches administratives qui ne sont pas aujourd’hui dématérialisées. Par ailleurs, certains services doivent déployer des procédure en urgence, pour répondre à de nouveaux besoins.
 
-L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée. 
-Déjà plus d'une quarantaine de démarches liées au COVID-19 ont été déployées.
+L’équipe “demarches-simplifiees” est mobilisée pour accompagner les acteurs de terrain et nationaux pour déployer rapidement des procédures en ligne afin que les agents, même en télétravail, puissent assurer l’instruction. Des formulaires type ont été repertoriés, une communauté sur OSMMOSE a été créée.  Déjà plus d'une quarantaine de démarches liées au COVID-19 ont été déployées.
 
 Pour en savoir plus : <https://demarches-simplifiees.gitbook.io/articles-demarches-simplifiees-fr/demarches-simplifiees-opportunites-et-regles-pour-le-teletravail>
 
