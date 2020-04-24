@@ -125,7 +125,7 @@ Afin d’être au plus près du besoin des entreprises, un espace interactif leu
 
 **Un guichet public et gratuit qui accompagne les TPE & PME**.
 
-Le chef d’entreprise dépose simplement sa demande sur le site et il est rappelé par LE conseiller qui peut l’aider. Ce service personnalisé compte plus de 1000 conseillers référencés au sein de 50 partenaires publics en Hauts-de-France sur tous les sujets d’entreprises : ressources humaines, droit du travail, développement commercial, stratégie numérique, difficultés financières, investissements, environnement et transition écologique…
+Le chef d’entreprise dépose simplement sa demande sur le site et il est rappelé par LE ou LA conseiller(e) qui peut l’aider. Ce service personnalisé compte plus de 1000 conseillers référencés au sein de 50 partenaires publics en Hauts-de-France sur tous les sujets d’entreprises : ressources humaines, droit du travail, développement commercial, stratégie numérique, difficultés financières, investissements, environnement et transition écologique…
 
 Face à la crise du Coronavirus, [une page thématique dédiée](https://place-des-entreprises.beta.gouv.fr/aide-entreprises/coronavirus) a été créée avec les conseillers compétents pour répondre aux difficultés.**Plus de 5 000 entreprises en Hauts-de-France ont déposé une demande sur le site en quelques semaines.**
 
