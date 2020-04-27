@@ -16,14 +16,14 @@ excerpt: >-
 
 Quand Sabine Safi et moi-même arrivons sur le projet Lotocar, 50 trajets ont déjà été effectués. La priorité, afin que le service ait une utilité dans le Lot, est d'augmenter ce nombre de trajets, qui nous sert de mesure d'impact.
 
-Les trajets ont lieu quand 3 conditions sont remplies :
+Les trajets ont lieu quand 3 conditions sont remplies&nbsp;:
 - un passager ou une passagère fait une demande
 - un conducteur ou une conductrice est en mesure de répondre à cette demande
 - une correspondance est trouvée et une rencontre est organisée
 
 La technique n'est pas, en soi, un élément qui favorise les deux premières conditions, qui ne dépendent que de la diffusion du service. Par contre, la troisième peut potentiellement être facilitée par un outil numérique.
 
-**Notre interrogation à ce moment-là : faut-il vraiment coder ? Ou bien continuer avec l’ensemble d’outils qui nous a permis de réaliser 50 trajets ? Ou encore, se tourner vers une « grosse » solution qui fait déjà tout ce dont on a besoin - et bien plus ?**
+**Notre interrogation à ce moment-là&nbsp;: faut-il vraiment coder ? Ou bien continuer avec l’ensemble d’outils qui nous a permis de réaliser 50 trajets ? Ou encore, se tourner vers une « grosse » solution qui fait déjà tout ce dont on a besoin - et bien plus ?**
 
 ## Coder ? Et si oui, coder quoi, pourquoi ?
 
@@ -33,7 +33,7 @@ Avant notre arrivée à tous les deux, des travaux avaient été menés pour dé
 
 Mais au vu du budget restant - 120 000 € en tout, et des efforts de déploiement (qui constituent le plus gros de l’effort à fournir), nous ne pouvions pas consacrer ce budget au numérique. Nous avons choisi de réinterroger le besoin avant d’écrire une seule ligne de code.
 
-Une de nos premières actions avec Sabine a donc été d'aller à Cahors et lister avec Nathalie tout ce qu'il se passe entre la réception d’une demande d’un⋅e passager⋅ère, l’inscription d’un⋅e conducteur⋅rice pertinent⋅e et le moment où un trajet a effectivement lieu. But de la manœuvre : trouver dans cette liste les opérations qui sont à la fois les plus pénibles pour Nathalie et pour lesquelles un outil numérique serait pertinent et facile à produire rapidement.
+Une de nos premières actions avec Sabine a donc été d'aller à Cahors et lister avec Nathalie tout ce qu'il se passe entre la réception d’une demande d’un⋅e passager⋅ère, l’inscription d’un⋅e conducteur⋅rice pertinent⋅e et le moment où un trajet a effectivement lieu. But de la manœuvre&nbsp;: trouver dans cette liste les opérations qui sont à la fois les plus pénibles pour Nathalie et pour lesquelles un outil numérique serait pertinent et facile à produire rapidement.
 
 **Notre interrogation à ce moment-là : quel est le problème, bien compris, délimité, et douloureux, auquel le numérique peut répondre avec un minimum d’effort ?**
 
@@ -49,7 +49,7 @@ La première solution qui vient, c'est donc de créer une interface où Nathalie
 
 À partir de cette liste, Nathalie peut contacter les conducteur⋅rice⋅s affiché⋅e⋅s avec un détour raisonnable. On a notre “petit problème bien douloureux” et la solution minimale qui y répond ; "y'a plus qu'à" implémenter.
 
-**Notre interrogation à ce moment-là : jusqu’où aller avec notre outil ? Faire le strict minimum sur ce problème défini, ou aller un peu plus loin ?**
+**Notre interrogation à ce moment-là&nbsp;: jusqu’où aller avec notre outil ? Faire le strict minimum sur ce problème défini, ou aller un peu plus loin ?**
 
 ## Implémentations écartées
 
