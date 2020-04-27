@@ -15,7 +15,7 @@ excerpt: >-
 
 Ainsi, nous avions précédemment [expliqué](https://blog.beta.gouv.fr/general/2018/05/23/securite-numerique-produits/) en quoi "la sécurité des produits numériques n'est pas celle des SI"; les idées de cet article ayant ensuite inspiré le guide ["Agilité et sécurité numériques"](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf), co-édité par la DINUM et l'ANSSI, et résultant notamment de la mise en oeuvre de ces idées au sein de plusieurs incubateurs (DINUM, MTES, et d'autres).
 
-Nous étudions depuis un peu moins longtemps, la façon dont les incubateurs d'état peuvent se saisir de la question de la conformité au [RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees), le règlement général sur la protection des données, entré en vigueur en mai 2018. 
+Nous étudions, depuis un peu moins longtemps, la façon dont les incubateurs d'état peuvent se saisir de la question de la conformité au [RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees), le règlement général sur la protection des données, entré en vigueur en mai 2018. 
 
 Deux constats s'imposent d'emblée: ce sujet devient de plus en plus pressant, et il est très fréquemment associé au sujet "sécurité". Quel est le lien entre ces deux sujets et comment expliquer cette dynamique ? Nous allons voir que répondre à ces questions n'est pas anodin pour la suite de notre démarche.
 
@@ -25,7 +25,7 @@ Une capacité paradoxale est au coeur de l'intérêt, mais aussi de la menace po
 
 Cette capacité de personnalisation s'appuie sur la captation de données relatives aux personnes et à leurs comportements, notamment (mais pas exclusivement) leurs comportements de consommateurs; elle a suscité des controverses depuis les années 2010 et la découverte (pour citer [un cas célèbre et représentatif](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)) que les géants du commerce détenaient les moyens de savoir si vous attendiez un enfant, et de vous cibler en conséquence, même si vous pouviez penser que ça ne regardait que vous.
 
-En ce printemps 2020 qui voit la planète entière confinée pour lutter contre une pandémie, il est également apparent que les traitements de données personnelles "dans la masse" est au coeur de la possibilité même d'une action publique efficace. Mais cette possibilité est handicapée par l'absence de moyens *techniques* sûrs pour certifier aux administrés que leurs données seront utilisées *exclusivement* à ces fins, et non détournées pour des motifs plus sinistres de surveillance étatique, qui furent historiquement la raison de [l'existence de la CNIL](https://www.lemonde.fr/blog/bugbrother/2010/12/23/safari-et-la-nouvelle-chasse-aux-francais/.
+En ce printemps 2020 qui voit la planète entière confinée pour lutter contre une pandémie, il est également apparent que les traitements de données personnelles "dans la masse" est au coeur de la possibilité même d'une action publique efficace. Mais cette possibilité est handicapée par l'absence de moyens *techniques* sûrs pour certifier aux administrés que leurs données seront utilisées *exclusivement* à ces fins, et non détournées pour des motifs plus sinistres de surveillance étatique, qui furent historiquement la raison de [l'existence de la CNIL](https://www.lemonde.fr/blog/bugbrother/2010/12/23/safari-et-la-nouvelle-chasse-aux-francais/).
 
 ## Le RGPD: un compromis politique en situation de faiblesse
 
