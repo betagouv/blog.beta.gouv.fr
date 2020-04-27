@@ -40,7 +40,7 @@ Au-delà des données, les codes sources sont eux aussi diffusés publiquement e
 
 #### [](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/content/_posts/2020-03-31-les-initiatives-covid19-beta-gouv-fr.md#collaboration-interminist%C3%A9rielle)Collaboration interministérielle
 
-Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut Pasteur, la Délégation ministérielle du numérique en santé, l'Agence du numérique de la sécurité civile, et le Service d'information du Gouvernement.
+Ces travaux sont le fruit d'une collaboration entre BetaGouv, Etalab, l'Institut Pasteur, la Délégation ministérielle du numérique en santé, l'Agence du numérique de la sécurité civile, la fabrique numérique des Ministères sociaux et le Service d'information du Gouvernement.
 
 [![Questionnaire d'orientation COVID-19](https://github.com/betagouv/blog.beta.gouv.fr/raw/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/questionnaire.png)](https://github.com/betagouv/blog.beta.gouv.fr/blob/0e82e239ea28eca3d5001b12627452b89613b01b/img/posts/questionnaire.png)
 
