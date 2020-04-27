@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sécurité et données personnelles - les dangers de l'antisélection"
-date: '2020-03-30'
+date: '2020-04-27'
 authors:
   - laurent.bossavit
 categories: articles
