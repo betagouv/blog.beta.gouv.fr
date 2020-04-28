@@ -17,5 +17,4 @@ Quand le confinement éloigne les équipes, la collaboration organisée devient 
 
 L’autre initiative mise en place a été ciblée sur le parcours des nouveaux bénéficiaires du RSA. Ne pouvant plus recevoir ces usagers sur site, l’organisation de ces rendez-vous obligatoires est vite devenue complexe. Afin d’assurer la continuité des opérations, les services ont permis aux usagers de prendre un RDV téléphonique avec un travailleur social directement en ligne. Quatre jours après avoir informé les usagers par email de cette possibilité, déjà 30% d’entre eux se sont saisis de RDV-Solidarités et ont pris leur premier RDV en toute autonomie.
 
-**\
-RDV-solidarités vous intéresse et vous souhaitez le tester au sein de vos services ? Contactez-nous à l’adresse [contact@rdv-solidarités.fr.](**contact@rdv-solidarités.fr.**)**
+**RDV-solidarités vous intéresse et vous souhaitez le tester au sein de vos services ? Contactez-nous à l’adresse [contact@rdv-solidarités.fr.](**contact@rdv-solidarités.fr.**)**
