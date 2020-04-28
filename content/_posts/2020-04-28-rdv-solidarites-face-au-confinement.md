@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RDV solidarités face au confinement
+title: RDV solidarités accompagne les services pour garder le contact avec les usagers pendant le confinement
 date: 2020-04-28
 authors:
   - camille.garrigue
