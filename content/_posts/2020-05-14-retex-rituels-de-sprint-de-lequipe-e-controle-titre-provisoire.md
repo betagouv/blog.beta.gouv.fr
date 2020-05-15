@@ -118,7 +118,7 @@ Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes
 | 🏓 Céline   |                              |
 | 👾 Sylvain  |                              |
 | 🦀 Estelle  |                              |
-| 🐈Elisabeth |                              |
+| 🐈Élisabeth |                              |
 | 🙈Léry      |                              |
 
 
