@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Nos réunions d'équipe nous aident vraiment. Voici pourquoi.
+title: "Retour d'expéreince : Définir collectivement ses objectifs de sprint
+  sans accroc"
 date: 2020-05-14T00:00:00.000Z
 authors:
   - lery.jicquel
@@ -11,6 +12,7 @@ authors:
   - elisabeth.tzortzis
 categories: dinsic
 tags: e.contrôle
+excerpt: Le retour d'expérience de l'équipe de la Startup d’État e.contrôle.
 ---
 Au sein de l'équipe de la Startup d'Etat e.contrôle, nous planifions nos objectifs et les tâches associées sur des délais assez courts de deux semaines. 
 
