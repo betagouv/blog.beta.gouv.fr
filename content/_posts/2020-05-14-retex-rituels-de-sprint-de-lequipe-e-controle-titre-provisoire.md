@@ -113,15 +113,13 @@ Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes
 
 *Exemple :*
 
-| 💁‍♀🐱🙋‍♂  | 2 objectifs max par personne |
-| ----------- | ---------------------------- |
-| 🏓 Céline   |                              |
-| 👾 Sylvain  |                              |
-| 🦀 Estelle  |                              |
-| 🐈Élisabeth |                              |
-| 🙈Léry      |                              |
-
-
+| 💁‍♀🐱🙋‍♂  | 2 objectifs max par personne                                                                                         |
+| ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| 🏓 Céline   | \- Disposer en PROD de la fonctionnalité permettant de procrastiner; - Regarder le MOOC de bêta.gouv en accéléré x16 |
+| 👾 Sylvain  |                                                                                                                      |
+| 🦀 Estelle  |                                                                                                                      |
+| 🐈Élisabeth |                                                                                                                      |
+| 🙈Léry      |                                                                                                                      |
 
 ## 2. 🤓- Regrouper et commenter les objectifs - 🤐 ⏳ 5 min
 
