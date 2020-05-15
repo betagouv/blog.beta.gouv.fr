@@ -81,6 +81,7 @@ On vous partage donc, très humblement, notre expérience et notre outil. Il fon
 # Notre process de lancement de sprint (sprint planning)
 
 ### Pré-requis :
+
 * Chaque membre de l’équipe doit être présent en visio ou dans la même pièce;`
 * Chacun doit pouvoir accéder à un document partagé (google doc, framadoc,...) et avoir les droits d’écriture`
 * Chacun choisit un[](https://fr.piliapp.com/facebook-symbols/) emoticon et l’ajoute à côté de son prénom'`
@@ -110,14 +111,15 @@ Chacun est libre de ne pas proposer d’objectifs ou d’en proposer qu’un seu
 
 Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes.
 
-*Exemple :*
-| 💁‍♀🐱🙋‍♂  | 2 objectifs max par personne                                                                                         |
-| ----------- | -------------------------------------------------------------------------------------------------------------------- |
-| 🏓 Céline   | \- Disposer en PROD de la fonctionnalité permettant de procrastiner; - Regarder le MOOC de bêta.gouv en accéléré x16 |
-| 👾 Sylvain  |                                                                                                                      |
-| 🦀 Estelle  |                                                                                                                      |
-| 🐈Élisabeth |                                                                                                                      |
-| 🙈Léry      |                                                                                                                      |
+*Exemple :* 
+| 💁‍♀🐱🙋‍♂      | 2 objectifs max par personne                                                                                           |
+|------------|------------------------------------------------------------------------------------------------------------------------|
+| 🏓 Céline   | - Disposer en PROD de la fonctionnalité permettant de procrastiner;<br>- Regarder le MOOC de bêta.gouv en accéléré x16 |
+| 👾 Sylvain  |                                                                                                                        |
+| 🦀 Estelle  |                                                                                                                        |
+| 🐈Elisabeth |                                                                                                                        |
+| 🙈Léry      |                                                                                                                        |
+
 
 ## 2. 🤓- Regrouper et commenter les objectifs - 🤐 ⏳ 5 min
 
