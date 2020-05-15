@@ -90,13 +90,13 @@ On vous partage donc, très humblement, notre expérience et notre outil. Il fon
 
 Avant de débuter l’atelier, deux membres de l’équipe doivent se désigner pour jouer respectivement les rôles d’animateur et de maître du temps.
 
-L’animateur:
+**L’animateur**:
 
 * est garant du suivi des étapes qui vont suivre
 * veille à ce que chacun puisse s’exprimer sans couper la parole d’un autre
 * rappelle les valeurs : franc-parler et bienveillance
 
-Le maître du temps:
+**Le maître du temps**:
 
 * est garant du respect des délais à chaque étape
 * prévient quand le temps est dépassé et propose éventuellement de relancer le chrono..
@@ -105,24 +105,34 @@ Les personnes assumant ces rôles prennent également part à toutes les étapes
 
 ## 1. 🚀- Proposer deux objectifs pour les deux prochaines semaines - ⏳ 5 min - 🤐
 
-Chaque membre de l’équipe écrit dans le doc, en silence, deux objectifs mesurables pour le sprint à venir. Il les renseigne dans la ligne le concernant.
+**Chaque membre de l’équipe écrit dans le doc, en silence, deux objectifs mesurables** pour le sprint à venir. Il les renseigne dans la ligne le concernant.
 
 Chacun est libre de ne pas proposer d’objectifs ou d’en proposer qu’un seul. En revanche, il n’est pas possible d’en écrire plus que deux.
 
 Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes.
 
-METTRE UN TABLEAU
+*Exemple :*
+
+| 💁‍♀🐱🙋‍♂  | 2 objectifs max par personne |
+| ----------- | ---------------------------- |
+| 🏓 Céline   |                              |
+| 👾 Sylvain  |                              |
+| 🦀 Estelle  |                              |
+| 🐈Elisabeth |                              |
+| 🙈Léry      |                              |
+
+
 
 ## 2. 🤓- Regrouper et commenter les objectifs - 🤐 ⏳ 5 min
 
-L’animateur copie-colle les objectifs de la partie 1 dans la partie 2, sans les noms des personnes. Si deux personnes ont indiqué un objectif identique ou assez proche, l’animateur ne l’indiquera qu’une seule fois.
+**L’animateur copie-colle les objectifs** de la partie 1 dans la partie 2, sans les noms des personnes. Si deux personnes ont indiqué un objectif identique ou assez proche, l’animateur ne l’indiquera qu’une seule fois.
 
 *Exemples :*
 
 * *Disposer en PROD de la fonctionnalité permettant de procrastiner*
 * *Regarder le MOOC de bêta.gouv en accélérer x2*
 
-Ensuite,chaque membre de l’équipe peut commenter les objectifs, en écrivant dans le doc, en silence.
+Ensuite, **chaque membre de l’équipe peut commenter les objectifs, en écrivant dans le doc, en silence**.
 
 Les commentaires peuvent être des éclairages, des compléments d’information, des questions, des alertes, des ressentis, des propositions, des commentaires à des commentaires…
 
@@ -143,11 +153,11 @@ Il est donc possible de répondre à l’écrit aux commentaires d’un autre. I
 
 ## *3.* 👌- Clarifier les objectifs - ⏳ 5 min par objectifs - 👂
 
-L’animateur lit les objectifs et les commentaires, les uns après les autres. Chacun peut demander des précisions à l’oral si les commentaires ne sont pas suffisants. L’objectif est de s’assurer que tout le monde a compris chaque objectif et de vérifier qu’ils sont mesurables.Ce n’est pas un temps de débat mais seulement d’écoute.
+**L’animateur lit les objectifs et les commentaires**, les uns après les autres. Chacun peut **demander des précisions** à l’oral si les commentaires ne sont pas suffisants. L’objectif est de s’assurer que tout le monde a compris chaque objectif et de vérifier qu’ils sont mesurables. **Ce n’est pas un temps de débat mais seulement d’écoute**.
 
 ## 4. 🥇🥈🥉Prioriser les objectifs (2⭐par personne) - ⏳ 2 min - 🤐
 
-Chaque membre de l’équipe dispose de deux emoticons (celui le représentant) pour indiquer quels objectifs sontles plus prioritaires d’après lui/elle.
+**Chaque membre de l’équipe dispose de deux emoticons** (celui le représentant) pour indiquer quels objectifs sont **les plus prioritaires** d’après lui/elle.
 
 Il/elle peut mettre un emoticon sur deux objectifs différents ou deux emoticons sur le même objectif.
 
@@ -170,7 +180,7 @@ Il/elle peut mettre un emoticon sur deux objectifs différents ou deux emoticons
 
 ## 5. 👍- Évaluer la faisabilité - ⏳ 1 min - 🤐
 
-L’animateur demande aux membres de l’équipe de voter pour répondre à la question :“Pensez-vous que nous réussirons à atteindre ces objectifs en deux semaines ?”
+**L’animateur demande aux membres de l’équipe de voter** pour répondre à la question :“**Pensez-vous que nous réussirons à atteindre ces objectifs en deux semaines ?**”
 
 On vote de 1 à 5 : 1 = “pas moyen”, 5 = ”fastoche”.
 
@@ -182,4 +192,4 @@ On peut par exemple supprimer un objectif, ou n’en faire qu’un morceau (exem
 
 ## 6. 🧘‍♀🧘‍♂-Bravo, c’est terminé !
 
-Il ne reste plus qu’à l’animateur à mettre à jour le trello du sprint avec ces nouveaux objectifs. Chaquemembre de l’équipe pourra ajouter ses tâches.
+Il ne reste plus qu’à **l’animateur à mettre à jour le trello du sprint** avec ces nouveaux objectifs. **Chaque membre de l’équipe pourra ajouter ses tâches.**
