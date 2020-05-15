@@ -20,7 +20,7 @@ Au sein de l'équipe de la Startup d’État e.contrôle, nous planifions nos ob
 
 Nous préférons avancer par itérations successives au lieu de suivre un plan détaillé "des choses à réaliser" à six mois. Nos expériences professionnelles précédentes suivant "la méthode projet" (accompagnée de planification fine et de rétroplanning) n'ont jamais été concluantes. Elles nous entrainaient trop souvent dans des tunnels, les délais n'étaient jamais respectés et pire que tout, ils nous arrivaient de privilégier l'atteinte des délais à la qualité de notre travail... sans atteindre ni l'un ni l'autre. Ca semblait ne déranger (presque) personne car c'était un peu la faute de tout le monde, donc de personne. Les seuls à qui ça pouvait vraiment poser problème ce sont peut-être les bénéficiaires directes de ces projets. Ils étaient trop souvent éloignés ou mal représentés. En effet les membres des divers comités et autres groupes de travail "stratégiques", bien que de bonnes volontés, étaient rarement les destinataires des projets que nous pilotions. Pour autant, beaucoup d'administration et d'entreprise travaillent comme ça et la terre ne s'est pas arrêtée de tourner. Néanmoins pour nous, ce n'est pas satisfaisant.
 
-### Trois types de réunions d'équipe "ritualisés"
+## Trois types de réunions d'équipe "ritualisés"
 
 C'est pourquoi nous avons choisi d'adopter et de ritualiser ces trois types de réunions d'équipe :
 
@@ -28,7 +28,7 @@ C'est pourquoi nous avons choisi d'adopter et de ritualiser ces trois types de r
 * la réunion de lancement de nos "sprints". Elle a lieu toutes les deux semaines pendant 60 minutes. Là aussi la visio est très efficace.
 * la réunion de rétrospective de notre "sprint". Elle a lieu toutes les deux semaines pendant 60 minutes en visio.
 
-### Pas besoin de sortir de la cuisse de... la Silicon Valley
+## Pas besoin de sortir de la cuisse de... la Silicon Valley
 
 Nous préférons prévenir que nous ne sommes pas certifiés "SCRUM Machin", nous n’avons pas acheté de bouquins sur "KANBAN V15.2", nous n’écoutons pas des podcasts de supers coachs Agile de la Silicon Valley… On a juste essayé des méthodes basiques de façon assez artisanale sur les bons conseils de notre coach, Julien Dauphant. Plus que le suivi strict d'une méthodologie "Agile" ou "Scrum", nous essayons de respecter les principes associés que nous pourrions résumer comme ceci :
 
@@ -54,7 +54,7 @@ Mais avant de vous en dire plus, un très court point lexical s'impose. En effet
 
 \- une emoticone : une combinaison typographique qui laisse paraître l'état émotif : joie, tristesse, etc. de l'auteur.
 
-### Pourquoi partager notre retour d’expérience sur ce rituel ?
+## Pourquoi partager notre retour d’expérience sur ce rituel ?
 
 Pendant plusieurs mois, l’équipe rencontrait des difficultés pour ses réunions de lancement de sprint :
 
