@@ -14,7 +14,7 @@ categories: dinsic
 tags: e.contrôle
 excerpt: Le retour d'expérience de l'équipe de la Startup d’État e.contrôle.
 ---
-Au sein de l'équipe de la Startup d'Etat e.contrôle, nous planifions nos objectifs et les tâches associées sur des délais assez courts de deux semaines. 
+Au sein de l'équipe de la Startup d’État e.contrôle, nous planifions nos objectifs et les tâches associées sur une durée de deux semaines. 
 
 ## Le mode projet, non merci !
 
@@ -86,8 +86,6 @@ On vous partage donc, très humblement, notre expérience et notre outil. Il fon
 * Chacun doit pouvoir accéder à un document partagé (google doc, framadoc,...) et avoir les droits d’écriture
 * Chacun choisit un[](https://fr.piliapp.com/facebook-symbols/) emoticon et l’ajoute à côté de son prénom
 
-
-
 ## 0. 🙋‍♀⏱ - Désigner un animateur et un maître du temps
 
 Avant de débuter l’atelier, deux membres de l’équipe doivent se désigner pour jouer respectivement les rôles d’animateur et de maître du temps.
@@ -114,8 +112,6 @@ Chacun est libre de ne pas proposer d’objectifs ou d’en proposer qu’un seu
 Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes.
 
 METTRE UN TABLEAU
-
-
 
 ## 2. 🤓- Regrouper et commenter les objectifs - 🤐 ⏳ 5 min
 
