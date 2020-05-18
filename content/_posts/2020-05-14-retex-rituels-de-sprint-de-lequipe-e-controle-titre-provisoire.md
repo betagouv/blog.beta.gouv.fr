@@ -22,19 +22,17 @@ Inéluctable, la douleur du lancement de sprint ? Non!! Une petite startup d'Eta
 
 ## Le mode projet, non merci !
 
-Nous préférons avancer par itérations successives au lieu de suivre un plan détaillé "des choses à réaliser" à six mois. Nos expériences professionnelles précédentes suivant "la méthode projet" (accompagnée de planification fine et de rétroplanning) n'ont jamais été concluantes. Elles nous entrainaient trop souvent dans des tunnels, les délais n'étaient jamais respectés et pire que tout, ils nous arrivaient de privilégier l'atteinte des délais à la qualité de notre travail... sans atteindre ni l'un ni l'autre. Ca semblait ne déranger (presque) personne car c'était un peu la faute de tout le monde, donc de personne. Les seuls à qui ça pouvait vraiment poser problème ce sont peut-être les bénéficiaires directes de ces projets. Ils étaient trop souvent éloignés ou mal représentés. En effet les membres des divers comités et autres groupes de travail "stratégiques", bien que de bonnes volontés, étaient rarement les destinataires des projets que nous pilotions. Pour autant, beaucoup d'administration et d'entreprise travaillent comme ça et la terre ne s'est pas arrêtée de tourner. Néanmoins pour nous, ce n'est pas satisfaisant.
+Nos expériences professionnelles précédentes suivant "la méthode projet" (accompagnée de planification fine et de rétroplanning) n'ont jamais été concluantes. Elles nous entraînaient trop souvent dans des tunnels, les délais n'étaient jamais respectés et pire que tout, il nous arrivait de privilégier l'atteinte des délais à la qualité de notre travail... sans atteindre ni l'un ni l'autre. Ca semblait ne déranger (presque) personne car c'était un peu la faute de tout le monde, donc de personne. Les seuls à qui ça pouvait vraiment poser problème ce sont peut-être les bénéficiaires directs de ces projets. Ils étaient trop souvent éloignés ou mal représentés. En effet les membres des divers comités et autres groupes de travail "stratégiques", bien que de bonne volonté, étaient rarement les destinataires des projets que nous pilotions. 
 
-## Trois types de réunions d'équipe "ritualisés"
-
-C'est pourquoi nous avons choisi d'adopter et de ritualiser ces trois types de réunions d'équipe :
-
-* le debrief quotidien (et systématique) de quelques minutes où chacun raconte ce qu'il a fait la veille, ce qu'il pense faire aujourd'hui et s'il a besoin d'aide. En visio, ça marche très bien. Ça fait un et demi qu'on l'expérimente. Elle est censé duréer 10 minutes mais il arrive qu'on dépasse le chrono si un problème doit être résolu.
-* la réunion de lancement de nos "sprints". Elle a lieu toutes les deux semaines pendant 60 minutes. Là aussi la visio est très efficace.
-* la réunion de rétrospective de notre "sprint". Elle a lieu toutes les deux semaines pendant 60 minutes en visio.
+Pour autant, beaucoup d'administrations et d'entreprises travaillent de cette façon et la terre ne s'est pas arrêtée de tourner! Néanmoins pour nous, ce n'est pas satisfaisant.
 
 ## Pas besoin de sortir de la cuisse de... la Silicon Valley
 
-Nous préférons prévenir que nous ne sommes pas certifiés "SCRUM Machin", nous n’avons pas acheté de bouquins sur "KANBAN V15.2", nous n’écoutons pas des podcasts de supers coachs Agile de la Silicon Valley… On a juste essayé des méthodes basiques de façon assez artisanale sur les bons conseils de notre coach, Julien Dauphant. Plus que le suivi strict d'une méthodologie "Agile" ou "Scrum", nous essayons de respecter les principes associés que nous pourrions résumer comme ceci :
+A l'inverse, nous avons observé des équipes avec des méthodes de travail modernes, censées être agiles, qui débordaient de contraintes et de rituels pour des raisons pas très claires.
+
+Nous préférons prévenir que nous ne sommes pas certifiés "SCRUM Machin", nous n’avons pas acheté de bouquins sur "KANBAN V15.2", nous n’écoutons pas des podcasts de supers coachs Agile de la Silicon Valley… On a juste essayé des méthodes basiques de façon assez artisanale sur les bons conseils de notre coach, Julien Dauphant. 
+
+Plus que le suivi strict d'une méthodologie "Agile" ou "Scrum", nous essayons de respecter les principes associés que nous pourrions résumer comme ceci :
 
 \- Vivre mieux pour faire mieux;
 
@@ -42,21 +40,29 @@ Nous préférons prévenir que nous ne sommes pas certifiés "SCRUM Machin", nou
 
 \- Parler vrai avec bienveillance.
 
-Mais avant de vous en dire plus, un très court point lexical s'impose. En effet, nous avons adopté un jargon que certains qualifieraient de "startup nation". Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leur traduction :
+Quand au jargon de la "startup nation", nous en avons adopté certains éléments qui nous ont paru utiles. Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leur traduction :
 
-\- un "sprint" : une période pendant laquelle l'équipe va essayer d'atteindre un ou plusieurs objectifs. Un sprint dure couramment une, deux ou trois semaines.
+\- un "sprint" : une période pendant laquelle l'équipe va essayer d'atteindre un ou plusieurs objectifs. Un sprint dure couramment deux semaines, parfois une ou trois.
 
 \- "Trello" : logiciel de gestion de projet/produit en ligne dont les fonctionnalités de base sont gratuites. Il permet de mettre des cartes (comme des post-its) dans des listes thématiques verticales. Il existe bien d'autres outils gratuits ou payant.
 
 \- Réunion de lancement aussi appelé "sprint planning" : atelier durant lequel l'équipe fixe collectivement les objectifs essentiels à atteindre durant le sprint.
 
-\- Rétrospective : atelier durant lequel l'équipe partage ses enseignements acquis durant le sprint.
+\- Rétrospective : atelier de fin de sprint, durant lequel l'équipe partage ses enseignements acquis durant le sprint passé.
 
 \-  un coach de Start-up d'Etat : un membre de l'équipe dont la mission est de nous aider à obtenir des résultats concrets auprès des usagers et surtout mesurables.
 
 \- un pad : éditeur de texte collaboratif en ligne qui ressemble parfois au texte sur fond noir des minitels. 
 
-\- une emoticone : une combinaison typographique qui laisse paraître l'état émotif : joie, tristesse, etc. de l'auteur.
+\- une émoticône : une combinaison typographique qui laisse paraître l'état émotif : joie, tristesse, etc. de l'auteur.
+
+## Trois types de réunions d'équipe "ritualisés"
+
+En pratique, nous avançons par itérations successives de deux semaines, au lieu de suivre un plan détaillé "des choses à réaliser" à six mois. Nous avons choisi d'adopter et de ritualiser ces trois types de réunions d'équipe :
+
+* le debrief quotidien (et systématique) de quelques minutes où chacun raconte ce qu'il a fait la veille, ce qu'il pense faire aujourd'hui et s'il a besoin d'aide. En visio, ça marche très bien. Ça fait un et demi qu'on l'expérimente. Elle est censée durée 10 minutes mais il arrive qu'on dépasse le chrono si un problème doit être résolu.
+* la réunion de lancement de nos "sprints". Elle a lieu toutes les deux semaines pendant 60 minutes. Là aussi la visio est très efficace (certains membres de notre équipe sont à distance, donc nous avons l'habitude de faire des réunions ou deux personnes sont au bureau et d'autres sont à distance).
+* la réunion de rétrospective de notre "sprint". Elle a lieu toutes les deux semaines pendant 60 minutes en visio.
 
 ## Pourquoi partager notre retour d’expérience sur ce rituel ?
 
@@ -115,12 +121,12 @@ Chacun est libre de ne pas proposer d’objectifs ou d’en proposer qu’un seu
 
 Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes.
 
-*Exemple :*  | 💁‍♀🐱🙋‍♂      | 2 objectifs max par personne                                                                                           |
-|------------|------------------------------------------------------------------------------------------------------------------------|
-| 🏓 Céline   | - Disposer en PROD de la fonctionnalité permettant de procrastiner;<br>- Regarder le MOOC de bêta.gouv en accéléré x16 | | 👾 Sylvain  |                                                                                                                        |
-| 🦀 Estelle  |                                                                                                                        |
-| 🐈Elisabeth |                                                                                                                        |
-| 🙈Léry      |                                                                                                                        |
+| *Exemple :* | 💁‍♀🐱🙋‍♂                                                                                                              | 2 objectifs max par personne |            |     |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------- | --- |
+| 🏓 Céline   | \- Disposer en PROD de la fonctionnalité permettant de procrastiner;<br>- Regarder le MOOC de bêta.gouv en accéléré x16 |                              | 👾 Sylvain |     |
+| 🦀 Estelle  |                                                                                                                         |                              |            |     |
+| 🐈Elisabeth |                                                                                                                         |                              |            |     |
+| 🙈Léry      |                                                                                                                         |                              |            |     |
 
 ## 2. 🤓- Regrouper et commenter les objectifs - 🤐 ⏳ 5 min
 
