@@ -16,9 +16,9 @@ excerpt: Le retour d'expérience de l'équipe de la Startup d’État e.contrôl
 ---
 Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. Ca a duré 2h30, tout le monde a donné son avis, personne n'était vraiment d'accord, les deux premiers sujets ont pris tellement de temps que les suivants ont été bâclés, et à la fin tu n'es même pas vraiment sûr.e que les objectifs choisis soient pertinents.\
 \
-Inéluctable, la douleur du lancement de sprint ? Non!! Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe.
+Inéluctable, la douleur du lancement de sprint ? Non!! Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour vous! A vous d’essayer et de l’adapter.
 
-\[Au sein de l'équipe de la Startup d’État e.contrôle, nous planifions nos objectifs et les tâches associées sur une durée de deux semaines. ]
+
 
 ## Le mode projet, non merci !
 
@@ -69,22 +69,20 @@ En pratique, nous avançons par itérations successives de deux semaines, au lie
 Pendant plusieurs mois, l’équipe rencontrait des difficultés pour ses réunions de lancement de sprint :
 
 * trop long : parfois au delà de 60 minutes ;
-* mal à l’aise : on sortait de là en se demandant si on allait vraiment y arriver, si on avait pas trop monopoliser la parole, si on avait eu raison d’insister sur tel point, si on avait assez écouté son collègue, si on avait pas été un peu cassant...
+* mal à l’aise : on sortait de là en se demandant si on allait vraiment y arriver, si on avait pas trop monopolisé la parole, si on avait eu raison d’insister sur tel point, si on avait assez écouté son collègue, si on avait pas été un peu cassant...
 * une convergence et une prise de décision compliquée en fin d’atelier.
 
-Avec l’aide de notre coach, on a fini par faire une rétrospective uniquement sur ce thème : nos rituels de sprint.
+On en est sorti avec un ressenti partagé sur le fait qu’on aimait pas ce rituel et qu’il fallait essayer autre chose. Avec l’aide de notre coach, on a fini par faire une rétrospective uniquement sur ce thème : nos rituels de sprint.
 
-On en est sorti avec un ressenti partagé sur le fait qu’on aimait pas ce rituel et qu’il fallait essayer autre chose. On a tenté d’introduire un peu de “silence”, au sens propre du terme, dans ce rituel:
+On a tenté d’introduire un peu de “silence”, au sens propre du terme, dans ce rituel:
 
-* La première tentative a été compliquée car on a essayé sur un pad d’écrire à plusieurs en simultanée. On a tous eu la nausée. L’écriture collective en simultanée sur un PAD n’était pas adaptée.
+* La première tentative a été compliquée car on a essayé sur un pad d’écrire à plusieurs en simultané. On a tous eu la nausée. L’écriture collective en simultanée sur un pad n’était pas adaptée.
 * Pour le deuxième essai, on a basculé sur document *.doc partagé mais on a dépassé les 60 minutes.
 * Le troisième essai a été le bon. On a trouvé le bon équilibre : sans nausée et sans dépasser 60 minutes.
 
-Depuis, ça roule tout seul. On arrive parfois à passer sous les 50 minutes.
+Depuis, ça roule tout seul (enfin presque!). Il nous est même arrivé de passer sous la barre des 50 minutes!
 
-Lors de différents échanges informels au sein de la communauté, il est parfois ressorti que d’autres équipes éprouvaient des difficultés avec ce type de rituel sans avoir trouvé de solution.
 
-On vous partage donc, très humblement, notre expérience et notre outil. Il fonctionne pour nous mais pas forcément pour vous. A vous d’essayer et de l’adapter.
 
 ## \_\_\_\_\_\_
 
