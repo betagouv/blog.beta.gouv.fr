@@ -90,9 +90,9 @@ Depuis, ça roule tout seul (enfin presque!). Il nous est même arrivé de passe
 
 ### Pré-requis :
 
-* Chaque membre de l’équipe doit être présent en visio ou dans la même pièce;`
-* Chacun doit pouvoir accéder à un document partagé (google doc, framadoc,...) et avoir les droits d’écriture`
-* Chacun choisit un[](https://fr.piliapp.com/facebook-symbols/) emoticon et l’ajoute à côté de son prénom'`
+* Chaque membre de l’équipe doit être présent en visio ou dans la même pièce. Un ordinateur par personne.
+* Chacun doit pouvoir accéder à un document partagé (google doc, framadoc,...) et avoir les droits d’écriture
+* Chacun choisit un[](https://fr.piliapp.com/facebook-symbols/) emoticon et l’ajoute à côté de son prénom
 
 ## 0. 🙋‍♀⏱ - Désigner un animateur et un maître du temps
 
