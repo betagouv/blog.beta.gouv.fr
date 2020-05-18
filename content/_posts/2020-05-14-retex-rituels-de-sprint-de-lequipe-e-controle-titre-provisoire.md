@@ -14,7 +14,11 @@ categories: dinsic
 tags: e.contrôle
 excerpt: Le retour d'expérience de l'équipe de la Startup d’État e.contrôle.
 ---
-Au sein de l'équipe de la Startup d’État e.contrôle, nous planifions nos objectifs et les tâches associées sur une durée de deux semaines. 
+Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. Ca a duré 2h30, tout le monde a donné son avis, personne n'était vraiment d'accord, les deux premiers sujets ont pris tellement de temps que les suivants ont été bâclés, et à la fin tu n'es même pas vraiment sûr.e que les objectifs choisis soient pertinents.\
+\
+Inéluctable, la douleur du lancement de sprint ? Non!! Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe.
+
+\[Au sein de l'équipe de la Startup d’État e.contrôle, nous planifions nos objectifs et les tâches associées sur une durée de deux semaines. ]
 
 ## Le mode projet, non merci !
 
@@ -111,15 +115,12 @@ Chacun est libre de ne pas proposer d’objectifs ou d’en proposer qu’un seu
 
 Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes.
 
-*Exemple :* 
-| 💁‍♀🐱🙋‍♂      | 2 objectifs max par personne                                                                                           |
+*Exemple :*  | 💁‍♀🐱🙋‍♂      | 2 objectifs max par personne                                                                                           |
 |------------|------------------------------------------------------------------------------------------------------------------------|
-| 🏓 Céline   | - Disposer en PROD de la fonctionnalité permettant de procrastiner;<br>- Regarder le MOOC de bêta.gouv en accéléré x16 |
-| 👾 Sylvain  |                                                                                                                        |
+| 🏓 Céline   | - Disposer en PROD de la fonctionnalité permettant de procrastiner;<br>- Regarder le MOOC de bêta.gouv en accéléré x16 | | 👾 Sylvain  |                                                                                                                        |
 | 🦀 Estelle  |                                                                                                                        |
 | 🐈Elisabeth |                                                                                                                        |
 | 🙈Léry      |                                                                                                                        |
-
 
 ## 2. 🤓- Regrouper et commenter les objectifs - 🤐 ⏳ 5 min
 
