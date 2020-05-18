@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Retour d'expéreince : Définir collectivement ses objectifs de sprint
-  sans accroc"
+title: "Le lancement de sprint : forcement interminable et douloureux ?"
 date: 2020-05-14T00:00:00.000Z
 authors:
   - lery.jicquel
