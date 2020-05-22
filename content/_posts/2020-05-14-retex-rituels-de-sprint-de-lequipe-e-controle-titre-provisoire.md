@@ -159,15 +159,17 @@ Il/elle peut mettre un emoticon sur deux objectifs différents ou deux emoticons
 *Exemples :*
 
 * *🥇-🏓🏓🦀Disposer en PROD de la fonctionnalité permettant de procrastiner*
-* * *C’est une super idée*
-* * *Mais il faudra prévoir un openlab*
 
-*🥈-🦀Regarder le MOOC de bêta.gouv en accéléré x2*
+   *\- C’est une super idée*
 
-* *C’est pas trop rapide ?*
+    *\- Mais il faudra prévoir un openlab*
+* *🥈-🦀Regarder le MOOC de bêta.gouv en accéléré x2*
 
-  * *Non, ça peut se faire*
-* *En vrai, c’est mieux d’aller discuter directement avec la communauté*
+   *\- C’est pas trop rapide ?*
+
+   *\- Non, ça peut se faire*
+
+   *\- En vrai, c’est mieux d’aller discuter directement avec la communauté*
 
 ## 5. 👍- Évaluer la faisabilité - ⏳ 1 min - 🤐
 
