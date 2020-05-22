@@ -19,6 +19,8 @@ Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. 
 \
 Inéluctable, la douleur du lancement de sprint ? Non!! Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour vous! A vous d’essayer et de l’adapter.
 
+![](/img/posts/people-2563683_640.jpg)
+
 ## Le mode projet, non merci !
 
 Nos expériences professionnelles précédentes suivant "la méthode projet" (accompagnée de planification fine et de rétroplanning) n'ont jamais été concluantes. Elles nous entraînaient trop souvent dans des tunnels, les délais n'étaient jamais respectés et pire que tout, il nous arrivait de privilégier l'atteinte des délais à la qualité de notre travail... sans atteindre ni l'un ni l'autre. Ca semblait ne déranger (presque) personne car c'était un peu la faute de tout le monde, donc de personne. Les seuls à qui ça pouvait vraiment poser problème ce sont peut-être les bénéficiaires directs de ces projets. Ils étaient trop souvent éloignés ou mal représentés. En effet les membres des divers comités et autres groupes de travail "stratégiques", bien que de bonne volonté, étaient rarement les destinataires des projets que nous pilotions. 
@@ -38,6 +40,8 @@ Plus que le suivi strict d'une méthodologie "Agile" ou "Scrum", nous essayons d
 \- S'améliorer en continu;
 
 \- Parler vrai avec bienveillance.
+
+### Notre jargon
 
 Quand au jargon de la "startup nation", nous en avons adopté certains éléments qui nous ont paru utiles. Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leur traduction :
 
