@@ -17,8 +17,6 @@ Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. 
 \
 Inéluctable, la douleur du lancement de sprint ? Non!! Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour vous! A vous d’essayer et de l’adapter.
 
-
-
 ## Le mode projet, non merci !
 
 Nos expériences professionnelles précédentes suivant "la méthode projet" (accompagnée de planification fine et de rétroplanning) n'ont jamais été concluantes. Elles nous entraînaient trop souvent dans des tunnels, les délais n'étaient jamais respectés et pire que tout, il nous arrivait de privilégier l'atteinte des délais à la qualité de notre travail... sans atteindre ni l'un ni l'autre. Ca semblait ne déranger (presque) personne car c'était un peu la faute de tout le monde, donc de personne. Les seuls à qui ça pouvait vraiment poser problème ce sont peut-être les bénéficiaires directs de ces projets. Ils étaient trop souvent éloignés ou mal représentés. En effet les membres des divers comités et autres groupes de travail "stratégiques", bien que de bonne volonté, étaient rarement les destinataires des projets que nous pilotions. 
@@ -81,8 +79,6 @@ On a tenté d’introduire un peu de “silence”, au sens propre du terme, dan
 
 Depuis, ça roule tout seul (enfin presque!). Il nous est même arrivé de passer sous la barre des 50 minutes!
 
-
-
 ## \_\_\_\_\_\_
 
 # Notre process de lancement de sprint (sprint planning)
@@ -118,12 +114,7 @@ Chacun est libre de ne pas proposer d’objectifs ou d’en proposer qu’un seu
 
 Il est fréquent de retrouver des objectifs similaires entre plusieurs personnes.
 
-| *Exemple :* | 💁‍♀🐱🙋‍♂                                                                                                              | 2 objectifs max par personne |            |     |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------- | --- |
-| 🏓 Céline   | \- Disposer en PROD de la fonctionnalité permettant de procrastiner;<br>- Regarder le MOOC de bêta.gouv en accéléré x16 |                              | 👾 Sylvain |     |
-| 🦀 Estelle  |                                                                                                                         |                              |            |     |
-| 🐈Elisabeth |                                                                                                                         |                              |            |     |
-| 🙈Léry      |                                                                                                                         |                              |            |     |
+![Modèle lancement de sprint](/img/posts/capture.jpg)
 
 ## 2. 🤓- Regrouper et commenter les objectifs - 🤐 ⏳ 5 min
 
