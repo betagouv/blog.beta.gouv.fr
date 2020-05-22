@@ -11,7 +11,9 @@ authors:
   - elisabeth.tzortzis
 categories: dinsic
 tags: e.contrôle
-excerpt: Le retour d'expérience de l'équipe de la Startup d’État e.contrôle.
+excerpt: L'équipe de la Startup d’État e.contrôle a essayé d'améliorer ses
+  rituels de sprint. Ses membres vous expliquent les difficultés rencontrées et
+  surtout les solutions adoptées.
 ---
 Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. Ca a duré 2h30, tout le monde a donné son avis, personne n'était vraiment d'accord, les deux premiers sujets ont pris tellement de temps que les suivants ont été bâclés, et à la fin tu n'es même pas vraiment sûr.e que les objectifs choisis soient pertinents.\
 \
