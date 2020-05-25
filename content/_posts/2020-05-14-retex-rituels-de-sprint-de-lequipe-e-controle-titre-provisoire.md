@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le lancement de sprint : forcement interminable et douloureux ?"
-date: 2020-05-14T00:00:00.000Z
+date: 2020-05-25
 authors:
   - lery.jicquel
   - sylvain.toe
