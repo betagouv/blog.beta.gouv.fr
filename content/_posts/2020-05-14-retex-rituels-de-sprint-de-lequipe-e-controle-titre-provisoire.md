@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le lancement de sprint : forcement interminable et douloureux ?"
-date: 2020-05-25
+date: 2020-05-25T00:00:00.000Z
 authors:
   - lery.jicquel
   - sylvain.toe
@@ -15,9 +15,11 @@ excerpt: L'équipe de la Startup d’État e.contrôle a essayé d'améliorer se
   rituels de sprint. Ses membres vous expliquent les difficultés rencontrées et
   surtout les solutions adoptées.
 ---
-Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. Ca a duré 2h30, tout le monde a donné son avis, personne n'était vraiment d'accord, les deux premiers sujets ont pris tellement de temps que les suivants ont été bâclés, et à la fin tu n'es même pas vraiment sûr.e que les objectifs choisis soient pertinents.\
-\
-Inéluctable, la douleur du lancement de sprint ? Non!! Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour vous! A vous d’essayer et de l’adapter.
+Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. Ca a duré 2h30, tout le monde a donné son avis, personne n'était vraiment d'accord, les deux premiers sujets ont pris tellement de temps que les suivants ont été bâclés, et à la fin tu n'es même pas vraiment sûr.e que les objectifs choisis soient pertinents.
+
+Inéluctable, la douleur du lancement de sprint ? Non !
+
+Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour vous! A vous d’essayer et de l’adapter.
 
 ![](/img/posts/people-2563683_640.jpg)
 
