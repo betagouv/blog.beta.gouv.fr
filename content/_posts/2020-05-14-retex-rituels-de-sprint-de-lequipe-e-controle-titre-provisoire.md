@@ -79,7 +79,7 @@ Depuis, ça roule tout seul (enfin presque!). Il nous est même arrivé de passe
 
 ## \_\_\_\_\_\_
 
-# Notre process de lancement de sprint (sprint planning)
+# Notre process de lancement de sprint
 
 ### Pré-requis :
 
