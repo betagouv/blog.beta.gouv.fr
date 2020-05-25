@@ -67,7 +67,7 @@ Pendant plusieurs mois, l’équipe rencontrait des difficultés pour ses réuni
 * mal à l’aise : on sortait de là en se demandant si on allait vraiment y arriver, si on avait pas trop monopolisé la parole, si on avait eu raison d’insister sur tel point, si on avait assez écouté son collègue, si on avait pas été un peu cassant...
 * une convergence et une prise de décision compliquée en fin d’atelier.
 
-On en est sorti avec un ressenti partagé sur le fait qu’on aimait pas ce rituel et qu’il fallait essayer autre chose. Avec l’aide de notre coach, on a fini par faire une rétrospective uniquement sur ce thème : nos rituels de sprint.
+On en est sorti avec un ressenti partagé sur le fait qu’on aimait pas ce rituel et qu’il fallait essayer autre chose. Avec l’aide de notre coach, on a fini par faire une rétrospective uniquement sur ce thème : nos rituels de sprint. Julien Dauphant (notre coach) a posé des concepts de base. Puis l'équipe a fait des itérations de ses rituels. Nous solicitions l'aide du coach de temps en temps.
 
 On a tenté d’introduire un peu de “silence”, au sens propre du terme, dans ce rituel:
 
