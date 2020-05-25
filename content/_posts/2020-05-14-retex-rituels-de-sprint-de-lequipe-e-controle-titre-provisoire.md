@@ -45,7 +45,7 @@ Quand au jargon de la "startup nation", nous en avons adopté certains élément
 
 * un "sprint" : une période pendant laquelle l'équipe va essayer d'atteindre un ou plusieurs objectifs. Un sprint dure couramment deux semaines, parfois une ou trois.
 * "Trello" : logiciel de gestion de projet/produit en ligne dont les fonctionnalités de base sont gratuites. Il permet de mettre des cartes (comme des post-its) dans des listes thématiques verticales. Il existe bien d'autres outils gratuits ou payant.
-* Réunion de lancement aussi appelé "sprint planning" : atelier durant lequel l'équipe fixe collectivement les objectifs essentiels à atteindre durant le sprint.
+* Réunion de lancement de sprint : atelier durant lequel l'équipe fixe collectivement les objectifs essentiels à atteindre durant le sprint.
 * Rétrospective : atelier de fin de sprint, durant lequel l'équipe partage ses enseignements acquis durant le sprint passé.
 * un coach de Start-up d'Etat : un membre de l'équipe dont la mission est de nous aider à obtenir des résultats concrets auprès des usagers et surtout mesurables.
 * un pad : éditeur de texte collaboratif en ligne qui ressemble parfois au texte sur fond noir des minitels. 
