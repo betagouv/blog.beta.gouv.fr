@@ -43,7 +43,7 @@ Plus que le suivi strict d'une méthodologie "Agile" ou "Scrum", nous essayons d
 
 ### Notre jargon
 
-Quand au jargon de la "startup nation", nous en avons adopté certains éléments qui nous ont paru utiles. Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leur traduction :
+Quant au jargon de la "startup nation", nous en avons adopté certains éléments qui nous ont paru utiles. Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leur traduction :
 
 * un "sprint" : une période pendant laquelle l'équipe va essayer d'atteindre un ou plusieurs objectifs. Un sprint dure couramment deux semaines, parfois une ou trois.
 * "Trello" : logiciel de gestion de projet/produit en ligne dont les fonctionnalités de base sont gratuites. Il permet de mettre des cartes (comme des post-its) dans des listes thématiques verticales. Il existe bien d'autres outils gratuits ou payant.
