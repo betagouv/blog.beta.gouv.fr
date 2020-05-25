@@ -55,7 +55,7 @@ Quand au jargon de la "startup nation", nous en avons adopté certains élément
 
 En pratique, nous avançons par itérations successives de deux semaines, au lieu de suivre un plan détaillé "des choses à réaliser" à six mois. Nous avons choisi d'adopter et de ritualiser ces trois types de réunions d'équipe :
 
-* le debrief quotidien (et systématique) de quelques minutes où chacun raconte ce qu'il a fait la veille, ce qu'il pense faire aujourd'hui et s'il a besoin d'aide. En visio, ça marche très bien. Ça fait un an et demi qu'on l'expérimente. Elle est censée durée 10 minutes mais il arrive qu'on dépasse le chrono si un problème doit être résolu.
+* le debrief quotidien (et systématique) de quelques minutes où chacun raconte ce qu'il a fait la veille, ce qu'il pense faire aujourd'hui et s'il a besoin d'aide. En visio, ça marche très bien. Ça fait un an et demi qu'on l'expérimente. Elle est censée durér 10 minutes mais il arrive qu'on dépasse le chrono si un problème doit être résolu.
 * la réunion de lancement de nos "sprints". Elle a lieu toutes les deux semaines pendant 60 minutes. Là aussi la visio est très efficace (certains membres de notre équipe sont à distance, donc nous avons l'habitude de faire des réunions ou deux personnes sont au bureau et d'autres sont à distance).
 * la réunion de rétrospective de notre "sprint". Elle a lieu toutes les deux semaines pendant 60 minutes en visio.
 
