@@ -19,7 +19,7 @@ Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. 
 
 Inéluctable, la douleur du lancement de sprint ? Non !
 
-Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour vous! A vous d’essayer et de l’adapter.
+Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour ton equipe! A toi d’essayer et de l’adapter.
 
 ![](/img/posts/people-2563683_640.jpg)
 
