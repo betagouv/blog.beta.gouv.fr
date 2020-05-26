@@ -19,7 +19,7 @@ Tu sors d'une réunion de lancement de sprint. Tu es émotionnellement vidé.e. 
 
 Inéluctable, la douleur du lancement de sprint ? Non !
 
-Une petite startup d'Etat résiste encore et toujours (enfin presque) à l'envahisseur. Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour ton equipe! A toi d’essayer et de l’adapter.
+Sans prétendre avoir atteint la perfection, nous te proposons une petite visite touristique de nos rituels, en espérant que tu puisses y piocher quelques idées pour aider ton équipe. Ce qui fonctionne pour nous ne fonctionne pas forcément pour ton equipe! A toi d’essayer et de l’adapter.
 
 ![](/img/posts/people-2563683_640.jpg)
 
@@ -43,7 +43,7 @@ Plus que le suivi strict d'une méthodologie "Agile" ou "Scrum", nous essayons d
 
 ### Notre jargon
 
-Quand au jargon de la "startup nation", nous en avons adopté certains éléments qui nous ont paru utiles. Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leur traduction :
+Quant au jargon de la "startup nation", nous en avons adopté certains éléments qui nous ont paru utiles. Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leur traduction :
 
 * un "sprint" : une période pendant laquelle l'équipe va essayer d'atteindre un ou plusieurs objectifs. Un sprint dure couramment deux semaines, parfois une ou trois.
 * "Trello" : logiciel de gestion de projet/produit en ligne dont les fonctionnalités de base sont gratuites. Il permet de mettre des cartes (comme des post-its) dans des listes thématiques verticales. Il existe bien d'autres outils gratuits ou payant.
