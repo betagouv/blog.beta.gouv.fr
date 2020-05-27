@@ -43,6 +43,10 @@ Plus que le suivi strict d'une méthodologie "Agile" ou "Scrum", nous essayons d
 * S'améliorer en continu ;
 * Parler vrai avec bienveillance.
 
+![fogg-teamwork](https://user-images.githubusercontent.com/43180136/83015478-ca33a000-a020-11ea-9e4e-3986345f49c1.png)
+
+*Cette image illustre la façon dont nous travaillons. Source : [Marina Fedoseenko](https://icons8.com/ouch/illustration/fogg-teamwork)*
+
 ### Notre jargon
 
 Quant au jargon de la "startup nation", nous en avons adopté certains éléments qui nous ont paru utiles. Chaque secteur d'activité a ses tics de langage. Voici les nôtres et leurs traductions :
