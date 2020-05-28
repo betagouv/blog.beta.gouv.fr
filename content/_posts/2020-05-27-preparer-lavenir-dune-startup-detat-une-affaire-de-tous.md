@@ -49,7 +49,7 @@ Dans les deux cas quand la Startup d'État rejoint son administration d’accuei
 
 Après avoir fait ce constat je voudrais mettre en lumière quelques directions clés dans la consolidation de transport.data.gouv.fr à date :
 
-1. Sortir des sentiers battus : 
+1/ Sortir des sentiers battus : 
 
 Indispensable et oui je ne vous apprends rien je le sais, mais je vous invite à réitérer l’expérience… nous avons commencé par ouvrir les chakras concernant les futurs scénarios d'atterrissage. (Pourquoi un seul scénario d'atterrissage ?)
 
@@ -66,7 +66,7 @@ Ceci a aidé à :
 
 
 
-2. Renouveler l’engagement de parties prenantes :
+2/ Renouveler l’engagement de parties prenantes :
 
 La DINUM a fait un investissement sur la phase de consolidation. La Startup d’État souhaite de tout cœur que son produit soit pérennisé et le sponsor lui aussi souhaite voir réussir son produit. Tous les ingrédients sont présents pour réussir.
 
@@ -81,7 +81,7 @@ Ce renouvellement d'engagement de la part du sponsor à joué très favorablemen
 
 
 
-3. Aide à la prise de décision :
+3/ Aide à la prise de décision :
 
 La décision finale concernant le scénario d'atterrissage de la Startup d'État revient au sponsor, devant tant de paramètres à prendre en compte il est important de faciliter cette tâche non seulement avec les process mais avec les livrables également.
 
@@ -95,7 +95,7 @@ Ce qui a marché :
 * Le sponsor a les informations en main pour faire son choix, avec de critères qui permettent de comparer les repreneurs de manière neutre, ça lui permet de se concentrer sur les bonnes questions et de prendre du plaisir à explorer les différentes possibilités.
 * Le sponsor nous a clairement communiqué son souhait de vouloir faire le meilleur choix pour le service et son équipe
 
-4. Les étapes suivantes : 
+4/ Les étapes suivantes : 
 
 Un comité d’investissement pour choisir : budget et repreneur entre autres puis co-construire une vision commune !
 
