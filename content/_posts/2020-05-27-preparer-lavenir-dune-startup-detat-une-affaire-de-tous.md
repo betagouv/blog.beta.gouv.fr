@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Préparer l'avenir d'une startup d'Etat, une affaire de tous !
-date: 2020-05-27
+date: 2020-05-27T00:00:00.000Z
 authors:
   - maritza.abreo
 categories: dinsic
@@ -25,13 +25,13 @@ excerpt: >-
 ---
 ###### Je découvre tout d'abord une certaine fatigue chez les équipes de la Startup d'État et le sponsor.
 
-Au moment du lancement des Startups d’État il y a une forte motivation liée à la création : un produit à construire, des défis à relever, une émulation commune en place. Lorsque vient la consolidation nous nous retrouvons avec des relations “fatiguées” entre les sponsors et les membres de la Startup d’État, les réunions sont fatigantes, les contraintes écrasantes, la motivation arrive à bout.
+Au moment du lancement des Startups d’État il y a une forte motivation liée à la création : un produit à construire, des défis à relever, une émulation commune en place. 
 
-Je constate ceci non seulement pour l’équipe transport.data.gouv.fr mais aussi pour d’autres Startups d’État qui arrivent bientôt en phase de consolidation.
+Lorsque vient la consolidation nous nous retrouvons avec des relations “fatiguées” entre les sponsors et les membres de la Startup d’État, les réunions sont fatigantes, les contraintes écrasantes, la motivation arrive à bout. Je constate ceci non seulement pour l’équipe transport.data.gouv.fr mais aussi pour d’autres Startups d’État qui arrivent bientôt en phase de consolidation.
 
 #### La consolidation une affaire de tous
 
-Deux ans d’investissement sur cette Startups d’État par la DGITM, un investissement mis en place par la DINUM pour réussir cette importante nouvelle étape de consolidation et un impact futur pour des millions d’utilisateurs. La réussite de la consolidation de cette startup est un sujet d'intérêt commun.
+Deux ans d’investissement sur cette Startup d’État par la DGITM, un investissement mis en place par la DINUM pour réussir cette importante nouvelle étape de consolidation et un impact futur pour des millions d’utilisateurs. La réussite de la consolidation de ce produit est un sujet d'intérêt commun.
 
 Qu’une Startup d'État réussisse à pérenniser son service à l'intérieur des administrations devrait être notre réussite à tous ! Cela concerne donc notre communauté mais aussi tous les incubateurs et ministères.
 
@@ -39,99 +39,69 @@ Qu’une Startup d'État réussisse à pérenniser son service à l'intérieur d
 
 Nous ne pouvons pas le nier la consolidation est un sujet où : politique, diplomatie et relationnel sont des sujets clés. Identifier nos alliés (les alliés des startups, du service et de la DINUM) au sein des administrations d’accueil est primordial. Et pour ceciil faut mettre les bonnes personnes autour de la tableetmettre nos relations à tous au profit de cette grande étape.
 
-
-
 ##### Maintenance opérationnelle vs Évolution continue vs excellence ….
 
 Arrivée au moment de la consolidation, la Startup d'État a fait preuve de son impact cependant parfois équipes et process ne sont pas encore stabilisés. Stabiliser les processus, stabiliser l’équipe sera un défi important lié à l’ambition que l’administration d’accueil souhaite donner à ce service.
 
-Quelques questions à se poser: Il s’agit d’un service qui a pour vocation d’être en maintenance opérationnelle ou alors il s’agit d’un produit qui sera en évolution continue?
+Quelques questions à se poser : s’agit-il d’un service qui a pour vocation d’être en maintenance opérationnelle ou d’un produit qui sera en évolution continue ?
 
-Dans les deux cas quand la Startup d'État rejoint son administration d’accueilelle intègre son portefeuille de services.Comprendre le fonctionnement de ce portefeuille et savoir se positionner face aux autres services aura aussi de l’importance pour la Startup d'État.
+Dans les deux cas quand la Startup d'État rejoint son administration d’accueil elle intègre son portefeuille de services. Comprendre le fonctionnement de ce portefeuille et savoir se positionner face aux autres services aura aussi de l’importance pour la Startup d'État.
 
+Après avoir fait ce constat je voudrais mettre en lumière quelques directions clés dans la consolidation de transport.data.gouv.fr à date :
 
+1. Sortir des sentiers battus : 
 
-Après avoir fait ce constat je voudrais mettre en lumière quelquesdirections clés dans la consolidation de transport.data.gouv.fr à date :
+Indispensable et oui je ne vous apprends rien je le sais, mais je vous invite à réitérer l’expérience… nous avons commencé par ouvrir les chakras concernant les futurs scénarios d'atterrissage. (Pourquoi un seul scénario d'atterrissage ?)
 
-
-
-1.Sortir des sentiers battus: Indispensable et oui je ne vous apprends rien je le sais, mais
-
-je vous invite à réitérer l’expérience… nous avons commencé par ouvrir les chakras concernant les futurs scénarios d'atterrissage. (Pourquoi un seul scénario d'atterrissage?)
-
-
-
-Comment : En étudiant les possibilités d’atterrissage avec la Startup d'État, le sponsor et les coachs etc. et en faisant des interviews avec les possibles repreneurs avec une grille de questions établie
-
-
+Comment ? En étudiant les possibilités d’atterrissage avec la Startup d'État, le sponsor et les coachs etc. et en faisant des interviews avec les possibles repreneurs avec une grille de questions établie
 
 Ceci a aidé à :
 
-·
+* Mieux identifier les valeurs et besoins de l’équipe ;
+* Redynamiser le processus ;
+* Apporter de la hauteur ;
+* Démontrer que les choses pouvaient se faire autrement ;
+* Valoriser la startup : Devant de tant d’entités intéressées et honorées d’être consultées pour cette reprise nous avons pu reprendre conscience de la valeur de la startup et de son équipe à travers des yeux extérieurs ;
+* Identifier des partenariats prometteurs pour la Startup.
 
-* Mieux identifier les valeurs et besoins de l’équipe
-* Redynamiser le processus.
-* Apporter de la hauteur
-* Démontrer que les choses pouvaient se faire autrement
-* Valoriser la startup : Devant de tant d’entités intéressées et honorées d’être consultées pour cette reprise nous avons pu reprendre conscience de la valeur de la startup et de son équipe à travers des yeux extérieurs.
-* Nous avons identifié de partenariats prometteurs pour la startup
+2. Renouveler l’engagement de parties prenantes :
 
+La DINUM a fait un investissement sur la phase de consolidation. La Startup d’État souhaite de tout cœur que son produit soit pérennisé et le sponsor lui aussi souhaite voir réussir son produit. Tous les ingrédients sont présents pour réussir.
 
+Alors pourquoi la phase de consolidation est aussi crainte par les uns et les autres ? 
 
-
-
-2. Renouveler l’engagement de parties prenantes :La DINUM a fait un investissement sur la phase de consolidation. La Startup d’État souhaite de tout cœur que son produit soit pérennisé et le sponsor
-
-lui aussi souhaite voir réussir son produit. Tous les ingrédients sont présents pour réussir.
-
-Alors pourquoi la phase de consolidation est aussi crainte par les uns et les autres ?(un mardi nous préparions un call avec Ishan (co-animateur de beta.gouv.fr) et le sponsor pour plus tard dans la semaine, je n’avais entendu que des hypothèses de possible échec pour la consolidation transport.data.gouv.fr. Nous voulions changer la donne.)
-
-
+Un mardi nous préparions un call avec Ishan (co-animateur de beta.gouv.fr) et le sponsor pour plus tard dans la semaine, je n’avais entendu que des hypothèses de possible échecs pour la consolidation transport.data.gouv.fr et nous voulions changer la donne.
 
 C’est donc à ce moment que nous avons compris à quel point ses premiers pas de la consolidation étaient importants, et nous avons décidé de centrer cet appel sur les points suivants :
 
-
-
 * Dynamiser la relation avec le sponsor. Remettre la motivation au centre avant le démarrage de la consolidation, échanger sur les souhaits, les attentes et même les rêves pour le service.
+* Célébrer et réveiller la mémoire: rappel de momentums de réussite (rappel d’un événement avec le ministre) et parler d’une future célébration. 
 
+3. Aide à la prise de décision :
 
-
-* Célébrer et réveiller la mémoire: rappel de momentums de réussite (rappel d’un événement avec le ministre) Parler d’une future célébration, aller chercher le
-
-
-
-3. Aide à la prise de décision:Nous avons compilé les informations concernant les possibles repreneurs et nous les avons présentés au sponsor dans[“un dossier d’aide à la décision”](https://docs.google.com/presentation/d/1GikZwGh8n7-QTxRBXkm9xcvmsA8-CbX8/edit#slide=id.p1), des tableaux comparatifs sont présents avec des critères comme : organisation, culture, vision produit, organisation agile, financement, RH, technique, juridique et autres …
+Nous avons compilé les informations concernant les possibles repreneurs et nous les avons présentés au sponsor dans [“un dossier d’aide à la décision”](https://docs.google.com/presentation/d/1GikZwGh8n7-QTxRBXkm9xcvmsA8-CbX8/edit#slide=id.p1), des tableaux comparatifs sont présents avec des critères comme : organisation, culture, vision produit, organisation agile, financement, RH, technique, juridique et autres …
 
 Le plus difficile : présenter l’information de manièreimpartialeet tel un chercheur faire son travail d’investigation de manière rigoureuse pour confronter la réalité et la perception.
 
 Ce qui a marché :
 
-* Une[note](https://docs.google.com/document/d/1T0bnr_P6orOMzwCcNujzUH6TD-3XuNfgciki0Wsmdvo/edit)claire récapitulative rédigée par Ishan composée du passé, du contexte, des jalons futurs et une explication du dossier et du contenu des tableaux dans le dossier clairs et succinct.
+* Une [note](https://docs.google.com/document/d/1T0bnr_P6orOMzwCcNujzUH6TD-3XuNfgciki0Wsmdvo/edit) claire récapitulative rédigée par Ishan composée du passé, du contexte, des jalons futurs et une explication du dossier et du contenu des tableaux dans le dossier clairs et succinct.
 * Le sponsor a les informations en main pour faire son choix, avec de critères qui permettent de comparer les repreneurs de manière neutre, ça lui permet de se concentrer sur les bonnes questions et de prendre du plaisir à explorer les différentes possibilités.
+* Le sponsor nous a clairement communiqué son souhait de vouloir faire le meilleur choix pour le service et son équipe.
 
+4. Les étapes suivantes : un comité d’investissement pour choisir budget et repreneur, entre autres, pour co-construire une vision commune !
 
+Bien sûr le sujet n’est pas fini, pour les intéressés, une mise à jour dans deux mois et des cafés quand vous le voudrez ;)
 
-* Le sponsor nous a clairement communiqué son souhait de vouloir faire le meilleur choix pour le service et son équipe
+En attendant, j’aimerais vous faire une invitation à nous suivre et nous soutenir dans cette phase de consolidation. 
 
-4. Les étapes suivantes:Un comité d’investissement pour choisir : budget et repreneur entre autres puis co-construire une vision commune !
-
-
-
-Bien sûr le sujet n’est pas fini, pour les intéressés, une mise à jour dans deux mois et des cafés quand vous voulez.
-
-…
-
-J’aimerais vous faire une invitation à nous suivre, soutenir dans cette phase de consolidation. 
-
-Le premier de plusieurs rendez-vous je l'espère, sera un petit déjeuner virtuel:
+Le premier de plusieurs rendez-vous, je l'espère, sera un petit déjeuner virtuel pour un partage d’expériences et des défis de la consolidation.
 
 Date : 5 Juin
 
 Heure : 10h
 
 Durée : 1h
-
-Pour un partage d’expériences et des défis de la consolidation.
 
 Avec nous :
 
