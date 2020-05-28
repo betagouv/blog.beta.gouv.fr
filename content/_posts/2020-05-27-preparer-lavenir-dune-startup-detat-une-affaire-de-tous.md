@@ -31,13 +31,13 @@ Je constate ceci non seulement pour l’équipe transport.data.gouv.fr mais auss
 
 ##### La consolidation une affaire de tous
 
-Deux ans d’investissement sur cette Startups d’État par la DGITM, un investissement mis en place par la DINUM pour réussir cette importante nouvelle étape de consolidation et un impact futur pour des millions d’utilisateurs. La réussite de la consolidation de cette startup est un sujet d'intérêt commun.
+Deux ans d’investissement sur cette Startup d’État par la DGITM, un investissement mis en place par la DINUM pour réussir cette importante nouvelle étape de consolidation et un impact futur pour des millions d’utilisateurs. La réussite de la consolidation de cette startup est un sujet d'intérêt commun.
 
 Qu’une Startup d'État réussisse à pérenniser son service à l'intérieur des administrations devrait être notre réussite à tous ! Cela concerne donc notre communauté mais aussi tous les incubateurs et ministères.
 
 ##### A la recherche des alliés
 
-Nous ne pouvons pas le nier la consolidation est un sujet où : politique, diplomatie et relationnel sont des sujets clés. Identifier nos alliés (les alliés des startups, du service, de la DINUM et du sponsor) au sein des administrations d’accueil est primordial. Et pour ceciil faut mettre les bonnes personnes autour de la tableetmettre nos relations à tous au profit de cette grande étape.
+Nous ne pouvons pas le nier la consolidation est un sujet où : politique, diplomatie et relationnel sont des sujets clés. Identifier nos alliés (les alliés des startups, du service, de la DINUM et du sponsor) au sein des administrations d’accueil est primordial. Et pour ceci il faut mettre les bonnes personnes autour de la tableetmettre nos relations à tous au profit de cette grande étape.
 
 ##### Maintenance opérationnelle vs amélioration continue vs excellence…
 
@@ -53,7 +53,7 @@ Après avoir fait ce constat je voudrais mettre en lumière quelques directions 
 
 Indispensable et oui je ne vous apprends rien je le sais, mais je vous invite à réitérer l’expérience… nous avons commencé par ouvrir les chakras concernant les futurs scénarios d'atterrissage. (Pourquoi un seul scénario d'atterrissage ?)
 
-Comment : en étudiant les possibilités d’atterrissage c’est à dire les différentes structures qui peuvent accueillir la SE avec le sponsor et qui vont pouvoir continuer à donner un cadre propice à l'évolution de la Startup d'État dans cette phase de consolidation. Nous avons identifié les possibilités avec l’équipe, les coachs et le sponsor et nous avons réalisé des interviews à l’appuie d’une[grille de questions](https://drive.google.com/file/d/1XsHUgN5nFhIVbq3gNWtdXQKskbV7zAJl/view?usp=sharing)
+Comment : en étudiant les possibilités d’atterrissage c’est à dire les différentes structures qui peuvent accueillir la SE avec le sponsor et qui vont pouvoir continuer à donner un cadre propice à l'évolution de la Startup d'État dans cette phase de consolidation. Nous avons identifié les possibilités avec l’équipe, les coachs et le sponsor et nous avons réalisé des interviews à l’appuie d’une [grille de questions.](https://drive.google.com/file/d/1XsHUgN5nFhIVbq3gNWtdXQKskbV7zAJl/view?usp=sharing)
 
 Ceci a aidé à :
 
@@ -64,8 +64,6 @@ Ceci a aidé à :
 * Valoriser la startup : devant de tant d’entités intéressées et honorées d’être consultées pour cette reprise nous avons pu reprendre conscience de la valeur de la startup et de son équipe à travers des yeux extérieurs ;
 * Identifier des partenariats prometteurs pour la startup.
 
-
-
 2/ Renouveler l’engagement de parties prenantes :
 
 La DINUM a fait un investissement sur la phase de consolidation. La Startup d’État souhaite de tout cœur que son produit soit pérennisé et le sponsor lui aussi souhaite voir réussir son produit. Tous les ingrédients sont présents pour réussir.
@@ -75,11 +73,9 @@ Alors pourquoi la phase de consolidation est aussi crainte par les uns et les au
 C’est donc à ce moment que nous avons compris à quel point ses premiers pas de la consolidation étaient importants, et nous avons décidé de centrer cet appel sur les points suivants :
 
 * Dynamiser la relation avec le sponsor. Remettre la motivation au centre avant le démarrage de la consolidation, échanger sur les souhaits, les attentes et même les rêves pour le service.
-* Célébrer et réveiller la mémoire: rappel de momentums de réussite (rappel d’un événement avec le ministre) Parler d’une future célébration, aller chercher le* picto feu
+* Célébrer et réveiller la mémoire: rappel de momentums de réussite (rappel d’un événement avec le ministre) Parler d’une future célébration, aller chercher le picto feu.
 
 Ce renouvellement d'engagement de la part du sponsor à joué très favorablement sur l’engagement de l’équipe de la Startup d'État par conséquence.
-
-
 
 3/ Aide à la prise de décision :
 
