@@ -21,7 +21,7 @@ excerpt: >-
    
   Je vais tenter d’énumérer mes constats et impressions les plus notables sur le sujet transverse de la consolidation.
 ---
-###### Je découvre une certaine fatigue chez les équipes de la Startup d'État et le sponsor.
+##### Je découvre une certaine fatigue chez les équipes de la Startup d'État et le sponsor.
 
 Au moment du lancement des Startups d’État il y a une forte motivation liée à la création : un produit à construire, des défis à relever, une émulation commune en place. 
 
