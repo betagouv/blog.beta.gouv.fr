@@ -5,6 +5,7 @@ date: 2020-05-27T00:00:00.000Z
 authors:
   - maritza.abreo
 categories: dinsic
+image: /img/posts/870x489_fotolia_81556974_subscription_monthly_m.jpg
 excerpt: >-
   En arrivant à la DINUM, pour travailler sur le sujet de la consolidation de
   Startups d’État, on m’a présenté l’équipe transport.data.gouv.fr avec qui j’ai
