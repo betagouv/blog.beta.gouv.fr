@@ -37,7 +37,7 @@ Qu’une Startup d'État réussisse à pérenniser son service à l'intérieur d
 
 ##### A la recherche des alliés
 
-Nous ne pouvons pas le nier la consolidation est un sujet où : politique, diplomatie et relationnel sont des sujets clés. Identifier nos alliés (les alliés des startups, du service, de la DINUM et du sponsor) au sein des administrations d’accueil est primordial. Et pour ceci il faut mettre les bonnes personnes autour de la tableetmettre nos relations à tous au profit de cette grande étape.
+Nous ne pouvons pas le nier la consolidation est un sujet où : politique, diplomatie et relationnel sont des sujets clés. Identifier nos alliés (les alliés des startups, du service, de la DINUM et du sponsor) au sein des administrations d’accueil est primordial. Et pour ceci il faut mettre les bonnes personnes autour de la table et mettre nos relations à tous au profit de cette grande étape.
 
 ##### Maintenance opérationnelle vs amélioration continue vs excellence…
 
@@ -45,7 +45,7 @@ Arrivée au moment de la consolidation, la Startup d'État a fait preuve de son 
 
 Quelques questions à se poser : s'agit-il d’un service qui a pour vocation d’être en maintenance opérationnelle ou d’un produit qui sera en évolution continue ?
 
-Dans les deux cas quand la Startup d'État rejoint son administration d’accueilelle intègre son portefeuille de services. Comprendre le fonctionnement de ce portefeuille et savoir se positionner face aux autres services aura aussi de l’importance pour la Startup d'État.
+Dans les deux cas quand la Startup d'État rejoint son administration d’accueil elle intègre son portefeuille de services. Comprendre le fonctionnement de ce portefeuille et savoir se positionner face aux autres services aura aussi de l’importance pour la Startup d'État.
 
 Après avoir fait ce constat je voudrais mettre en lumière quelques directions clés dans la consolidation de transport.data.gouv.fr à date :
 
@@ -53,7 +53,7 @@ Après avoir fait ce constat je voudrais mettre en lumière quelques directions 
 
 Indispensable et oui je ne vous apprends rien je le sais, mais je vous invite à réitérer l’expérience… nous avons commencé par ouvrir les chakras concernant les futurs scénarios d'atterrissage. (Pourquoi un seul scénario d'atterrissage ?)
 
-Comment : en étudiant les possibilités d’atterrissage c’est à dire les différentes structures qui peuvent accueillir la SE avec le sponsor et qui vont pouvoir continuer à donner un cadre propice à l'évolution de la Startup d'État dans cette phase de consolidation. Nous avons identifié les possibilités avec l’équipe, les coachs et le sponsor et nous avons réalisé des interviews à l’appuie d’une [grille de questions.](https://drive.google.com/file/d/1XsHUgN5nFhIVbq3gNWtdXQKskbV7zAJl/view?usp=sharing)
+Comment : en étudiant les possibilités d’atterrissage c’est à dire les différentes structures qui peuvent accueillir la SE avec le sponsor et qui vont pouvoir continuer à donner un cadre propice à l'évolution de la Startup d'État dans cette phase de consolidation. Nous avons identifié les possibilités avec l’équipe, les coachs et le sponsor et nous avons réalisé des interviews à l’appui d’une [grille de questions.](https://drive.google.com/file/d/1XsHUgN5nFhIVbq3gNWtdXQKskbV7zAJl/view?usp=sharing)
 
 Ceci a aidé à :
 
@@ -81,7 +81,7 @@ Ce renouvellement d'engagement de la part du sponsor à joué très favorablemen
 
 La décision finale concernant le scénario d'atterrissage de la Startup d'État revient au sponsor, devant tant de paramètres à prendre en compte il est important de faciliter cette tâche non seulement avec les process mais avec les livrables également.
 
-Nous avons compilé les informations concernant les possibles repreneurs et nous les avons présentés au sponsor dans [“un dossier d’aide à la décision”](https://docs.google.com/presentation/d/1GikZwGh8n7-QTxRBXkm9xcvmsA8-CbX8/edit#slide=id.p1), des tableaux comparatifs sont présents avec des critères comme : organisation, culture, vision produit, organisation agile, financement, RH, technique, juridique et autres …
+Nous avons compilé les informations concernant les possibles repreneurs et nous les avons présentés au sponsor dans “un dossier d’aide à la décision”, des tableaux comparatifs sont présents avec des critères comme : organisation, culture, vision produit, organisation agile, financement, RH, technique, juridique et autres …
 
 Le plus difficile : présenter l’information de manière impartiale et tel un chercheur faire son travail d’investigation de manière rigoureuse pour confronter la réalité et la perception.
 
