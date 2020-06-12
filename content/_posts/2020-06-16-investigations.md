@@ -8,6 +8,7 @@ categories: dinsic
 image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
 excerpt: >-
 Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?
+---
 
 **Dans le cadre de la mobilisation nationale suite au COVID-19, les équipes de beta.gouv.fr renforcent leur accompagnement des administrations et agents publics pour les aider à résoudre des problèmes à fort impact social, économique ou environnemental.**
 
