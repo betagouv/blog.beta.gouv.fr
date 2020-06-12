@@ -17,6 +17,6 @@ Pour bénéficier de cet accompagnement, signalez-nous une problématique à laq
 
 Au menu de cette investigation : entretiens utilisateurs, prototypage, étude de marché… Tous les ingrédients nécessaires pour préparer le développement d’un service public numérique !  Aucun problème n’est trop spécifique ou trop compliqué pour être étudié.
 
-Vous souhaitez en savoir plus ? Vous pouvez consulter la [FAQ](https://beta.gouv.fr/approche/investigation), vous inscrire pour assister à la prochaine réunion d’information ICI, ou simplement prendre contact directement avec un membre de l’équipe beta.gouv.fr à l’addresse suivante : investigations@beta.gouv.fr  
+Vous souhaitez en savoir plus ? Vous pouvez consulter la [FAQ](https://beta.gouv.fr/approche/investigation), vous inscrire pour assister à la prochaine réunion d’information ICI, ou simplement prendre contact directement avec un membre de l’équipe beta.gouv.fr à l’addresse suivante : contact@beta.gouv.fr  
 
-Vous avez une idée précise de problème que vous souhaiteriez investiguer, accompagné des équipes [beta.gouv.fr](https://beta.gouv.fr/) ? Remplissez vos informations de contact sur CE FORMULAIRE avant le 26 juillet, et un•e membre de l’équipe beta.gouv.fr reviendra vers vous pour en discuter !
+Vous avez une idée précise de problème que vous souhaiteriez investiguer, accompagné des équipes [beta.gouv.fr](https://beta.gouv.fr/) ? Envoyez-nous un mail décrivant ce problème à investigations@beta.gouv.fr avant le 26 juillet, et un•e membre de l’équipe beta.gouv.fr reviendra vers vous pour en discuter !
