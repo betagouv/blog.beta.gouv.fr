@@ -10,7 +10,7 @@ excerpt: >-
   Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?
 ---
 
-**Dans le cadre de la mobilisation nationale suite au COVID-19, les équipes de beta.gouv.fr renforcent leur accompagnement des administrations et agents publics pour les aider à résoudre des problèmes à fort impact social, économique ou environnemental. Soumettez-nous votre problème avant le 26 juillet ! **
+**Dans le cadre de la mobilisation nationale suite au COVID-19, les équipes de beta.gouv.fr renforcent leur accompagnement des administrations et agents publics pour les aider à résoudre des problèmes à fort impact social, économique ou environnemental. Soumettez-nous votre problème avant le 26 juillet !**
 
 [beta.gouv.fr](https://beta.gouv.fr/) accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que simplifier l’[accès aux démarches administratives](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html), [mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html), ou encore [lutter contre l’auto-solisme](https://beta.gouv.fr/startups/preuve-de-covoiturage.html). 
 
