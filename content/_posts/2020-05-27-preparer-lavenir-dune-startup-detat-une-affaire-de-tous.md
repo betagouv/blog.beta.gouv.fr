@@ -68,14 +68,14 @@ Ceci a aidé à :
 
 La DINUM a fait un investissement sur la phase de consolidation. La Startup d’État souhaite de tout cœur que son produit soit pérennisé et le sponsor lui aussi souhaite voir réussir son produit. Tous les ingrédients sont présents pour réussir.
 
-Alors pourquoi la phase de consolidation est aussi crainte par les uns et les autres ? Un mardi nous préparions un call avec Ishan (co-animateur de beta.gouv.fr) et le sponsor pour plus tard dans la semaine, je n’avais entendu que des hypothèses de possible échec pour la consolidation transport.data.gouv.fr et nous voulions changer la donne.
+Il est donc important de remettre la motivation au centre de la démarche pour la SE et le sponsor également. Démarrer du bon pied pour co-construire ensemble la vision d'avenir.
 
-C’est donc à ce moment que nous avons compris à quel point ses premiers pas de la consolidation étaient importants, et nous avons décidé de centrer cet appel sur les points suivants :
+C’est donc à ce moment que nous avons compris à quel point ses premiers pas de la consolidation étaient importants, et nous avons décidé de démarrer avec les points suivants :
 
-* Dynamiser la relation avec le sponsor. Remettre la motivation au centre avant le démarrage de la consolidation, échanger sur les souhaits, les attentes et même les rêves pour le service.
+* Dynamiser les relations: remettre la motivation au centre avant le démarrage de la consolidation, échanger sur les souhaits, les attentes et même les rêves pour le service.
 * Célébrer et réveiller la mémoire: rappel de momentums de réussite (rappel d’un événement avec le ministre) Parler d’une future célébration, aller chercher le picto feu.
 
-Ce renouvellement d'engagement de la part du sponsor à joué très favorablement sur l’engagement de l’équipe de la Startup d'État par conséquence.
+L'expression renouvelée de cet engagement a joué un rôle important pour le début de cette phase de consolidation.
 
 3/ Aide à la prise de décision :
 
@@ -89,7 +89,6 @@ Ce qui a marché :
 
 * Une [note ](https://docs.google.com/document/d/1T0bnr_P6orOMzwCcNujzUH6TD-3XuNfgciki0Wsmdvo/edit)claire récapitulative rédigée par Ishan composée du passé, du contexte, des jalons futurs et une explication du dossier et du contenu des tableaux dans le dossier clairs et succinct.
 * Le sponsor a les informations en main pour faire son choix, avec de critères qui permettent de comparer les repreneurs de manière neutre, ça lui permet de se concentrer sur les bonnes questions et de prendre du plaisir à explorer les différentes possibilités.
-* Le sponsor nous a clairement communiqué son souhait de vouloir faire le meilleur choix pour le service et son équipe
 
 4/ Les étapes suivantes : 
 
