@@ -52,6 +52,8 @@ De ne pas être assez autonomes et donc de s’enfermer dans les processus tradi
 
 Nous avons réussi à maintenir cette autonomie de moyens (outils informatiques et techniques, recrutement, allocation du budget, gouvernance, stratégie), uniquement jusqu’à un certain point. Nous avons dû faire face à des résistances internes et c’est normal. Il est difficile pour l’administration d’accorder toute confiance à une équipe installée comme un “électron libre” et de la maintenir tout au long du projet. C’est un vrai défi et le prix à payer pour rendre l’innovation possible.
 
+![](/img/posts/equipe-andi.jpg "L'équipe de la Startup d'Etat ANDi - crédit photo : talenteo.fr")
+
 ## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
 Les frilosités internes et l’acculturation difficile à l’innovation qu’il a fallu dépasser. Nous avons perdu trop de temps dans des tractations pour lever certaines inquiétudes, et cela a ralenti le développement du service. Malgré tout, nous avons sorti un service fonctionnel, aujourd’hui pérennisé au sein de la plateforme[ Mon Parcours Handicap](https://www.monparcourshandicap.gouv.fr/), créé de l’émulation au sein d’un réseau important de personnes en situation de handicap, de partenaires institutionnels et d’employeurs.
