@@ -22,6 +22,8 @@ Depuis plus d'un an, elle vit une aventure intrapreneuriale au sein de l'incubat
 
 Nous lui avons demandé de nous en dire plus sur ce moment particulier de sa carrière.
 
+![](/img/posts/gaelle-toledano.jpg "Gaëlle Toledano, intrapreneuse")
+
 ## Tu faisais quoi avant d’être intrapreneuse ?
 
 Je suis passionnée par les politiques sociales et culturelles. En sortant de Sciences Po, j’ai intégré le Fonds pour l’insertion des personnes handicapées dans la fonction publique (FIPHFP), géré par la Caisse des Dépôts (CDC). Je coordonnais les travaux de recherche et les publications du conseil scientifique. J’ai ensuite rejoint le service communication de la CDC, comme rédactrice sur les sujets retraite, handicap et politiques sociales.
