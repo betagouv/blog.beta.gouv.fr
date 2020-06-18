@@ -22,9 +22,9 @@ Depuis plus d'un an, elle vit une aventure intrapreneuriale au sein de l'incubat
 
 Nous lui avons demandé de nous en dire plus sur ce moment particulier de sa carrière.
 
-![](/img/posts/gaelle-toledano.jpg "Gaëlle Toledano, intrapreneuse")
+![](/img/posts/gaelle-toledano.jpg "Gaëlle Toledano, intrapreneuse") 
 
-## Tu faisais quoi avant d’être intrapreneuse ?
+## Que faisais-tu avant d’être intrapreneuse ?
 
 Je suis passionnée par les politiques sociales et culturelles. En sortant de Sciences Po, j’ai intégré le Fonds pour l’insertion des personnes handicapées dans la fonction publique (FIPHFP), géré par la Caisse des Dépôts (CDC). Je coordonnais les travaux de recherche et les publications du conseil scientifique. J’ai ensuite rejoint le service communication de la CDC, comme rédactrice sur les sujets retraite, handicap et politiques sociales.
 
@@ -33,8 +33,6 @@ Cette expérience m’a donné envie de creuser l’innovation publique. Ma dire
 Fin 2018, une collègue m’a proposé de porter un projet singulier : créer la première startup d'État de la CDC, avec l’accompagnement de Bêta gouv. Il nous fallait construire un service pour et avec les personnes en situation de handicap. Un monde nouveau s’ouvrait à moi, celui de l’intraprenariat. C’est ainsi qu’en mai 2019 je me suis retrouvée à porter la création de la startup d'État ANDi.
 
 ![](/img/posts/andi-landpage.jpg "ANDi : Faciliter l'immersion professionnelle des personnes en situation de handicap")
-
-
 
 ## Comment tu expliquerais cette mission à “ta grand-mère” ?
 
@@ -54,8 +52,6 @@ De ne pas être assez autonomes et donc de s’enfermer dans les processus tradi
 
 Nous avons réussi à maintenir cette autonomie de moyens (outils informatiques et techniques, recrutement, allocation du budget, gouvernance, stratégie), uniquement jusqu’à un certain point. Nous avons dû faire face à des résistances internes et c’est normal. Il est difficile pour l’administration d’accorder toute confiance à une équipe installée comme un “électron libre” et de la maintenir tout au long du projet. C’est un vrai défi et le prix à payer pour rendre l’innovation possible.
 
-![](/img/posts/equipe-andi.jpg "L'équipe de la Startup d'Etat ANDi - crédit photo : talenteo.fr")
-
 ## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
 Les frilosités internes et l’acculturation difficile à l’innovation qu’il a fallu dépasser. Nous avons perdu trop de temps dans des tractations pour lever certaines inquiétudes, et cela a ralenti le développement du service. Malgré tout, nous avons sorti un service fonctionnel, aujourd’hui pérennisé au sein de la plateforme[ Mon Parcours Handicap](https://www.monparcourshandicap.gouv.fr/), créé de l’émulation au sein d’un réseau important de personnes en situation de handicap, de partenaires institutionnels et d’employeurs.
@@ -65,6 +61,8 @@ Nous pouvons êtres fiers d’avoir sensibilisé notre administration à une nou
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
 Pour ma part, il m’a fallu des capacités d’adaptation et de médiation. J’ai rencontré et interagit avec une multitude d’interlocuteurs différents. C’était passionnant et exigeant en termes de polyvalence. Dans la même semaine, je pouvais interviewer un dirigeant d’association, faire tester des maquettes à des usagers, présenter le projet à un partenaire institutionnel ou à un cabinet ministériel, discuter sécurisation des données avec notre service juridique, lancer une nouvelle fonctionnalité avec nos développeurs, animer un webinaire devant des employeurs, présenter l’avancement de notre feuille de route lors d’un comité stratégique… Il fallait adapter sans cesse le discours, le niveau de langage, étayer l’argumentation, défendre nos idées et parfois les remettre en question. J’ai aussi dû développer mes capacités de médiation. L’intra est celui qui fait le lien entre l’administration et l’incubateur Bêta gouv, entre son équipe, les métiers et la hiérarchie interne. Ces interlocuteurs ont des intérêts communs et divergents à la fois. Il faut faire preuve de diplomatie, concilier les enjeux et les approches, faire adhérer à la méthode particulière d’innovation que représente la création d’une startup d'État, tout en travaillant son articulation avec la culture de l’administration. On dit que c’est 50% du rôle de l’intra et dans mon cas cela s’est avéré vrai !
+
+![](/img/posts/equipe-andi.jpg "L'équipe de la Startup d'Etat ANDi - crédit photo : talenteo.fr")
 
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
 
