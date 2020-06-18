@@ -16,12 +16,6 @@ excerpt: >-
 
   Nous lui avons demandé de nous en dire plus sur ce moment particulier de sa carrière.
 ---
-Depuis mai 2019, Gaëlle Toledano est intrapreneuse à la [Caisse des Dépôts](https://www.caissedesdepots.fr/). Elle a lancé la [Startup d'Etat ANDi ](https://andi.beta.gouv.fr/service/)actuellement en cours de pérennisation au sein de son administration d'origine.
-
-Depuis plus d'un an, elle vit une aventure intrapreneuriale au sein de l'incubateur des services numériques de l’État membre du réseau [beta.gouv.fr](https://beta.gouv.fr/approche/).
-
-Nous lui avons demandé de nous en dire plus sur ce moment particulier de sa carrière.
-
 ![](/img/posts/gaelle-toledano.jpg "Gaëlle Toledano, intrapreneuse") 
 
 ## Que faisais-tu avant d’être intrapreneuse ?
