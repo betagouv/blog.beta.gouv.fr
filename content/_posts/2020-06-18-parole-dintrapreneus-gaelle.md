@@ -56,11 +56,12 @@ Les frilosités internes et l’acculturation difficile à l’innovation qu’i
 
 Nous pouvons êtres fiers d’avoir sensibilisé notre administration à une nouvelle méthode de conception de services au public, d’avoir suscité des envies et des réactions en interne, même si pas toujours celles que l’on attendait. C’était une première expérience pour nous tous, l’équipe les responsables hiérarchiques et les métiers. Nous avons semé une graine et elle est en train de germer, en tout cas je le constate au sein de la Direction des retraites et de la solidarité, porteuse du projet.
 
+![](/img/posts/equipe-andi.jpg "L'équipe de la Startup d'Etat ANDi - crédit photo : talenteo.fr")
+
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
 Pour ma part, il m’a fallu des capacités d’adaptation et de médiation. J’ai rencontré et interagit avec une multitude d’interlocuteurs différents. C’était passionnant et exigeant en termes de polyvalence. Dans la même semaine, je pouvais interviewer un dirigeant d’association, faire tester des maquettes à des usagers, présenter le projet à un partenaire institutionnel ou à un cabinet ministériel, discuter sécurisation des données avec notre service juridique, lancer une nouvelle fonctionnalité avec nos développeurs, animer un webinaire devant des employeurs, présenter l’avancement de notre feuille de route lors d’un comité stratégique… Il fallait adapter sans cesse le discours, le niveau de langage, étayer l’argumentation, défendre nos idées et parfois les remettre en question. J’ai aussi dû développer mes capacités de médiation. L’intra est celui qui fait le lien entre l’administration et l’incubateur Bêta gouv, entre son équipe, les métiers et la hiérarchie interne. Ces interlocuteurs ont des intérêts communs et divergents à la fois. Il faut faire preuve de diplomatie, concilier les enjeux et les approches, faire adhérer à la méthode particulière d’innovation que représente la création d’une startup d'État, tout en travaillant son articulation avec la culture de l’administration. On dit que c’est 50% du rôle de l’intra et dans mon cas cela s’est avéré vrai !
 
-![](/img/posts/equipe-andi.jpg "L'équipe de la Startup d'Etat ANDi - crédit photo : talenteo.fr")
 
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
 
