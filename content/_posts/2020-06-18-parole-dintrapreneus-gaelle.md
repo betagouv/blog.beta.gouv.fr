@@ -2,6 +2,9 @@
 layout: post
 title: "Parole d'intrapreneuse : Gaëlle Toledano de la Caisse des Dépôts"
 date: 2020-05-27T00:00:00.000Z
+authors:
+  - lery.jicquel
+  - gaelle.toledano
 categories: general
 tags: intrapreneur intrapreneuse
 excerpt: >-
