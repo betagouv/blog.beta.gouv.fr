@@ -70,7 +70,7 @@ Oui sans hésiter. Si vous cherchez du sens à vos actions et que vous vous pose
 
 Dans la carrière d’agent public, un tel saut dans l’inconnu peut faire peur. Mon conseil serait de se lancer sans se poser trop de questions. Commencer par poser ses idées, par expliquer le problème à résoudre et pourquoi. Vous êtes les plus légitimes pour en parler car vous l’observez au quotidien. Pour le reste, Bêta gouv dispose d’outils pour vous accompagner et vous aider à transformer votre questionnement en une idée, puis en un produit. Vous serez entouré par une équipe, des rituels existent pour vous organiser, la communauté regorge de compétences et d’ateliers pour vous former. Vous ne serez pas seuls dans l’aventure et vous en ressortirez grandi, quoi qu’il arrive.
 
-
+___
 
 ### *Vous êtes un agent public souhaitant lancer une Startup d’État ou de Territoires ?* 
 
