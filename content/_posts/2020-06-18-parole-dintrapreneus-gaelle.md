@@ -20,7 +20,7 @@ excerpt: >-
 
   Nous lui avons demandé de nous en dire plus sur ce moment particulier de sa carrière.
 ---
-![](/img/posts/gaelle-toledano.jpg "Gaëlle Toledano, intrapreneuse") 
+![](/img/posts/gaelle-toledano-2.png "Gaëlle Toledano")
 
 ## Que faisais-tu avant d’être intrapreneuse ?
 
