@@ -20,7 +20,6 @@ excerpt: >-
 
   Nous lui avons demandé de nous en dire plus sur ce moment particulier de sa carrière.
 ---
-
 ![](/img/posts/gaelle-toledano-2.png "Gaëlle Toledano")
 
 ## Que faisais-tu avant d’être intrapreneuse ?
@@ -63,7 +62,6 @@ Nous pouvons êtres fiers d’avoir sensibilisé notre administration à une nou
 
 Pour ma part, il m’a fallu des capacités d’adaptation et de médiation. J’ai rencontré et interagit avec une multitude d’interlocuteurs différents. C’était passionnant et exigeant en termes de polyvalence. Dans la même semaine, je pouvais interviewer un dirigeant d’association, faire tester des maquettes à des usagers, présenter le projet à un partenaire institutionnel ou à un cabinet ministériel, discuter sécurisation des données avec notre service juridique, lancer une nouvelle fonctionnalité avec nos développeurs, animer un webinaire devant des employeurs, présenter l’avancement de notre feuille de route lors d’un comité stratégique… Il fallait adapter sans cesse le discours, le niveau de langage, étayer l’argumentation, défendre nos idées et parfois les remettre en question. J’ai aussi dû développer mes capacités de médiation. L’intra est celui qui fait le lien entre l’administration et l’incubateur Bêta gouv, entre son équipe, les métiers et la hiérarchie interne. Ces interlocuteurs ont des intérêts communs et divergents à la fois. Il faut faire preuve de diplomatie, concilier les enjeux et les approches, faire adhérer à la méthode particulière d’innovation que représente la création d’une startup d'État, tout en travaillant son articulation avec la culture de l’administration. On dit que c’est 50% du rôle de l’intra et dans mon cas cela s’est avéré vrai !
 
-
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
 
 Oui sans hésiter. Si vous cherchez du sens à vos actions et que vous vous posez beaucoup de questions. Si vous voulez rejoindre une communauté dynamique et bienveillante, avec des gens qui s’en posent aussi. Si vous souhaitez acquérir une expérience de gestion de projet, si vous aimez les défis et que vous n’avez pas peur d’oser. Si vous êtes curieux et créatifs, que vous aimez imaginer, défricher un problème qui touche de nombreuses personnes, partir d’une page blanche et parfois tout recommencer. Si vous avez beaucoup d’idées, une envie de les réaliser et de les défendre, je ne peux que vous encourager à vous lancer dans l’aventure. C’est l’une de expériences les plus édifiantes que je connaisse dans la fonction publique.
@@ -71,3 +69,9 @@ Oui sans hésiter. Si vous cherchez du sens à vos actions et que vous vous pose
 ## Grace à ton expérience, quelles recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
 Dans la carrière d’agent public, un tel saut dans l’inconnu peut faire peur. Mon conseil serait de se lancer sans se poser trop de questions. Commencer par poser ses idées, par expliquer le problème à résoudre et pourquoi. Vous êtes les plus légitimes pour en parler car vous l’observez au quotidien. Pour le reste, Bêta gouv dispose d’outils pour vous accompagner et vous aider à transformer votre questionnement en une idée, puis en un produit. Vous serez entouré par une équipe, des rituels existent pour vous organiser, la communauté regorge de compétences et d’ateliers pour vous former. Vous ne serez pas seuls dans l’aventure et vous en ressortirez grandi, quoi qu’il arrive.
+
+
+
+### *Vous êtes un agent public souhaitant lancer une Startup d’État ou de Territoires ?* 
+
+*Toutes les informations utiles se trouvent [ici](https://beta.gouv.fr/).*
