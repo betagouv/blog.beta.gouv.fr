@@ -7,7 +7,7 @@ authors:
   - gaelle.toledano
 categories: general
 tags: intrapreneur intrapreneuse
-image: /img/posts/parole-intrapreneuse.jpg
+image: /img/posts/parole-intrapreneuse-1-.jpg
 excerpt: >-
   Depuis mai 2019, Gaëlle Toledano est intrapreneuse à la [Caisse des
   Dépôts](https://www.caissedesdepots.fr/). Elle a lancé la [Startup d'Etat ANDi
