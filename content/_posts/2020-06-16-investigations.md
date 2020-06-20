@@ -17,7 +17,7 @@ excerpt: >-
 
 beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que simplifier l’[accès aux démarches administratives](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html), [mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html), ou encore [développer le co-voiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html). 
 
-Pour bénéficier de cet accompagnement, signalez-nous une problématique à laquelle vous êtes confronté·e ! Un·e entrepreneur·se expérimenté·e de beta.gouv.fr, avec l’appui éventuel d’un.e designer spécialiste de l'expérience utilisateur, vous accompagnera pendant 9 semaines afin d’investiguer le problème identifié.
+Pour bénéficier de cet accompagnement, signalez-nous une problématique à laquelle vous êtes confronté·e ! Un·e entrepreneur·se expérimenté·e de beta.gouv.fr, avec l’appui éventuel d’un·e designer spécialiste de l'expérience utilisateur, vous accompagnera pendant 9 semaines afin d’investiguer le problème identifié.
 
 Au menu de cette investigation : entretiens utilisateurs, prototypage, étude de marché… Tous les ingrédients nécessaires pour préparer le développement d’un service public numérique !  Aucun problème n’est trop spécifique ou trop compliqué pour être étudié.
 
