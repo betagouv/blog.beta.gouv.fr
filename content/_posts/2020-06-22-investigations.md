@@ -21,10 +21,10 @@ Pour bénéficier de cet accompagnement, signalez-nous une problématique à laq
 
 Au menu de cette investigation : entretiens utilisateurs, prototypage, étude de marché… Tous les ingrédients nécessaires pour préparer le développement d’un service public numérique !  Aucun problème n’est trop spécifique ou trop compliqué pour être étudié.
 
-Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'investigations](https://beta.gouv.fr/approche/investigation), ou prenez simplement contact avec un membre de l’équipe beta.gouv.fr à l’adresse suivante : [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)
+Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'investigations](https://beta.gouv.fr/approche/investigation), ou prenez simplement contact avec un membre de l’équipe beta.gouv.fr à l’adresse suivante : [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
 
 ![Photo](https://blog.beta.gouv.fr/img/posts/2020_06_18_1200x675_Twitter_BETA_INVESTIGATION.jpg)
 
-> Soumettez votre problématique au cours de l’été 2020 ! Pour cela, il suffit de nous écrire un mail à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) en décrivant votre problème, et un·e membre de l’équipe reviendra vers vous pour en discuter. Nous traiterons en priorité les sollicitations reçues avant le 26 juillet.
+> Vous avez une idée de problème que vous souhaiteriez investiguer, accompagné·e des équipes beta.gouv.fr ? Envoyez-nous un mail décrivant ce problème à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous pour en discuter. Les sollicitations reçues avant le 26 juillet seront traitées en priorité.
 
 L'appel est ouvert aux administrations d'Etat (centrales et déconcentrées) et aux collectivités territoriales. Les investigations proposées par les collectivités territoriales et retenues seront financées par l'Agence Nationale de la Cohésion des Territoires (ANCT).
