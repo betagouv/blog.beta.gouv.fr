@@ -19,10 +19,10 @@ Pour bénéficier de cet accompagnement, signalez-nous une problématique à laq
 
 Au menu de cette investigation : entretiens utilisateurs, prototypage, étude de marché… Tous les ingrédients nécessaires pour préparer le développement d’un service public numérique !  Aucun problème n’est trop spécifique ou trop compliqué pour être étudié.
 
-Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'investigations](https://beta.gouv.fr/approche/investigation), inscrivez-vous pour assister à la prochaine réunion d’information ICI, ou prenez simplement contact avec un membre de l’équipe beta.gouv.fr à l’adresse suivante : [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)
+Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'investigations](https://beta.gouv.fr/approche/investigation), ou prenez simplement contact avec un membre de l’équipe beta.gouv.fr à l’adresse suivante : [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)
 
 ![Photo](https://blog.beta.gouv.fr/img/posts/2020_06_18_1200x675_Twitter_BETA_INVESTIGATION.jpg)
 
-> [Soumettez votre problématique avant le 26 juillet 2020 ! ] (mailto:investigations@beta.gouv.fr) Nous la traiterons ainsi en priorité.
+> Soumettez votre problématique avant le 26 juillet 2020 ! Nous la traiterons ainsi en priorité.
 
-Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un ou une membre de l’équipe reviendra vers vous pour en discuter ! 
+Pour cela envoyez-nous un courriel décrivant votre problème à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un ou une membre de l’équipe reviendra vers vous pour en discuter ! 
