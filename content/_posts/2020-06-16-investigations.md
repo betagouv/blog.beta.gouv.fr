@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "beta.gouv.fr se mobilise pour vous aider à résoudre les problèmes de votre administration !"
-date: 2020-06-16
+date: 2020-06-22
 authors:
   - beta.gouv
 categories: dinsic
