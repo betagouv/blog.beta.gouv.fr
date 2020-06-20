@@ -25,6 +25,6 @@ Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'in
 
 ![Photo](https://blog.beta.gouv.fr/img/posts/2020_06_18_1200x675_Twitter_BETA_INVESTIGATION.jpg)
 
-> Soumettez votre problématique au cours de l’été 2020 ! Nous traiterons en priorité les sollicitations reçues avant le 26 juillet. Pour nous envoyer votre problème, écrivez-nous à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous pour en discuter ! 
+> Soumettez votre problématique au cours de l’été 2020 ! Nous traiterons en priorité les sollicitations reçues avant le 26 juillet. Pour nous envoyer votre problème, écrivez-nous à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous ! 
 
 L'appel est ouvert aux administrations d'Etat (centrales et déconcentrées) et aux collectivités territoriales. Les investigations proposées par les collectivités territoriales et retenues seront financées par l'Agence Nationale de la Cohésion des Territoires (ANCT).
