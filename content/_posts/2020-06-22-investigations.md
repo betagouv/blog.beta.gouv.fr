@@ -2,10 +2,6 @@
 layout: post
 title: "beta.gouv.fr se mobilise pour vous aider à résoudre vos problèmes de politiques publiques !"
 date: 2020-06-22
-authors:
-  - beatrice.mercier
-  - ines.hijazi
-  - antoine.michon
 categories: dinsic
 image: /img/posts/investig-blog-beta.jpg
 excerpt: >-
