@@ -27,4 +27,4 @@ Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'in
 
 > Vous avez une idée de problème que vous souhaiteriez investiguer, accompagné·e des équipes beta.gouv.fr ? Envoyez-nous un mail décrivant ce problème à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous pour en discuter. Les sollicitations reçues avant le 26 juillet seront traitées en priorité.
 
-L'appel est ouvert aux administrations d'Etat (centrales et déconcentrées) et aux collectivités territoriales. L'Agence Nationale de la Cohésion des Territoires (ANCT) pourra prendre en charge les investigations proposées par les collectivités.
+L'appel est ouvert aux administrations d'Etat (centrales et déconcentrées) et aux collectivités territoriales. L'Agence Nationale de la Cohésion des Territoires (ANCT) pourra prendre en charge les investigations proposées par les collectivités, si le problème est retenu pour investigation.
