@@ -72,6 +72,6 @@ Dans la carrière d’agent public, un tel saut dans l’inconnu peut faire peur
 
 - - -
 
-### *Vous êtes un agent public souhaitant lancer une Startup d’État ou de Territoires ?*
+#### *Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?*
 
-*[Répondez à l'appel à participation. Toutes les informations utiles se trouvent ici.](https://blog.beta.gouv.fr/dinsic/2020/06/22/investigations/)*
+*Nous pouvons vous aider. Répondez à l'appel à participation. Toutes les informations utiles se trouvent [ici.](https://blog.beta.gouv.fr/dinsic/2020/06/22/investigations/)*
