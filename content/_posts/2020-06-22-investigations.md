@@ -5,7 +5,7 @@ date: 2020-06-22
 categories: dinsic
 image: /img/posts/investig-blog-beta.jpg
 excerpt: >-
-  Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?
+  Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent que vous observez, lié ou non à la crise actuelle ?
   
 ---
 
@@ -21,6 +21,6 @@ Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'in
 
 ![Photo](https://blog.beta.gouv.fr/img/posts/2020_06_18_1200x675_Twitter_BETA_INVESTIGATION.jpg)
 
-> Vous avez une idée de problème que vous souhaiteriez investiguer, accompagné·e des équipes beta.gouv.fr ? Envoyez-nous un mail décrivant ce problème à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous pour en discuter. Les sollicitations reçues avant le 26 juillet seront traitées en priorité.
+> Vous avez une idée de problème que vous souhaiteriez investiguer avec l'aide des équipes beta.gouv.fr ? Envoyez-nous un mail décrivant ce problème à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous pour en discuter. Les sollicitations reçues avant le 26 juillet seront traitées en priorité.
 
 Cet appel est ouvert aux administrations d'Etat (centrales et déconcentrées) et aux collectivités territoriales. L'Agence Nationale de la Cohésion des Territoires (ANCT) pourra prendre en charge les investigations proposées par les collectivités.
