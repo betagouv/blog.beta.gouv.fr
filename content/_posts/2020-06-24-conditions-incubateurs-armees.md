@@ -12,7 +12,7 @@ excerpt: >-
 
 ---
 
-## Leçons à tirer
+## Leçons apprises
 
 Respecter ces conditions ne garantit pas le succès, mais passer outre entraîne souvent un échec. Voici ces trois conditions :
 
