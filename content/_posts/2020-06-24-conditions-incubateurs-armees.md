@@ -6,7 +6,7 @@ categories: fabnumdef
 authors:
   - frederic.bardolle
 tags: [Incubateur, Innovation, Administration, Lean startup, Autonomie, Skin in the game, Préincubation]
-image: /img/posts/2020-06-24-conditions-incubateurs-armées.jpg
+image: /img/posts/2020-06-24-conditions-incubateurs-armees.jpg
 excerpt: >-
   Après bientôt deux ans à lancer de nouveaux services numériques au ministère des Armées, nous avons beaucoup appris. À force de voir les mêmes problèmes surgir, nous imposons par exemple désormais trois conditions à chaque nouvelle startup d’État.
 
