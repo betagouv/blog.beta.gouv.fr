@@ -12,6 +12,8 @@ excerpt: >-
 
 ---
 
+## Leçons à tirer
+
 Respecter ces conditions ne garantit pas le succès, mais passer outre entraîne souvent un échec. Voici ces trois conditions :
 
 **1/ Il faut un intrapreneur qui consacre au moins 20 % de son temps à la startup d’État.**
@@ -27,6 +29,8 @@ La méthode que nous appliquons excelle dans l’incertitude. Cette méthode se 
 **3/ Il faut un sponsor de haut niveau qui accorde de l’autonomie à l’équipe.**
 
 Si chaque décision doit être validée par un comité de pilotage, il est impossible de sortir un produit en moins de six mois. Une startup d’État doit être autonome. Autonome ne signifie pas que personne ne rend compte. Cela veut seulement dire que l’équipe a une mission claire sur laquelle elle est jugée, mais qu’elle a le droit de prendre seule des décisions lui permettant d’atteindre ses objectifs. Il faut donc une personne suffisamment haut placée dans l’administration pour accorder sa confiance à l’équipe et la protéger des lourdeurs bureaucratiques.
+
+## Amélioration continue
 
 Ces trois conditions ont le mérite d’être simples et faciles à vérifier. Il en existe sûrement beaucoup d’autres que nous n’avons pas identifiées ou qui s’applique à d’autres contextes. Grâce à elles, nous avons lancé plusieurs services numériques avec succès. Mais rien n’est jamais parfait et voici quelques-uns des aspects que nous pourrions améliorer :
 
