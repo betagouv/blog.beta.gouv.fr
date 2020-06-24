@@ -8,11 +8,11 @@ authors:
 tags: [Incubateur, Innovation, Administration, Lean startup, Autonomie, Skin in the game, Préincubation]
 image: /img/posts/2020-06-24-conditions-incubateurs-armees.jpg
 excerpt: >-
-  Après bientôt deux ans à lancer de nouveaux services numériques au ministère des Armées, nous avons beaucoup appris. À force de voir les mêmes problèmes surgir, nous imposons par exemple désormais trois conditions à chaque nouvelle startup d’État.
+  Après bientôt deux ans à lancer de nouveaux services numériques au [ministère des Armées](https://beta.gouv.fr/approche/incubateurs/fabnumdef.html), nous avons beaucoup appris. À force de voir les mêmes problèmes surgir, nous imposons par exemple désormais trois conditions à chaque nouvelle [startup d’État](https://beta.gouv.fr/incubateurs/) que nous incubons.
 
 ---
 
-Après bientôt deux ans à lancer de nouveaux services numériques au [ministère des Armées](https://beta.gouv.fr/approche/incubateurs/fabnumdef.html), nous avons beaucoup appris. À force de voir les mêmes problèmes surgir, nous imposons par exemple désormais trois conditions à chaque nouvelle [startup d’État](https://beta.gouv.fr/incubateurs/) que nous incubons. Respecter ces conditions ne garantit pas le succès, mais passer outre entraîne souvent un échec. Voici ces trois conditions :
+Respecter ces conditions ne garantit pas le succès, mais passer outre entraîne souvent un échec. Voici ces trois conditions :
 
 **1/ Il faut un intrapreneur qui consacre au moins 20 % de son temps à la startup d’État.**
 
