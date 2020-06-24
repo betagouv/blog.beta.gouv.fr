@@ -20,7 +20,7 @@ Respecter ces conditions ne garantit pas le succès, mais passer outre entraîne
 
 Cela peut paraître étonnant, mais c’est souvent le point le plus bloquant. Il est en effet facile d’avoir une bonne idée, mais la concrétiser est un travail difficile. Dans les startups d’État, il faut trouver ses premiers utilisateurs en moins de six mois. Il faut donc un intrapreneur disponible, impliqué, qui connaisse son métier et qui veuille vraiment résoudre un irritant. Les projets où il n’y a pas de porteur clairement identifié, ou bien un porteur « désigné volontaire » ont tendance à patauger et à nous épuiser.
 
-(NB : [l'incubateur de la DINUM](https://beta.gouv.fr/approche/incubateurs/dinum.html) demande que les agents soient à 100 % mais c'est impossible chez nous).
+(NB : [l'incubateur de la DINUM](https://beta.gouv.fr/approche/incubateurs/dinum.html) recommande que les agents soient à 100 % mais c'est impossible chez nous).
 
 **2/ Il faut un problème identifié plutôt qu’un cahier des charges.**
 
