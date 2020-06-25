@@ -55,7 +55,3 @@ Dans mon cas, la clé a été de rester focalisée sur l’objectif à tout inst
 Je crois que la question ne se pose en pratique jamais car l’agent public qui est réellement frustré / résigné / en colère vis-à-vis d’un problème de politique publique majeur, à qui l’on donne l’opportunité d’agir, foncera.
 
 Si toutefois une once d’hésitation subsiste, je dirais justement : foncez ! C’est une aventure passionnante et formatrice.
-
-## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
-
-xxx
