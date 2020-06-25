@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paroles d'intrapreneuse : Mélodie Dahi du Secrétariat général du Gouvernement"
-date: 2020-06-25
+date: 2020-06-25T00:00:00.000Z
 authors:
   - melodie.dahi
   - lery.jicquel
@@ -9,7 +9,7 @@ categories: dinsic
 excerpt: >-
   De mars 2018 à décembre 2019, Mélodie Dahi était intrapreneuse au Secrétariat
   général du Gouvernement. Elle a lancé la [Startup d’Etat
-  ZAM](https://andi.beta.gouv.fr/service/) aujourd'hui transféré au sein
+  ZAM](https://beta.gouv.fr/startups/zam.html) aujourd'hui transféré au sein
   d  exxx.
 
 
