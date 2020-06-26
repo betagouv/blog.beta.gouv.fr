@@ -31,7 +31,7 @@ excerpt: >-
 
 J’ai travaillé à la Caisse nationale d’assurance vieillesse, dans l’équipe qui était chargée de créer une toute nouvelle activité dans l’institution (en l’occurrence, le compte pénibilité), puis j’ai rejoint le ministère des solidarités et de la santé dans une équipe de coordination.
 
-Quand j’y pense, ces 2 expériences m’ont chacune préparée à la suite : la première m’a permis de me confronter à la problématique de la conduite du changement ; la seconde m’a mise dans une situation d’intermédiaire entre interlocuteurs et de garante du respect des échéances. Si on consolide tout cela, j’étais un embryon d’intra !
+Quand j’y pense, ces 2 expériences m’ont chacune préparée à la suite. La première m’a permis de me confronter à la problématique de la conduite du changement. La seconde m’a mise dans une situation, d’intermédiaire entre interlocuteurs, et de garante du respect des échéances. Si on consolide tout cela, j’étais déjà un embryon d’intra !
 
 ## Comment expliquerais-tu cette mission à “ta grand-mère” ?
 
@@ -39,7 +39,19 @@ C’est comme être capitaine d’une équipe de foot : la capitaine a une posit
 
 Dans mon cas d’intrapreneuse, l’objectif n’est pas de marquer un but mais de créer un service numérique utile pour les citoyens et/ou l’administration.
 
-Très concrètement, cela veut dire faire tout ce que je peux et qu’il faut pour servir cet objectif : décortiquer le problème que l’on veut régler, faire régulièrement des tests de l’outil pour voir si ça marche bien comme on veut, en faire la démonstration auprès de tous ceux que cela peut intéresser/concerner, chercher des soutiens (financiers ou intellectuels), trancher sur ce qu’il faut prioriser comme développement, assurer l’intermédiaire entre l’équipe technique et les utilisateurs de l’outil...
+Très concrètement, cela veut dire faire tout ce que je peux et qu’il faut pour servir cet objectif : 
+
+\- décortiquer le problème que l’on veut régler, 
+
+\- faire régulièrement des tests de l’outil pour voir si ça marche bien comme on veut, 
+
+\- en faire la démonstration auprès de tous ceux que cela peut intéresser/concerner,
+
+\- chercher des soutiens (financiers ou intellectuels), 
+
+\- trancher sur ce qu’il faut prioriser comme développement, 
+
+\- assurer l’intermédiaire entre l’équipe technique et les utilisateurs de l’outil...
 
 ## Quel conseil t’as manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
 
@@ -53,13 +65,13 @@ L’absence de premiers testeurs, sans aucun doute. Zam a pris une ampleur vraim
 
 ## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
-La manière dont Zam a été transmis à l’administration en vue de sa généralisation a été un échec, parce qu’au delà de la transmission technique, nous n’avons pas réussi à transmettre notre façon de gérer un produit et le faire vivre. J’en suis cependant très fière, d’abord parce que la généralisation reste une belle réussite en soi pour Zam et ensuite parce qu’avec mon équipe nous avons vraiment fait notre maximum pour nous adapter, collaborer et conseiller, et j’aime croire que même si c’était raté, cette expérience a au moins l’intérêt d’avoir créé un précédent et ouvert la voie pour que les prochains puissent faire mieux !
+La manière dont Zam a été transmis à l’administration en vue de sa généralisation a été un échec, parce qu’au delà de la transmission technique, nous n’avons pas réussi à transmettre notre façon de gérer un produit et le faire vivre. J’en suis cependant très fière. D’abord parce que la généralisation reste une belle réussite en soi pour Zam. Ensuite parce qu’avec mon équipe nous avons vraiment fait notre maximum pour nous adapter, collaborer et conseiller, et j’aime croire que même si c’était raté, cette expérience a au moins l’intérêt d’avoir créé un précédent et ouvert la voie pour que les prochains puissent faire mieux !
 
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
 Dans mon cas, la clé a été de rester focalisée sur l’objectif à tout instant. Je voulais qu’on crée un bon outil : c’est-à-dire que chacune de ses fonctionnalités réponde vraiment à un problème rencontré par ses utilisateurs et qu’il soit facile à prendre en main. Malgré les différents obstacles, les influences, les changements de contexte, rien ne m’a détournée de cet objectif et toutes mes actions étaient guidées uniquement par cette volonté.
 
-## Tu recommanderais à un agent public de se lancer dans l’intrapreunariat ?
+## Tecommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
 
 Je crois que la question ne se pose en pratique jamais car l’agent public qui est réellement frustré / résigné / en colère vis-à-vis d’un problème de politique publique majeur, à qui l’on donne l’opportunité d’agir, foncera.
 
