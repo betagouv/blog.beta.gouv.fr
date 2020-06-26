@@ -52,6 +52,7 @@ Très concrètement, cela veut dire faire tout ce que je peux et qu’il faut po
 
 \- assurer l’intermédiaire entre l’équipe technique et les utilisateurs de l’outil...
 
+
 ![](/img/posts/zam.png "Capture d'écran du service numérique ZAM")
 
 *Pour en savoir plus sur [ZAM](https://blog.beta.gouv.fr/dinsic/2019/01/18/zam-simplifier-les-reponses-aux-amendements/)*.
