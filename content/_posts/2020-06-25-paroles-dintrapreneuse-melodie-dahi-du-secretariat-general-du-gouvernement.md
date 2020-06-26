@@ -24,6 +24,7 @@ excerpt: >-
 
   Nous lui avons demandé de nous raconter son expérience.
 ---
+
 ## Que faisais-tu avant d’être intrapreneuse ?
 
 J’ai travaillé à la Caisse nationale d’assurance vieillesse, dans l’équipe qui était chargée de créer une toute nouvelle activité dans l’institution (en l’occurrence, le compte pénibilité), puis j’ai rejoint le ministère des solidarités et de la santé dans une équipe de coordination.
