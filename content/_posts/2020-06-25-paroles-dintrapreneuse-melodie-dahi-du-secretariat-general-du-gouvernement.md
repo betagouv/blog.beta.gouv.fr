@@ -2,7 +2,7 @@
 layout: post
 title: "Paroles d'intrapreneuse #2 : Mélodie Dahi du Secrétariat général du
   Gouvernement"
-date: 2020-07-01
+date: 2020-06-26
 authors:
   - melodie.drahi
   - lery.jicquel
