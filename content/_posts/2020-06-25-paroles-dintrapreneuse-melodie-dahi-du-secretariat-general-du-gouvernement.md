@@ -2,11 +2,12 @@
 layout: post
 title: "Paroles d'intrapreneuse #2 : Mélodie Dahi du Secrétariat général du
   Gouvernement"
-date: 2020-06-25T00:00:00.000Z
+date: 2020-07-01
 authors:
-  - melodie.dahi
+  - melodie.drahi
   - lery.jicquel
 categories: dinsic
+image: /img/posts/parole-intrapreneuse.png
 excerpt: >-
   De mars 2018 à décembre 2019, Mélodie Dahi était intrapreneuse au[ Secrétariat
   général du
