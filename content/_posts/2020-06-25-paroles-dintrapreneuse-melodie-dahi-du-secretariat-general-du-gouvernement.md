@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Paroles d'intrapreneuse #2 : Mélodie Dahi du ministère des solidarités
-  et de la santé"
+title: "Paroles d'intrapreneuse #2 : Mélodie Dahi de la Startup d'Etat Zam"
 date: 2020-06-26
 authors:
   - melodie.dahi
