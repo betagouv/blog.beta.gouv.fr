@@ -53,6 +53,10 @@ Très concrètement, cela veut dire faire tout ce que je peux et qu’il faut po
 
 \- assurer l’intermédiaire entre l’équipe technique et les utilisateurs de l’outil...
 
+![](/img/posts/zam.png "Capture d'écran du service numérique ZAM")
+
+*Pour en savoir plus sur [ZAM](https://blog.beta.gouv.fr/dinsic/2019/01/18/zam-simplifier-les-reponses-aux-amendements/)*.
+
 ## Quel conseil t’as manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
 
 Je ne m’attendais pas à vivre une vraie expérience entrepreneuriale. Quand je suis devenue intrapreneuse, mon quotidien n’a en pratique que peu changé : j’allais travailler au même endroit, j’avais les mêmes supérieur.e.s hiérarchiques, j’utilisais le même ordinateur. Et pourtant, du jour au lendemain je me suis retrouvée, comme toute cheffe d’entreprise à pitcher, convaincre, décevoir, filouter, me battre, enthousiasmer…
@@ -67,12 +71,20 @@ L’absence de premiers testeurs, sans aucun doute. Zam a pris une ampleur vraim
 
 La manière dont Zam a été transmis à l’administration en vue de sa généralisation a été un échec, parce qu’au delà de la transmission technique, nous n’avons pas réussi à transmettre notre façon de gérer un produit et le faire vivre. J’en suis cependant très fière. D’abord parce que la généralisation reste une belle réussite en soi pour Zam. Ensuite parce qu’avec mon équipe nous avons vraiment fait notre maximum pour nous adapter, collaborer et conseiller, et j’aime croire que même si c’était raté, cette expérience a au moins l’intérêt d’avoir créé un précédent et ouvert la voie pour que les prochains puissent faire mieux !
 
+![](/img/posts/2019-01-18-zam-equipe.jpg "L'équipe de la Startup d'Etat Zam")
+
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
 Dans mon cas, la clé a été de rester focalisée sur l’objectif à tout instant. Je voulais qu’on crée un bon outil : c’est-à-dire que chacune de ses fonctionnalités réponde vraiment à un problème rencontré par ses utilisateurs et qu’il soit facile à prendre en main. Malgré les différents obstacles, les influences, les changements de contexte, rien ne m’a détournée de cet objectif et toutes mes actions étaient guidées uniquement par cette volonté.
 
-## Tecommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
+## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
 
 Je crois que la question ne se pose en pratique jamais car l’agent public qui est réellement frustré / résigné / en colère vis-à-vis d’un problème de politique publique majeur, à qui l’on donne l’opportunité d’agir, foncera.
 
 Si toutefois une once d’hésitation subsiste, je dirais justement : foncez ! C’est une aventure passionnante et formatrice.
+
+- - -
+
+#### *Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?*
+
+*Nous pouvons vous aider. Répondez à l’appel à participation. Toutes les informations utiles se trouvent [ici.](https://blog.beta.gouv.fr/dinsic/2020/06/22/investigations/)*
