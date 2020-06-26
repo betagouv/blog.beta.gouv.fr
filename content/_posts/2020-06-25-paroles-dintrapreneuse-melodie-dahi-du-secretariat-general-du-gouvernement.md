@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Paroles d'intrapreneuse #2 : Mélodie Dahi du Secrétariat général du
-  Gouvernement"
+title: "Paroles d'intrapreneuse #2 : Mélodie Dahi de la Startup d'Etat Zam"
 date: 2020-06-26
 authors:
   - melodie.dahi
