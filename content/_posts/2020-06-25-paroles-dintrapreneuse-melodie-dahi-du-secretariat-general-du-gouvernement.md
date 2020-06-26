@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Paroles d'intrapreneuse #2 : Mélodie Dahi de la Startup d'Etat Zam"
-date: 2020-06-26
+title: "Paroles d'intrapreneuses #2 : Mélodie Dahi de la Startup d'Etat Zam"
+date: 2020-06-26T00:00:00.000Z
 authors:
   - melodie.dahi
   - lery.jicquel
 categories: dinsic
-image: /img/posts/parole-intrapreneuse.png
+image: /img/posts/parole-intrapreneuse-1-.png
 excerpt: >-
   De mars 2018 à avril 2020, Mélodie Dahi était intrapreneuse au[ Secrétariat
   général du
