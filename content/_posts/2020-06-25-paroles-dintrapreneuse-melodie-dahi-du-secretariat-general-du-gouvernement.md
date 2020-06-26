@@ -4,7 +4,7 @@ title: "Paroles d'intrapreneuse #2 : Mélodie Dahi du Secrétariat général du
   Gouvernement"
 date: 2020-06-26
 authors:
-  - melodie.drahi
+  - melodie.dahi
   - lery.jicquel
 categories: dinsic
 image: /img/posts/parole-intrapreneuse.png
