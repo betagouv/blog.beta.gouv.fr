@@ -14,18 +14,10 @@ excerpt: >-
   Gouvernement](https://www.gouvernement.fr/secretariat-general-du-gouvernement-sgg).
   Elle a lancé la [Startup d’État ZAM](<De mars 2018 à décembre 2019, Mélodie
   Dahi était intrapreneuse au Secrétariat général du Gouvernement. Elle a lancé
-  la Startup d’État ZAM aujourd'hui transféré au sein d  exxx.  Durant près de
-  deux ans, elle a vécu une aventure intrapreneuriale au sein de l’incubateur
-  des services numériques de l’État membre du réseau
-  [beta.gouv.fr](https://beta.gouv.fr/approche/).  Nous lui avons demandé de
-  nous en dire plus sur ce moment particulier de sa carrière.>) aujourd'hui
-  transféré au sein d  exxx.
+  la Startup d’État ZAM aujourd'hui transféré au sein d  exxx.  
 
 
   Durant près de deux ans, elle a vécu une aventure intrapreneuriale au sein de l’incubateur des services numériques de l’État membre du réseau [beta.gouv.fr](https://beta.gouv.fr/approche/).
-
-
-  Nous lui avons demandé de nous en dire plus sur ce moment particulier de sa carrière.
 ---
 ## Que faisais-tu avant d’être intrapreneuse ?
 
