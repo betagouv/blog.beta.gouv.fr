@@ -18,6 +18,9 @@ excerpt: >-
 
 
   Durant près de deux ans, elle a vécu une aventure intrapreneuriale au sein de l’incubateur des services numériques de l’État membre du réseau [beta.gouv.fr](https://beta.gouv.fr/approche/).
+
+
+  Nous lui avons demandé de nous raconter son expérience.
 ---
 ## Que faisais-tu avant d’être intrapreneuse ?
 
