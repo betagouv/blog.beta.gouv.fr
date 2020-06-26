@@ -11,11 +11,9 @@ excerpt: >-
   De mars 2018 à avril 2020, Mélodie Dahi était intrapreneuse au[ Secrétariat
   général du
   Gouvernement](https://www.gouvernement.fr/secretariat-general-du-gouvernement-sgg).
-  Elle a lancé la [Startup d’État ZAM](<De mars 2018 à décembre 2019, Mélodie
-  Dahi était intrapreneuse au Secrétariat général du Gouvernement. Elle a lancé
-  la Startup d’État ZAM aujourd'hui transférée au sein de la [Direction de
-  l'information légale et administrative
-  (DILA)](https://www.dila.premier-ministre.gouv.fr/).  
+  Elle a lancé la [Startup d’État ZAM](https://beta.gouv.fr/startups/zam.html)
+  aujourd'hui transférée au sein de la [Direction de l'information légale et
+  administrative (DILA)](https://www.dila.premier-ministre.gouv.fr/).  
 
 
   Durant près de deux ans, elle a vécu une aventure intrapreneuriale au sein de l’incubateur des services numériques de l’État membre du réseau [beta.gouv.fr](https://beta.gouv.fr/approche/).
