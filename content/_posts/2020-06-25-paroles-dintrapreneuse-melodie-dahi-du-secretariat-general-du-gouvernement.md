@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paroles d'intrapreneuses #2 : Mélodie Dahi de la Startup d'Etat Zam"
-date: 2020-06-26T00:00:00.000Z
+date: 2020-07-01
 authors:
   - melodie.dahi
   - lery.jicquel
