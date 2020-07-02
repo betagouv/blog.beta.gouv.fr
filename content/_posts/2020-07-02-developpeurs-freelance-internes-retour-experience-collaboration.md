@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Développeurs freelance et internes : retour d'expérience pour une collaboration efficace"
-date: 2020-06-24
+date: 2020-07-02
 categories: fabnumdef
 authors:
   - romain.perroud
 tags: [Retex, Développement]
+image: https://images.unsplash.com/photo-1513346940221-6f673d962e97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 excerpt: >-
   À la Fabrique numérique, nous avons deux missions principales :
-  
-  1. Réaliser nous-mêmes les meilleurs services et produits numériques possibles ;
-  2. Aider les autres à faire de même.
+  réaliser nous-mêmes les meilleurs services et produits numériques & aider les autres à faire de même.
 
 ---
 
@@ -52,11 +51,12 @@ Finalement, peu de cérémonies et de routines ont été mises en place. Il est 
 * Limitation de la confiance entre les membres qui ne se parlent pas librement de ce qui ne va pas ;
 * Finalement les problèmes sont redescendus par la hiérarchie des CDAD de façon assez inattendue, nuisant ainsi à l'autonomie de l'équipe.
 
+
+## À quelque chose malheur est bon
 Ces trois erreurs ont eu des conséquences directes sur l'équipe du projet :
 1. Pour les développeurs du CDAD, un sentiment d'exclusion. Ceux-ci se sont sentis dépossédé du produit sur lequel ils travaillaient et ont eu l'impression de travailler « pour nous » et non pas « avec nous » ;
 2. Pour les _freelances_, le sentiment de devoir travailler avec une partie de l'équipe qui les ralentis et les empêchent de délivrer aussi vite et fréquemment qu'ils le souhaiteraient.
 
-## A quelque chose malheur est bon
 Clairement le projet en a pâtit. Si dans les derniers mois nous avons pu redresser la barre, nous n'avons jamais totalement trouvé la fluidité et l'aisance qui font la réussite d'une équipe. Mais cette expérience nous a permis de grandir et d'apprendre sur ce qu'il faut et ne faut pas faire.
 
 Les projets avec d'autres CDAD qui ont suivi nous ont permis de mettre en application ces enseignements. Désormais trois principaux préceptes sont respectés :
