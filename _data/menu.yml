@@ -22,6 +22,9 @@ nav:
     -
       label: Incubateur des Affaires Sociales
       target: _category/sgmas.md
+    -
+      label: Fabrique numérique Défense connect
+      target: _category/fabnumdef.md
 -
   label: Articles
   target: _category/articles.md
