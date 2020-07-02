@@ -8,6 +8,7 @@ categories: fabnumdef
 excerpt: À la Fabrique numérique, nous avons deux missions principales :
 1. Réaliser nous-mêmes les meilleurs services et produits numériques possibles ;
 2. Aider les autres à faire de même.
+
 ---
 
 Pour nos premiers produits, nous nous sommes focalisés sur la première de ces deux missions. Il s'agissait surtout de faire nos preuves et montrer notre valeur ajoutée avant d'épauler les autres.
