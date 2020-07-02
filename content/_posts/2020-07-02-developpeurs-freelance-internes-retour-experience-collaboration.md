@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Développeurs _freelance_ et internes : retour d'expérience pour une collaboration efficace"
-date: 2020-07-02
+title: "Développeurs freelance et internes : retour d'expérience pour une collaboration efficace"
+date: 2020-06-24
+categories: fabnumdef
 authors:
   - romain.perroud
-categories: fabnumdef
-excerpt: À la Fabrique numérique, nous avons deux missions principales :
-1. Réaliser nous-mêmes les meilleurs services et produits numériques possibles ;
-2. Aider les autres à faire de même.
+tags: [Retex, Développement]
+excerpt: >-
+  À la Fabrique numérique, nous avons deux missions principales :
+  
+  1. Réaliser nous-mêmes les meilleurs services et produits numériques possibles ;
+  2. Aider les autres à faire de même.
 
 ---
 
