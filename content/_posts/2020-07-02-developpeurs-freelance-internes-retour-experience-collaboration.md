@@ -27,23 +27,24 @@ Qu'à cela ne tienne ! Nous apprenons de nos échanges et de nos expériences et
 
 Sans prétendre devenir un guide, cet article vise à mettre en lumière nos erreurs passées et les bonnes pratiques que nous utilisons aujourd'hui à la Fabrique numérique lorsqu'il s'agit de travailler de concert avec une autre DSI.
 
+## Nos trois erreurs
 Le premier constat que nous avons pu faire est que nos trois principales erreurs ont été commises assez tôt dans le projet, nous empêchant de poser des bases solides pour la suite.
 
-## Choix de la _stack_ non consensuel.
+### Erreur n°1 : choix de la _stack_ non consensuel
 Déjà, le choix de la stack technique n'a pas été consensuel. À la Fabrique numérique nous avons pour habitude de laisser libre le choix des langages pour nos développeurs _freelance_. Le problème ici est que les CDAD sont contraints sur certaines technologies. Cette décision non concertée à générer quatre problèmes :
 - Impossibilité de reprise du projet pour le CDAD (et donc problématique de l'atterrissage post-incubation du produit) ;
 - CDAD et _freelance_ ont travaillé sur des parties très différentes du projet avec peu de communication et peu ou pas de revue de code ;
 - Cela a conduit au développement de choses en double, pas toujours compatibles et peu pertinentes (qu'il a fallu parfois refaire) ;
 - L'impression d'avoir deux projets dans le projet.
 
-## Insuffisance de temps de travail avec toute l'équipe en présentielle.
+### Erreur n°2 : insuffisance de temps de travail avec toute l'équipe en présentielle
 Ensuite, nous n'avons pas suffisamment pris en compte le risque d'avoir des membres de l'équipe à distance : d'un côté ceux du CDAD, de l'autre ceux de la Fabrique numérique. Le travail à distance n'est généralement pas un problème quand tout le monde est aligné, transparent et avec un niveau de connaissance assez proche. Mais ici, en plus du décalage technique nous avions également un fossé géographique. Notre erreur a été de ne pas suffisamment réunir l'équipe, au moins au tout début du projet, afin de comprendre le contexte et l'environnement professionnels de chacun, et instaurer ainsi une plus grande confiance et synergie entre les membres de l'équipe. Par conséquent, nous avons dû faire face à :
 * Un manque de méthode homogène ;
 * Un manque de communication ;
 * Un manque d'empathie sur les situations de chacun ;
 * Des incompréhensions sur les délais et la qualité attendus, et finalement livrées.
 
-## Insuffisance de routines et cérémonies
+### Erreur n°3 : insuffisance de routines et cérémonies
 Finalement, peu de cérémonies et de routines ont été mises en place. Il est parfois compliqué de suivre à la lettre les cérémonie « scrum » ou agile surtout quand il s'agit de travailler avec des _freelances_ qui ne sont pas particulièrement adeptes de celles-ci, et qui les perçoivent parfois comme une perte de temps. Partant du principe que l'agilité doit être embrassée et non imposée, et surtout s'adapter aux individus, nous avons fait l'impasse sur un certain nombre de réunion pour n'en garder que quelques unes : un point hebdomadaire d'une heure pour l'ensemble de l'équipe et des réunions plus ponctuelles en fonction des besoins. Si cela fonctionne très bien sur des start-up d'État constituées de deux développeurs _freelances_, les carences ont été assez évidentes dans le cadre de ce projet réunissant quatre développeurs :
 * Absence de communication sur ce qui fonctionne et ne fonctionne pas ;
 * Frustration et incompréhension ;
