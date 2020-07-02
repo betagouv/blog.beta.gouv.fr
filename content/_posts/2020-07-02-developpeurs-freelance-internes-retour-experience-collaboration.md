@@ -14,13 +14,13 @@ Plutôt que d'essayer de [planifier dans les moindres détails](https://f14e.fr/
 
 Si les objectifs ont été atteints (produit livré et besoins utilisateurs comblés), les résultats en terme de performance et de synergie d'équipe n'ont pas été à la hauteur de nos attentes, que ce soit côté Fabrique numérique ou CDAD.
 
-Qu'à cela ne tienne ! Nous apprenons de nos échanges et de nos expériences et celles-ci nous ont permis de nous améliorer et d'ouvrir la voie à d'autres collaborations efficaces et fructueuses. 
+Qu'à cela ne tienne ! Nous apprenons de nos échanges et de nos expériences et celles-ci nous ont permis de nous améliorer et d'ouvrir la voie à d'autres collaborations efficaces et fructueuses.
 
 Sans prétendre devenir un guide, cet article vise à mettre en lumière nos erreurs passées et les bonnes pratiques que nous utilisons aujourd'hui à la Fabrique numérique lorsqu'il s'agit de travailler de concert avec une autre DSI.
 
 Le premier constat que nous avons pu faire est que nos trois principales erreurs ont été commises assez tôt dans le projet, nous empêchant de poser des bases solides pour la suite.
 
-## Choix de la _stack_ non consensuel. 
+## Choix de la _stack_ non consensuel.
 Déjà, le choix de la stack technique n'a pas été consensuel. À la Fabrique numérique nous avons pour habitude de laisser libre le choix des langages pour nos développeurs _freelance_. Le problème ici est que les CDAD sont contraints sur certaines technologies. Cette décision non concertée à générer quatre problèmes :
 - Impossibilité de reprise du projet pour le CDAD (et donc problématique de l'atterrissage post-incubation du produit) ;
 - CDAD et _freelance_ ont travaillé sur des parties très différentes du projet avec peu de communication et peu ou pas de revue de code ;
@@ -42,7 +42,7 @@ Finalement, peu de cérémonies et de routines ont été mises en place. Il est 
 - Limitation de la confiance entre les membres qui ne se parlent pas librement de ce qui ne va pas ;
 - Finalement les problèmes sont redescendus par la hiérarchie des CDAD de façon assez inattendue, nuisant ainsi à l'autonomie de l'équipe.
 
-Ces trois erreurs ont eu des conséquences directes sur l'équipe du projet : 
+Ces trois erreurs ont eu des conséquences directes sur l'équipe du projet :
 1. Pour les développeurs du CDAD, un sentiment d'exclusion. Ceux-ci se sont sentis dépossédé du produit sur lequel ils travaillaient et ont eu l'impression de travailler « pour nous » et non pas « avec nous » ;
 2. Pour les _freelances_, le sentiment de devoir travailler avec une partie de l'équipe qui les ralentis et les empêchent de délivrer aussi vite et fréquemment qu'ils le souhaiteraient.
 
@@ -51,11 +51,11 @@ Clairement le projet en a pâtit. Si dans les derniers mois nous avons pu redres
 
 Les projets avec d'autres CDAD qui ont suivi nous ont permis de mettre en application ces enseignements. Désormais trois principaux préceptes sont respectés :
 - La stack technique est discutée et choisie collectivement. Le choix de cette stack est principalement guidée par le besoin utilisateur et le produit à développer. Elle doit être comprise et utilisable aussi bien par les CDAD que les _freelances_ composants l'équipe. Ces projets sont d'ailleurs l'occasion pour les CDAD de développer des produits sur des technologies nouvelles pour eux et d'apprendre sur le terrain.
-- Avant le début des développements, l'ensemble des développeurs se retrouvent pour plusieurs jours de travail (idéalement une semaine) afin de s'aligner sur les méthode de développement et les outils utilisés, en particulier pour la chaîne DevOps. 
+- Avant le début des développements, l'ensemble des développeurs se retrouvent pour plusieurs jours de travail (idéalement une semaine) afin de s'aligner sur les méthode de développement et les outils utilisés, en particulier pour la chaîne DevOps.
 - L'équipe dans son ensemble s'accorde et s'engage sur les cérémonies à suivre et leur fréquence. L'utilité de chaque cérémonie est discutée et expliquée. Rien n'est jamais figé et nous nous adaptons semaine après semaine.
 
 Nous constatons que ces trois étapes vont permettre à l'équipe :
-- d'avoir une cartographie globale des compétences de ses membres. Connaître nos forces et faiblesses, pour s'appuyer sur les premières et atténuer les secondes ; 
+- d'avoir une cartographie globale des compétences de ses membres. Connaître nos forces et faiblesses, pour s'appuyer sur les premières et atténuer les secondes ;
 - de voir les contraintes des uns et des autres (horaires décalés, accès aux informations, à internet, etc.) et composer avec ;
 - d'améliorer la confiance et l'esprit d'équipe ;
 - de parler plus ouvertement des problèmes à venir ;
@@ -68,4 +68,3 @@ L'approche décrite ici n'est ni exhaustive, ni exclusive. Elle constitue avant 
 Néanmoins, il apparaît clairement que la communication et la transparence de l'information sont essentielles à la réussite d'un produit/projet. Elles n'impliquent pas de fait le succès mais les négliger entraîne inévitablement des difficultés, parfois difficile à surmonter. Cela peut paraître une évidence pour nombre d'entre nous, mais il est éloquent de voir qu'il s'agit pourtant de la principale source de problèmes.
 
 À la Fabrique numérique nous restons convaincu que le principe à la base d'une collaboration efficace est l'égalité des membres d'une équipe face aux choix qui l'impactent dans son ensemble. C'est pourquoi nous œuvrons du mieux possible pour que nos valeurs de bienveillance, d'humilité, de confiance et de transparence soit une réalité plutôt que seulement des mots affichés sur un mur.
-
