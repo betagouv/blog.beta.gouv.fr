@@ -20,6 +20,10 @@ excerpt: >-
 
   Nous lui avons demandé de nous raconter son expérience.
 ---
+
+
+
+
 ![](/img/posts/lauren-michel.jpg "Lauren Michel")
 
 ## Que faisais-tu avant d’être intrapreneuse ?
