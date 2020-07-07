@@ -59,6 +59,8 @@ Plusieurs points auraient pu tout gâcher :
 
 Le jour ou mon premier bêta.testeur m’a dit que le test de personnalité et que les visuels que je proposais étaient imbuvables !
 
+![](/img/posts/atelier_rh_open_inno_lauren-michel_art.jpg "Crédit photo : pole-emploi.org")
+
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
 J'en citerai quatre principales : 
