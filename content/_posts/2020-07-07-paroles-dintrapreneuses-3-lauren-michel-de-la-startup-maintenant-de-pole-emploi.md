@@ -7,6 +7,7 @@ authors:
   - lauren.michel
   - lery.jicquel
 categories: pole-emploi
+image: /img/posts/parole-intrapreneuse-2-.jpg
 excerpt: >-
   De février 2016 à juin 2019, Lauren MICHEL était intrapreneuse à Pôle Emploi.
   Elle a lancé la Startup d'Etat
