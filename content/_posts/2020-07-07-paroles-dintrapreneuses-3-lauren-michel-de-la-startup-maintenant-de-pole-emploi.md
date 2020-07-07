@@ -22,7 +22,7 @@ excerpt: >-
 ---
 ![](/img/posts/lauren-michel.jpg "Lauren Michel")
 
-## Que faisais-tu avant d’être intrapreneuse/eur ?
+## Que faisais-tu avant d’être intrapreneuse ?
 
 Beaucoup de choses !
 
@@ -38,11 +38,11 @@ Et tout cela en restant salarié chez Pôle emploi.
 
 ***Pour en savoir plus sur service public numérique : [Maintenant!](<La méthode de recrutement par simulation>)***
 
-## Quel conseil t’as manqué avant de démarrer comme intrapreneuse/eur et qui finalement t’aurait bien aidé ?
+## Quel conseil t’as manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
 
 Plus qu’un conseil, une formation ou bien des bases en media training (formation aux médias). Le rôle d’intra peut vite nous propulser sous les feux des projecteurs (interview, radio, plateau télé…). J’ai du pour ma part apprendre sur le terrain et observer beaucoup pour reproduire l'exercice au mieux.
 
-## Qu’est-ce qui aurait pu faire que ta Startup d’Etat fasse un flop ?
+## Qu’est-ce qui aurait pu faire que ta Startup d’État fasse un flop ?
 
 Plusieurs points auraient pu tout gâcher :
 
@@ -55,11 +55,11 @@ Plusieurs points auraient pu tout gâcher :
 * Ne pas avoir le soutien de mon DG
 * Ne pas faire confiance à l'équipe
 
-## Quel est l’échec durant cette expérience dont tu es la/le plus fièr.e ?
+## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
 Le jour ou mon premier bêta.testeur m’a dit que le test de personnalité et que les visuels que je proposais étaient imbuvables !
 
-## Quelle est la qualité essentielle pour réussir comme intrapreneuse/eur ?
+## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
 J'en citerai quatre principales : 
 
@@ -68,7 +68,7 @@ J'en citerai quatre principales :
 * Accepter dès le départ que tout peut s'arrêter du jour au lendemain
 * Savoir se remettre régulièrement en question
 
-## Tu recommanderais à un agent public de se lancer dans l’intrapreunariat ?
+## Tu recommanderais à un agent public de se lancer dans l’intrapreneuriat ?
 
 Sans hésiter une seconde : OUIIIIIIIIIIIIIIIIIIIII
 
@@ -76,7 +76,7 @@ Sans hésiter une seconde : OUIIIIIIIIIIIIIIIIIIIII
 
 Ose et sois à l’écoute des usagers car ca n’est pas toi qui détient la solution mais bel et bien eux !
 
-___
+- - -
 
 #### *Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?*
 
