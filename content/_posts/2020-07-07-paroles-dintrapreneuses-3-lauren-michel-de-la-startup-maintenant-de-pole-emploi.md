@@ -78,7 +78,7 @@ J'en citerai quatre principales :
 
 ## Tu recommanderais à un agent public de se lancer dans l’intrapreneuriat ?
 
-Sans hésiter une seconde : OUIIIIIIIIIIIIIIIIIIIII
+Sans hésiter une seconde. OUI !
 
 ## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
