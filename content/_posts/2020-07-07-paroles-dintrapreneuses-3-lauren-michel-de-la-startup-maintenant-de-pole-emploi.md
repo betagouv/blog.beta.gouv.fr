@@ -27,14 +27,14 @@ excerpt: >-
 Beaucoup de choses !
 
 J’ai tout d'abord commencé ma carrière professionnelle dans le domaine du stylisme et modélisme en prêt à porter à Paris. 
-A l’issu de cette première expérience j’ai fait le choix de changer d’orientation et je me suis formée dans le domaine sociale en tant que conseillère en economie sociale et familiale. 
+A l’issue de cette première expérience j’ai fait le choix de changer d’orientation et je me suis formée dans le domaine social en tant que conseillère en economie sociale et familiale. 
 J'ai exercé mes premières missions en alternance dans un service judiciaire au sein du tribunal de grande instance à Dijon où j'étais chargée d’intervenir sur des enquêtes pénales ainsi qu’en maison d'arrêt dans la cadre d’enquêtes judiciaires. 
-Hélas, je n’ai pu être embauchée à mon grand regret. Il a donc fallu que je rebondisse très rapidement et c’est ainsi que j’ai accepté une mission dans un Lycée agricole où j'étais chargée de suivre les dossiers sociales des élèves. 
+Hélas, je n’ai pu être embauchée à mon grand regret. Il a donc fallu que je rebondisse très rapidement et c’est ainsi que j’ai accepté une mission dans un Lycée agricole où j'étais chargée de suivre les dossiers sociaux des élèves. 
 
-A l’issu de deux ans au sein de cet établissement, j’ai proposé de créer des modules de cours à destination d’élèves de BEP, BAC PRO et BTS. 
-L'objectif était de les sensibiliser et les outiller dans la construction d’un CV, la recherche d’emploi et la valorisation de soi (un besoin que j’avais identifié pendant 2 ans). Bien que le public jeune, soit riche d’apprentissage et mouvementé, le milieu de l'éducation et des profs quant à lui l'était moins. C’est à ce moment là que j’ai souhaité quitter ce milieu et m’investir au sein d’une mission locale en tant que conseillère pendant un an. 
+A l’issue de deux ans au sein de cet établissement, j’ai proposé de créer des modules de cours à destination d’élèves de BEP, BAC PRO et BTS. 
+L'objectif était de les sensibiliser et les outiller dans la construction d’un CV, la recherche d’emploi et la valorisation de soi (un besoin que j’avais identifié pendant 2 ans). Bien que le public jeune soit riche d’apprentissage et mouvementé, le milieu de l'éducation et des profs, quant à lui, l'était moins. C’est à ce moment là que j’ai souhaité quitter ce milieu et m’investir au sein d’une mission locale en tant que conseillère pendant un an. 
 
-Puis l'enchaînement des contrats précaires m’ont conduit à rechercher un emploi stable ou je pouvais à la fois mettre à profit mon expérience judiciaire, éducatif et sociale. C’est ainsi que je suis entrée à Pôle emploi en tant que conseillère en charge d'accompagner les demandeurs d’emploi, les entreprises / demandeurs en licenciement économique, puis la méthode de recrutement par simulation (MRS). 
+Puis l'enchaînement des contrats précaires m’ont conduit à rechercher un emploi stable ou je pouvais à la fois mettre à profit mon expérience judiciaire, éducative et sociale. C’est ainsi que je suis entrée à Pôle emploi en tant que conseillère en charge d'accompagner les demandeurs d’emploi, les entreprises, les demandeurs en licenciement économique, puis la méthode de recrutement par simulation (MRS). 
 C'est ainsi qu'au bout de neuf mois j’ai constaté d’important irritants au sein de cette administration et que j’ai eu l’idée de proposer, puis de créer la Startup Maintenant!
 
 ## Comment expliquerais-tu cette mission à ta grand-mère ?
@@ -45,7 +45,7 @@ Toujours salariée chez Pôle Emploi et accompagnée d’une petite équipe, je 
 
 ***Pour en savoir plus sur service public numérique : [Maintenant!](<La méthode de recrutement par simulation>)***
 
-## Quel conseil t’as manqué avant de démarrer comme intrapreneuse et qui, finalement, t’aurait bien aidée ?
+## Quel conseil t’as manqué avant de démarrer comme intrapreneuse et, avec le recul, t’aurait bien aidée ?
 
 Plus qu’un conseil, une formation ou bien des bases en media training (formation aux médias). Le rôle d’intra peut vite nous propulser sous les feux des projecteurs (interview, radio, plateau télé…). J’ai dû pour ma part apprendre sur le terrain et observer beaucoup pour reproduire l'exercice au mieux.
 
@@ -64,7 +64,7 @@ Plusieurs points auraient pu tout gâcher :
 
 ## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
-Le jour ou mon premier bêta.testeur m’a dit que le test de personnalité et que les visuels que je proposais étaient imbuvables !
+Le jour ou mon premier bêta testeur m’a dit que le test de personnalité et les visuels que je proposais étaient imbuvables !
 
 J'en suis fière parce que ça m'a permis d'apprendre très rapidement qu'il est utile de se confronter le plus tôt possible à ses utilisateurs même si le travail n'est pas parfait ou terminé. On s'améliore beaucoup plus vite, en testant rapidement ses hypothèses de solutions.
 
@@ -83,7 +83,7 @@ Je citerai quatre qualités principales :
 
 ## Tu recommanderais à un agent public de se lancer dans l’intrapreneuriat ?
 
-Sans hésiter une seconde. OUI !
+Sans hésiter une seconde : OUI !
 
 ## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
