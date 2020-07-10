@@ -2,7 +2,7 @@
 layout: post
 title: "Paroles d'intrapreneuses #3 : Lauren Michel de la Startup Maintenant! de
   Pôle Emploi"
-date: 2020-07-07
+date: 2020-07-10
 authors:
   - lauren.michel
   - lery.jicquel
