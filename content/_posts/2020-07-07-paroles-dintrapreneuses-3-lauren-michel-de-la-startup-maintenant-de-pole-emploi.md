@@ -20,10 +20,6 @@ excerpt: >-
 
   Nous lui avons demandé de nous raconter son expérience.
 ---
-
-
-
-
 ![](/img/posts/lauren-michel.jpg "Lauren Michel")
 
 ## Que faisais-tu avant d’être intrapreneuse ?
@@ -69,6 +65,8 @@ Plusieurs points auraient pu tout gâcher :
 ## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
 Le jour ou mon premier bêta.testeur m’a dit que le test de personnalité et que les visuels que je proposais étaient imbuvables !
+
+J'en suis fière parce que ça m'a permis d'apprendre très rapidement qu'il est utile de se confronter le plus tôt possible à ses utilisateurs même si le travail n'est pas parfait ou terminé. On s'améliore beaucoup plus vite, en testant rapidement ses hypothèses de solutions.
 
 ![](/img/posts/atelier_rh_open_inno_lauren-michel_art.jpg)
 
