@@ -33,7 +33,7 @@ Il est permis à des gens qui sont sur le terrain de créer des solution aux pro
 
 J’ai vu que les demandeurs d’emploi étaient en difficultés lorsqu’ils faisaient leur actualisation et mes collègues remarquaient la même chose. Pôle emploi m’a mis à disposition des moyens pour trouver une solution à ce problème. On a créé un site internet. Ce qui nous fait avancer c’est de vérifier régulièrement que notre action répond bien au problème que l’on avait constaté.
 
-![capture d'écran zen](/img/posts/zen.png)
+![capture d'écran zen](/img/posts/capture-zen.jpg)
 
 ***Pour en savoir plus sur la[ Startup d'Etat ZEN](https://beta.gouv.fr/startups/zen.html).***
 
