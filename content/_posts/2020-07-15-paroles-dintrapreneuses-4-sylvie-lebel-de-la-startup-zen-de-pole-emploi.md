@@ -9,8 +9,8 @@ authors:
 categories: pole-emploi
 image: /img/posts/parole-intrapreneuse-3-.jpg
 excerpt: >-
-  D'avril 2018 à XX 20XX, Sylvie LEBEL était intrapreneuse à Pôle Emploi. Elle a
-  lancé la Startup d’Etat ZEN en voie de pérennisation au sein de la DSI de Pôle
+  Depuis avril 2018, Sylvie LEBEL est intrapreneuse à Pôle Emploi. Elle a lancé
+  la Startup d’Etat ZEN en voie de pérennisation au sein de la DSI de Pôle
   Emploi.
 
 
