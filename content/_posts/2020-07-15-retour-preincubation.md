@@ -5,7 +5,7 @@ date: 2020-07-15
 categories: fabnumdef
 authors:
   - camille.boulouis
-tags: [Préincubation, UX design]
+tags: [Préincubation, UX design, Objectif]
 image: https://images.unsplash.com/photo-1504864858360-14aa23e8d931?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 excerpt: >-
   Lors d’un projet « commando numérique » à la Fabrique numérique du Ministère des armées, nous avons eu l’occasion de nous poser plus de questions que d’habitude sur la portée de notre travail.
