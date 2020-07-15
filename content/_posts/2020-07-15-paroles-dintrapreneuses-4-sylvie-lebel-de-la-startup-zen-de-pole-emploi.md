@@ -71,7 +71,7 @@ Sans aucun doute, la qualité essentielle est l’empathie.
 
 <iframe width="729" height="410" src="https://www.youtube.com/embed/ubF1udHKQOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [](<>)**Tu recommanderais à un agent public de se lancer dans l’intrapreunariat ?**
+## [](<>)R**ecommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?**
 
 Oui, si il ou elle est endurant, flexible et qu’il ne perd pas de vue pour qui il crée sa solution.
 
