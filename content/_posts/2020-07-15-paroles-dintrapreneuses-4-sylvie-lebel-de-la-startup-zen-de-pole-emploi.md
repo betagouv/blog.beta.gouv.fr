@@ -67,11 +67,13 @@ J'étais véritablement étonnée par ce retour sans reproche et impressionnée 
 
 Sans aucun doute, la qualité essentielle est l’empathie.
 
+```
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ubF1udHKQOM&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+```
 
 ## [](<>)**Tu recommanderais à un agent public de se lancer dans l’intrapreunariat ?**
 
-Oui, si il/ elle est endurant, flexible et qu’il ne perd pas de vue pour qui il crée sa solution.
+Oui, si il ou elle est endurant, flexible et qu’il ne perd pas de vue pour qui il crée sa solution.
 
 ## [](<>)**Si oui, quelles recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?**
 
