@@ -77,7 +77,7 @@ Oui, si il ou elle est endurant, flexible et qu’il ne perd pas de vue pour qui
 
 ## [](<>)**Si oui, quelles recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?**
 
-J'en ai plusieurs :
+J'en aurais plusieurs :
 
 \- prendre le temps de poser le problème et d’analyser son impact pour les usagers.
 
