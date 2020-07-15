@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retour sur deux mois de préincubation"
-date: 2020-07-02
+date: 2020-07-15
 categories: fabnumdef
 authors:
   - camille.boulouis
