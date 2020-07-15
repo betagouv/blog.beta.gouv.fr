@@ -67,9 +67,7 @@ J'étais véritablement étonnée par ce retour sans reproche et impressionnée 
 
 Sans aucun doute, la qualité essentielle est l’empathie.
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ubF1udHKQOM&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-```
+<iframe width="729" height="410" src="https://www.youtube.com/embed/ubF1udHKQOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [](<>)**Tu recommanderais à un agent public de se lancer dans l’intrapreunariat ?**
 
