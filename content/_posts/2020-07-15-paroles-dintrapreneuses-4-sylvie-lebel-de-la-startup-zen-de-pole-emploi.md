@@ -77,20 +77,13 @@ Oui, si il ou elle est endurant, flexible et qu’il ne perd pas de vue pour qui
 
 ## [](<>)**Si oui, quelles recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?**
 
-J'en aurais plusieurs :
+J'en aurai plusieurs :
 
-\- prendre le temps de poser le problème et d’analyser son impact pour les usagers.
-
-\- vérifier que la frustration est bien celle d’un utilisateur (et pas uniquement la sienne)
-
-\- analyser l’environnement et de chercher un sponsor, 
-
-\- être bien entouré et accepter de chercher de l‘aide,
-
-\- écouter les conseils,
-
-\- croire en soi (ça a été très compliqué pour moi 😉 ),
-
-\- se former tout au long de la recherche de solution,
-
-\- ne pas être trop exigent en voulant aller vite[](<>).
+* prendre le temps de poser le problème et d’analyser son impact pour les usagers.
+* vérifier que la frustration est bien celle d’un utilisateur (et pas uniquement la sienne)
+* analyser l’environnement et de chercher un sponsor, 
+* être bien entouré et accepter de chercher de l‘aide,
+* écouter les conseils,
+* croire en soi (ça a été très compliqué pour moi 😉 ),
+* se former tout au long de la recherche de solution,
+* ne pas être trop exigent en voulant aller vite[](<>).
