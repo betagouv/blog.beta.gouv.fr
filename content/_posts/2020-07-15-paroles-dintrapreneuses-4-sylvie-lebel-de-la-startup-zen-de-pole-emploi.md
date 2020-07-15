@@ -3,8 +3,8 @@ layout: post
 title: "Paroles d'intrapreneuses #4 : Sylvie Lebel de la Startup ZEN de Pôle Emploi"
 date: 2020-07-15
 authors:
-  - lery.jicquel
   - sylvie.lebel
+  - lery.jicquel
 categories: pole-emploi
 excerpt: >-
   D'avril 2018 à XX 20XX, Sylvie LEBEL était intrapreneuse à Pôle Emploi. Elle a
