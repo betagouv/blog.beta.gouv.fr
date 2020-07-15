@@ -29,7 +29,7 @@ Ce métier consiste à gérer les dossiers d’indemnisation des demandeurs d’
 
 ## [](<>)**Comment expliquerais-tu cette mission à “ton grand-père” ?**
 
-Il est permis à des gens qui sont sur le terrain de créer des solution aux problèmes qu’on a pu observer au quotidien.
+Il est permis à des gens qui sont sur le terrain de créer des solutions aux problèmes qu’on a pu observer au quotidien.
 
 J’ai vu que les demandeurs d’emploi étaient en difficultés lorsqu’ils faisaient leur actualisation et mes collègues remarquaient la même chose. Pôle emploi m’a mis à disposition des moyens pour trouver une solution à ce problème. On a créé un site internet. Ce qui nous fait avancer c’est de vérifier régulièrement que notre action répond bien au problème que l’on avait constaté.
 
@@ -59,7 +59,7 @@ Une actualisation erronée ou un mauvais envoi de document peut déclencher des 
 
 Une erreur de saisie, au début du projet. C’est à ce moment-là que j’ai compris l’agilité.
 
-Au démarrage de la Startup d'Etat, je devais saisir des données pour commencer à faire fonctionner notre solution. Et puis, évidemment, je me suis plantée et j'ai fais une belle erreur, même une vilaine erreur. Ma première réaction a été la terreur car dans le management que je connaissait j'allais passer un très mauvais moment où j'aurai du me justifier... et j'avoue que je savais pas comment justifier ça ("je me suis trompé" me semblai léger..). Bref, j'ai mis 2 jours avant d'annoncer mon erreur.
+Au démarrage de la Startup d'Etat, je devais saisir des données pour commencer à faire fonctionner notre solution. Et puis, évidemment, je me suis plantée et j'ai fais une belle erreur, même une vilaine erreur. Ma première réaction a été la peur car dans le management que je connaissait j'allais passer un très mauvais moment où j'aurai du me justifier... et j'avoue que je savais pas comment justifier ça ("je me suis trompé" me semblai léger..). Bref, j'ai mis 2 jours avant d'annoncer mon erreur.
 
 La première réaction des membres de mon équipe a été : "Ah mince". Puis ils ont dit : "ok, comment on fait pour que ça se reproduise plus". Et enfin, tous ensemble, on a construit une solution plus sure pour éviter ce type d'erreur. Cela nous a ensuite permis d’augmenter le nombre d'utilisateurs en attendant d'améliorer le service. 
 
