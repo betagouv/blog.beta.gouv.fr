@@ -20,7 +20,7 @@ Au vu de la vaste tranche d’âge de la cible ainsi que de la complexité du th
 
 Cependant, le projet n’était pas tout neuf, et la cible avait déjà été interrogée sur le sujet, apportant un premier jet d’informations sur lesquelles il était possible de s’appuyer.
 De plus, le sujet est une préoccupation importante pour les armées et le ministère, et ce, depuis longtemps (notamment pour les armées après l’arrêt du service militaire obligatoire), et de nombreuses initiatives foisonnent dans le domaine à des niveaux très différents.
-Ainsi, afin de trouver de nouveaux _insights_, fallait-il réduire la tranche d’âge de la cible ? Ou s’attacher uniquement à périmètre précis du sujet à étudier ?
+Ainsi, afin de trouver de nouveaux _insights_, fallait-il réduire la tranche d’âge de la cible ? Ou s’attacher uniquement à un périmètre précis du sujet à étudier ?
 De plus, même si le travail de ces deux mois pourraient apporter des éléments probablement intéressants, seraient-ils actionnables pour la suite du travail ?
 
 Après une recherche documentaire sur le sujet de l’orientation professionnelle, et des moyens de recrutements ou contacts déployés au sein du ministère des armées et des armées auprès de la cible, il s’est avéré que le sujet était était peu documenté en interne.
