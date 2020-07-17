@@ -80,3 +80,11 @@ J'en aurai plusieurs :
 * croire en soi (ça a été très compliqué pour moi 😉) ;
 * se former tout au long de la recherche de solution ; 
 * ne pas être trop exigeant.e en voulant aller vite[](<>).
+
+
+
+  - - -
+
+  #### *Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?*
+
+  *Nous pouvons vous aider. Répondez à l’appel à participation. Toutes les informations utiles se trouvent [ici.](https://blog.beta.gouv.fr/dinsic/2020/06/22/investigations/)*
