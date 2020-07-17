@@ -2,7 +2,7 @@
 layout: post
 title: "Paroles d'intrapreneuses #4 : Sylvie Lebel de la Startup d'Etat ZEN de
   Pôle Emploi"
-date: 2020-07-15
+date: 2020-07-17
 authors:
   - sylvie.lebel
   - lery.jicquel
