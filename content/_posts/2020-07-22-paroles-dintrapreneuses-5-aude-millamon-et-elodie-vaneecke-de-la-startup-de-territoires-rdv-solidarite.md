@@ -27,7 +27,7 @@ excerpt: >-
 
 *Aude -* J’étais infirmière puéricultrice en protection maternelle et infantile (PMI). Mon travail consistait à rencontrer des parents et leurs enfants. Ces rendez-vous avaient lieu à domicile, dans les consultations ou en maternité. Je menais principalement des actions de prévention et de suivi afin de veiller au bien être et à la santé des tout-petits.
 
-*Élodie -* J'étais travailleur social en service social.
+*Élodie -* J'étais travailleur social en service social. J'aidais des personnes ou des familles en difficultés à s'insérér socialement et/ou professionnellement. 
 
 ## Comment expliqueriez-vous votre mission à “votre grand-père” ?
 
@@ -100,8 +100,6 @@ Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans poss
 * ne pas réfléchir trop vite solution ou produit mais d’abord bien comprendre le problème ET investiguer avec les frustrés/résignés/en colère qui seront les futurs utilisateurs;
 * s’appuyer sur des constats chiffrés dès le départ;
 * Faire des tests en conditions réelles et à la main pour prouver l’efficacité de l’idée la preuve par l’impact ! La preuve de la résolution réelle des problèmes rencontrés par l'usager.
-
-
 
   - - -
 
