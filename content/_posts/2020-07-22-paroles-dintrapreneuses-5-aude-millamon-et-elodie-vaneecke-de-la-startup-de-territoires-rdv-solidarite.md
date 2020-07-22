@@ -13,7 +13,7 @@ excerpt: >-
   Depuis janvier 2018, Aude Millamon et Élodie Vaneecke forment un binôme inédit
   d'intrapreneuses au sein du[ Département du
   Pas-de-Calais](https://www.pasdecalais.fr/). Elles ont lancé la Startup de
-  Territoires "[RDV-Solidarité](https://beta.gouv.fr/startups/lapins.html)". 
+  territoires "[RDV Solidarités](https://beta.gouv.fr/startups/lapins.html)". 
 
 
   2020 est une année majeure pour elles.  Leur service public numérique, permettant de faciliter la prise de rendez-vous pour les administrées dans le secteur des solidarités, est en plein accélération dans plus d'une dizaine de Départements.
@@ -47,11 +47,11 @@ Par effet ricochet, cela a pour effet de diminuer les délais d’obtention de r
 
 Et puis quand c’est possible, on permet même de prendre des rendez-vous sur internet car pour joindre les services par téléphone c’est parfois compliqué.
 
-Avec "RDV-solidarités" tu peux prendre rendez-vous sept jours sur sept et 24 heures sur 24 sans avoir à patienter sur un standard téléphonique.
+Avec "RDV solidarités" tu peux prendre rendez-vous sept jours sur sept et 24 heures sur 24 sans avoir à patienter sur un standard téléphonique.
 
 ![Aperçu page d’accueil](/img/posts/rdv-solidarite.png)
 
-***Pour en savoir plus sur la Startup de Territoires [RDV-Solidarités](https://www.rdv-solidarites.fr/).***
+***Pour en savoir plus sur la Startup de Territoires [RDV Solidarités](https://www.rdv-solidarites.fr/).***
 
 ## Quel conseil vous a manqué avant de démarrer comme intrapreneuses et qui finalement vous aurez bien aidé ?
 
@@ -75,7 +75,7 @@ Lors de notre phase de test, on a expérimenté des solutions de gestion de rend
 
 On a donc souhaité aller plus loin avec Doctolib en leur proposant de couvrir d’autres types de rendez-vous comme le secteur social et pas seulement la santé. Finalement Doctolib n’a pas souhaité nous suivre car c’était hors de leur périmètre qu’est le secteur médical et para-médical.
 
-Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans possibilité de déployer un service car nous n'avons plus de solutions. C’est à partir de ce moment là, qu’un appel à manifestation d’intérêt a été lancé auprès d’autres Départements pour construire cet outil de prises de rendez-vous dans le champ des Solidarités. C’est comme ça que RDV-solidarités est né, avec actuellement 11 Départements impliqués.
+Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans possibilité de déployer un service car nous n'avons plus de solutions. C’est à partir de ce moment là, qu’un appel à manifestation d’intérêt a été lancé auprès d’autres Départements pour construire cet outil de prises de rendez-vous dans le champ des Solidarités. C’est comme ça que RDV Solidarités est né, avec actuellement 11 Départements impliqués.
 
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
