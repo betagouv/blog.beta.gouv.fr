@@ -8,6 +8,7 @@ authors:
   - elodie.vaneecke
   - lery.jicquel
 categories: dinsic
+image: /img/posts/parole-intrapreneuse-4-.jpg
 excerpt: >-
   Depuis janvier 2018, Aude Millamon et Élodie Vaneecke forment un binôme inédit
   d'intrapreneuses au sein du Département du Pas-de-Calais. Elles ont lancé la
@@ -19,6 +20,8 @@ excerpt: >-
 
   Nous leur avons demandé de nous raconter leurs expériences.
 ---
+![](/img/posts/elodie-vaneecke.jpg)
+
 ## Que faisiez-vous avant d’être intrapreneuses ?
 
 *Aude -* J’étais infirmière puéricultrice en protection maternelle et infantile (PMI). Mon travail consistait à rencontrer des parents et leurs enfants. Ces rendez-vous avaient lieu à domicile, dans les consultations ou en maternité. Je menais principalement des actions de prévention et de suivi afin de veiller au bien être et à la santé des tout-petits.
@@ -97,7 +100,7 @@ Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans poss
 * s’appuyer sur des constats chiffrés dès le départ;
 * Faire des tests en conditions réelles et à la main pour prouver l’efficacité de l’idée la preuve par l’impact ! La preuve de la résolution réelle des problèmes rencontrés par l'usager.
 
-  ___
+  - - -
 
   **Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?**
 
