@@ -101,6 +101,8 @@ Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans poss
 * s’appuyer sur des constats chiffrés dès le départ;
 * Faire des tests en conditions réelles et à la main pour prouver l’efficacité de l’idée la preuve par l’impact ! La preuve de la résolution réelle des problèmes rencontrés par l'usager.
 
+
+
   - - -
 
   **Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?**
