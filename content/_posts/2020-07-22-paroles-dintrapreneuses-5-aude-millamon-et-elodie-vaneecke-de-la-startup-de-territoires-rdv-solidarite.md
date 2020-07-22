@@ -71,11 +71,9 @@ Avec "RDV-solidarités" tu peux prendre rendez-vous sept jours sur sept et 24 he
 
 Lors de notre phase de test, on a expérimenté des solutions de gestion de rendez-vous “clef en main”, notamment pour ne pas la citer : Doctolib. Cet outil faisait très bien le job sur le périmètre qu’on expérimentait. Les résultats étaient bons :
 
-\- diminution du nombre de rendez-vous non honorés,
-
-\- diminution du temps logistique de pose de rendez-vous, 
-
-\- une meilleure accessibilité aux services avec la prise de rendez-vous en ligne.
+* diminution du nombre de rendez-vous non honorés,
+* diminution du temps logistique de pose de rendez-vous, 
+* une meilleure accessibilité aux services avec la prise de rendez-vous en ligne.
 
 On a donc souhaité aller plus loin avec Doctolib en leur proposant de couvrir d’autres types de rendez-vous comme le secteur social et pas seulement la santé. Finalement Doctolib n’a pas souhaité nous suivre car c’était hors de leur périmètre qu’est le secteur médical et para-médical.
 
