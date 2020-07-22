@@ -55,7 +55,7 @@ Avec "RDV-solidarités" tu peux prendre rendez-vous sept jours sur sept et 24 he
 
 ## Quel conseil vous a manqué avant de démarrer comme intrapreneuses et qui finalement vous aurez bien aidé ?
 
-*Élodie et Aude* - Désolé mais on n'a pas de réponses à cette question... On a cherché... C’est probablement parce qu’on a bien été coaché 😊.
+*Élodie et Aude* - Désolé mais on n'a pas de réponses à cette question... On a cherché... C’est probablement parce qu’on a bien été coachée 😊.
 
 ## Qu’est-ce qui aurait pu faire que votre Startup de Territoires fasse un flop ?
 
