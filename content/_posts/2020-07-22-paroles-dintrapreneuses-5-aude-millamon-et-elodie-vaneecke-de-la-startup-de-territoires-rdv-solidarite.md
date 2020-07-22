@@ -11,11 +11,12 @@ categories: dinsic
 image: /img/posts/parole-intrapreneuse-4-.jpg
 excerpt: >-
   Depuis janvier 2018, Aude Millamon et Élodie Vaneecke forment un binôme inédit
-  d'intrapreneuses au sein du Département du Pas-de-Calais. Elles ont lancé la
-  Startup de Territoires "RDV-Solidarité". 
+  d'intrapreneuses au sein du[ Département du
+  Pas-de-Calais](https://www.pasdecalais.fr/). Elles ont lancé la Startup de
+  Territoires "[RDV-Solidarité](https://beta.gouv.fr/startups/lapins.html)". 
 
 
-  2020 est une année majeure pour elles.  Leur service public numérique, permettant de faciliter la prise de rendez-vous pour les administrées, est plein accélération dans plus d'une dizaine de Départements.
+  2020 est une année majeure pour elles.  Leur service public numérique, permettant de faciliter la prise de rendez-vous pour les administrées dans le secteur des solidarités, est en plein accélération dans plus d'une dizaine de Départements.
 
 
   Nous leur avons demandé de nous raconter leurs expériences.
