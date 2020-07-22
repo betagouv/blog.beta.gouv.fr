@@ -20,7 +20,7 @@ excerpt: >-
 
   Nous leur avons demandé de nous raconter leurs expériences.
 ---
-![](/img/posts/elodie-vaneecke.jpg)
+![](/img/posts/aude-et-elodie.jpg "Aude Milllamon et Élodie Vaneecke")
 
 ## Que faisiez-vous avant d’être intrapreneuses ?
 
