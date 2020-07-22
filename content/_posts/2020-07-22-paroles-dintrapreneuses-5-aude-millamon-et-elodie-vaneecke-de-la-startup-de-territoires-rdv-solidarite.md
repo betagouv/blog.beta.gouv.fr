@@ -97,8 +97,8 @@ Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans poss
 
 * Discuter de sa frustration avec ses collègues pour voir si elle est partagée et si on tient un vrai problème de politique publique ;
 * Identifier des alliés sur qui s’appuyer ;
-* ne pas réfléchir trop vite solution ou produit mais d’abord bien comprendre le problème ET investiguer avec les frustrés/résignés/en colère qui seront les futurs utilisateurs ;
-* s’appuyer sur des constats chiffrés dès le départ ;
+* Ne pas réfléchir trop vite solution ou produit mais d’abord bien comprendre le problème ET investiguer avec les frustrés/résignés/en colère qui seront les futurs utilisateurs ;
+* S’appuyer sur des constats chiffrés dès le départ ;
 * Faire des tests en conditions réelles et à la main pour prouver l’efficacité de l’idée la preuve par l’impact ! La preuve de la résolution réelle des problèmes rencontrés par l'usager.
 
   - - -
