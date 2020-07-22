@@ -59,13 +59,13 @@ Avec "RDV-solidarités" tu peux prendre rendez-vous sept jours sur sept et 24 he
 
 ## Qu’est-ce qui aurait pu faire que votre Startup de Territoires fasse un flop ?
 
-*Élodie -* Le manque parfois de “portage” en interne au sein du Département. Le "pas de côté", c'est à dire le fait de ne pas suivre à la lettre un chemin "officiel" mais prendre une autre voie, c’est très bien au démarrage mais pas trop longtemps. Il faut aussi que rapidement l’institution se saisisse autant du sujet que l’intrapreneuse.
+*Élodie -* Plusieurs choses auraient pu créer un flop. Je pense notamment au manque (parfois) de “portage” en interne au sein du Département. Il y a aussi les risques avec "le pas de côté", c'est à dire le fait de ne pas suivre à la lettre un chemin "officiel" mais prendre une autre voie. C’est très utile au démarrage mais il ne faut pas le faire trop longtemps car il faut aussi que rapidement l’institution se saisisse autant du sujet que l’intrapreneuse.
 
 *Aude -* Il y a toujours le risque de perdre de vue l’objectif final à savoir l’amélioration du service rendu à l’usager.
 
 ## Quel est l’échec durant cette expérience dont vous êtes les plus fières ?
 
-*Aude et Élodie* - On est finalement assez fières de ne pas être parvenues à convaincre les solutions de marché de transformer leurs produits pour le marché des Solidarités !
+*Aude et Élodie* - On est finalement assez fières de ne pas être parvenues à convaincre les éditeurs de solutions du marché de transformer leurs produits pour notre besoin spécifique dans le domaine des solidarités !
 
 Lors de notre phase de test, on a expérimenté des solutions de gestion de rendez-vous “clef en main”, notamment pour ne pas la citer : Doctolib. Cet outil faisait très bien le job sur le périmètre qu’on expérimentait. Les résultats étaient bons :
 
