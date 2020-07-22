@@ -51,7 +51,7 @@ Et puis quand c’est possible, on permet même de prendre des rendez-vous sur i
 
 Avec "RDV-solidarités" tu peux prendre rendez-vous sept jours sur sept et 24 heures sur 24 sans avoir à patienter sur un standard téléphonique.
 
-![Aperçu page d'acceuil](/img/posts/rdv-solidarite.png)
+![Aperçu page d’accueil](/img/posts/rdv-solidarite.png)
 
 ***Pour en savoir plus sur la Startup de Territoires [RDV-Solidarités](https://www.rdv-solidarites.fr/).***
 
