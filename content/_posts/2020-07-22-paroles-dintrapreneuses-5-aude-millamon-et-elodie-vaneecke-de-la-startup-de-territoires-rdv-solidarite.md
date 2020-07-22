@@ -43,7 +43,7 @@ Il faut savoir que les délais pour obtenir un rendez-vous sont parfois longs et
 
 Alors on envoie des textos et courriels de rappel pour éviter l’oubli de rendez-vous, et on encourage les usagers qui n’ont plus besoin de leur rendez-vous à annuler facilement pour pouvoir libérer la place pour d’autres usagers qui en ont besoin.
 
-Par effet ricochet, cela a pour effet de diminuer les délais d’obtention de rendez-vous. Tu sais le cercle vertueux papy 😉.
+Par effet ricochet, cela a pour effet de diminuer les délais d’obtention de rendez-vous. Tu sais le cercle vertueux papi 😉.
 
 Et puis quand c’est possible, on permet même de prendre des rendez-vous sur internet car pour joindre les services par téléphone c’est parfois compliqué.
 
