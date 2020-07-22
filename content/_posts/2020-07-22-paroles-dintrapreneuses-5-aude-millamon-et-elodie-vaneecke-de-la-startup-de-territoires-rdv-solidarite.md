@@ -33,11 +33,9 @@ excerpt: >-
 
 *Aude* - Je dirais à mon grand-père que ma mission est de permettre aux gens, comme toi, comme moi, de prendre rendez-vous par Internet avec les puéricultrices, les médecins, les assistantes sociales du Département. L'objectif est triple : 
 
-\- éviter d’attendre au standard,
-
-\- permettre d’avoir rendez-vous plus rapidement,
-
-\- surtout éviter que les gens oublient leurs rendez-vous !
+* éviter d’attendre au standard,
+* permettre d’avoir rendez-vous plus rapidement,
+* surtout éviter que les gens oublient leurs rendez-vous !
 
 *Élodie* - Je participe à la création et au déploiement d’une solution numérique de prise de rendez-vous. Il s'agit spécifiquement de "rendez-vous des solidarités" c'est-à-dire pour les rendez-vous avec une assistante sociale par exemple.
 
