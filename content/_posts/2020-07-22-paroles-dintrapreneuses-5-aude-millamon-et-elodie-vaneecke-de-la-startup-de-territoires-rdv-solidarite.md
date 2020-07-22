@@ -75,7 +75,7 @@ Lors de notre phase de test, on a expérimenté des solutions de gestion de rend
 
 On a donc souhaité aller plus loin avec Doctolib en leur proposant de couvrir d’autres types de rendez-vous comme le secteur social et pas seulement la santé. Finalement Doctolib n’a pas souhaité nous suivre car c’était hors de leur périmètre qu’est le secteur médical et para-médical.
 
-Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans possibilité de déployer un service car nous n'avons plus de solutions. C’est à partir de ce moment là, qu’un appel à manifestation d’intérêt a été lancé auprès d’autres Départements pour construire cet outil de prises de rendez-vous dans le champ des Solidarités. C’est comme ça que RDV Solidarités est né, avec actuellement 11 Départements impliqués.
+Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans possibilité de déployer un service car nous n'avions plus de solutions. C’est à partir de ce moment là, qu’un appel à manifestation d’intérêt a été lancé auprès d’autres Départements pour construire cet outil de prises de rendez-vous dans le champ des Solidarités. C’est comme ça que RDV Solidarités est né, avec actuellement 11 Départements impliqués.
 
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
