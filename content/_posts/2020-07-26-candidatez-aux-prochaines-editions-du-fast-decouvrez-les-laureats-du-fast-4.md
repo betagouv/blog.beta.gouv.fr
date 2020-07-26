@@ -65,10 +65,7 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 \- Produits déjà soutenus activement par l’administration porteuse.
 
-**[En savoir plus sur les lauréats et les comités d’investissement des 4 éditions du Fast.](https://beta.gouv.fr/fast/promotion/01-fast.html)**
-
 ![](/img/posts/2020_07_24_1200x675_fast-5-6_visuel_twitter.jpg)
-
 # Lancement des prochaines éditions du Fast
 
 **Les appels à candidatures de la 5ème et de la 6ème édition sont ouverts !**
@@ -79,4 +76,4 @@ Ces appels visent à soutenir des solutions numériques existantes, développée
 
 Cliquez ici [pour en savoir plus](https://beta.gouv.fr/fast/) et/ou [candidater](https://www.demarches-simplifiees.fr/commencer/fast4) sur l'une des deux sessions de septembre ou novembre. 
 
-Si vous êtes une administration et que vous identifiez un projet qui n’est pas éligible au FAST mais que vous souhaitez tout de même vous engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, vous pouvez passer par [le mode habituel de fonctionnement](https://beta.gouv.fr/content/docs/guide.pdf)et nous transmettre [une fiche produit](https://beta.gouv.fr/ficheproduit/) à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
+Si vous êtes une administration et que vous identifiez un projet qui n’est pas éligible au FAST mais que vous souhaitez tout de même vous engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, vous pouvez passer par [le mode habituel de fonctionnement](https://beta.gouv.fr/content/docs/guide.pdf) et nous transmettre [une fiche produit](https://beta.gouv.fr/ficheproduit/) à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
