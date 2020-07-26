@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Candidatez aux prochaines éditions du fast & découvrez les lauréats du
+title: " Candidatez aux prochaines éditions du Fast & découvrez les lauréats du
   Fast 4 !"
 date: 2020-07-26
 authors:
