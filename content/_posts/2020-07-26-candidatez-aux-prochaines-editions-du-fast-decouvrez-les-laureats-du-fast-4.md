@@ -16,10 +16,10 @@ excerpt: >-
   Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
 
 
-  [La 3ème édition en novembre 2019](https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/) avait permis d’aboutir au financement de [5 Startups d’État et de Territoires](https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/).
+  [La 3ème édition début 2020](https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/) avait permis d’aboutir au financement de [5 Startups d’État et de Territoires](https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/).
 
 
-  Découvrez dès aujourd'hui les lauréats de la 4ème édition et le lancement de la 5ème et de la 6ème édition !
+  Découvrez dès aujourd'hui les lauréats de la 4ème édition et le lancement des prochaines éditions !
 ---
 ## FAST - 4è édition
 
@@ -29,7 +29,9 @@ Cette appel à candidatures visait à soutenir des solutions numériques existan
 
 Nous avons reçu 11 candidatures issues de différentes administrations centrales et locales répondant à des problèmes concrets de terrain au plus près des besoins des utilisateurs.
 
-**10 dossiers ont été pré-sélectionnés** par beta.gouv.fr puis ont été revus par les membres du comité d’investissement. Au vu de la situation sanitaire exceptionnelle, la suite du comité d’investissement s’est faite à distance et 7 équipes sur les 10 ont souhaité présenter leur dossier à l'oral et répondre aux questions du comité d'investissement. 
+**10 dossiers ont été pré-sélectionnés** par beta.gouv.fr puis ont été revus par les membres du comité d’investissement. 
+Au vu de la situation sanitaire exceptionnelle, la suite du comité d’investissement s’est faite à distance.
+7 équipes sur les 10 ont souhaité présenter leur dossier à l'oral et répondre aux questions du comité d'investissement. 
 
 Les critères de présélection :
 
@@ -64,8 +66,6 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 \- Produits encore en amorçage (et non en phase de développement ou d’accélération) ;
 
 \- Produits déjà soutenus activement par l’administration porteuse.
-
-**[En savoir plus sur les lauréats et les comités d’investissement des 4 éditions du Fast.](https://beta.gouv.fr/fast/promotion/01-fast.html)**
 
 ![](/img/posts/2020_07_24_1200x675_fast-5-6_visuel_twitter.jpg)
 
