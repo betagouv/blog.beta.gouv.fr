@@ -1,8 +1,7 @@
 ---
 layout: post
-title: " Candidatez aux prochaines éditions du Fast & découvrez les lauréats du
-  Fast 4 !"
-date: 2020-07-26
+title: Découvrez les lauréats du Fast 4 & candidatez aux prochaines éditions !
+date: 2020-07-27
 authors:
   - jihane.herizi
 categories: dinsic
