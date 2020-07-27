@@ -53,7 +53,7 @@ Avec "RDV solidarités" tu peux prendre rendez-vous sept jours sur sept et 24 he
 
 ***Pour en savoir plus sur la Startup de Territoires [RDV Solidarités](https://www.rdv-solidarites.fr/).***
 
-## Quel conseil vous a manqué avant de démarrer comme intrapreneuses et qui finalement vous aurez bien aidé ?
+## Quel conseil vous a manqué avant de démarrer comme intrapreneuses et qui finalement vous aurait bien aidé ?
 
 *Élodie et Aude* - Désolé mais on n'a pas de réponses à cette question... On a cherché... C’est probablement parce qu’on a bien été coachée 😊.
 
@@ -91,9 +91,9 @@ Après cette expérimentation avec Doctolib, on s’est donc retrouvé sans poss
 
 *Aude* - Oui. C’est une expérience riche, valorisante, une belle parenthèse dans une carrière.
 
-## Si oui, quels recommandations donneriez-vous à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
+## Si oui, quelles recommandations donneriez-vous à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
-*Aude et Élodie* - Nous avons plusieurs :
+*Aude et Élodie* - Nous en avons plusieurs :
 
 * Discuter de sa frustration avec ses collègues pour voir si elle est partagée et si on tient un vrai problème de politique publique ;
 * Identifier des alliés sur qui s’appuyer ;
