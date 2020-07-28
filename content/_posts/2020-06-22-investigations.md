@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "beta.gouv.fr se mobilise pour vous aider à résoudre vos problèmes de politiques publiques !"
-date: 2020-06-22
+title: "beta.gouv.fr se mobilise pour vous aider à résoudre vos problèmes de politiques publiques ! [Prolongation jusqu'au 30 septembre]"
+date: 2020-07-26
 categories: dinsic
 image: /img/posts/investig-blog-beta.jpg
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   
 ---
 
-**Dans le cadre de la mobilisation nationale suite au COVID-19, les équipes de beta.gouv.fr renforcent leur accompagnement des administrations et agents publics pour les aider à résoudre des problèmes à fort impact social, économique ou environnemental. Soumettez-nous votre problème avant le 26 juillet !**
+**Dans le cadre de la mobilisation nationale suite au COVID-19, les équipes de beta.gouv.fr renforcent leur accompagnement des administrations et agents publics pour les aider à résoudre des problèmes à fort impact social, économique ou environnemental. Soumettez-nous votre problème avant le 26 juillet (Prolongation jusqu'au 30 septembre) !**
 
 beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que simplifier l’[accès aux démarches administratives](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html), [mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html), ou encore [développer le co-voiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html). 
 
@@ -21,6 +21,6 @@ Vous souhaitez en savoir plus ? Consultez notre [page dédiée au lancement d'in
 
 ![Photo](https://blog.beta.gouv.fr/img/posts/2020_06_18_1200x675_Twitter_BETA_INVESTIGATION.jpg)
 
-> Vous avez une idée de problème que vous souhaiteriez investiguer avec l'aide des équipes beta.gouv.fr ? Envoyez-nous un mail décrivant ce problème à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous pour en discuter. Les sollicitations reçues avant le 26 juillet seront traitées en priorité.
+> Vous avez une idée de problème que vous souhaiteriez investiguer avec l'aide des équipes beta.gouv.fr ? Envoyez-nous un mail décrivant ce problème à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un·e membre de l’équipe reviendra vers vous pour en discuter. Les sollicitations reçues avant le 26 juillet seront traitées en priorité (Prolongation des demandes jusqu'au 30 septembre).
 
 Cet appel est ouvert aux administrations d'Etat (centrales et déconcentrées) et aux collectivités territoriales. L'Agence Nationale de la Cohésion des Territoires (ANCT) pourra prendre en charge les investigations proposées par les collectivités.
