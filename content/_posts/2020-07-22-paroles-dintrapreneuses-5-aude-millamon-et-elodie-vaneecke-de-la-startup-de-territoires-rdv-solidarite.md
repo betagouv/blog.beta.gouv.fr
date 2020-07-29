@@ -2,7 +2,7 @@
 layout: post
 title: "Paroles d'intrapreneuses #5 : Aude Millamon et Elodie Vaneecke de la
   Startup de territoires RDV solidarité"
-date: 2020-07-22
+date: 2020-07-29
 authors:
   - aude.millamon
   - elodie.vaneecke
