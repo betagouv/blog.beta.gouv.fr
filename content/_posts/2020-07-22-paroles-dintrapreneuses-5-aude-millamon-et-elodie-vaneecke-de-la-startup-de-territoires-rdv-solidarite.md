@@ -10,8 +10,7 @@ authors:
 categories: dinsic
 image: /img/posts/parole-intrapreneuse-4-.jpg
 excerpt: >-
-  Depuis janvier 2018, Aude Millamon et Élodie Vaneecke forment un binôme
-  féminin inédit d'intrapreneuses au sein du[ Département du
+  Depuis janvier 2018, Aude Millamon et Élodie Vaneecke forment un binôme d'intrapreneuse inédit au sein du[ Département du
   Pas-de-Calais](https://www.pasdecalais.fr/). Elles ont lancé la Startup de
   territoires "[RDV Solidarités](https://beta.gouv.fr/startups/lapins.html)". 
 
