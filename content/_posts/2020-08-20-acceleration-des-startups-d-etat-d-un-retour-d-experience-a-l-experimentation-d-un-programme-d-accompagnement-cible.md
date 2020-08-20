@@ -4,7 +4,7 @@ title: "Accélération des startups d’État : d’un retour d’expérience à
   l’expérimentation d’un programme d’accompagnement ciblé"
 date: 2020-08-20
 authors:
-  - Mathieu Azar
+  - mathieu.azar
 categories: dinsic
 excerpt: Si le programme beta.gouv.fr affiche aujourd’hui des dizaines de
   réussites de construction de services publics innovants, les startups en phase
