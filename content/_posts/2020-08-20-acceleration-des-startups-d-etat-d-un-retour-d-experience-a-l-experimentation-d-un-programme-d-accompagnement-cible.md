@@ -41,6 +41,8 @@ A titre d'exemple, la startup d'État [Place des entreprises](https://place-des-
 
 Cette phase s’achève par un comité où l’administration porteuse décide ou non de la pérennisation du service, si son utilité à large échelle est avérée.
 
+
+
 2. **L’expérience de l’accélération dans les startups d’État**
 
 Les startups d’État en phase d’accélération présentent une grande diversité, dans leur déploiement géographique initial (départemental, régional, national), leur typologie de marché cible (administration, grandes entreprises, PME, usagers finaux), leur degré de relation avec l’administration sponsor, ou encore leur dépendance à des évolutions législatives/réglementaires.
@@ -56,6 +58,8 @@ Dès lors, un rapide tour d’horizon des startups en accélération montre que 
 * ~ ⅔ ont effectivement prouvé la valeur de leur produit auprès de premiers utilisateurs récurrents ;
 * ~ ⅓ ont une métrique d'impact identifiée, suivie en partenariat avec leur sponsor avec un objectif de croissance ;
 * ~ ⅔ ont une équipe organisée et construite pour porter leur croissance.
+
+
 
 3. **Vers l’expérimentation d’un programme d’accompagnement ciblé**
 
