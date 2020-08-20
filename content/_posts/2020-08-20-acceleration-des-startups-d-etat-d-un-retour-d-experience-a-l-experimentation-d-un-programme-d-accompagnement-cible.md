@@ -5,7 +5,7 @@ title: "Accélération des startups d’État : d’un retour d’expérience à
 date: 2020-08-20
 authors:
   - Mathieu Azar
-categories: general
+categories: dinsic
 excerpt: Si le programme beta.gouv.fr affiche aujourd’hui des dizaines de
   réussites de construction de services publics innovants, les startups en phase
   d’accélération se heurtent-elles régulièrement à des difficultés dans leur
