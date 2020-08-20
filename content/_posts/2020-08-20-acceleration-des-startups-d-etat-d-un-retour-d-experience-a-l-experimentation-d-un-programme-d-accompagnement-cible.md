@@ -21,9 +21,8 @@ excerpt: Si le programme beta.gouv.fr affiche aujourd’hui des dizaines de
 
 ***Occasion d’un retour d’expérience sur l’accélération des startups d’État.***
 
-
-
-1. **Qu’est-ce qu’une phase d’accélération chez beta.gouv.fr ?**
+### 1. Qu’est-ce qu’une phase d’accélération chez beta.gouv.fr ?
+---
 
 La phase d’accélération s’appuie sur les acquis d’une phase de construction, c’est à dire la création d’un service fonctionnel, validé par des premiers usagers. D’une durée d’1 an environ, et soumise à la décision de refinancement de l’administration porteuse, cette phase vise à structurer l’équipe, le produit, et les métriques utilisées autour d’un objectif : un déploiement à plus large échelle, pour amplifier l'impact final du produit ou du service.
 
@@ -42,8 +41,8 @@ A titre d'exemple, la startup d'État [Place des entreprises](https://place-des-
 Cette phase s’achève par un comité où l’administration porteuse décide ou non de la pérennisation du service, si son utilité à large échelle est avérée.
 
 
-
-2. **L’expérience de l’accélération dans les startups d’État**
+### 2. L’expérience de l’accélération dans les startups d’État
+---
 
 Les startups d’État en phase d’accélération présentent une grande diversité, dans leur déploiement géographique initial (départemental, régional, national), leur typologie de marché cible (administration, grandes entreprises, PME, usagers finaux), leur degré de relation avec l’administration sponsor, ou encore leur dépendance à des évolutions législatives/réglementaires.
 
@@ -61,7 +60,8 @@ Dès lors, un rapide tour d’horizon des startups en accélération montre que 
 
 
 
-3. **Vers l’expérimentation d’un programme d’accompagnement ciblé**
+### 3. Vers l’expérimentation d’un programme d’accompagnement ciblé
+---
 
 Le besoin d’un accompagnement spécifique et adapté à la phase d’accélération se dessine ainsi. Cet accompagnement doit s’articuler en cohérence avec [les valeurs piliers de beta.gouv.fr](https://beta.gouv.fr/approche/manifeste), auxquelles les startups d’État ont ré-exprimé leur fort attachement au cours de ce retour d’expérience : la priorisation des besoins utilisateurs, conserver une démarche itérative, et un mode de gestion reposant sur la confiance et l’autonomie des équipes.
 
