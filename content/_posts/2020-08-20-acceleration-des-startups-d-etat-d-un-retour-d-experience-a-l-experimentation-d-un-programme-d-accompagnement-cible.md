@@ -6,7 +6,7 @@ date: 2020-08-20
 authors:
   - mathieu.azar
 categories: dinsic
-image: /img/posts/screenshot-2020-08-20-at-16.07.37.png
+image: /img/posts/screenshot-2020-08-20-at-16.10.34.png
 excerpt: Si le programme beta.gouv.fr affiche aujourd’hui des dizaines de
   réussites de construction de services publics innovants, les startups en phase
   d’accélération se heurtent-elles régulièrement à des difficultés dans leur
