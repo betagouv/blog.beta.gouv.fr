@@ -7,7 +7,7 @@ authors:
   - mathieu.azar
 categories: dinsic
 image: /img/posts/screenshot-2020-08-20-at-16.15.15.png
-excerpt: Test Si le programme beta.gouv.fr affiche aujourd’hui des dizaines de
+excerpt: Si le programme beta.gouv.fr affiche aujourd’hui des dizaines de
   réussites de construction de services publics innovants, les startups en phase
   d’accélération se heurtent-elles régulièrement à des difficultés dans leur
   déploiement à large échelle. Ce constat rapide a conduit la communauté à
