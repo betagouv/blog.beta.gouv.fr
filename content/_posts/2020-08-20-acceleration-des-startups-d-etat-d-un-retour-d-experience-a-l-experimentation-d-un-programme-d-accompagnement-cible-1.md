@@ -36,7 +36,7 @@ La phase d’accélération s’appuie sur les acquis d’une phase de construct
 
 A titre d’exemple, la startup d’État [Place des entreprises](https://place-des-entreprises.beta.gouv.fr/), qui permet de mettre en relation via un accès unique les TPE & PME avec les experts compétents au sein de l’administration, quel que soit le besoin, est présentement entrée en phase d’accélération :
 
-* **Adéquation produit/marché :** initialement lancé dans la région Hauts de France uniquement, le service regroupe aujourd’hui plus de 50 partenaires administratifs, et traite près de 1000 sollicitations par mois émanant de TPE & PME. Il s’apprête à être déployé dans 4 nouvelles régions d’ici la fin de l’année ;
+* **Adéquation produit/marché :** initialement lancé dans la région Hauts de France uniquement, le service regroupe aujourd’hui plus de 50 partenaires administratifs, et traite jusqu'à près de 1000 sollicitations par mois émanant de TPE & PME. Il s’apprête à être déployé dans 4 nouvelles régions d’ici la fin de l’année ;
 * **Mesure d’impact :** celui est mesuré à l’aune du nombre d’entreprises aidées et du nombre de sollicitations traitées (mise en relation avec l’expert approprié dans la bonne administration), et sous tend ainsi les gains de temps et financiers réalisés. L’objectif est fixé à 1000 sollicitations traitées par mois et par région, avec un déploiement national à moyen terme ;
 * **Organisation de l’équipe :** composée de 2 développeurs, 1 chargé de déploiement, 1 chargé du support usagers, 1 chargé d’acquisition numérique, et suivie par un coach, l’équipe est structurée avec des rôles clairs, des rituels, et des processus déterminés et en voie d’automatisation. Les objectifs de recrutement pour le déploiement national sont également fixés.
 
