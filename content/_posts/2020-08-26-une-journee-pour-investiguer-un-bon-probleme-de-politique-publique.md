@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Formez-vous une journée pour apprendre à investiguer un problème de
-  politique publique ! "
+title: "Une journée pour apprendre à investiguer un problème de politique publique ! "
 date: 2020-08-26
 authors:
   - jihane.herizi
