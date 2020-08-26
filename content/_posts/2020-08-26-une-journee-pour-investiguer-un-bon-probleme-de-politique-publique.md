@@ -15,7 +15,9 @@ excerpt: >-
   Elle reste aujourd'hui la meilleure façon de découvrir la méthode Startup d’État et se destine aux acteurs de l’innovation du secteur public, membres d’une Startup d’État ou désireux d’en créer une.
 
 
-  Vous avez envie de résoudre un problème de politique publique à travers un service numérique et vous ne savez pas comment vous lancer ? Le 22 septembre, une édition alpha spéciale aura lieu en ligne toute la journée pour (re)découvrir nos méthodes beta.gouv.fr et comment tirer partie de notre nouveau programme d'investigation.
+  Vous avez envie de résoudre un problème de politique publique à travers un service numérique et vous ne savez pas comment vous lancer ? 
+
+  Le 22 septembre, une édition alpha spéciale aura lieu en ligne toute la journée pour (re)découvrir nos méthodes beta.gouv.fr et comment tirer partie de notre nouveau programme d'investigation.
 ---
 Comment les Startups d'Etat et de Territoires se sont construites et fonctionnent ?
 
