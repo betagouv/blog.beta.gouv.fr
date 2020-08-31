@@ -28,4 +28,4 @@ Dans un format collectif en début de journée puis en sous-groupes, vous aurez 
 * identifier vos forces et difficultés pour intégrer le programme ;
 * réfléchir à la façon d'approcher vos (futurs) utilisateurs pour valider votre problème et, par la suite, créer un prototype de solution à présenter à un comité d'investissement.
 
-De 9h15 à 17h, cette formation aura lieu en ligne et est accessible gratuitement à toute personne intéressée qui se sera inscrite [ici](https://startupdetat.typeform.com/to/eyxj5keL) et aura reçu un mail de confirmation.
+De 9h15 à 17h, cette formation aura lieu en ligne et est accessible gratuitement à toute personne intéressée qui se sera inscrite [ici](https://startupdetat.typeform.com/to/eyxj5keL) avant le 15 septembre 2020 et aura reçu un mail de confirmation.
