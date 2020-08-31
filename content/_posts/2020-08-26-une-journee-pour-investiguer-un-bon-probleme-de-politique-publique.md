@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Une journée pour apprendre à investiguer un problème de politique publique ! "
-date: 2020-08-26
+date: 2020-08-31
 authors:
   - jihane.herizi
 categories: dinsic
