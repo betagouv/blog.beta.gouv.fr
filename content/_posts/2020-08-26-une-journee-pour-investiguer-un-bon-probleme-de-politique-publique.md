@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Une journée pour apprendre à investiguer un problème de politique publique ! "
-date: 2020-08-26
+date: 2020-08-31
 authors:
   - jihane.herizi
 categories: dinsic
@@ -18,7 +18,7 @@ excerpt: >-
 
 **Comment postuler à [notre programme d'investigation](https://beta.gouv.fr/approche/investigation) de 9 semaines et bénéficier d'un financement et soutien de notre Direction Interministérielle ?**
 
-Dans un format collectif en début de journée puis en sous-groupes, vous aurez toutes les réponses à ces questions avant d'apprendre :
+Dans un format collectif en début de journée puis entouré d'un.e coach en sous-groupes l'après-midi, vous aurez toutes les réponses à ces questions avant d'apprendre :
 
 * à (re)formuler le problème de politique publique que vous souhaitez résoudre ;
 * identifier vos forces et difficultés pour intégrer le programme ;
