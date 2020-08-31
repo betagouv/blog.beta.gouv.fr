@@ -26,7 +26,7 @@ Dans un format collectif en début de journée puis entouré d'un.e coach en sou
 
 **De 9h15 à 17h, cette formation Alpha* spéciale investigation aura lieu le 22 septembre en ligne.** 
 
-Elle est accessible gratuitement à toute personne intéressée qui se sera** [inscrite ici](https://startupdetat.typeform.com/to/eyxj5keL) avant le 15 septembre 2020** et aura reçu un mail de confirmation.
+Elle est accessible gratuitement à toute personne intéressée qui se sera [inscrite ici](https://startupdetat.typeform.com/to/eyxj5keL) avant le 15 septembre 2020 et aura reçu un mail de confirmation.
 
 *\*Depuis 2 ans, [Alpha](https://beta.gouv.fr/approche/formation) est la formation accélérée aux méthodes de la communauté beta.gouv.fr. 
 Elle est destinée à accompagner les nouvelles Startups d’État et de Territoires et leurs intrapreneurs.
