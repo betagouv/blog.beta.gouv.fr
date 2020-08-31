@@ -12,22 +12,19 @@ excerpt: >-
 
   Le 22 septembre, une formation alpha spéciale aura lieu, en ligne, toute la journée pour (re)découvrir nos méthodes beta.gouv.fr et comment tirer partie de notre nouveau programme d'investigation.
 ---
-Depuis 2 ans, Alpha est la formation accélérée aux méthodes de la communauté beta.gouv.fr. 
+Depuis 2 ans, [Alpha](https://beta.gouv.fr/approche/formation) est la formation accélérée aux méthodes de la communauté beta.gouv.fr. 
 Elle est destinée à accompagner les nouvelles Startups d’État et de Territoires et leurs intrapreneurs.
 Elle reste aujourd'hui la meilleure façon de découvrir la méthode Startup d’État et se destine aux acteurs de l’innovation du secteur public, membres d’une Startup d’État ou désireux d’en créer une.
 
-Comment les Startups d'Etat et de Territoires se sont construites et fonctionnent ?
+**Comment les Startups d'Etat et de Territoires se sont construites et fonctionnent depuis 7 ans ?**
 
-Comment formuler et investiguer un bon problème de politique publique ? 
+**Comment formuler et investiguer un bon problème de politique publique ?** 
 
-Comment postuler à [notre programme d'investigation](https://beta.gouv.fr/approche/investigation) de 9 semaines et bénéficier d'un financement et soutien de notre Direction Interministérielle ?
+**Comment postuler à [notre programme d'investigation](https://beta.gouv.fr/approche/investigation) de 9 semaines et bénéficier d'un financement et soutien de notre Direction Interministérielle ?**
 
-Dans un format collectif en début de journée puis en sous-groupes, vous aurez la possibilité de :
+Dans un format collectif en début de journée puis en sous-groupes, vous aurez toutes les réponses à ces questions avant d'apprendre :
 
-* poser toutes vos questions ;
-* entendre des retours d'expérience ;
-* découvrir notre travail ;
-* (re)formuler le problème de politique publique que vous souhaitez résoudre ;
+* à (re)formuler le problème de politique publique que vous souhaitez résoudre ;
 * identifier vos forces et difficultés pour intégrer le programme ;
 * réfléchir à la façon d'approcher vos (futurs) utilisateurs pour valider votre problème et, par la suite, créer un prototype de solution à présenter à un comité d'investissement.
 
