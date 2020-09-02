@@ -46,7 +46,7 @@ Les critères de présélection :
 4. [CarbuRe,](https://carbure.beta.gouv.fr/) gestion centralisée des flux de biocarburants.
 5. [Potentiel](https://beta.gouv.fr/startups/potentiel.html), accompagner le déploiement des projets d’énergies renouvelables électriques.
 
-Les 4 derniers lauréats sont issus de la [Fabrique Numérique du Ministère de la Transition Écologique et Solidaire & du Ministère de la Cohésion des Territoires.](<1. https://beta.gouv.fr/incubateurs/mtes.html>)
+Les 4 derniers lauréats sont issus de la [Fabrique Numérique du Ministère de la Transition Écologique et Solidaire & du Ministère de la Cohésion des Territoires.](https://beta.gouv.fr/incubateurs/mtes.html)
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur le développement et/ou le déploiement et d’accompagner l’équipe pour:
 
