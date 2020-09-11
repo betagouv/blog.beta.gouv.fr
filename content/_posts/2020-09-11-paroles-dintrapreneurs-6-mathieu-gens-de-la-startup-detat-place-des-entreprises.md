@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paroles d'intrapreneurs #6 : Mathieu Gens de la Startup d'Etat Place des
-  entreprises"
+  Entreprises"
 date: 2020-09-15
 authors:
   - mathieu.gens
@@ -12,7 +12,7 @@ excerpt: >-
   Depuis 2017, Mathieu Gens est intrapreneur à la [direction générale des
   entreprises](https://www.entreprises.gouv.fr/fr/la-direction-generale-des-entreprises-dge)
   (DGE).  Après avoir démarré la Startup d’État "[Place des
-  entreprises](https://place-des-entreprises.beta.gouv.fr/)" dans la région
+  Entreprises](https://place-des-entreprises.beta.gouv.fr/)" dans la région
   Haut-de-France, il pilote aujourd'hui son déploiement national entouré d'une
   équipe dédiée.
 
@@ -24,7 +24,7 @@ excerpt: >-
 ---
 ![Mathieu Gens](/img/posts/mathier-gens-image-reduite.jpg "Mathieu Gens")
 
-## Que faisais-tu avant d’être intrapreneuse/eur ?
+## Que faisais-tu avant d’être intrapreneur ?
 
 J’étais conseiller de service public en entreprises sur le Calaisis. Au quotidien, j’échangeais avec des dirigeants de TPE et PME pour savoir quels étaient leurs projets ou leurs difficultés. Je pouvais ainsi leur proposer mon aide ou celles d'autres partenaires publics.
 
@@ -42,16 +42,18 @@ Pour faire simple, le service Place des Entreprises fait en sorte que ces dirige
 
 Place des Entreprises est un service éminemment partenarial. Durant cette aventure, un des 40 partenaires actuels freinait des quatre fers dans dans le déploiement du service. C’était potentiellement un trou dans la raquette en termes d’expertise et une ressource pertinente en moins pour les chefs d'entreprises qui nous contactent. Heureusement, on a réussi à lever cet obstacle.
 
-![Les partenaires de Place des entreprises](/img/posts/partenaires-place-des-entreprises.jpg)
+### Les partenaires de Place des Entreprises
+![Les partenaires de Place des Entreprises](/img/posts/partenaires-place-des-entreprises.jpg)
 
 ## Quel est l’échec durant cette expérience dont tu es le plus fier ?
 
-L'échec dont je suis le plus fier est certainement ma toute première présentation devant un comité de haut niveau. Elle était juste catastrophique. C’était mon deuxième jour et, même si je n’étais pas novice, je me mettais une pression monstre. Depuis, je n’ai fait que progresser grâce à beta.gouv.fr car un passage en startup d’Etat c’est une formation en continue et une montée en compétence fulgurante.
+L'échec dont je suis le plus fier est certainement ma toute première présentation devant un comité de haut niveau. Elle était juste catastrophique. C’était mon deuxième jour et, même si je n’étais pas novice, je me mettais une pression monstre. Depuis, je n’ai fait que progresser grâce à beta.gouv.fr car un passage en startup d’État c’est une formation en continue et une montée en compétence fulgurante.
 
 ## Quelle est la qualité essentielle pour réussir comme intrapreneur ?
 
 Il faut vivre cette aventure avec passion mais aussi s’entourer de personnes passionnées. D'après moi, c’est un sentiment qui est très bien perçu et qui traduit à la fois la détermination et la confiance.
 
+### L'interview découverte de Place des Entreprises
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hSftys3y9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
