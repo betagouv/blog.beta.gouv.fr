@@ -22,7 +22,7 @@ excerpt: >-
 
   Nous lui avons demandé de nous raconter son expérience.
 ---
-![](/img/posts/mathier-gens-image-reduite.jpg "Mathieu Gens")
+![Mathieu Gens](/img/posts/mathier-gens-image-reduite.jpg "Mathieu Gens")
 
 ## Que faisais-tu avant d’être intrapreneuse/eur ?
 
@@ -42,7 +42,7 @@ Pour faire simple, le service Place des Entreprises fait en sorte que ces dirige
 
 Place des Entreprises est un service éminemment partenarial. Durant cette aventure, un des 40 partenaires actuels freinait des quatre fers dans dans le déploiement du service. C’était potentiellement un trou dans la raquette en termes d’expertise et une ressource pertinente en moins pour les chefs d'entreprises qui nous contactent. Heureusement, on a réussi à lever cet obstacle.
 
-![](/img/posts/partenaires-place-des-entreprises.jpg)
+![Les partenaires de Place des entreprises](/img/posts/partenaires-place-des-entreprises.jpg)
 
 ## Quel est l’échec durant cette expérience dont tu es le plus fier ?
 
