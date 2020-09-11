@@ -2,7 +2,7 @@
 layout: post
 title: "Paroles d'intrapreneurs #6 : Mathieu Gens de la Startup d'Etat Place des
   entreprises"
-date: 2020-09-11
+date: 2020-09-15
 authors:
   - mathieu.gens
   - lery.jicquel
