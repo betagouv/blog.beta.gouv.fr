@@ -42,7 +42,7 @@ Pour faire simple, le service Place des Entreprises fait en sorte que ces dirige
 
 Place des Entreprises est un service éminemment partenarial. Durant cette aventure, un des 40 partenaires actuels freinait des quatre fers dans dans le déploiement du service. C’était potentiellement un trou dans la raquette en termes d’expertise et une ressource pertinente en moins pour les chefs d'entreprises qui nous contactent. Heureusement, on a réussi à lever cet obstacle.
 
-### Les partenaires de Place des Entreprises
+#### Les partenaires de Place des Entreprises
 ![Les partenaires de Place des Entreprises](/img/posts/partenaires-place-des-entreprises.jpg)
 
 ## Quel est l’échec durant cette expérience dont tu es le plus fier ?
@@ -53,7 +53,7 @@ L'échec dont je suis le plus fier est certainement ma toute première présenta
 
 Il faut vivre cette aventure avec passion mais aussi s’entourer de personnes passionnées. D'après moi, c’est un sentiment qui est très bien perçu et qui traduit à la fois la détermination et la confiance.
 
-### L'interview découverte de Place des Entreprises
+#### L'interview découverte de Place des Entreprises
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hSftys3y9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
