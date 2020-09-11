@@ -7,6 +7,7 @@ authors:
   - mathieu.gens
   - lery.jicquel
 categories: dinsic
+image: /img/posts/parole-intrapreneuse-5-.jpg
 excerpt: >-
   Depuis 2017, Mathieu Gens est intrapreneur à la [direction générale des
   entreprises](https://www.entreprises.gouv.fr/fr/la-direction-generale-des-entreprises-dge)
