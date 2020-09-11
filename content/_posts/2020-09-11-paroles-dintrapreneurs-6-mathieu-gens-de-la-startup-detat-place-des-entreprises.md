@@ -21,7 +21,7 @@ excerpt: >-
 
   Nous lui avons demandé de nous raconter son expérience.
 ---
-![](/img/posts/mathieu.gens.jpg)
+![](/img/posts/mathieu.gens.jpg "Mathieu Gens")
 
 ## Que faisais-tu avant d’être intrapreneuse/eur ?
 
@@ -41,6 +41,8 @@ Pour faire simple, le service Place des Entreprises fait en sorte que ces dirige
 
 Place des Entreprises est un service éminemment partenarial. Durant cette aventure, un des 40 partenaires actuels freinait des quatre fers dans dans le déploiement du service. C’était potentiellement un trou dans la raquette en termes d’expertise et une ressource pertinente en moins pour les chefs d'entreprises qui nous contactent. Heureusement, on a réussi à lever cet obstacle.
 
+![](/img/posts/partenaires-place-des-entreprises.jpg)
+
 ## Quel est l’échec durant cette expérience dont tu es le plus fier ?
 
 L'échec dont je suis le plus fier est certainement ma toute première présentation devant un comité de haut niveau. Elle était juste catastrophique. C’était mon deuxième jour et, même si je n’étais pas novice, je me mettais une pression monstre. Depuis, je n’ai fait que progresser grâce à beta.gouv.fr car un passage en startup d’Etat c’est une formation en continue et une montée en compétence fulgurante.
@@ -48,6 +50,8 @@ L'échec dont je suis le plus fier est certainement ma toute première présenta
 ## Quelle est la qualité essentielle pour réussir comme intrapreneur ?
 
 Il faut vivre cette aventure avec passion mais aussi s’entourer de personnes passionnées. D'après moi, c’est un sentiment qui est très bien perçu et qui traduit à la fois la détermination et la confiance.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_hSftys3y9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
 
@@ -57,7 +61,7 @@ Forcément ! Je suis déjà même parfois nostalgique quand je m’imagine faire
 
 Il faut en parler à ton entourage. D’échanges en échanges, tu finiras par trouver une oreille attentive qui aura du poids. Mais pour cela faut se lancer et surtout TENTER !
 
-___
+- - -
 
 #### *Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?*
 
