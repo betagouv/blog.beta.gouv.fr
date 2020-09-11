@@ -56,6 +56,7 @@ Il faut vivre cette aventure avec passion mais aussi s’entourer de personnes p
 #### L'interview découverte de Place des Entreprises
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hSftys3y9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ?
 
 Forcément ! Je suis déjà même parfois nostalgique quand je m’imagine faire autre chose dans quelques années… C’est dire à quel point c’est intense. J’ai beaucoup de chance et j’en suis conscient. Je remercie régulièrement ceux qui ont cru en moi. Je pense qu’on ne vit ça qu’une seule fois dans sa carrière professionnelle.
