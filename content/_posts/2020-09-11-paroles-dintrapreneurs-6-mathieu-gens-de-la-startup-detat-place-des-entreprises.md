@@ -22,7 +22,7 @@ excerpt: >-
 
   Nous lui avons demandé de nous raconter son expérience.
 ---
-![Mathieu Gens](/img/posts/mathier-gens-image-reduite.jpg "Mathieu Gens")
+![Mathieu Gens](/img/posts/mathieu-gens.png "Mathieu Gens")
 
 ## Que faisais-tu avant d’être intrapreneur ?
 
