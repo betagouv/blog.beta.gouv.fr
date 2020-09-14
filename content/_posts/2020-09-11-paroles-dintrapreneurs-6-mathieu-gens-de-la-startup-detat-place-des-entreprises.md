@@ -17,7 +17,7 @@ excerpt: >-
   équipe dédiée.
 
 
-  2020 a été une année inédite sous tout rapport. Au front pour aider les entreprises durant la pandémie de la COVID, ce service public numérique permet un accès rapide et direct aux bons conseillers pour les chefs d'entreprise sollicitant de l'aide des pouvoirs publics.
+  2020 a été une année très chargée pour lui et son équipe. Ce service public numérique permet un accès rapide et direct aux bons conseillers pour les chefs d'entreprise sollicitant de l'aide des pouvoirs publics.
 
 
   Nous lui avons demandé de nous raconter son expérience.
