@@ -30,7 +30,7 @@ J’étais conseiller de service public en entreprises sur le Calaisis. Au quoti
 
 J’assurais, dans le même esprit, l’animation d’un réseau d’une dizaine de partenaires. Ensemble, on était forcément plus forts.
 
-## Comment expliquerais-tu cette mission à “ta grand-mère” ?
+## Comment expliquerais-tu cette mission à “ton grand-père” ?
 
 Je lui dirais : "Tu sais, la vie de dirigeant d’entreprise c’est toute une aventure. Rien n’est facile. Il y a des hauts, des bas, l’incertitude sur l’avenir. Cela a des impacts sur la santé financière de l’entreprise et sur l’emploi.
 
