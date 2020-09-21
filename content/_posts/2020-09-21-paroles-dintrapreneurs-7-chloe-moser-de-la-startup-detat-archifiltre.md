@@ -3,7 +3,6 @@ layout: post
 title: " Paroles d'intrapreneurs #7 : Chloé Moser de la Startup d'Etat Archifiltre"
 date: 2020-09-21
 authors:
-  - chloe.moser
   - lery.jicquel
 categories: sgmas
 image: /img/posts/parole-intrapreneuse.jpg
