@@ -6,6 +6,7 @@ authors:
   - chloé.moser
   - lery.jicquel
 categories: sgmas
+image: /img/posts/parole-intrapreneuse.jpg
 excerpt: >-
   Depuis 2018, Chloé Moser est intrapreneuse à la Mission des archives de France
   auprès des [ministères sociaux](https://solidarites-sante.gouv.fr/).
