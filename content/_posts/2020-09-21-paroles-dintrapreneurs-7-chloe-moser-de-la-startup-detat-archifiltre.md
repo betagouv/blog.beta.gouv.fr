@@ -13,7 +13,7 @@ excerpt: >-
   Général](https://entrepreneur-interet-general.etalab.gouv.fr/), la Startup
   d'Etat [Archifilte](https://archifiltre.fabrique.social.gouv.fr/) vise à
   "améliorer la mémoire des politiques sociales". Actuellement hébergée au sein
-  de la Fabrique numérique des ministères sociaux, le produit poursuit son
+  de la [Fabrique numérique des ministères sociaux](https://www.fabrique.social.gouv.fr/), le produit poursuit son
   amélioration continue.
 
 
