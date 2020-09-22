@@ -60,19 +60,22 @@ Au-delà de sa « typologie », et parce que la réussite d'un produit repose 
 - Il défend également le produit auprès des décideurs pour relancer une itération si nécessaire.
 
 **Risques**
+
 Les principaux risques sont liés à une mauvaise intégration ou identification de l'intrapreneur. Si le reste de l'équipe attend beaucoup de lui, elle se doit elle aussi d'être à la hauteur de ses exigences :
 
-#### Absence ou non implication de l'intrapreneur
+*Absence ou non implication de l'intrapreneur*
+
 Si l'intrapreneur n'est pas assidu, le produit a de forte chance d'en pâtir. Les décisions prisent le seront par le reste de l'équipe, sans concertation avec un représentant de l'entité porteuse du produit. Le lien entre le produit et celle-ci se rompt et des incompréhensions peuvent apparaître sur les choix et orientations pris. Une remise en cause de ce qui a été développé peut également apparaître.
 
-#### Non-intégration de l'intrapreneur
+*Non-intégration de l'intrapreneur*
+
 Bien que membre à part entière de l'équipe, l'intrapreneur est aussi, par nature, le moins disponible. Si l'équipe ne l'implique pas suffisamment aux réunions et aux décisions de nombreux effet pervers peuvent apparaître :
 
 - Une relation client prestataire peut émerger. Il apparaîtra aux yeux du reste de l'équipe comme un donneur d'ordre déconnecté du produit, ce qui peut générer des tensions et une baisse de la motivation et du dynamisme de l'équipe ;
 - Il ne se sent plus impliqué, ce qui revient aux mêmes problèmes que s'il était absent ;
 - Il ne défendra pas autant la pérennité du produit que s'il était engagé ;
 
-#### Décalage de l'intrapreneur avec les méthodes de l'incubateur
+*Décalage de l'intrapreneur avec les méthodes de l'incubateur*
 Il s'agit peut-être d'un des risques les plus fréquents. Les intrapreneurs ne sont, pour leur grande majorité, ni issus du monde de la conception de produits numériques, ni rompus aux méthodologies _Agile_.
 Il peut y avoir un décalage dans les attentes de chaque étape et les méthodes appliquées.
 
