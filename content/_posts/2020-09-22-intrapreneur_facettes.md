@@ -30,7 +30,7 @@ Ceux sont les intrapreneurs qui sont également utilisateurs finals du produit.
 **Inconvénients**
 
 - Ils peuvent ne représenter qu'une partie des typologies des utilisateurs cibles, ce qui peut être un biais. Il faut donc compenser leur position avec les informations d'autres utilisateurs ;
-- Ils sont davantage dans une logique à court terme et tournés vers une réalisation du problème rapidement. La vision du produit et son évolution à long terme est moins portée par eux ;
+- Ils sont davantage dans une logique à court terme et tournés vers une réalisation rapide du problème. La vision du produit et son évolution à long terme est moins portée par eux ;
 - Une fois le PMV en place, l'ouverture vers d'autres utilisateurs les implique un peu moins car ils peuvent se sentir moins concernés.
 
 ## Les « intrapreneurs-visionnaires »
@@ -56,43 +56,37 @@ Au-delà de sa « typologie », et parce que la réussite d'un produit repose 
 - Membre à part entière de l'équipe, il participe à la création du produit à toutes les étapes de la vie de celui-ci ;
 - Ambassadeur du produit, l'intrapreneur doit le promouvoir autour de lui et auprès de sa hiérarchie ;
 - Il est un facilitateur entre l'équipe produit et l'ensemble des utilisateurs cibles. Il doit aider à identifier ceux-ci pour les tests et pour les lancements de version bêta ;
-- Garant des décisions prises, il est un lien important entre le produit visé et sa hiérarchie/direction ;
+- Garant des décisions prises, il est un lien important entre le produit visé et sa direction ;
 - Il défend également le produit auprès des décideurs pour relancer une itération si nécessaire.
 
 **Risques**
 
-Les principaux risques sont liés à une mauvaise intégration ou identification de l'intrapreneur. Si le reste de l'équipe attend beaucoup de lui, elle se doit elle aussi d'être à la hauteur de ses exigences :
+Les principaux risques sont liés à une mauvaise intégration ou identification de l'intrapreneur.
 
-*Absence ou non implication de l'intrapreneur*
+*Manque d'implication de l'intrapreneur*
 
 Si l'intrapreneur n'est pas assidu, le produit a de forte chance d'en pâtir. Les décisions prisent le seront par le reste de l'équipe, sans concertation avec un représentant de l'entité porteuse du produit. Le lien entre le produit et celle-ci se rompt et des incompréhensions peuvent apparaître sur les choix et orientations pris. Une remise en cause de ce qui a été développé peut également apparaître.
 
-*Non-intégration de l'intrapreneur*
+*Manque d'intégration de l'intrapreneur*
 
-Bien que membre à part entière de l'équipe, l'intrapreneur est aussi, par nature, le moins disponible. Si l'équipe ne l'implique pas suffisamment aux réunions et aux décisions de nombreux effet pervers peuvent apparaître :
-
-- Une relation client prestataire peut émerger. Il apparaîtra aux yeux du reste de l'équipe comme un donneur d'ordre déconnecté du produit, ce qui peut générer des tensions et une baisse de la motivation et du dynamisme de l'équipe ;
-- Il ne se sent plus impliqué, ce qui revient aux mêmes problèmes que s'il était absent ;
-- Il ne défendra pas autant la pérennité du produit que s'il était engagé ;
+Bien que membre à part entière de l'équipe, l'intrapreneur est aussi, par nature, le moins disponible. Si l'équipe ne l'implique pas suffisamment aux réunions et aux décisions, une relation client/prestataire risque d'émerger. L'intrapreneur apparaîtra aux yeux du reste de l'équipe comme un donneur d'ordre déconnecté du produit, ce qui peut générer des tensions et une baisse de la motivation et du dynamisme de l'équipe.
 
 *Décalage de l'intrapreneur avec les méthodes de l'incubateur*
-Il s'agit peut-être d'un des risques les plus fréquents. Les intrapreneurs ne sont, pour leur grande majorité, ni issus du monde de la conception de produits numériques, ni rompus aux méthodologies _Agile_.
-Il peut y avoir un décalage dans les attentes de chaque étape et les méthodes appliquées.
+Il s'agit peut-être d'un des risques les plus fréquents. Les intrapreneurs ne sont, dans leur grande majorité, ni issus du monde de la conception de produits numériques, ni rompus aux méthodologies _Agile_. Il peut y avoir un décalage dans les attentes de chaque étape et les méthodes appliquées.
 
-En outre, et de façon très humaine, l'intrapreneur arrive également avec une idée claire de la solution qu'il souhaite. Idée qui ne sera pas toujours (voire rarement) l'idée finale du produit.
+En outre, et de façon très humaine, l'intrapreneur arrive également avec une idée claire de la solution qu'il souhaite. Idée qui ne sera pas toujours (voire rarement) l'idée finale du produit. Ce décalage peut générer incompréhensions et mésententes, et finalement conduire à de la frustration.
 
-Ce décalage peut générer des incompréhensions et mésententes, et finalement conduire à une frustration.
+**Contraintes**
 
-## Les contraintes aux rôles du intrapreneurs
 Revêtir le rôle de l'intrapreneur n'est donc pas une mince affaire. La réussite d'un produit repose pour beaucoup sur sa posture et son implication. Si l'équipe attend beaucoup de lui, il ne faut pas oublier qu'il doit également faire face à plusieurs contraintes :
 
-- Disponibilité (conjuguer sa mission professionnelle première et la start-up d'État) ;
+- Il doit conjuguer sa mission professionnelle première et sa startup d'État ;
 - Il « [joue sa peau](https://f14e.fr/2019/09/06/skin-in-the-game-startups-detat/) » sur le produit. Auprès de sa direction il sera responsable autant du succès que de l'échec du produit ;
 - Il arrive dans une équipe qu'il ne connaît pas, avec des processus et méthodes qu'il ne connaît pas, et va devoir s'adapter et s'y faire accepter ;
-- Il arrive parfois avec des idées fortes pour le produit, sur lesquels il sera questionné et « challengé ».
+- Il a des idées fortes pour le produit, sur lesquels il sera questionné et « challengé ».
 
 ## Conclusion
-La communication est donc essentielle (merci _Captain Obvious_). Elle est la clé pour tendre vers une intégration optimale de chacun des membres et la génération d'un esprit d'équipe animé par la réalisation d'un objectif commun : la satisfaction des utilisateurs et la résolution de leur problématique.
+La communication est donc essentielle (merci _Captain Obvious_). Elle est la clé pour tendre vers une intégration optimale de chacun des membres et la génération d'un esprit d'équipe animée par la réalisation d'un objectif commun : la satisfaction des utilisateurs et la résolution de leur problématique.
 
 Il est donc important de mettre toute l'équipe à niveau et faire montre de pédagogie dès les premières étapes, en particulier pour :
 
