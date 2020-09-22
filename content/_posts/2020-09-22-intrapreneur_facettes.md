@@ -20,14 +20,14 @@ Aujourd'hui, nous avons identifié deux principaux types, non exclusifs, d'intra
 
 
 ## Les « intrapreneurs-utilisateurs »
-Ceux sont les intrapreneurs qui sont également utilisateurs finals du produit.
+Ce sont les intrapreneurs qui sont également utilisateurs finals du produit.
 
-### Avantages
+#### Avantages
 
 - Ils connaissent la problématique et le contexte car ils y sont directement confrontés ;
 - Ils font généralement partie des _core users_ (ou primo-utilisateurs) visés par le produit minimum viable (PMV) et peuvent donc donner un retour rapidement sur des idées ou solutions explorées.
 
-### Inconvénients
+#### Inconvénients
 
 - Ils peuvent ne représenter qu'une partie des typologies des utilisateurs cibles, ce qui peut être un biais. Il faut donc compenser leur position avec les informations d'autres utilisateurs ;
 - Ils sont davantage dans une logique à court terme et tournés vers une réalisation rapide du problème. La vision du produit et son évolution à long terme est moins portée par eux ;
@@ -36,14 +36,14 @@ Ceux sont les intrapreneurs qui sont également utilisateurs finals du produit.
 ## Les « intrapreneurs-visionnaires »
 Ils ne sont pas les utilisateurs finals du produit, mais en portent la vision. Ils ont un rôle plus central et stratégique pour l'évolution du produit.
 
-### Avantages
+#### Avantages
 
 - Ils portent un produit au delà des primo-utilisateurs ;
 - Ils ont une vision plus long terme du produit qui s'inscrit dans une stratégie portée par leur direction ;
 - Ils sont un appui politique qui peut faire avancer le produit et aider à sa diffusion ;
 - Une fois le MVP finalisé, ils restent présents et tout autant impliqués sur le produit.
 
-### Inconvénients
+#### Inconvénients
 
 - Ils ne sont pas utilisateurs et leurs avis ne reflètent pas toujours la situation des utilisateurs finals ;
 - Si leur vision n'est pas comprise par l'équipe il peut y avoir des incompréhensions sur le développement du produit.
@@ -51,7 +51,7 @@ Ils ne sont pas les utilisateurs finals du produit, mais en portent la vision. I
 ## Le rôle de l'intrapreneur
 Au-delà de sa « typologie », et parce que la réussite d'un produit repose en partie sur lui, nous attendons également de l'intrapreneur une forte implication qui n'est pas dénuée de risques.
 
-### Attendus
+#### Attendus
 
 - Membre à part entière de l'équipe, il participe à la création du produit à toutes les étapes de la vie de celui-ci ;
 - Ambassadeur du produit, l'intrapreneur doit le promouvoir autour de lui et auprès de sa hiérarchie ;
@@ -59,7 +59,7 @@ Au-delà de sa « typologie », et parce que la réussite d'un produit repose 
 - Garant des décisions prises, il est un lien important entre le produit visé et sa direction ;
 - Il défend également le produit auprès des décideurs pour relancer une itération si nécessaire.
 
-### Risques
+#### Risques
 
 Les principaux risques sont liés à une mauvaise intégration ou identification de l'intrapreneur.
 
@@ -69,7 +69,7 @@ Les principaux risques sont liés à une mauvaise intégration ou identification
 
 *Décalage de l'intrapreneur avec les méthodes de l'incubateur* : les intrapreneurs ne sont, dans leur grande majorité, ni issus du monde de la conception de produits numériques, ni rompus aux méthodologies _Agile_. Il peut y avoir un décalage dans les attentes de chaque étape et les méthodes appliquées. En outre, et de façon très humaine, l'intrapreneur arrive également avec une idée claire de la solution qu'il souhaite. Idée qui ne sera pas toujours (voire rarement) l'idée finale du produit. Ce décalage peut générer incompréhensions et mésententes, et finalement conduire à de la frustration.
 
-### Contraintes
+#### Contraintes
 
 Revêtir le rôle de l'intrapreneur n'est donc pas une mince affaire. La réussite d'un produit repose pour beaucoup sur sa posture et son implication. Si l'équipe attend beaucoup de lui, il ne faut pas oublier qu'il doit également faire face à plusieurs contraintes :
 
@@ -79,6 +79,7 @@ Revêtir le rôle de l'intrapreneur n'est donc pas une mince affaire. La réussi
 - Il a des idées fortes pour le produit, sur lesquels il sera questionné et « challengé ».
 
 ## Conclusion
+
 La communication est donc essentielle (merci _Captain Obvious_). Elle est la clé pour tendre vers une intégration optimale de chacun des membres et la génération d'un esprit d'équipe animée par la réalisation d'un objectif commun : la satisfaction des utilisateurs et la résolution de leur problématique.
 
 Il est donc important de mettre toute l'équipe à niveau et faire montre de pédagogie dès les premières étapes, en particulier pour :
