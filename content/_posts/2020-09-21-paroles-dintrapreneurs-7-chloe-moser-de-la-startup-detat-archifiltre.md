@@ -53,11 +53,11 @@ Y croire! Il faut avoir une immense conviction en ce qu’on développe pour pou
 
 Je recommanderais sans hésiter l’intrapreunariat à mes collègues motivés, ayant envie de changer leur environnement de travail et ne sachant pas comment le faire dans une organisation “traditionnelle” bloquée sur un fonctionnement qui s’avère souvent insatisfaisant pour avoir un outil numérique adapté.
 
+![](/img/posts/equipe_archifiltre_corrigee.png "L'équipe Archifiltre")
+
 ## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
 Pour poursuivre, je dirais qu’il peut être intéressant d’analyser très précisément la source de la frustration/résignation/colère pour être ouvert à des solutions auxquelles on ne pense pas forcément d’emblée car on ne connaît peut-être pas encore la bonne solution ou tout simplement elle n’existe pas encore… auquel cas, si on y croit vraiment, à nous de l’inventer peut-être?
-
-
 
 - - -
 
