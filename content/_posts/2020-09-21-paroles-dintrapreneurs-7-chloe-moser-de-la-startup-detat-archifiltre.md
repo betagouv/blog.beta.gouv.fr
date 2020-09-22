@@ -43,6 +43,8 @@ Le flop principal aurait été que les archivistes ne s’emparent pas de l’ou
 
 L’outil que nous continuons de développer n’est pas du tout ce que je m’étais fixé comme objectif de départ! Et je suis tellement fière d’avoir su me laisser guider par mes collègues EIG et par les utilisateur.trice.s au départ d’Archifiltre puis par mes collègues de la start-up d’État et de la Fabrique numérique des ministères sociaux pour développer l’outil dont nous avons besoin et pas celui qui était fantasmé.
 
+##### Aperçu d'Archifiltre
+
 ![](/img/posts/archifiltre-1.png "Aperçu Archifiltre")
 
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
@@ -52,6 +54,8 @@ Y croire! Il faut avoir une immense conviction en ce qu’on développe pour pou
 ## Tu recommanderais à un agent public de se lancer dans l’intrapreunariat ?
 
 Je recommanderais sans hésiter l’intrapreunariat à mes collègues motivés, ayant envie de changer leur environnement de travail et ne sachant pas comment le faire dans une organisation “traditionnelle” bloquée sur un fonctionnement qui s’avère souvent insatisfaisant pour avoir un outil numérique adapté.
+
+##### L'équipe d'Archifiltre
 
 ![](/img/posts/equipe_archifiltre_corrigee.png "L'équipe Archifiltre")
 
