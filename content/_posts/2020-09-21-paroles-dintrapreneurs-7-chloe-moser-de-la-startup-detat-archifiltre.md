@@ -31,7 +31,7 @@ J’ai eu l’occasion d’expliquer ce que je faisais pour Archifiltre à ma gr
 
 ![](/img/posts/0_page-garde.png "Illustration d'Archifitre")
 
-## Quel conseil t’as manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
+## Quel conseil t’a manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
 
 J’aurais aimé être moins impressionnée par l’ampleur de la tâche et me rendre compte que tou.te.s les intrapreneur.se.s découvraient ce rôle et le façonnaient au fur et à mesure en fonction de leurs disponibilités et possibilités. Le conseil que j’aurais aimé avoir aurait donc été de ne pas me mettre la pression sur un objectif précis mais de chercher à faire de mon mieux avec les moyens dont je dispose pour aller le plus loin possible.
 
