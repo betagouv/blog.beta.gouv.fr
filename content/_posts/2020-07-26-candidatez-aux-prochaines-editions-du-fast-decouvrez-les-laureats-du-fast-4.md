@@ -40,7 +40,7 @@ Les critères de présélection :
 
 ### **Les 5 lauréats du Fast 4:**
 
-1. [Registre de preuve de covoiturage](http://covoiturage.beta.gouv.fr/), développez le covoiturage sur votre territoire. Issu de [l’incubateur des ministères sociaux](https://incubateur.social.gouv.fr/startups/fce).
+1. [Registre de preuve de covoiturage](http://covoiturage.beta.gouv.fr/), développez le covoiturage sur votre territoire, incubé à la DINUM.
 2. [Acceslibre](https://acceslibre.beta.gouv.fr/), la plateforme collaborative pour l’accessibilité[](https://civilsdeladefense.fabnum.fr).
 3. [Aides territoires](https://aides-territoires.beta.gouv.fr/), accéder aux meilleures aides pour les projets de votre territoire.
 4. [CarbuRe,](https://carbure.beta.gouv.fr/) gestion centralisée des flux de biocarburants.
