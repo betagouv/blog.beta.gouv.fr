@@ -15,14 +15,6 @@ excerpt: Si le produit est le bébé, il s’agit moins de le jeter avec l’eau
   service, fonder une famille et inspirer son environnement pour le mener dans
   une activité collective. C’est ce récit que nous allons conter.
 ---
-___
-
-Le stage à beta.gouv m’a permis de m’immerger dans un environnement nouveau au sein de l’administration. J’y ai découvert l’apprentissage in itenere et l’amélioration continue pour mieux organiser le service public et ainsi mieux le déployer. Cette immersion a également été l’occasion de m’appuyer sur un terrain d’enquête qui a servi de socle empirique pour mon mémoire de recherche intitulé « l’État à l’épreuve de l’intelligence collective. Cas de la plateforme de l’inclusion à l’incubateur des services numériques ». Khaled Benaida
-
-___
-
-
-
 En parlant d’inspirer, qui de mieux pour ouvrir le bal que notre cher Pierre Pezziardi : « l’innovation ne repose qu’à 1% sur l’inspiration, les 99% restants étant, selon la formule consacrée, de la transpiration. Plutôt que de rechercher les bonnes idées, nous avons donc pris le problème à rebours en nous concentrant sur les innovateurs ». En ce sens l’innovateur est moins celui qui possède un arsenal d’outils pour créer des innovations de rupture, qu’un faiseur qui a expérimenté et trouvé autant de manières de faire que de défaire le produit. Cet innovateur travaille toujours à la marge : l’univers beta.gouv est une forme radicale d’innovation à la marge. Pierre qui est un historique de beta, incarne cette vison et la porte au plus haut avec des valeurs qu’il a su transmettre à la communauté. Lui dont le sens de l’engagement est sans faille, a inlassablement tenté d’améliorer ça et là les contours de beta.gouv, sa foi en l’utilité réelle de cette démarche pour les usagers est sans faille.
 
 Si la différence entre invention et innovation se situe dans la mise sur le marché de la première pour arriver à la seconde, la phase de transfert est l’intégration dans l’administration d’un produit numérique issu de l’incubateur. Cette phase étant la dernière née d’une gestation Intrapreneuriale qui aura pris le temps d’investiguer sur un besoin en produit numérique pour l’administration ; qui l’aura construit sur le tas et appris en marchant dans la phase de construction ; et aura accéléré son développement par l’impact de son produit numérique et l’élargissement de son équipe : lorsque l’oiseau est assez mature, il peut alors quitter le nid et voler de ses propres ailes, telle est la phase de transfert.
@@ -112,3 +104,13 @@ Lorsque j’ai commencé à travailler sur l’accompagnement pédagogique des i
 Lorsque je le sollicite, il accepte très facilement et me reçoit de manière très informelle sur une table haute, muni de son ordinateur portable. Entre deux récits, il lance un « alors comment ça va les territoires ? », je trouve curieux sa manière d’être dans une forme de légèreté et de facilité à raconter des histoires, les unes après les autres. Enchanté, trois-quart d’heures après, je repars la tête et le cœur remplis. Avec un sentiment que je détenais là un trésors issu d’une source, un gisement inépuisables. D’autres rendez-vous ont suivis, la même tonalité : celle du compteur ancrée dans son récit car vécu dans sa chaire et son âme.
 
 La philosophie pragmatiste développée par des auteurs comme John Dewey, Charle Sanders Pierce, William James ou encore Mary Parker Follett est une philosophie de l’expérience. Non dualiste, elle unifie pensée et action, savoir et expérience, opérationnel et stratégique, individu et collectif. Comment cela est ce possible ? La vision récursive qui en découle réconcilie ces contraires dans la mesure où, partant toujours de l’expérience des situations, le feedback qui en émane nourri la prochaine action. L’apprentissage est donc continuel, c’est un formidable saboteur des stratégies « hors sol ». L’action précédente et ses conséquences sont toujours la référence pour la prochaine. Par conséquent, l’expérience aboutit toujours à l’expérience et a comme finalité la création.
+
+
+
+___
+
+Note de l'auteur :
+
+*Le stage à beta.gouv m’a permis de m’immerger dans un environnement nouveau au sein de l’administration. J’y ai découvert l’apprentissage in itenere et l’amélioration continue pour mieux organiser le service public et ainsi mieux le déployer. Cette immersion a également été l’occasion de m’appuyer sur un terrain d’enquête qui a servi de socle empirique pour mon mémoire de recherche intitulé « l’État à l’épreuve de l’intelligence collective. Cas de la plateforme de l’inclusion à l’incubateur des services numériques ». Khaled Benaida*
+
+___
