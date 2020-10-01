@@ -5,7 +5,7 @@ date: 2020-09-30
 authors:
   - khaled.benaida
 categories: general
-image: /img/posts/hello-i-m-nik-nsdqlsvudrk-unsplash.jpg
+image: /img/posts/giuseppe-famiani-skmzjgblcia-unsplash.jpg
 excerpt: Si le produit est le bébé, il s’agit moins de le jeter avec l’eau du
   bain que de le mettre dans un beau couffin. La métaphore incarnée du produit
   est naturelle puisqu’il né, croit et vit, s’il ne meurt pas entre temps. Comme
@@ -115,4 +115,4 @@ Note de l'auteur :
 
 ___
 
-Crédit image : [Hello I'm Nik 🎞](https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/s/photos/bucket-beach?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Crédit image : [Giuseppe Famiani](https://unsplash.com/@gieffe22?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
