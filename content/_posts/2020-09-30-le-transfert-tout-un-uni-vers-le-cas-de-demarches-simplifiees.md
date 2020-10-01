@@ -5,7 +5,7 @@ date: 2020-09-30
 authors:
   - khaled.benaida
 categories: general
-image: /img/posts/image-d-ios.jpg
+image: /img/posts/hello-i-m-nik-nsdqlsvudrk-unsplash.jpg
 excerpt: Si le produit est le bébé, il s’agit moins de le jeter avec l’eau du
   bain que de le mettre dans un beau couffin. La métaphore incarnée du produit
   est naturelle puisqu’il né, croit et vit, s’il ne meurt pas entre temps. Comme
@@ -114,3 +114,5 @@ Note de l'auteur :
 *Le stage à beta.gouv m’a permis de m’immerger dans un environnement nouveau au sein de l’administration. J’y ai découvert l’apprentissage in itenere et l’amélioration continue pour mieux organiser le service public et ainsi mieux le déployer. Cette immersion a également été l’occasion de m’appuyer sur un terrain d’enquête qui a servi de socle empirique pour mon mémoire de recherche intitulé « l’État à l’épreuve de l’intelligence collective. Cas de la plateforme de l’inclusion à l’incubateur des services numériques ». Khaled Benaida*
 
 ___
+
+Crédit image : [Hello I'm Nik 🎞](https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/s/photos/bucket-beach?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
