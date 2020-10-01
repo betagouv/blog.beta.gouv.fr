@@ -3,8 +3,9 @@ layout: post
 title: Le transfert, tout un « uni-vers » ?  Le cas de Démarches-Simplifiées
 date: 2020-09-30
 authors:
-  - Khaled.Benaida
+  - khaled.benaida
 categories: general
+image: /img/posts/image-d-ios.jpg
 excerpt: Si le produit est le bébé, il s’agit moins de le jeter avec l’eau du
   bain que de le mettre dans un beau couffin. La métaphore incarnée du produit
   est naturelle puisqu’il né, croit et vit, s’il ne meurt pas entre temps. Comme
@@ -14,6 +15,14 @@ excerpt: Si le produit est le bébé, il s’agit moins de le jeter avec l’eau
   service, fonder une famille et inspirer son environnement pour le mener dans
   une activité collective. C’est ce récit que nous allons conter.
 ---
+___
+
+Le stage à beta.gouv m’a permis de m’immerger dans un environnement nouveau au sein de l’administration. J’y ai découvert l’apprentissage in itenere et l’amélioration continue pour mieux organiser le service public et ainsi mieux le déployer. Cette immersion a également été l’occasion de m’appuyer sur un terrain d’enquête qui a servi de socle empirique pour mon mémoire de recherche intitulé « l’État à l’épreuve de l’intelligence collective. Cas de la plateforme de l’inclusion à l’incubateur des services numériques ». Khaled Benaida
+
+___
+
+
+
 En parlant d’inspirer, qui de mieux pour ouvrir le bal que notre cher Pierre Pezziardi : « l’innovation ne repose qu’à 1% sur l’inspiration, les 99% restants étant, selon la formule consacrée, de la transpiration. Plutôt que de rechercher les bonnes idées, nous avons donc pris le problème à rebours en nous concentrant sur les innovateurs ». En ce sens l’innovateur est moins celui qui possède un arsenal d’outils pour créer des innovations de rupture, qu’un faiseur qui a expérimenté et trouvé autant de manières de faire que de défaire le produit. Cet innovateur travaille toujours à la marge : l’univers beta.gouv est une forme radicale d’innovation à la marge. Pierre qui est un historique de beta, incarne cette vison et la porte au plus haut avec des valeurs qu’il a su transmettre à la communauté. Lui dont le sens de l’engagement est sans faille, a inlassablement tenté d’améliorer ça et là les contours de beta.gouv, sa foi en l’utilité réelle de cette démarche pour les usagers est sans faille.
 
 Si la différence entre invention et innovation se situe dans la mise sur le marché de la première pour arriver à la seconde, la phase de transfert est l’intégration dans l’administration d’un produit numérique issu de l’incubateur. Cette phase étant la dernière née d’une gestation Intrapreneuriale qui aura pris le temps d’investiguer sur un besoin en produit numérique pour l’administration ; qui l’aura construit sur le tas et appris en marchant dans la phase de construction ; et aura accéléré son développement par l’impact de son produit numérique et l’élargissement de son équipe : lorsque l’oiseau est assez mature, il peut alors quitter le nid et voler de ses propres ailes, telle est la phase de transfert.
