@@ -3,6 +3,7 @@ layout: post
 title: Découvrez les lauréats du Fast 5 & candidatez au Fast 6 !
 date: 2020-10-12
 categories: dinsic
+tags: jihane.herizi
 image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
 excerpt: >-
   5 millions d’euros : c’est le montant accordé par [la Loi de Finances pour
