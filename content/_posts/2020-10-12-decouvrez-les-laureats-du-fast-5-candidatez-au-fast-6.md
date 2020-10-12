@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Découvrez les lauréats du Fast 5 & candidatez au Fast 6 !
+title: Découvrez les lauréats du Fast 5 et candidatez au Fast 6 !
 date: 2020-10-12
 categories: dinsic
 tags: jihane.herizi
