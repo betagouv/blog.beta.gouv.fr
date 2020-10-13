@@ -68,6 +68,8 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 Cet appel vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
 
+Il est aussi accessible à des associations ou des entreprises privées appuyées financièrement par un sponsor administratif de haut niveau et dont le produit numérique répond à un problème de politique publique, à minima, au sein de l'administration concernée. 
+
 **Vous avez identifié un problème de politique publique lié au covid19 ? Vous avez mis en place une solution et vous avez mesuré votre impact auprès de 1ers utilisateurs ? Les projets spécial crise en provenance de toutes les administrations ont les bienvenus pour candidater à ce Fonds.**
 
 Cliquez ici [pour en savoir plus](https://beta.gouv.fr/fast/) et/ou [candidater](https://www.demarches-simplifiees.fr/commencer/fast5_6) sur la session du 16 novembre (le jury aura lieu le 27 novembre). 
