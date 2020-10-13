@@ -60,7 +60,7 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 \- Produits nécessitant une plus grande implication du sponsor ; 
 
-![]()
+![](/img/posts/2020_10_13_1200x675_fast6_visuel_twitter.jpg)
 
 # Lancement de la prochaine édition du Fast
 
