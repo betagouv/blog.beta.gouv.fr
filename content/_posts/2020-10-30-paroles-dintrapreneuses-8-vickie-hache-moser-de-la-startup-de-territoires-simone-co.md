@@ -33,8 +33,6 @@ Il faut savoir qu’aujourd’hui, en France, il y a 3 millions de personnes qui
 
 Simone c’est une box destinée aux femmes en difficulté (sdf, femmes seules, étudiantes..), qui contient des protections hygiéniques, des produits d’hygiène, et des échantillons beauté (crème, soin..). Elle est distribuée gratuitement et anonymement à travers plusieurs associations, lieux d’accueil, CCAS, universités...
 
-![](/img/posts/vikie-2.png)
-
 # Quel conseil t’a manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
 
 Dès le départ on a été très bien accompagnés ! Ce n’est pas vraiment un conseil qui m’a manqué, mais plutôt le retour d’expérience d’autres intrapreneuses/eurs, aussi bien positif que négatif. 
@@ -50,6 +48,8 @@ Si je n’avais pas cru en mon projet du début à la fin, et à la cause pour l
 Je portais un projet qui traitait d’un sujet assez sensible, et parfois même tabou. Lors de mon premier pitch, je ne vous cache pas que parler de règles et de protections hygiéniques devant les élus et la direction de la Ville de Pau fût un exercice délicat (rires). 
 
 Mais le projet a été très bien accueilli, il a suscité étonnement face à l’ampleur d’un problème encore peu connu, et une vague de soutien.
+
+![](/img/posts/vikie-2.png)
 
 # Quelle est la qualité essentielle pour réussir comme intrapreneuse ? 
 
@@ -77,7 +77,7 @@ Présente ta problématique, viens avec des exemples, des chiffres, des témoign
 
 Enjoy !
 
-___ 
+
 
 - - -
 
