@@ -20,11 +20,11 @@ excerpt: >-
 ---
 ![Vickie Hache](/img/posts/vickie.png "Vickie Hache")
 
-# Que faisais-tu avant d’être intrapreneuse ?
+## Que faisais-tu avant d’être intrapreneuse ?
 
 Après des études en marketing et en gestion d’entreprise, j’ai eu l’opportunité d’intégrer le service marketing d’une grande marque de boissons énergisantes, pendant quatre ans. Durant cette expérience, je me suis découvert une passion pour l’événementiel sportif, et c’est donc tout naturellement que j’ai décidé de reprendre mes études afin d’être diplômée en communication et en événementiel. Après plusieurs expériences en agence de communication, et sur différents grands événements sportifs, j’ai intégré le service animation événementielle de la Ville de Pau en tant que chef de projet.
 
-# Comment expliquerais-tu ta mission d’intra à un.e collégien.ne ?
+## Comment expliquerais-tu ta mission d’intra à un.e collégien.ne ?
 
 Être intra c’est la possibilité d’avoir un impact positif sur ce qui t’entoure, de mettre en lumière une cause qui te tient à cœur, et pouvoir proposer et tester des solutions qui te semblent pertinentes. 
 
@@ -34,7 +34,7 @@ Il faut savoir qu’aujourd’hui, en France, il y a 3 millions de personnes qui
 
 Simone c’est une box destinée aux femmes en difficulté (sdf, femmes seules, étudiantes..), qui contient des protections hygiéniques, des produits d’hygiène, et des échantillons beauté (crème, soin..). Elle est distribuée gratuitement et anonymement à travers plusieurs associations, lieux d’accueil, CCAS, universités...
 
-# Quel conseil t’a manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
+## Quel conseil t’a manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
 
 Dès le départ on a été très bien accompagnés ! Ce n’est pas vraiment un conseil qui m’a manqué, mais plutôt le retour d’expérience d’autres intrapreneuses/eurs, aussi bien positif que négatif. 
 
@@ -42,7 +42,7 @@ Dès le départ on a été très bien accompagnés ! Ce n’est pas vraiment un 
 
 On en parle peu, mais j’ai par exemple souffert, et j’en souffre encore parfois, du syndrome de l’imposteur. Cette remise en question permanente de mes compétences, et cette peur de ne pas être à la hauteur. Une pression qui me pousse à vouloir toujours aller plus loin, et à être perfectionniste.
 
-# Qu’est-ce qui aurait pu faire que ta Startup de territoire fasse un flop ? 
+## Qu’est-ce qui aurait pu faire que ta Startup de territoire fasse un flop ? 
 
 Si je n’avais pas cru en mon projet du début à la fin, et à la cause pour laquelle je me battais, ma startup aurait clairement pu faire un flop. 
 
@@ -52,7 +52,7 @@ Mais le projet a été très bien accueilli, il a suscité étonnement face à l
 
 ![](/img/posts/vikie-2.png)
 
-# Quelle est la qualité essentielle pour réussir comme intrapreneuse ? 
+## Quelle est la qualité essentielle pour réussir comme intrapreneuse ? 
 
 Il est primordial de croire en son projet, et en soi ! 
 
@@ -62,11 +62,11 @@ Bien évidemment il faut aussi savoir bien s’entourer, et écouter les différ
 
 Il est important également d’être prêt à s’investir, et à passer beaucoup (beaucoup) de temps sur son projet si on a envie de le voir aboutir.
 
-# Recommanderais-tu à un agent public de se lancer dans l’intrapreunariat ? 
+## Recommanderais-tu à un agent public de se lancer dans l’intrapreneuriat ? 
 
 L'intrapreunariat est une aventure très enrichissante, et c’est une chance qu’il faut saisir ! 
 
-# Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique ? 
+## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique ? 
 
 Tout d’abord je lui conseillerais de mettre de côté tout sentiment négatif. 
 
