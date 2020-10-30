@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Paroles d'intrapreneuses #8 : Vickie Hache de la Startup de territoire
+title: "Paroles d'intrapreneuses #8 : Vikie Ache de la Startup de territoire
   Simone & Co"
 date: 2020-10-30
 authors:
   - lery.jicquel
-  - vickie.hache
+  - vikie.ache
 categories: dinsic
 image: /img/posts/parole-intrapreneuse.jpg
 excerpt: >-
-  Vickie Hache est cheffe de projet au service évènementielle de la [Ville de
+  Vikie Ache est cheffe de projet au service évènementielle de la [Ville de
   Pau](https://www.pau.fr/) et intrapreneuse. Dans la cadre d'un partenariat
   avec beta.gouv.fr, elle a lancé la Startup de territoires [Simone &
   Co](https://beta.gouv.fr/startups/simone-and-co.html). Ce service, en
@@ -18,13 +18,13 @@ excerpt: >-
   mises de côté.
 
 
-  Nous avons demandé à Vickie Hache de nous raconter son expérience.
+  Nous avons demandé à Vikie Ache de nous raconter son expérience.
 ---
 ![Vickie Hache](/img/posts/vickie.png "Vickie Hache")
 
 ## Que faisais-tu avant d’être intrapreneuse ?
 
-Après des études en marketing et en gestion d’entreprise, j’ai eu l’opportunité d’intégrer le service marketing d’une grande marque de boissons énergisantes, pendant quatre ans. Durant cette expérience, je me suis découvert une passion pour l’événementiel sportif, et c’est donc tout naturellement que j’ai décidé de reprendre mes études afin d’être diplômée en communication et en événementiel. Après plusieurs expériences en agence de communication, et sur différents grands événements sportifs, j’ai intégré le service animation événementielle de la Ville de Pau en tant que chef de projet.
+Après des études en marketing et en gestion d’entreprise, j’ai eu l’opportunité d’intégrer le service marketing d’une grande marque de boissons énergisantes, pendant quatre ans. Durant cette expérience, je me suis découvert une passion pour l’événementiel sportif, et c’est donc tout naturellement que j’ai décidé de reprendre mes études afin d’être diplômée en communication et en événementiel. Après plusieurs expériences en agence de communication, et sur différents grands événements sportifs, j’ai intégré le service animation événementielle de la Ville de Pau en tant que cheffe de projet.
 
 ## Comment expliquerais-tu ta mission d’intra à un.e collégien.ne ?
 
