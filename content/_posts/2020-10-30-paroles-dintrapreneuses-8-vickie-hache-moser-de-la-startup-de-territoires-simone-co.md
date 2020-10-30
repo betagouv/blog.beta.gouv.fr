@@ -9,12 +9,13 @@ authors:
 categories: dinsic
 image: /img/posts/parole-intrapreneuse.jpg
 excerpt: >-
-  Depuis 2019, Vickie Hache est cheffe de projet au service évènementielle de la
-  [Ville de Pau](https://www.pau.fr/) et intrapreneuse. Dans la cadre d'un
-  partenariat avec beta.gouv.fr, elle a lancé la Startup de territoires [Simone
-  & Co](https://beta.gouv.fr/startups/simone-and-co.html) qui, en plus d'avoir
-  un impact réel pour le quotidien de milliers de femme, a littéralement fait le
-  buzz sur les réseaux sociaux.
+  Vickie Hache est cheffe de projet au service évènementielle de la [Ville de
+  Pau](https://www.pau.fr/) et intrapreneuse. Dans la cadre d'un partenariat
+  avec beta.gouv.fr, elle a lancé la Startup de territoires [Simone &
+  Co](https://beta.gouv.fr/startups/simone-and-co.html). Ce service, en
+  l'occurrence une box, vise à aider et accompagner les femmes en situation de
+  précarité pour qu’elles retrouvent une dignité, et une féminité trop souvent
+  mises de côté.
 
 
   Nous avons demandé à Vickie Hache de nous raconter son expérience.
