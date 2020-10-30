@@ -9,9 +9,10 @@ authors:
 categories: dinsic
 excerpt: >-
   Depuis 2019, Vickie Hache est intrapreneuse à la [mairie de
-  Pau](https://www.pau.fr/). Elle a lancé la Startup de territoires Simone & Co
-  qui, en plus d'avoir un impact réel pour le quotidien de milliers de femme, a
-  littéralement fait le buzz sur les réseaux sociaux.
+  Pau](https://www.pau.fr/). Elle a lancé la Startup de territoires [Simone &
+  Co](https://beta.gouv.fr/startups/simone-and-co.html) qui, en plus d'avoir un
+  impact réel pour le quotidien de milliers de femme, a littéralement fait le
+  buzz sur les réseaux sociaux.
 
 
   Nous avons demandé à Vickie Hache de nous raconter son expérience.
@@ -80,13 +81,13 @@ ___
 
 ## Retrouver tous les interviews de la série "Paroles d'intra" 🎤 :
 
-* #### [Paroles d'intrapreneuses #1 : Gaëlle Toledano de la Startup d'Etat ANDi](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)
-* #### [Paroles d'intrapreneuses #2 : Mélodie Dahi de la Startup d'Etat Zam](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)
-* #### [Paroles d'intrapreneuses #3 : Lauren Michel de la Startup Maintenant! de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/)
-* #### [Paroles d'intrapreneuses #4 : Sylvie Lebel de la Startup d'Etat ZEN de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/17/paroles-dintrapreneuses-4-sylvie-lebel-de-la-startup-zen-de-pole-emploi/)
-* #### [Paroles d'intrapreneuses #5 : Aude Millamon et Elodie Vaneecke de la Startup de territoires RDV solidarités](https://blog.beta.gouv.fr/dinsic/2020/07/29/paroles-dintrapreneuses-5-aude-millamon-et-elodie-vaneecke-de-la-startup-de-territoires-rdv-solidarite/)
+* #### [Paroles d'intrapreneuse #1 : Gaëlle Toledano de la Startup d'Etat ANDi](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)
+* #### [Paroles d'intrapreneuse #2 : Mélodie Dahi de la Startup d'Etat Zam](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)
+* #### [Paroles d'intrapreneuse #3 : Lauren Michel de la Startup Maintenant! de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/)
+* #### [Paroles d'intrapreneuse #4 : Sylvie Lebel de la Startup d'Etat ZEN de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/17/paroles-dintrapreneuses-4-sylvie-lebel-de-la-startup-zen-de-pole-emploi/)
+* #### [Paroles d'intrapreneuse #5 : Aude Millamon et Elodie Vaneecke de la Startup de territoires RDV solidarités](https://blog.beta.gouv.fr/dinsic/2020/07/29/paroles-dintrapreneuses-5-aude-millamon-et-elodie-vaneecke-de-la-startup-de-territoires-rdv-solidarite/)
 * #### [Paroles d'intrapreneur #6 : Mathieu Gens de la Startup d'Etat Place des Entreprises](https://blog.beta.gouv.fr/dinsic/2020/09/15/paroles-dintrapreneurs-6-mathieu-gens-de-la-startup-detat-place-des-entreprises/)
-* Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre
+* [Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)
 
 - - -
 
