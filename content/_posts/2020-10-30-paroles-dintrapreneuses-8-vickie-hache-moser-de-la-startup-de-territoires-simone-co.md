@@ -31,7 +31,9 @@ Pour ma part j’ai toujours été sensible à la cause des femmes et à la pré
 
 Il faut savoir qu’aujourd’hui, en France, il y a 3 millions de personnes qui se privent de produits d’hygiène de base faute de ressources. Et 1,7 millions de femmes qui manquent de protections hygiéniques, ce qui les pousse à utiliser des produits de substitution (journal, chaussette..), à sécher les cours, ou à renoncer à d’autres besoins essentiels comme se nourrir. 
 
-Simone c’est une box destinée aux femmes en difficulté (sdf, femmes seules, étudiantes..), qui contient des protections hygiéniques, des produits d’hygiène, et des échantillons beauté (crème, soin..). Elle est distribuée gratuitement et anonymement à travers plusieurs associations, lieux d’accueil, CCAS, universités..
+Simone c’est une box destinée aux femmes en difficulté (sdf, femmes seules, étudiantes..), qui contient des protections hygiéniques, des produits d’hygiène, et des échantillons beauté (crème, soin..). Elle est distribuée gratuitement et anonymement à travers plusieurs associations, lieux d’accueil, CCAS, universités...
+
+![](/img/posts/vikie-2.png)
 
 # Quel conseil t’a manqué avant de démarrer comme intrapreneuse et qui finalement t’aurait bien aidé ?
 
