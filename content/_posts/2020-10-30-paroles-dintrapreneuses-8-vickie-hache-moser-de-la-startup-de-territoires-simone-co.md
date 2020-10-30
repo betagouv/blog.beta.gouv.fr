@@ -7,6 +7,7 @@ authors:
   - lery.jicquel
   - vickie.hache
 categories: dinsic
+image: /img/posts/parole-intrapreneuse.jpg
 excerpt: >-
   Depuis 2019, Vickie Hache est cheffe de projet au service évènementielle de la
   [Ville de Pau](https://www.pau.fr/) et intrapreneuse. Dans la cadre d'un
