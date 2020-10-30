@@ -20,7 +20,7 @@ excerpt: >-
 
   Nous avons demandé à Vikie Ache de nous raconter son expérience.
 ---
-![Vickie Hache](/img/posts/vickie.png "Vickie Hache")
+![Vikie Ache](/img/posts/vickie.png "Vikie Ache")
 
 ## Que faisais-tu avant d’être intrapreneuse ?
 
