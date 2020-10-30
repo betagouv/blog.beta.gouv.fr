@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Paroles d'intrapreneuses #8 : Vickie Hache Moser de la Startup de
-  territoires Simone & Co"
+title: "Paroles d'intrapreneuses #8 : Vickie Hache de la Startup de territoire
+  Simone & Co"
 date: 2020-10-30
 authors:
   - lery.jicquel
   - vickie.hache
 categories: dinsic
 excerpt: >-
-  Depuis 2019, Vickie Hache est intrapreneuse à la [mairie de
-  Pau](https://www.pau.fr/). Elle a lancé la Startup de territoires [Simone &
-  Co](https://beta.gouv.fr/startups/simone-and-co.html) qui, en plus d'avoir un
-  impact réel pour le quotidien de milliers de femme, a littéralement fait le
+  Depuis 2019, Vickie Hache est cheffe de projet au service évènementielle de la
+  [Ville de Pau](https://www.pau.fr/) et intrapreneuse. Dans la cadre d'un
+  partenariat avec beta.gouv.fr, elle a lancé la Startup de territoires [Simone
+  & Co](https://beta.gouv.fr/startups/simone-and-co.html) qui, en plus d'avoir
+  un impact réel pour le quotidien de milliers de femme, a littéralement fait le
   buzz sur les réseaux sociaux.
 
 
