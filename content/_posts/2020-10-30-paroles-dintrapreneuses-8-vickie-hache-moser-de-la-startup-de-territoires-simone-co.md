@@ -9,13 +9,13 @@ authors:
 categories: dinsic
 image: /img/posts/parole-intrapreneuse.jpg
 excerpt: >-
-  Vikie Ache est cheffe de projet au service évènementielle de la [Ville de
-  Pau](https://www.pau.fr/) et intrapreneuse. Dans la cadre d'un partenariat
-  avec beta.gouv.fr, elle a lancé la Startup de territoires [Simone &
-  Co](https://beta.gouv.fr/startups/simone-and-co.html). Ce service, en
-  l'occurrence une box, vise à aider et accompagner les femmes en situation de
-  précarité pour qu’elles retrouvent une dignité, et une féminité trop souvent
-  mises de côté.
+  Vikie Ache était cheffe de projet au service évènementiel de la [Ville de
+  Pau](https://www.pau.fr/) et intrapreneuse jusqu'à l'été dernier. Dans la
+  cadre d'un partenariat avec beta.gouv.fr, elle avait lancé la Startup de
+  territoires [Simone & Co](https://beta.gouv.fr/startups/simone-and-co.html).
+  Ce service, en l'occurrence une box, vise à aider et accompagner les femmes en
+  situation de précarité pour qu’elles retrouvent une dignité, et une féminité
+  trop souvent mises de côté.
 
 
   Nous avons demandé à Vikie Ache de nous raconter son expérience.
