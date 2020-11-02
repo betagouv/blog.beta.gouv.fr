@@ -66,7 +66,9 @@ Il est important également d’être prêt à s’investir, et à passer beauco
 
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreneuriat ?
 
-L'intrapreunariat est une aventure très enrichissante, et c’est une chance qu’il faut saisir ! 
+L’intrapreneuriat est une aventure professionnelle et humaine très enrichissante, et c’est une chance qu’il faut saisir. 
+
+Si tu te sens prêt à t'investir, et que tu crois en ton projet, alors fonce !  C'est l'opportunité de prendre des risques, tout en ayant un filet de sécurité. 
 
 ## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique ?
 
