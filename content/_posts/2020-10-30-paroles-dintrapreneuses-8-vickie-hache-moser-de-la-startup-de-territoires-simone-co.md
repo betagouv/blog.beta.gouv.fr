@@ -44,7 +44,7 @@ Dès le départ on a été très bien accompagnés ! Ce n’est pas vraiment un 
 
 On en parle peu, mais j’ai par exemple souffert, et j’en souffre encore parfois, du syndrome de l’imposteur. Cette remise en question permanente de mes compétences, et cette peur de ne pas être à la hauteur. Une pression qui me pousse à vouloir toujours aller plus loin, et à être perfectionniste.
 
-## Qu’est-ce qui aurait pu faire que ta Startup de territoire fasse un flop ? 
+## Qu’est-ce qui aurait pu faire que ta Startup de territoire fasse un flop ?
 
 Si je n’avais pas cru en mon projet du début à la fin, et à la cause pour laquelle je me battais, ma startup aurait clairement pu faire un flop. 
 
@@ -54,7 +54,7 @@ Mais le projet a été très bien accueilli, il a suscité étonnement face à l
 
 ![](/img/posts/vikie-2.png)
 
-## Quelle est la qualité essentielle pour réussir comme intrapreneuse ? 
+## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
 Il est primordial de croire en son projet, et en soi ! 
 
@@ -64,11 +64,11 @@ Bien évidemment il faut aussi savoir bien s’entourer, et écouter les différ
 
 Il est important également d’être prêt à s’investir, et à passer beaucoup (beaucoup) de temps sur son projet si on a envie de le voir aboutir.
 
-## Recommanderais-tu à un agent public de se lancer dans l’intrapreneuriat ? 
+## Recommanderais-tu à un agent public de se lancer dans l’intrapreneuriat ?
 
 L'intrapreunariat est une aventure très enrichissante, et c’est une chance qu’il faut saisir ! 
 
-## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique ? 
+## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique ?
 
 Tout d’abord je lui conseillerais de mettre de côté tout sentiment négatif. 
 
@@ -80,8 +80,6 @@ Présente ta problématique, viens avec des exemples, des chiffres, des témoign
 
 Enjoy !
 
-
-
 - - -
 
 ## Retrouver tous les interviews de la série "Paroles d'intra" 🎤 :
@@ -92,7 +90,7 @@ Enjoy !
 * #### [Paroles d'intrapreneuse #4 : Sylvie Lebel de la Startup d'Etat ZEN de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/17/paroles-dintrapreneuses-4-sylvie-lebel-de-la-startup-zen-de-pole-emploi/)
 * #### [Paroles d'intrapreneuse #5 : Aude Millamon et Elodie Vaneecke de la Startup de territoires RDV solidarités](https://blog.beta.gouv.fr/dinsic/2020/07/29/paroles-dintrapreneuses-5-aude-millamon-et-elodie-vaneecke-de-la-startup-de-territoires-rdv-solidarite/)
 * #### [Paroles d'intrapreneur #6 : Mathieu Gens de la Startup d'Etat Place des Entreprises](https://blog.beta.gouv.fr/dinsic/2020/09/15/paroles-dintrapreneurs-6-mathieu-gens-de-la-startup-detat-place-des-entreprises/)
-* [Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)
+* **[Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)**
 
 - - -
 
