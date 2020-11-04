@@ -24,7 +24,7 @@ Les missions des membres de la brigade numérique seront les suivantes :
 
 * Pour les développeurs : organiser, planifier et assurer le développement de produits numériques en contribuant au code du produit, aux outils, aux environnements, aux évènements et à l’organisation de l’équipe. 
 * Pour les chargés de déploiement : construire et accélérer un produit par le ciblage, l’identification, la communication, la négociation, le suivi et l’animation des partenaires. 
-* Pour tous : découvrir et contribuer à l’animation de la communauté beta.gouv.fr (formations, évènements, rituels, apprentissage et transmission d’outls
+* Pour tous : découvrir et contribuer à l’animation de la communauté beta.gouv.fr (formations, évènements, rituels, apprentissage et transmission d’outils). 
 
 ## Informations pratiques
 
