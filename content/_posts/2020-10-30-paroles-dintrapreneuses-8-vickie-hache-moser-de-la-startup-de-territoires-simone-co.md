@@ -2,7 +2,7 @@
 layout: post
 title: "Paroles d'intrapreneuses #8 : Vikie Ache de la Startup de territoire
   Simone & Co"
-date: 2020-10-30
+date: 2020-11-05
 authors:
   - lery.jicquel
   - vikie.ache
