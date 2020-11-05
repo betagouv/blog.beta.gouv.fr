@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nous recrutons une brigade numérique ! "
+title: "Nous recrutons une brigade numérique !"
 date: 2020-11-04
 authors:
   - jihane.herizi
@@ -10,20 +10,24 @@ excerpt: 16 développeurs et chargés de déploiement ont 6 mois pour renforcer 
   services publics numériques, construits avec des administrations partenaires,
   et qui résolvent chaque jour des problèmes des usagers.
 ---
+
 # Au programme
 
 Nous recrutons 16 développeurs et chargés de déploiement, juniors et expérimentés, pour participer au déploiement et au développement d’un service numérique selon l’approche Startup d'État.
 ![](/img/posts/capture-d-e-cran-2020-11-04-a-22.33.12.png)
 
-##### 6 mois au cœur des Startups d’État
-En rejoignant une Startup d’État, chaque chargé·e de déploiement et développeur·e aura l'occasion de participer à son déploiement ou son développement et de créer un maximum d’impact pour ses usagers et également de participer à la vie transverse de l’incubateur de la DINUM.
-## Autonomie, impact, amélioration continue,
-Pour chaque Startup d’État, l'objectif est de construire des services numériques simples, faciles à utiliser, à l’impact maximal. Nous remettons les usagers au cœur de l’action publique et cherchons à apporter des solutions concrètes à leurs problèmes pour améliorer leur vie quotidienne. 
+## 6 mois au cœur des Startups d’État
+
+En rejoignant une de nos équipe, chaque nouvelle recrue, chargée de déploiement et développeuse, aura l'occasion de participer à son déploiement ou son développement et de créer un maximum d’impact pour ses usagers et également de participer à la vie transverse de l’incubateur de la DINUM.
+
+## Autonomie, impact et amélioration continue
+
+Pour chaque équipe, l'objectif est de construire des services numériques simples, faciles à utiliser, à l’impact maximal. Nous remettons les usagers au cœur de l’action publique et cherchons à apporter des solutions concrètes à leurs problèmes pour améliorer leur vie quotidienne.
 
 Les missions des membres de la brigade numérique seront les suivantes :
 
-* Pour les développeurs : organiser, planifier et assurer le développement de produits numériques en contribuant au code du produit, aux outils, aux environnements, aux évènements et à l’organisation de l’équipe. 
-* Pour les chargés de déploiement : construire et accélérer un produit par le ciblage, l’identification, la communication, la négociation, le suivi et l’animation des partenaires. 
+* Pour les développeurs et développeuses : organiser, planifier et assurer le développement de produits numériques en contribuant au code du produit, aux outils, aux environnements, aux évènements et à l’organisation de l’équipe.
+* Pour les chargés et chargées de déploiement : construire et accélérer un produit par le ciblage, l’identification, la communication, la négociation, le suivi et l’animation des partenaires. 
 * Pour tous : découvrir et contribuer à l’animation de la communauté beta.gouv.fr (formations, évènements, rituels, apprentissage et transmission d’outils). 
 
 ## Informations pratiques
@@ -38,4 +42,4 @@ Rémunération :
 
 Les deux annonces sont disponibles sur [l'onglet recrutement de notre site](https://beta.gouv.fr/recrutement/) avec toutes les informations pour candidater. 
 
-Contact : Vous avez des questions ? Écrivez-nous à [recrutement@beta.gouv.fr](<>)
+Contact : Vous avez des questions ? Écrivez-nous à [recrutement@beta.gouv.fr](mailto:recrutement@beta.gouv.fr)
