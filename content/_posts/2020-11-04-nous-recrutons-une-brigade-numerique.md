@@ -12,7 +12,7 @@ excerpt: 12 développeurs et chargés de déploiement ont 6 mois pour renforcer 
 ---
 # Au programme
 
-Nous recrutons deux développeurs/ses expérimenté.e.s et dix chargé.e.s de déploiement, juniors et expérimenté.e.s, pour participer au déploiement et au développement d’un service numérique selon l’approche Startup d'État.
+Nous recrutons 12 développeurs/ses et chargé.e.s de déploiement, juniors et expérimenté.e.s, pour participer au déploiement et au développement d’un service numérique selon l’approche Startup d'État.
 ![](/img/posts/capture-d-e-cran-2020-11-04-a-22.33.12.png)
 
 En rejoignant une de nos équipe, chaque nouvelle recrue aura l'occasion de participer à son déploiement ou son développement et de créer un maximum d’impact pour ses usagers et également de participer à la vie transverse de l’incubateur de la DINUM.
