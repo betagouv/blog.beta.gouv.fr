@@ -10,7 +10,7 @@ excerpt: >-
   Vous êtes décideur public, ministre, conseiller, agent public, innovateur… et vous voulez résoudre un problème de politique publique grâce à un service public numérique. Alors comment le construire ? Au premier regard, une telle entreprise pourrait nous faire penser à la construction d’une maison. Une très belle maison ! Mais… en est-il vraiment ainsi ?
 ---
 
-> “Marcheur il n'y a pas de chemin, le chemin se fait en marchant.” Antonio Machado
+> « Marcheur il n'y a pas de chemin, le chemin se fait en marchant. » Antonio Machado
 
 Si c’était le cas, cela se passerait plus ou moins comme suit : à partir d’une idée très innovante - on se demande même comment il est possible que personne n’y ait pensé avant ! -, nous pondons un cahier des charges détaillé jusqu'au moindre détail, nous construisons notre service en temps et en heure, nous vérifions sans [mauvaise surprise](https://www.ccomptes.fr/system/files/2020-10/20201014-58-2-conduite-grands-projets-numeriques-Etat.pdf) que tout fonctionne comme prévu, puis nous le mettons en ligne, etc…
 
