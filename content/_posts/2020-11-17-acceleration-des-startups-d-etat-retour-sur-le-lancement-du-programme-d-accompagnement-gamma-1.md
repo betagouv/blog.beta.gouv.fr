@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accélération des startups d’État : retour sur le lancement du programme d’accompagnement Gamma"
-date: 2020-11-17
+date: 2020-11-18
 authors:
   - breanne.mallat
 categories: dinsic
@@ -10,7 +10,7 @@ excerpt:
 ---
 *En août dernier, une [démarche de réflexion](https://blog.beta.gouv.fr/dinsic/2020/08/20/acceleration-des-startups-d-etat-d-un-retour-d-experience-a-l-experimentation-d-un-programme-d-accompagnement-cible-1/) autour de l’accélération des startups d’État avait été menée. Elle s’était conclue par la décision de lancer un programme d’accompagnement ciblé nommé « Gamma » pour aider les startups en phase d’accélération à se déployer à large échelle. Retour sur ce programme et sur les startups de sa promotion 2020-2021.*
 
-Gamma, programme d’accompagnement de startups d’État en phase d’accélération, a officiellement été lancé en septembre 2020 et réunit cette année les startups d’État [Aides-territoires](https://aides-territoires.beta.gouv.fr), [DossierFacile](https://dossierfacile.fr/information) et [Mon-entreprise](https://mon-entreprise.fr), 3 startups à fort potentiel et très pertinentes dans le cadre du plan de relance lancé par le gouvernement ce même mois pour « [redresser l’économie et faire la « France de demain »](https://www.economie.gouv.fr/presentation-plan-relance) ».
+Gamma, programme d’accompagnement de startups d’État en phase d’accélération, a officiellement été lancé en septembre 2020 et réunit cette année les startups d’État [Aides-territoires](https://aides-territoires.beta.gouv.fr), [DossierFacile](https://dossierfacile.fr/information) et [Mon-entreprise](https://mon-entreprise.fr), 3 startups à fort potentiel et contribuant à l'amélioration du quotidien des citoyennes et citoyens français.
 
 ***Retour sur Gamma et ses objectifs pour sa première promotion de startups d’État.***
 
@@ -24,13 +24,13 @@ Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à dispos
 * **La mesure d’impact :** Une métrique d’impact réel (social, économique, ou environnemental) principale a été identifiée, et est suivie en partenariat avec le sponsor (administration porteuse) avec un objectif de croissance ;
 * **L’organisation de l’équipe :** l’équipe est construite et organisée pour porter la croissance (moyens humains, rôles, processus internes, culture).
 
-En plus d’accompagner le déploiement de ces projets, Gamma a pour ambition de co-construire avec l’équipe une vision stratégique du produit et d’organiser des points d’étape réguliers pour identifier des problématiques potentielles, et les ressources disponibles pour y répondre.
+En plus d’accompagner leurs déploiements, Gamma a pour ambition de co-construire avec l’équipe une vision stratégique du produit et d’organiser des points d’étape réguliers pour identifier des problématiques potentielles, et les ressources disponibles pour y répondre.
 
 ### 2. Les startups d’État de la promotion 2020-2021
 
 - - -
 
-Pour cette première promotion, Gamma a choisi d’accompagner l’accélération de 3 projets autour de 3 problématiques d’intérêt général : le développement des territoires, la facilitation de l’accès au logement et l’accompagnement des entrepreneurs. Ces projets s’inscrivent dans la lignée du plan de relance du gouvernement et illustrent la motivation de Gamma à accélérer des startups d’État pertinentes pour les citoyennes et citoyens français.
+Pour cette première promotion, Gamma a choisi d’accompagner l’accélération de 3 produits autour de 3 problématiques d’intérêt général : le développement des territoires, la facilitation de l’accès au logement et l’accompagnement des entrepreneurs. Ces produits s’inscrivent dans la lignée du plan de relance du gouvernement et illustrent la motivation de Gamma à accélérer des startups d’État dont l'impact sert à l'interêt général.
 
 * **Aides-territoires**
 
@@ -44,9 +44,7 @@ De plus, Aides-territoires a récemment mis en place [le guichet unique des aide
 [DossierFacile](https://dossierfacile.fr/information) vise à faciliter les démarches de location pour les locataires et les propriétaires.
 D’une part, il accompagne les candidats locataires dans la constitution de leur dossier de location pour les aider à maximiser leurs chances de voir leurs dossiers acceptés. D’autre part, il vérifie gratuitement le dossier des locataires pour aider les propriétaires à choisir le locataire qui conviendrait le mieux.
 
-Depuis le lancement du projet, plus de 635 000 documents ont été déposés sur DossierFacile, 92.2% des utilisateurs se disent satisfaits et plus de 234 000 dossiers DossierFacile ont été créés.
-
-DossierFacile s’inscrit dans le pilier « Compétitivité » du plan de relance du gouvernement car il participe à la mise à niveau numérique de l’État via la numérisation des services publics.
+Depuis le lancement du produit, plus de 635 000 documents ont été déposés sur DossierFacile, 92.2% des utilisateurs se disent satisfaits et plus de 234 000 dossiers DossierFacile ont été créés.
  
 * **Mon-entreprise**
 
@@ -54,14 +52,14 @@ DossierFacile s’inscrit dans le pilier « Compétitivité » du plan de relanc
 
 En 2019, mon-entreprise a vu plus de 1,7 millions de visiteurs utiliser son service et disposait de 10 simulateurs dédiés aux entrepreneurs.
 
-Mon-entreprise répond à la volonté du gouvernement d’accompagner et soutenir les TPE/PME car la plateforme permet d’aider les entrepreneurs à être au courant des dernières évolutions législatives, et ainsi de lever les incertitudes de ces derniers vis-à-vis de l’administration.
+Mon-entreprise permet également d’aider les entrepreneurs à être au courant des dernières évolutions législatives, et ainsi de lever les incertitudes de ces derniers vis-à-vis de l’administration.
 
 ### 3. Les objectifs de Gamma
 
 - - -
 
-L’équipe Gamma, après avoir fait une réunion de lancement personnalisée pour chaque startup d’État, a défini des métriques à suivre ainsi que objectifs à moyen et long terme pour chaque projet. Ces métriques ont été définies en concertation avec les équipes et permettent d’indiquer la progression des projets au fil des mois grâce à l’accompagnement qu’offre le programme Gamma.
+L’équipe Gamma, après avoir fait une réunion de lancement personnalisée pour chaque startup d’État, a défini des métriques à suivre ainsi que objectifs à moyen et long terme pour chaque produit. Ces métriques ont été définies en concertation avec les équipes et permettent d’indiquer la progression des produits au fil des mois grâce à l’accompagnement qu’offre le programme Gamma.
 
-Si un premier point d’étape régulier va être organisé prochainement, le point de mi-parcours de décembre prochain permettra d’observer l’évolution de chaque projet au prisme des métriques établies en amont.
+Si un premier point d’étape régulier va être organisé prochainement, le point de mi-parcours de décembre prochain permettra d’observer l’évolution de chaque produit au prisme des métriques établies en amont.
 
 **Rendez-vous en décembre 2020 pour un premier retour sur l’évolution de chaque projet !**
