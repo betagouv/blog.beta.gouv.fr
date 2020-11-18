@@ -12,7 +12,7 @@ excerpt: >-
 
 _Cet article est d'abord paru sur [apolitical](https://apolitical.co/en/solution_article/when-is-my-government-digital-service-ready-to-go-live)._
 
-Si c’était le cas, cela se passerait plus ou moins comme suit : à partir d’une idée très innovante - on se demande même comment il est possible que personne n’y ait pensé avant ! -, nous pondons un cahier des charges détaillé jusqu'au moindre détail, nous construisons notre service en temps et en heure, nous vérifions sans [mauvaise surprise](https://www.ccomptes.fr/system/files/2020-10/20201014-58-2-conduite-grands-projets-numeriques-Etat.pdf) que tout fonctionne comme prévu, puis nous le mettons en ligne, etc…
+Si c’était le cas, cela se passerait plus ou moins comme suit : à partir d’une idée très innovante - on se demande même comment il est possible que personne n’y ait pensé avant ! -, nous pondons un cahier des charges détaillé à la virgule près, nous construisons notre service en temps et en heure, nous vérifions sans [mauvaise surprise](https://www.ccomptes.fr/system/files/2020-10/20201014-58-2-conduite-grands-projets-numeriques-Etat.pdf) que tout fonctionne comme prévu, puis nous le mettons en ligne, etc…
 
 Poum ! Champagne ! C’est le grand soir ! Tout le monde utilise notre service. Ivres de reconnaissance, leurs [avis positifs](https://observatoire.numerique.gouv.fr/observatoire/) coulent à flots, comme par ruissellement. Il n’y aurait plus qu’à pondre un nouveau cahier des charges, à rincer, et à répéter :  poum, poum, poum !  Malheureusement, ce n’est pas ainsi que cela fonctionne dans la vaste majorité des cas - rangeons donc pour l’instant nos flûtes.
 
