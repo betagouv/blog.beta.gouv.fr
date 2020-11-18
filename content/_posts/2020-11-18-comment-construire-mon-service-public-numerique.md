@@ -81,7 +81,8 @@ Dans cette phase, vous devrez mettre en ligne une version bêta de votre service
 #### Accélération et pérennisation (jusqu'à ce que la fin du monde vous en empêche)
 
 L'objectif des deux dernières phases est que votre service ait un impact majeur pour vos utilisateurs :
-déployer votre service dans toute sa portée auprès de tous ses utilisateurs cibles ;
+
+* déployer votre service dans toute sa portée auprès de tous ses utilisateurs cibles ;
 
 * maximiser l'impact de votre service public numérique ;
 
