@@ -38,7 +38,7 @@ Lors de la construction de votre service public numérique, vous allez invariabl
 
 * **Risques liés au problème :** celui-ci peut sembler évident, mais - exemple de problème -, savez-vous s'il y a effectivement des personnes qui ont des problèmes pour évaluer leur admissibilité aux prestations sociales ? Combien ? Quel est le préjudice subi ?
 * **Risques liés à la solution :** une fois que vous êtes certain qu’il existe un problème réel, avez-vous une idée de la manière de le résoudre ? De la manière de rassembler les compétences qu'il faut pour construire une solution ? Des solutions alternatives existent-elles ?
-* **Risques liés à l’impact :** même si le problème est un problème réel que vous pouvez réellement résoudre, est-il pertinent de le faire ? Le monde se portera-t-il mieux grâce à votre solution ? Par exemple, votre produit peut-il vraiment diminuer le non-recours aux aides sociales ?
+* **Risques liés à l’impact :** même si le problème est un problème réel que vous pouvez réellement résoudre, est-il pertinent de le faire ? Le monde se portera-t-il mieux grâce à votre solution ? Par exemple, votre service peut-il vraiment diminuer le non-recours aux aides sociales ?
 * **Risques liés au portage politique :** enfin, si votre service vise à résoudre un problème de politique publique, il devra hacker la bureaucratie, secouer le statu quo, entraînant de la résistance… Le soutien de vos parties prenantes de plus haut niveau est-il assez fort ?
 
 La méthode pour construire votre service dépend de votre stratégie pour gérer ces risques.
