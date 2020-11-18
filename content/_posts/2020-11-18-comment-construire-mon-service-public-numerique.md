@@ -10,8 +10,6 @@ excerpt: >-
   Vous êtes décideur public, ministre, conseiller, agent public, innovateur… et vous voulez résoudre un problème de politique publique grâce à un service public numérique. Alors comment le construire ? Au premier regard, une telle entreprise pourrait nous faire penser à la construction d’une maison. Une très belle maison ! Mais… en est-il vraiment ainsi ?
 ---
 
-> « Marcheur il n'y a pas de chemin, le chemin se fait en marchant. » Antonio Machado
-
 Si c’était le cas, cela se passerait plus ou moins comme suit : à partir d’une idée très innovante - on se demande même comment il est possible que personne n’y ait pensé avant ! -, nous pondons un cahier des charges détaillé jusqu'au moindre détail, nous construisons notre service en temps et en heure, nous vérifions sans [mauvaise surprise](https://www.ccomptes.fr/system/files/2020-10/20201014-58-2-conduite-grands-projets-numeriques-Etat.pdf) que tout fonctionne comme prévu, puis nous le mettons en ligne, etc…
 
 Poum ! Champagne ! C’est le grand soir ! Tout le monde utilise notre service. Ivres de reconnaissance, leurs [avis positifs](https://observatoire.numerique.gouv.fr/observatoire/) coulent à flots, comme par ruissellement. Il n’y aurait plus qu’à pondre un nouveau cahier des charges, à rincer, et à répéter :  poum, poum, poum !  Malheureusement, ce n’est pas ainsi que cela fonctionne dans la vaste majorité des cas - rangeons donc pour l’instant nos flûtes.
@@ -19,6 +17,8 @@ Poum ! Champagne ! C’est le grand soir ! Tout le monde utilise notre service. 
 Dans cet article, nous allons déconstruire - sans mauvais jeu de mots - l'idée selon laquelle construire un service public numérique est comme construire une maison, proposer une métaphore alternative pour envisager la conception de votre service numérique, et vous proposer une approche étape par étape pour savoir comment le construire et, tout d’abord, pour savoir s’il est pertinent de le construire en premier lieu.
 
 ## Une solution au problème de quelqu'un
+
+> « Marcheur il n'y a pas de chemin, le chemin se fait en marchant. » Antonio Machado
 
 Une maison et un service public numérique sont tous les deux une solution au problème de quelqu'un. Ce qui est différent, en revanche, c’est le degré d’incertitude auquel vous faites face.
 
