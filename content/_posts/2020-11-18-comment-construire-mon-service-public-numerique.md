@@ -50,7 +50,7 @@ Chez beta.gouv.fr, le réseau de fabriques de services publics numériques de l�
 
 Cette approche comprend quatre étapes :
 
-### Investigation (6 à 13 semaines)
+#### Investigation (6 à 13 semaines)
 
 L’objectif de cette première phase est de déterminer si vous devriez créer votre service du tout :
 
@@ -64,7 +64,7 @@ L’objectif de cette première phase est de déterminer si vous devriez créer 
 
 Dans cette phase, vous ne devriez avoir encore rien construit.
 
-### Construction (6 à 12 mois)
+#### Construction (6 à 12 mois)
 
 L’objectif de cette seconde phase est de construire une première version de votre service, et le tester  auprès des utilisateurs finaux, dans des conditions réelles, mais sur un périmètre réduit :
 
@@ -78,7 +78,7 @@ L’objectif de cette seconde phase est de construire une première version de v
 
 Dans cette phase, vous devrez mettre en ligne une version bêta de votre service dès que possible.
 
-### Accélération et pérennisation (jusqu'à ce que la fin du monde vous en empêche)
+#### Accélération et pérennisation (jusqu'à ce que la fin du monde vous en empêche)
 
 L'objectif des deux dernières phases est que votre service ait un impact majeur pour vos utilisateurs :
 déployer votre service dans toute sa portée auprès de tous ses utilisateurs cibles ;
@@ -90,6 +90,8 @@ déployer votre service dans toute sa portée auprès de tous ses utilisateurs c
 * obtenir le soutien des parties prenantes pour pérenniser votre service au sein de votre direction.
 
 Une fois que votre service a fait preuve de son utilité, il devrait rester pour toujours disponible.
+
+#### Et après ?
 
 La pérennisation de votre service public numérique sera réussie si :
 
