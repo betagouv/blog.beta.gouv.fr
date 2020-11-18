@@ -16,9 +16,11 @@ Poum ! Champagne ! C’est le grand soir ! Tout le monde utilise notre service. 
 
 Dans cet article, nous allons déconstruire - sans mauvais jeu de mots - l'idée selon laquelle construire un service public numérique est comme construire une maison, proposer une métaphore alternative pour envisager la conception de votre service numérique, et vous proposer une approche étape par étape pour savoir comment le construire et, tout d’abord, pour savoir s’il est pertinent de le construire en premier lieu.
 
-## Une solution au problème de quelqu'un
+> « Marcheur il n'y a pas de chemin, le chemin se fait en marchant. »
+>
+> Antonio Machado
 
-> « Marcheur il n'y a pas de chemin, le chemin se fait en marchant. » Antonio Machado
+## Une solution au problème de quelqu'un
 
 Une maison et un service public numérique sont tous les deux une solution au problème de quelqu'un. Ce qui est différent, en revanche, c’est le degré d’incertitude auquel vous faites face.
 
