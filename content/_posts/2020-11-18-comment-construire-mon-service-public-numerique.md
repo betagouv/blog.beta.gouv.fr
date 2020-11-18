@@ -4,7 +4,7 @@ title: "Comment construire votre service public numérique ?"
 date: '2020-11-18'
 authors:
   - mauko.quiroga
-categories: general
+categories: articles
 image: /img/posts/comment-construire-mon-service-public-numerique.jpg
 excerpt: >-
   Vous êtes décideur public, ministre, conseiller, agent public, innovateur… et vous voulez résoudre un problème de politique publique grâce à un service public numérique. Alors comment le construire ? Au premier regard, une telle entreprise pourrait nous faire penser à la construction d’une maison. Une très belle maison ! Mais… en est-il vraiment ainsi ?
