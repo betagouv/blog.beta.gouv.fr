@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment construire votre service public numérique ?"
-date: '2020-11-22'
+date: '2020-11-18'
 authors:
   - mauko.quiroga
 categories: dinsic
