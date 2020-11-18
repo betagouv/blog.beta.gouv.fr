@@ -18,7 +18,7 @@ Gamma, programme d’accompagnement de startups d’État en phase d’accélér
 
 - - -
 
-Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition des ressources (coachs senior, chargé.e de déploiement ainsi qu’experts ad hoc) et à instaurer un suivi mensuel de métriques d’impact et d’éventuels points de blocage chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de projets à haut potentiel qui répondent à trois critères définis par l’équipe : 
+Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition des ressources (coachs senior, chargé.e de déploiement ainsi qu’experts ad hoc) et à instaurer un suivi mensuel de métriques d’impact et d’éventuels points de blocage chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel qui répondent à trois critères définis par l’équipe : 
 
 * **L’adéquation produit/marché :** le marché atteignable est identifié, et le produit a prouvé sa valeur sur des premiers utilisateurs récurrents (~1-5% du marché atteignable) ;
 * **La mesure d’impact :** Une métrique d’impact réel (social, économique, ou environnemental) principale a été identifiée, et est suivie en partenariat avec le sponsor (administration porteuse) avec un objectif de croissance ;
@@ -62,4 +62,4 @@ L’équipe Gamma, après avoir fait une réunion de lancement personnalisée po
 
 Si un premier point d’étape régulier va être organisé prochainement, le point de mi-parcours de décembre prochain permettra d’observer l’évolution de chaque produit au prisme des métriques établies en amont.
 
-**Rendez-vous en décembre 2020 pour un premier retour sur l’évolution de chaque projet !**
+**Rendez-vous en décembre 2020 pour un premier retour sur l’évolution de chaque produit !**
