@@ -18,7 +18,7 @@ Dans cet article, nous allons déconstruire - sans mauvais jeu de mots - l'idée
 
 > « Marcheur il n'y a pas de chemin, le chemin se fait en marchant. »
 >
-> Antonio Machado
+> — *Antonio Machado*
 
 ## Une solution au problème de quelqu'un
 
