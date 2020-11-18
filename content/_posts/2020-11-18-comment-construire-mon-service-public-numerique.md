@@ -10,6 +10,8 @@ excerpt: >-
   Vous êtes décideur public, ministre, conseiller, agent public, innovateur… et vous voulez résoudre un problème de politique publique grâce à un service public numérique. Alors comment le construire ? Au premier regard, une telle entreprise pourrait nous faire penser à la construction d’une maison. Une très belle maison ! Mais… en est-il vraiment ainsi ?
 ---
 
+_Cet article est d'abord paru sur [apolitical](https://apolitical.co/en/solution_article/when-is-my-government-digital-service-ready-to-go-live)._
+
 Si c’était le cas, cela se passerait plus ou moins comme suit : à partir d’une idée très innovante - on se demande même comment il est possible que personne n’y ait pensé avant ! -, nous pondons un cahier des charges détaillé jusqu'au moindre détail, nous construisons notre service en temps et en heure, nous vérifions sans [mauvaise surprise](https://www.ccomptes.fr/system/files/2020-10/20201014-58-2-conduite-grands-projets-numeriques-Etat.pdf) que tout fonctionne comme prévu, puis nous le mettons en ligne, etc…
 
 Poum ! Champagne ! C’est le grand soir ! Tout le monde utilise notre service. Ivres de reconnaissance, leurs [avis positifs](https://observatoire.numerique.gouv.fr/observatoire/) coulent à flots, comme par ruissellement. Il n’y aurait plus qu’à pondre un nouveau cahier des charges, à rincer, et à répéter :  poum, poum, poum !  Malheureusement, ce n’est pas ainsi que cela fonctionne dans la vaste majorité des cas - rangeons donc pour l’instant nos flûtes.
@@ -102,10 +104,9 @@ La pérennisation de votre service public numérique sera réussie si :
 
 * la gestion du service est assurée par l’équipe qui l’a développé - même à taille réduite.
 
-_Besoin d’un expert pour vous accompagner ? [Contactez-nous](mailto:contact@beta.gouv.fr)._
-
 ## Maintenant c’est à vous !
 
 Résoudre un problème de politique publique grâce à un service public numérique peut sembler comme construire une maison, mais comme nous l'avons vu, c'est plutôt comme se faire un chemin en marchant : vous savez à peu près où vous voulez qu'il vous mène, mais vous ne savez pas à l'avance quels détours il prendra. Se confronter à la réalité du terrain vous aidera à vous frayer votre chemin.
 
-_Cet article est d'abord paru sur [apolitical](https://apolitical.co/en/solution_article/when-is-my-government-digital-service-ready-to-go-live)._
+
+_Besoin d’un expert pour vous accompagner ? [Contactez-nous](mailto:contact@beta.gouv.fr)._
