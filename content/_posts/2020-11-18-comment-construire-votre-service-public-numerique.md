@@ -37,11 +37,8 @@ L'incertitude comporte des risques, mais lesquels ?
 Lors de la construction de votre service public numérique, vous allez invariablement faire face à quatre types de risques, liés au problème, à la solution, à l’impact, et au portage politique. Supposons que vous soyez chargé de créer un service pour aider les usagers à évaluer leur éligibilité aux aides sociales. Les risques associés à votre service sont les suivants :
 
 * **Risques liés au problème :** celui-ci peut sembler évident, mais - exemple de problème -, savez-vous s'il y a effectivement des personnes qui ont des problèmes pour évaluer leur admissibilité aux prestations sociales ? Combien ? Quel est le préjudice subi ?
-
 * **Risques liés à la solution :** une fois que vous êtes certain qu’il existe un problème réel, avez-vous une idée de la manière de le résoudre ? De la manière de rassembler les compétences qu'il faut pour construire une solution ? Des solutions alternatives existent-elles ?
-
 * **Risques liés à l’impact :** même si le problème est un problème réel que vous pouvez réellement résoudre, est-il pertinent de le faire ? Le monde se portera-t-il mieux grâce à votre solution ? Par exemple, votre produit peut-il vraiment diminuer le non-recours aux aides sociales ?
-
 * **Risques liés au portage politique :** enfin, si votre service vise à résoudre un problème de politique publique, il devra hacker la bureaucratie, secouer le statu quo, entraînant de la résistance… Le soutien de vos parties prenantes de plus haut niveau est-il assez fort ?
 
 La méthode pour construire votre service dépend de votre stratégie pour gérer ces risques.
@@ -57,11 +54,8 @@ Cette approche comprend quatre étapes :
 L’objectif de cette première phase est de déterminer si vous devriez créer votre service du tout :
 
 * valider que le problème est un vrai problème pour les usagers ou les bénéficiaires ;
-
 * avoir une première idée des solutions possibles, y compris existantes ;
-
 * avoir une première idée des impacts potentiels de votre solution ;
-
 * obtenir le soutien des parties prenantes pour investiguer le problème.
 
 Dans cette phase, vous ne devriez avoir encore rien construit.
@@ -71,11 +65,8 @@ Dans cette phase, vous ne devriez avoir encore rien construit.
 L’objectif de cette seconde phase est de construire une première version de votre service, et le tester  auprès des utilisateurs finaux, dans des conditions réelles, mais sur un périmètre réduit :
 
 * trouver le chemin le plus court vers vos premiers utilisateurs et en apprendre le maximum ;
-
 * déployer une solution sur un périmètre réduit et l'améliorer en continu ;
-
 * commencer à mesurer l’impact de votre solution – ou son meilleur proxy ;
-
 * obtenir le soutien des parties prenantes pour construire la solution.
 
 Dans cette phase, vous devrez mettre en ligne une version bêta de votre service dès que possible.
@@ -85,11 +76,8 @@ Dans cette phase, vous devrez mettre en ligne une version bêta de votre service
 L'objectif des deux dernières phases est que votre service ait un impact majeur pour vos utilisateurs :
 
 * déployer votre service dans toute sa portée auprès de tous ses utilisateurs cibles ;
-
 * maximiser l'impact de votre service public numérique ;
-
 * obtenir le soutien des parties prenantes pour déployer votre service dans toute sa portée ;
-
 * obtenir le soutien des parties prenantes pour pérenniser votre service au sein de votre direction.
 
 Une fois que votre service a fait preuve de son utilité, il devrait rester pour toujours disponible.
@@ -99,9 +87,7 @@ Une fois que votre service a fait preuve de son utilité, il devrait rester pour
 La pérennisation de votre service public numérique sera réussie si :
 
 * la valeur créée pour les usagers a été pérennisée ;
-
 * le développement des améliorations incrémentales du service continue ;
-
 * la gestion du service est assurée par l’équipe qui l’a développé - même à taille réduite.
 
 ## Maintenant c’est à vous !
