@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accélération des startups d’État : retour sur le lancement du programme d’accompagnement Gamma"
-date: 2020-11-19
+date: 2020-11-23
 authors:
   - breanne.mallat
 categories: dinsic
