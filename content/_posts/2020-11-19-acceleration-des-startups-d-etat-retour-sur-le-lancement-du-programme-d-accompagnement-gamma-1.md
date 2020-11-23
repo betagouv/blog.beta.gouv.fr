@@ -24,7 +24,7 @@ Pour rappel, le programme [beta.gouv.fr](https://beta.gouv.fr/), dont l’approc
 * **Accélération** : améliorer et déployer le service si son utilité est avérée, avec l’objectif de maximiser son impact ;
 * **Transfert** : pérennisation du service dans une structure appropriée.
 
-Si le programme affiche aujourd’hui des [dizaines de réussites de construction de services publics innovants](https://beta.gouv.fr/startups/), avec un processus d’accompagnement des phases d’investigation et de construction rôdé, les startups en phase d’accélération (26 à ce jour) se heurtent-elles régulièrement à des difficultés dans leur déploiement à large échelle.
+Si le programme affiche aujourd’hui des [dizaines de réussites de construction de services publics innovants](https://beta.gouv.fr/startups/), avec un processus d’accompagnement des phases d’investigation et de construction rôdé, les startups en phase d’accélération (26 à ce jour) se heurtent régulièrement à des difficultés dans leur déploiement à large échelle.
 
 Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition des ressources (coachs senior, chargé.e de déploiement ainsi qu’experts ad hoc) et à instaurer un suivi mensuel de métriques d’impact et d’éventuels points de blocage chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel qui répondent à trois critères définis par l’équipe : 
 
