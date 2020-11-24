@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sécurité et RGPD - les liaisons dangereuses"
-date: '2020-11-25'
+date: '2020-11-24'
 authors:
   - laurent.bossavit
 categories: articles
