@@ -62,9 +62,9 @@ Or ce que l'on observe pour les pratiques de sécurité, c'est qu'elles souffren
 
 Les marchés de la DINUM nous permettent par exemple de commander un « test d'intrusion » pour environ 15 000 €, soit entre 5 et 10% du budget des 6 premiers mois pour un de nos produits ; c'est substantiel. Mais comment distinguer entre un bon et un mauvais test d'intrusion ? Pour l'acheteur, il est clairement plus agréable qu'un test ne montre pas de problèmes sérieux de sécurité. Or cela est clairement en faveur de testeurs qui se contentent du « minimum syndical » lors de la recherche de failles; ou bien qui fonctionnent sur la base d'une checklist de caractéristiques qui *peuvent* indiquer une faille de sécurité même si celle-ci n'est pas rigoureusement démontrée.
 
-Il existe donc un risque bien réel que les investissements en sécurité se traduisent par une augmentation de la facture, mais pas une amélioration de la sécurité. On parle aussi dans la spère anglophone de « security theater », ou sécurité théatrale : des activités qui donnent l'apparence de se préoccuper de sécurité mais sans impact réel.
+Il existe donc un risque bien réel que les investissements en sécurité se traduisent par une augmentation de la facture, mais pas une amélioration de la sécurité. On parle aussi dans la sphère anglophone de « security theater », ou sécurité théatrale : des activités qui donnent l'apparence de se préoccuper de sécurité mais sans impact réel.
 
-On peut transposer ce raisonnement à l'identique sur les sujets relevant de la protection de la vie privée et des données personnelles : le risque d'une prolifération de protections « théatrales » se traduisant par des activités obligatoires et coûteuses en argent public mais sans impact réel.
+On peut transposer ce raisonnement à l'identique sur les sujets relevant de la protection de la vie privée et des données personnelles : le risque d'une prolifération de protections « théâtrales » se traduisant par des activités obligatoires et coûteuses en argent public mais sans impact réel.
 
 ## Notre réponse aux dangers de l'anti-sélection
 
