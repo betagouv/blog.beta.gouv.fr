@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "cmachance.fr, retour d'expérience d'un Lauréat du FAST"
+title: "cmachance.fr, retour d'expérience d'un lauréat du FAST"
 date: '2020-11-26'
 authors:
   - samuel.turpin
   - arnaud.denoix
 categories: dinsic
-image: 
+image: FAST_2400x448-nom-du-fonds.jpg
 excerpt: >-
   cmachance.fr est un service en ligne conçu par la Chambre de Métiers et de l’Artisanat Hauts-de-France, 
   qui facilite la mise en relation entre les artisans et les jeunes qui recherchent un contrat en alternance.
@@ -30,7 +30,7 @@ Grâce aux coachs, on s'est rendu compte qu'on n'était pas des experts du numé
 
 Avec le recul, je pense avoir sous-estimé l'investissement en tant que responsable du produit. Avec mes multiples casquettes en-dehors de cmachance, je regrette de ne pas avoir pu consacrer plus de temps au produit cette année, au regard de la valeur de ce que m'ont apporté mes échanges avec Damien et Chaib (les coachs). 
 
-:bulb: *Suggestion : mieux expliciter l'investissement que représente un accompagnement beta gouv, et l'importance d'avoir un responsable de produit / entrepreneur dédié ou presque dédié au produit* 
+*Suggestion : mieux expliciter l'investissement que représente un accompagnement beta gouv, et l'importance d'avoir un responsable de produit / entrepreneur dédié ou presque dédié au produit* 
 
 
 ### L'allocation des ressources FAST
@@ -40,7 +40,7 @@ La choix de beta.gouv de concentrer le ticket FAST sur la recherche d'impact (ac
 
 En revanche, on n'a peut-être pas réagi assez vite sur la nécessité d'une refonte technique du produit.
 
-:bulb: *Idée : prévoir un temps dans la foulée du jury FAST pour un diagnostic partagé de l'état du produit et de ses besoins (préalable à la rédaction de la convention de partenariat)*
+*Idée : prévoir un temps dans la foulée du jury FAST pour un diagnostic partagé de l'état du produit et de ses besoins (préalable à la rédaction de la convention de partenariat)*
 
 ### Devenir une startup d'Etat (ou pas)
 
@@ -52,6 +52,6 @@ Ce qui est sûr c'est qu'on a pas compris tout de suite pour quoi "on signait", 
 
 Au-delà de la convention qui se termine à la fin de de l'année, c'est une vraie réussite d'être une startup d'Etat, et on rêve de le rester ! Avec toutes les exigences qui vont avec : le respect du [manifeste](https://beta.gouv.fr/approche/manifeste)et la transparence sur l'impact. D'ailleurs, ça commence par sortir enfin la page /stats qu'on a pas encore mise en ligne ;). Au-delà des moyens alloués, beta.gouv est l'un des plus beaux réseaux dont on puisse rêver en tant que responsable de produit.  
 
-:bulb: *Idée : ritualiser l'embarquement des lauréats FAST pour les aider à connaitre et à se repérer dans le réseau beta.gouv*
+*Idée : ritualiser l'embarquement des lauréats FAST pour les aider à connaitre et à se repérer dans le réseau beta.gouv*
 
 
