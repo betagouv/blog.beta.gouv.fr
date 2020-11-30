@@ -33,7 +33,8 @@ Il s’agissait à la fois de créer du lien pour benchmarker (comparer) au mieu
 
 Je dirais que j’ai l’impression d’être capitaine d’un bateau. Nous avons une destination, qui peut bien sûr évoluer, et je me dois de garder le cap avec mon équipe, de les protéger au mieux en cas de vents violents et de garder le contact avec nos relais et commanditaires restés sur la terre ferme. Plus concrètement, je participe au développement d’un outil pour aider les consommateurs à faire valoir leurs droits et baisser le nombre d'anomalies constatées. Je m’assure que ce que l’on produit corresponde bien toujours à cet objectif et que chacun dans l’équipe puisse avoir les ressources nécessaires à son travail.
 
-![Schéma du parcours utilisateur sur SignalConso](/img/posts/signal-conso.png)
+<iframe width="644" height="362" src="https://www.youtube.com/embed/JPsL7x1C6a4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Qu’est-ce qui aurait pu faire que ta Startup d'État fasse un flop ?
 
@@ -42,6 +43,8 @@ Je pense que si nous n’avions pas eu le soutien si fort de notre sponsor, cela
 ## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
 La gestion sur notre plate-forme des problèmes individuels (= litiges contractuels). Nous avons rapidement compris que ce type de signalements devaient être traités à part et la mécanique du site n’était pas bien comprise par les consommateurs pour ces cas. Pour moi, c’était notre plus grand échec. Mais ce n’était pas le plus important, car nous l’avions clairement identifié et avons toujours été très transparents sur nos difficultés. Nous avons passé beaucoup de temps à étudier le besoin du consommateur sur ces cas et à comprendre les liens qui pouvaient être faits avec des solutions déjà existantes (médiation, associations de consommateurs…). Nous avons  pu avancer pour se performer sur ce point et j’en suis fière. Il reste encore du travail mais nous avons su trouver des pistes de travail très intéressantes et innovantes. 
+
+![Schéma du parcours utilisateur sur SignalConso](/img/posts/signal-conso.png)
 
 ## Quelle est la qualité essentielle pour réussir comme intrapreneuse ?
 
