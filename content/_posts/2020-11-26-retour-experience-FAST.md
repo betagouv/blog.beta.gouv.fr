@@ -8,8 +8,7 @@ authors:
 categories: dinsic
 image: FAST_2400x448-nom-du-fonds.jpg
 excerpt: >-
-  cmachance.fr est un service en ligne conçu par la Chambre de Métiers et de l’Artisanat Hauts-de-France, 
-  qui facilite la mise en relation entre les artisans et les jeunes qui recherchent un contrat en alternance.
+  cmachance.fr est un produit lauréat du Fonds d’accélération des Startups d’État et de Territoire (FAST).
 ---
 
 ### Contexte 
