@@ -21,6 +21,8 @@ excerpt: >-
 
   Nous avons demandé à Magalie de nous raconter son expérience en tant qu'intrapreneuse.
 ---
+![]()
+
 ## Que faisais-tu avant d’être intrapreneuse/eur ?
 
 J'étais inspectrice DGCCRF et je m’occupais de l’animation et de la coordination des contrôles des brigades d'enquête spécialisées dans le vin et les spiritueux.
@@ -30,6 +32,8 @@ Il s’agissait à la fois de créer du lien pour benchmarker (comparer) au mieu
 ## Comment expliquerais-tu ta mission d'intra à un de tes proches ?
 
 Je dirais que j’ai l’impression d’être capitaine d’un bateau. Nous avons une destination, qui peut bien sûr évoluer, et je me dois de garder le cap avec mon équipe, de les protéger au mieux en cas de vents violents et de garder le contact avec nos relais et commanditaires restés sur la terre ferme. Plus concrètement, je participe au développement d’un outil pour aider les consommateurs à faire valoir leurs droits et baisser le nombre d'anomalies constatées. Je m’assure que ce que l’on produit corresponde bien toujours à cet objectif et que chacun dans l’équipe puisse avoir les ressources nécessaires à son travail.
+
+![Schéma du parcours utilisateur sur SignalConso](/img/posts/signal-conso.png)
 
 ## Qu’est-ce qui aurait pu faire que ta Startup d'État fasse un flop ?
 
