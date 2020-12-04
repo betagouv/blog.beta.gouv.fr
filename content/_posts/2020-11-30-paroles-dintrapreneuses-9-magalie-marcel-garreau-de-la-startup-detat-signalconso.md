@@ -21,7 +21,7 @@ excerpt: >-
 
   Nous avons demandé à Magalie de nous raconter son expérience en tant qu'intrapreneuse.
 ---
-![]()
+![](/img/posts/0-2-.jfif)
 
 ## Que faisais-tu avant d’être intrapreneuse/eur ?
 
@@ -34,7 +34,6 @@ Il s’agissait à la fois de créer du lien pour benchmarker (comparer) au mieu
 Je dirais que j’ai l’impression d’être capitaine d’un bateau. Nous avons une destination, qui peut bien sûr évoluer, et je me dois de garder le cap avec mon équipe, de les protéger au mieux en cas de vents violents et de garder le contact avec nos relais et commanditaires restés sur la terre ferme. Plus concrètement, je participe au développement d’un outil pour aider les consommateurs à faire valoir leurs droits et baisser le nombre d'anomalies constatées. Je m’assure que ce que l’on produit corresponde bien toujours à cet objectif et que chacun dans l’équipe puisse avoir les ressources nécessaires à son travail.
 
 <iframe width="644" height="362" src="https://www.youtube.com/embed/JPsL7x1C6a4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Qu’est-ce qui aurait pu faire que ta Startup d'État fasse un flop ?
 
@@ -63,3 +62,23 @@ Oh que oui ! C’est un poste prenant qui permet d'exercer certaines qualités a
 ## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
 De tenter l’aventure :) Plus concrètement je l’inviterai à se renseigner soit en interne soit chez Beta.gouv.fr pour savoir si d’autres projets similaires ne sont pas déjà en cours et leur exposer le problème qu'il souhaite résoudre. Et surtout, de ne jamais baisser les bras si ça ne fonctionne pas du premier coup !
+
+- - -
+
+## Retrouver tous les interviews de la série "Paroles d'intra" 🎤 :
+
+* #### **[Paroles d'intrapreneuse #1 : Gaëlle Toledano de la Startup d'Etat ANDi](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)**
+* #### **[Paroles d'intrapreneuse #2 : Mélodie Dahi de la Startup d'Etat Zam](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)**
+* #### **[Paroles d'intrapreneuse #3 : Lauren Michel de la Startup Maintenant! de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/)**
+* #### **[Paroles d'intrapreneuse #4 : Sylvie Lebel de la Startup d'Etat ZEN de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/17/paroles-dintrapreneuses-4-sylvie-lebel-de-la-startup-zen-de-pole-emploi/)**
+* #### **[Paroles d'intrapreneuse #5 : Aude Millamon et Elodie Vaneecke de la Startup de territoires RDV solidarités](https://blog.beta.gouv.fr/dinsic/2020/07/29/paroles-dintrapreneuses-5-aude-millamon-et-elodie-vaneecke-de-la-startup-de-territoires-rdv-solidarite/)**
+* #### **[Paroles d'intrapreneur #6 : Mathieu Gens de la Startup d'Etat Place des Entreprises](https://blog.beta.gouv.fr/dinsic/2020/09/15/paroles-dintrapreneurs-6-mathieu-gens-de-la-startup-detat-place-des-entreprises/)**
+* **[Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)**
+
+* **[Paroles d'intrapreneuses #8 : Vikie Ache de la Startup de territoire Simone & Co](https://blog.beta.gouv.fr/dinsic/2020/11/05/paroles-dintrapreneuses-8-vickie-hache-moser-de-la-startup-de-territoires-simone-co/)**
+
+- - -
+
+#### *Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?*
+
+*Nous pouvons vous aider. Répondez à l’appel à participation. Toutes les informations utiles se trouvent [ici.](https://beta.gouv.fr/approche/investigation)*
