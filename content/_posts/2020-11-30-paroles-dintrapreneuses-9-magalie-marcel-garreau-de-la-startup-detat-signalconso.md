@@ -7,6 +7,7 @@ authors:
   - lery.jicquel
   - magalie.marcel
 categories: dinsic
+image: /img/posts/parole-intrapreneuse-3-.jpg
 excerpt: >-
   Magalie Marcel-Marceau est l'intrapreneuse de la Startup d'Etat
   [SignalConso](https://signal.conso.gouv.fr/) au sein de [la Direction générale
