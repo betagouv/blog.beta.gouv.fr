@@ -4,8 +4,8 @@ title: "Paroles d'intrapreneuses #9 : Magalie Marcel-Garreau de la Startup
   d'Etat SignalConso"
 date: 2020-11-30
 authors:
-  - léry.jicquel
-  - magalie.marcel-marceau
+  - lery.jicquel
+  - magalie.marcel
 categories: dinsic
 excerpt: >-
   Magalie Marcel-Marceau est l'intrapreneuse de la Startup d'Etat
