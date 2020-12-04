@@ -13,11 +13,8 @@ excerpt: >-
   de la Concurrence, de la Consommation et de la Répression des
   fraudes](https://www.economie.gouv.fr/dgccrf). Elle a débuté cette aventure en
   juin 2018. Après plus de deux ans, son produit est aujourd'hui en phase de
-  transfert grâce aux résultats de sa Startup d'Etat.  SignalConso a un objectif
-  simple, "faire baisser le nombre d'anomalies rencontrées par les
-  consommateurs", et sa solution est assez efficace, "signaler un problème à la
-  répression des fraudes en toute transparence avec l'entreprise !"
-
+  transfert.
+   SignalConso a un objectif simple : "faire baisser le nombre d'anomalies rencontrées par les consommateurs". Sa solution permet de "signaler un problème à la répression des fraudes en toute transparence avec l'entreprise !"
 
   Nous avons demandé à Magalie de nous raconter son expérience en tant qu'intrapreneuse.
 ---
