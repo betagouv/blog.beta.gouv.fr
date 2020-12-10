@@ -2,7 +2,7 @@
 layout: post
 title: "Paroles d'intrapreneuses #9 : Magali Marcel-Garreau de la Startup d'Etat
   SignalConso"
-date: 2020-11-30
+date: 2020-12-10
 authors:
   - lery.jicquel
   - magali.marcel
