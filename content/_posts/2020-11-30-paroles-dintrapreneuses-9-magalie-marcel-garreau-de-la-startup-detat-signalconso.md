@@ -7,7 +7,7 @@ authors:
   - lery.jicquel
   - magali.marcel
 categories: dinsic
-image: /img/posts/parole-intrapreneuse-3-.jpg
+image: /img/posts/parole-intrapreneuse-4-.jpg
 excerpt: >-
   Magali Marcel-Garreau était l'intrapreneuse de la Startup d'État
   [SignalConso](https://signal.conso.gouv.fr/) au sein de [la Direction générale
