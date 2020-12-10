@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Paroles d'intrapreneuses #9 : Magalie Marcel-Garreau de la Startup
-  d'Etat SignalConso"
+title: "Paroles d'intrapreneuses #9 : Magali Marcel-Garreau de la Startup d'Etat
+  SignalConso"
 date: 2020-11-30
 authors:
   - lery.jicquel
@@ -9,23 +9,25 @@ authors:
 categories: dinsic
 image: /img/posts/parole-intrapreneuse-3-.jpg
 excerpt: >-
-  Magalie Marcel-Marceau était l'intrapreneuse de la Startup d'Etat
+  Magali Marcel-Garreau était l'intrapreneuse de la Startup d'État
   [SignalConso](https://signal.conso.gouv.fr/) au sein de [la Direction générale
   de la Concurrence, de la Consommation et de la Répression des
   fraudes](https://www.economie.gouv.fr/dgccrf). Elle a débuté cette aventure en
-  juin 2018. Après plus de deux ans, son produit est aujourd'hui en phase de
-  transfert.
-   SignalConso a un objectif simple : "faire baisser le nombre d'anomalies rencontrées par les consommateurs". Sa solution permet de "signaler un problème à la répression des fraudes en toute transparence avec l'entreprise !"
+  juin 2018. Après plus de deux ans, son produit est aujourd'hui en phase
+  d'accélération.
 
-  Nous avons demandé à Magalie de nous raconter son expérience en tant qu'intrapreneuse.
+  SignalConso a un objectif simple : "faire baisser le nombre d'anomalies rencontrées par les consommateurs". Sa solution permet de "signaler un problème à la répression des fraudes en toute transparence avec l'entreprise !"
+
+
+  Nous avons demandé à Magali de nous raconter son expérience en tant qu'intrapreneuse.
 ---
 ![](/img/posts/0-2-.jfif)
 
-## Que faisais-tu avant d’être intrapreneuse/eur ?
+## Que faisais-tu avant d’être intrapreneuse ?
 
 J'étais inspectrice DGCCRF et je m’occupais de l’animation et de la coordination des contrôles des brigades d'enquête spécialisées dans le vin et les spiritueux.
 
-Il s’agissait à la fois de créer du lien pour benchmarker (comparer) au mieux nos pratiques et proposer des outils pour faciliter le travail des enquêteurs. C’était un poste très enrichissant en lien avec des enquêteurs passionnés par leur métier.
+Il s’agissait à la fois de créer du lien pour comparer au mieux nos pratiques et proposer des outils pour faciliter le travail des enquêteurs. C’était un poste très enrichissant en lien avec des enquêteurs passionnés par leur métier.
 
 ## Comment expliquerais-tu ta mission d'intra à un de tes proches ?
 
@@ -39,7 +41,7 @@ Je pense que si nous n’avions pas eu le soutien si fort de notre sponsor, cela
 
 ## Quel est l’échec durant cette expérience dont tu es la plus fière ?
 
-La gestion sur notre plate-forme des problèmes individuels (= litiges contractuels). Nous avons rapidement compris que ce type de signalements devaient être traités à part et la mécanique du site n’était pas bien comprise par les consommateurs pour ces cas. Pour moi, c’était notre plus grand échec. Mais ce n’était pas le plus important, car nous l’avions clairement identifié et avons toujours été très transparents sur nos difficultés. Nous avons passé beaucoup de temps à étudier le besoin du consommateur sur ces cas et à comprendre les liens qui pouvaient être faits avec des solutions déjà existantes (médiation, associations de consommateurs…). Nous avons  pu avancer pour se performer sur ce point et j’en suis fière. Il reste encore du travail mais nous avons su trouver des pistes de travail très intéressantes et innovantes. 
+La gestion sur notre plate-forme des problèmes individuels (= litiges contractuels). Nous avons rapidement compris que ce type de signalements devaient être traités à part et la mécanique du site n’était pas bien comprise par les consommateurs pour ces cas. Pour moi, c’était notre plus grand échec. Mais ce n’était pas le plus important, car nous l’avions clairement identifié et avons toujours été très transparents sur nos difficultés. Nous avons passé beaucoup de temps à étudier le besoin du consommateur sur ces cas et à comprendre les liens qui pouvaient être faits avec des solutions déjà existantes (médiation, associations de consommateurs…). Nous avons pu avancer pour nous améliorer sur ce point et j’en suis fière. Il reste encore du travail mais nous avons su trouver des pistes de travail très intéressantes et innovantes. 
 
 ![Schéma du parcours utilisateur sur SignalConso](/img/posts/signal-conso.png)
 
@@ -57,9 +59,9 @@ Et bien sûr, avoir de l’empathie pour ses usagers ! C’est important de croi
 
 Oh que oui ! C’est un poste prenant qui permet d'exercer certaines qualités au travail que l’on n’aurait pas mobilisé sur un poste plus classique. Par contre, il faut avoir en tête que ce sont des postes exposés, et que la pression peut être assez forte. Mais on s’oublie vite pour “vivre” notre produit !
 
-## Si oui, quels recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
+## Si oui, quelles recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
-De tenter l’aventure :) Plus concrètement je l’inviterai à se renseigner soit en interne soit chez Beta.gouv.fr pour savoir si d’autres projets similaires ne sont pas déjà en cours et leur exposer le problème qu'il souhaite résoudre. Et surtout, de ne jamais baisser les bras si ça ne fonctionne pas du premier coup !
+De tenter l’aventure :) Plus concrètement je l’inviterais à se renseigner soit en interne soit chez Beta.gouv.fr pour savoir si d’autres projets similaires ne sont pas déjà en cours et leur exposer le problème qu'il souhaite résoudre. Et surtout, de ne jamais baisser les bras si ça ne fonctionne pas du premier coup !
 
 - - -
 
@@ -72,7 +74,6 @@ De tenter l’aventure :) Plus concrètement je l’inviterai à se renseigner s
 * #### **[Paroles d'intrapreneuse #5 : Aude Millamon et Elodie Vaneecke de la Startup de territoires RDV solidarités](https://blog.beta.gouv.fr/dinsic/2020/07/29/paroles-dintrapreneuses-5-aude-millamon-et-elodie-vaneecke-de-la-startup-de-territoires-rdv-solidarite/)**
 * #### **[Paroles d'intrapreneur #6 : Mathieu Gens de la Startup d'Etat Place des Entreprises](https://blog.beta.gouv.fr/dinsic/2020/09/15/paroles-dintrapreneurs-6-mathieu-gens-de-la-startup-detat-place-des-entreprises/)**
 * **[Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)**
-
 * **[Paroles d'intrapreneuses #8 : Vikie Ache de la Startup de territoire Simone & Co](https://blog.beta.gouv.fr/dinsic/2020/11/05/paroles-dintrapreneuses-8-vickie-hache-moser-de-la-startup-de-territoires-simone-co/)**
 
 - - -
