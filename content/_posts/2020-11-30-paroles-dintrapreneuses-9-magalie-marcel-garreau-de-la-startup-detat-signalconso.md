@@ -5,7 +5,7 @@ title: "Paroles d'intrapreneuses #9 : Magali Marcel-Garreau de la Startup d'Etat
 date: 2020-11-30
 authors:
   - lery.jicquel
-  - magalie.marcel
+  - magali.marcel
 categories: dinsic
 image: /img/posts/parole-intrapreneuse-3-.jpg
 excerpt: >-
