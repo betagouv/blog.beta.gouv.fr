@@ -3,7 +3,7 @@ layout: post
 title: "Une journée pour apprendre à investiguer un problème de politique publique ! "
 date: 2021-01-05
 authors:
-  - jihane.herizi
+  - camille.garrigue
 categories: dinsic
 image: /img/posts/2020_06_18_1200x675_Twitter_BETA_INVESTIGATION.jpg
 excerpt: 
@@ -27,5 +27,5 @@ Dans un format collectif en début de journée puis entouré d'un.e coach en sou
 
 **La prochaine session de la [formation Alpha](https://beta.gouv.fr/approche/formation) aura lieu le jeudi 28 janvier de 9h30 à 17h en ligne** 
 
-Elle est accessible gratuitement à toute personne faisant partie d'une administration publique (services d'Etat, collectivités, opérateurs de l'Etat, etc.) qui se sera **[inscrite ici](https://startupdetat.typeform.com/to/SGQMt9f0)** avant le 27 janvier 2021 et aura reçu un mail de confirmation.
+Elle est accessible gratuitement à toute personne faisant partie d'une administration publique (services d'Etat, collectivités, opérateurs de l'Etat, etc.) qui se sera **[inscrite ici](https://startupdetat.typeform.com/to/SGQMt9f0)** avant le 22 janvier 2021 et aura reçu un mail de confirmation.
 
