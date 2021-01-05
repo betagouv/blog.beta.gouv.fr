@@ -6,12 +6,13 @@ authors:
   - jihane.herizi
 categories: dinsic
 image: /img/posts/2020_06_18_1200x675_Twitter_BETA_INVESTIGATION.jpg
-excerpt: >-
-  Vous avez envie de résoudre un problème de politique publique à travers un
-  service numérique et vous ne savez pas comment vous lancer ? 
-
-  Participez le 28 janvier à la formation Alpha en ligne pour (re)découvrir nos méthodes beta.gouv.fr et  savoir comment tirer partie de notre nouveau programme d'investigation financé par la Direction Interministérielle du Numérique.
+excerpt: 
+  
 ---
+Vous avez envie de résoudre un problème de politique publique à travers un service numérique et vous ne savez pas comment vous lancer ? 
+
+**Participez le 28 janvier à la formation Alpha en ligne** pour (re)découvrir nos méthodes beta.gouv.fr et savoir comment tirer partie de notre nouveau programme d'investigation financé par la Direction Interministérielle du Numérique.**[Inscrivez-vous ici](https://startupdetat.typeform.com/to/SGQMt9f0)** !
+
 **Comment les Startups d'Etat et de Territoires se sont construites et fonctionnent depuis 7 ans ?**
 
 **Comment formuler et investiguer un bon problème de politique publique ?** 
@@ -24,9 +25,9 @@ Dans un format collectif en début de journée puis entouré d'un.e coach en sou
 * identifier vos forces et difficultés pour intégrer le programme ;
 * réfléchir à la façon d'approcher vos (futurs) utilisateurs pour valider votre problème et, par la suite, créer un prototype de solution à présenter à un comité d'investissement.
 
-**De 9h30 à 17h, cette formation Alpha* spéciale investigation aura lieu le 28 janvier en ligne.** 
+**La prochaine session de la formation ALpha aura lieu le jeudi 28 janvier de 9h30 à 17h en ligne** 
 
-Elle est accessible gratuitement à toute personne intéressée faisant partie d'une administration publique qui se sera [inscrite ici](https://startupdetat.typeform.com/to/SGQMt9f0) avant le 27 janvier 2021 et aura reçu un mail de confirmation.
+Elle est accessible gratuitement à toute personne intéressée faisant partie d'une administration publique qui se sera **[inscrite ici](https://startupdetat.typeform.com/to/SGQMt9f0)** avant le 27 janvier 2021 et aura reçu un mail de confirmation.
 
 *\*Depuis 2 ans, [Alpha](https://beta.gouv.fr/approche/formation) est la formation accélérée aux méthodes de la communauté beta.gouv.fr. 
 Elle est destinée à accompagner les nouvelles Startups d’État et de Territoires et leurs intrapreneurs.
