@@ -7,7 +7,7 @@ authors:
   - VALENTINE.MICHAUD
 categories: dinsic
 tags: valentine.michaud
-image: /img/posts/2021_01_06_1200x675_fast_visuel_twitter.jpg
+image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
 excerpt: >-
   Le programme beta.gouv.fr, porté par la Direction Interministérielle du
   Numérique lance son 7ème appel à candidatures du Fonds d’Accélération des
