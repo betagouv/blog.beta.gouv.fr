@@ -3,7 +3,8 @@ layout: post
 title: 1 580 000 euros pour les lauréats du FAST 6, postulez dès maintenant à la
   7ème édition !
 date: 2021-01-06
-authors: []
+authors:
+  - valentine.michaud
 categories: dinsic
 tags: valentine.michaud
 image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
@@ -82,3 +83,5 @@ Cet appel vise à soutenir des solutions numériques existantes, développées p
 Cliquez ici [pour en savoir plus](https://beta.gouv.fr/fast/) et/ou [candidater](https://www.demarches-simplifiees.fr/commencer/fast7) sur la session du 8 mars.
 
 Si vous êtes une administration et que vous identifiez un projet qui n’est pas éligible au FAST mais que vous souhaitez tout de même vous engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, vous pouvez passer par [le mode habituel de fonctionnement](https://beta.gouv.fr/content/docs/guide.pdf) et nous transmettre [une fiche produit](https://beta.gouv.fr/ficheproduit/) à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
+
+En cas de questions sur ce fonds et ces appels à projets, vous pouvez contacter l’équipe Fast à [fast@beta.gouv.fr](fast@beta.gouv.fr). 
