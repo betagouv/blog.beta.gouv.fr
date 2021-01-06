@@ -58,15 +58,15 @@ Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des mo
 
 Les autres produits présentés n’ont pas pu être retenus pour les conditions suivantes :
 
-\- Produits existants avec un cahier des charges ou des fonctionnalités à développer ;
+* Produits existants avec un cahier des charges ou des fonctionnalités à développer ;
 
-\- Produits censés résoudre des problèmes d’organisation interne ;
+* Produits censés résoudre des problèmes d’organisation interne ;
 
-\- Produits encore en amorçage (et non en phase de développement ou d’accélération) ;
+* Produits encore en amorçage (et non en phase de développement ou d’accélération) ;
 
-\- Produits nécessitant une plus grande implication du sponsor ; 
+* Produits nécessitant une plus grande implication du sponsor ; 
 
-\- Produits issus du secteur privé. 
+* Produits issus du secteur privé. 
 
 ![](/img/posts/2021_01_06_1200x675_fast_visuel_twitter.jpg)
 
