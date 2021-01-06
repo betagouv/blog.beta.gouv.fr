@@ -3,8 +3,7 @@ layout: post
 title: 1 580 000 euros pour les lauréats du FAST 6, postulez dès maintenant à la
   7ème édition !
 date: 2021-01-06
-authors:
-  - VALENTINE.MICHAUD
+authors: []
 categories: dinsic
 tags: valentine.michaud
 image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
