@@ -50,23 +50,21 @@ Les critères de présélection :
 6. **[L’incubateur du Ministère de la Culture](https://beta.gouv.fr/approche/incubateurs/culture.html)**, déployer la méthode Startup d'État pour expérimenter de nouvelles manières de créer des politiques culturelles ;
 7. **L’incubateur du Ministère de l’Europe et des Affaires Étrangères**, améliorer la qualité et la pertinence du service rendu aux usagers et agents du ministère en créant et accompagnant des Startups d'État.
 
+
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur le développement et/ou le déploiement et d’accompagner l’équipe pour:
 
 * tester plusieurs canaux de diffusion ;
 * mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
 * Accompagner cette mise en oeuvre de façon opérationnelle.
 
+
 Les autres produits présentés n’ont pas pu être retenus pour les conditions suivantes :
 
-* Produits existants avec un cahier des charges ou des fonctionnalités à développer ;
-
-* Produits censés résoudre des problèmes d’organisation interne ;
-
-* Produits encore en amorçage (et non en phase de développement ou d’accélération) ;
-
-* Produits nécessitant une plus grande implication du sponsor ; 
-
-* Produits issus du secteur privé. 
+* produits existants avec un cahier des charges ou des fonctionnalités à développer ;
+* produits censés résoudre des problèmes d’organisation interne ;
+* produits encore en amorçage (et non en phase de développement ou d’accélération) ;
+* produits nécessitant une plus grande implication du sponsor ; 
+* produits issus du secteur privé. 
 
 ![](/img/posts/2021_01_06_1200x675_fast_visuel_twitter.jpg)
 
