@@ -42,8 +42,8 @@ Les critères de présélection :
 
 ### **Les 7 lauréats du Fast 6 :**
 
-1. **NC Connect**, permettre de se connecter en Nouvelle-Calédonie sur 7 téléservices (dont le site de déclaration d'impôts en ligne) avec un seul compte ;
-2. **Guichet entreprises**, offrir en Nouvelle-Calédonie un point d’entrée unique pour toutes les démarches d’immatriculation et de radiation de leur entreprise ;
+1. **[NC Connect] (https://connect.gouv.nc/)**, permettre de se connecter en Nouvelle-Calédonie sur 7 téléservices (dont le site de déclaration d'impôts en ligne) avec un seul compte ;
+2. **[Guichet entreprises] (https://guichet-entreprises.nc/)**, offrir en Nouvelle-Calédonie un point d’entrée unique pour toutes les démarches d’immatriculation et de radiation de leur entreprise ;
 3. **Réseau Pro**, faciliter les recrutements des jeunes issus de l’université et de la diversité à travers une plateforme unique ;
 4. **[Mission Apprentissage](https://beta.gouv.fr/startups/apprentissage.html)**, lever les freins à l’essor de l’apprentissage et faciliter la mise en contact des jeunes, des CFA et des entreprises ;
 5. **[Ecolab](https://beta.gouv.fr/startups/ecolab.html)**, apporter l’information environnementale au plus près des citoyens ;
