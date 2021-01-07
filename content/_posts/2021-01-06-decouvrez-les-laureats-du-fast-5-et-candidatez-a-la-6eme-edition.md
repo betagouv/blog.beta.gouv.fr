@@ -20,7 +20,7 @@ excerpt: >-
   [La 6ème édition en décembre 2020](https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-du-fast-5-candidatez-au-fast-6/) avait permis d’aboutir au financement de [5 Startups d’État et de Territoires et 2 incubateurs ministériels](https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-du-fast-5-candidatez-au-fast-6/) pour un montant total de 1 580 000 euros.
 
 
-  Découvrez dès aujourd'hui les lauréats de la 6ème édition et postulez au FAST 7 !
+  Découvrez dès aujourd'hui les lauréats de la 6ème édition et postulez au FAST 7 !
 ---
 ## FAST - 6ème édition
 
