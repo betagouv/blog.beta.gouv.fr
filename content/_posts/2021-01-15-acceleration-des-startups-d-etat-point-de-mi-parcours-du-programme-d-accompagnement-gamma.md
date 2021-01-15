@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accélération des startups d’État : point de mi-parcours du programme d’accompagnement Gamma"
-date: 2021-01-13
+date: 2021-01-15
 authors:
   - breanne.mallat
 categories: dinsic
@@ -32,7 +32,7 @@ Les métriques définies pour chaque startup d’État sont les suivantes :
 
 * **Aides-territoires** : nombre de visiteurs mensuels uniques, % de visites qui mènent à une action vers le porteur d’aide (contact ou visite du site de candidature), nombre d’alertes configurées par les utilisateurs.
 * **DossierFacile** : nombre de dossiers labellisés par semaine, temps moyen d’instruction par dossier, % de locataires ayant trouvé un logement grâce à DossierFacile, % de chance en plus d’obtenir une visite en utilisant le service.
-* **Mon-entreprise** : nombre de visiteurs annuels, nombre de simulateurs par outil et rapprochement avec l’écosystème de l’ACOSS.
+* **Mon-entreprise** : nombre de visiteurs annuels, nombre de simulateurs et rapprochement avec l’écosystème de l’ACOSS.
 
 Ces métriques pour mesurer l’impact des produits sont en majorité quantitatives (et non qualitatives) car l’équipe Gamma a souhaité avoir une illustration la plus objective possible de l’impact réel de produit plutôt qu’un retour subjectif des utilisateurs. Chaque semaine durant ces 3 premiers mois, Gamma et la startup d’État suivaient l’évolution de ces métriques et en tiraient des conclusions sur les actions à suivre à moyen terme.
 
@@ -41,7 +41,7 @@ D’autre part, le nombre d’alertes configurées est passé de 276 en septembr
 
 DossierFacile est parvenu à augmenter son nombre de dossiers labélisés par semaine, passant de 700 en septembre à 735 dossiers labélisés par semaine fin décembre. Le temps d’instruction par dossier est resté le même, ce qui était l’objectif car l’équipe redoutait une perte d’efficacité avec un afflux plus important de dossiers. Enfin, un questionnaire d’impact a été envoyé aux utilisateurs ainsi qu’aux propriétaires début novembre afin d’évaluer le pourcentage de locataires ayant trouvé un logement grâce à la plateforme et le pourcentage de chance en plus d’obtenir une visite si un locataire est labélisé DossierFacile. Les premiers résultats démontrent que oui mais seront officiellement partagés en janvier.
 
-Mon-entreprise a rempli ses objectifs concernant les visiteurs annuels et le nombre de simulateurs par outil : si l’objectif initial était de 3 millions de visiteurs annuels en 2020 car ils avaient obtenu 1,7 million de visiteurs en 2019, ils ont désormais atteint 3,2 millions cette année. Le nombre de simulateurs est également passé à 17, ce qui rejoint l’objectif fixé de 18 simulateurs à la fin de l’année (ils en avaient seulement 7 en septembre 2020).
+Mon-entreprise a rempli ses objectifs concernant les visiteurs annuels et le nombre de simulateurs par outil : si l’objectif initial était de 3 millions de visiteurs annuels en 2020 car ils avaient obtenu 1,7 million de visiteurs en 2019, ils ont désormais atteint 3,2 millions cette année. Le nombre de simulateurs est également passé à 19, ce qui rejoint l’objectif fixé de 18 simulateurs à la fin de l’année (ils en avaient seulement 7 en septembre 2020).
 
 Le bilan de cette première promotion de Gamma est donc particulièrement positif et nous sommes ravis d’avoir pu accompagner des projets de si grande qualité !
 
