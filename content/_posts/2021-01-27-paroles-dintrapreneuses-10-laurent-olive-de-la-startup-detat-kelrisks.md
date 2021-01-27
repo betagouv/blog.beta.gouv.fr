@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paroles d'intrapreneuses #10 : Laurent Olive de la Startup d'Etat Kelrisks"
+title: "Paroles d'intrapreneurs #10 : Laurent Olive de la Startup d'Etat Kelrisks"
 date: 2021-01-27
 authors:
   - lery.jicquel
@@ -28,6 +28,7 @@ L’idée de Kelrisks est née de l’expression d’un besoin : celui, pour tou
 
 ## Si on met de côté les difficultés liées au service que vous avez développé, quelles sont les difficultés auxquelles tu t'es heurtés et quel conseil donnerais-tu à un agent qui souhaite se lancer dans l’aventure ?
 La principale difficulté qui m’a freiné dans le développement de mon produit est sans hésiter le manque de temps. Je savais dès le départ que ma fonction ne me permettrait pas de consacrer les 2 jours par semaine que nécessite la mission d’intrapreneur. Ce volume de deux jours bien que théorique est assez représentatif du volume horaire qui doit être consacré à un tel projet. Il est donc important avant de se lancer dans l’aventure d’évoquer le sujet avec sa hiérarchie pour qu’une organisation spécifique soit mise en place pendant la durée du projet.
+
 
 
 ## Que t'a apporté Kelrisks dans ta vie d’agent de l’État ?
