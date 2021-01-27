@@ -6,6 +6,7 @@ authors:
   - lery.jicquel
   - laurent.olive
 categories: mtes
+image: /img/posts/parole-intrapreneuse-6-.jpg
 excerpt: >-
   Laurent Olivé était l'intrapreneur de la Startup d'État
   [Kelrisks](https://beta.gouv.fr/startups/kelrisks.html) au sein de fabrique
