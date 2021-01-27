@@ -26,19 +26,24 @@ excerpt: >-
 
 En octobre 2020 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique, [notre sixième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-du-fast-5-candidatez-au-fast-6/).
 
-Cet appel visait à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle.
+Cet appel visait à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle. L'appel visait aussi à soutenir la création d'incubateurs ministériels. Les lauréats (produits ou incubateurs) sont accompagnés par beta.gouv.fr avec l'appui des deux tickets de financement (DINUM et administration porteuse).  
 
 Nous avons reçu 22 candidatures issues de différentes administrations centrales et locales répondant à des problèmes concrets de terrain au plus près des besoins des utilisateurs.
 
 **15 dossiers ont été pré-sélectionnés** par beta.gouv.fr puis ont été revus par les membres du comité d’investissement. 13 équipes ont présenté leur dossier à l'oral et répondu aux questions du comité d'investissement. 
 
-Les critères de présélection :
+Les critères de présélection pour les produits :
 
 * Avoir mis en place une solution à un problème de politique publique ;
 * Avoir clairement mesuré l’impact sur le réel de cette solution, de façon chiffrée ;
 * Avoir une feuille de route claire (pistes d’amélioration du produit, leviers substantiels de diffusion du services) ;
 * Avoir besoin de l’appui de la DINUM pour déployer le produit ;
 * Prévoir un cofinancement de la période de déploiement / d’accélération par son sponsor administratif.
+
+Les critères de sélection pour les incubateurs : 
+* Avoir clairement identifié le ou les problème(s) au(x)quel(s) l'incubateur pourrait répondre ;
+* Avoir besoin de l’appui de la DINUM pour créer l'incubateur ;
+* Prévoir un cofinancement pour la création par son sponsor administratif. 
 
 ### **Les 7 lauréats du Fast 6 :**
 
@@ -54,7 +59,7 @@ Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des mo
 
 * tester plusieurs canaux de diffusion ;
 * mettre en oeuvre une stratégie de passage à l’échelle en identifiant de nouveaux partenaires et de nouveaux usages ;
-* Accompagner cette mise en oeuvre de façon opérationnelle.
+* accompagner cette mise en oeuvre de façon opérationnelle.
 
 Les autres produits présentés n’ont pas pu être retenus pour les conditions suivantes :
 
@@ -70,7 +75,7 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 **L'appel à candidatures de la 7ème édition est ouvert !**
 
-Cet appel vise à soutenir des solutions numériques existantes, développées par des administrations publiques (État ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+Cet appel vise à soutenir des solutions numériques existantes, développées par des administrations publiques (État ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.L’appel vise aussi à soutenir la création d’incubateurs ministériels.
 
 **Vous avez identifié un problème de politique publique lié au covid19 ? Vous avez mis en place une solution et vous avez mesuré votre impact auprès de 1ers utilisateurs ? Les projets spécial crise en provenance de toutes les administrations ont les bienvenus pour candidater à ce Fonds.**
 
