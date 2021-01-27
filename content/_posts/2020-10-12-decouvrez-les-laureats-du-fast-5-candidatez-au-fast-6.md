@@ -23,13 +23,13 @@ excerpt: >-
 
 En juillet 2020 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique, [notre cinquième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2020/07/27/candidatez-aux-prochaines-editions-du-fast-decouvrez-les-laureats-du-fast-4/).
 
-Cette appel à candidatures visait à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle.
+Cet appel à candidatures visait à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle.  
 
 Nous avons reçu 15 candidatures issues de différentes administrations centrales et locales répondant à des problèmes concrets de terrain au plus près des besoins des utilisateurs.
 
 **9 dossiers ont été pré-sélectionnés** par beta.gouv.fr puis ont été revus par les membres du comité d’investissement. Au vu de la situation sanitaire exceptionnelle, la suite du comité d’investissement s’est faite à distance, les 9 équipes ont présenté leur dossier à l'oral et répondre aux questions du comité d'investissement. 
 
-Les critères de présélection :
+Les critères de présélection étaient :
 
 * Avoir mis en place une solution à un problème de politique publique ;
 * Avoir clairement mesuré l’impact sur le réel de cette solution, de façon chiffrée ;
@@ -66,7 +66,7 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 **L'appel à candidatures de la 6ème édition est ouvert !**
 
-Cet appel vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes.
+Cet appel vise à soutenir des solutions numériques existantes, développées par des administrations publiques (Etat ou collectivités territoriales), pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes. L'appel vise aussi à soutenir la création d'incubateurs ministériels. 
 
 Il est aussi accessible à des associations ou des entreprises privées :
 
