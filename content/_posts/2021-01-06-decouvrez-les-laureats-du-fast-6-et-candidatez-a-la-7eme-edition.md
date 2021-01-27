@@ -26,7 +26,7 @@ excerpt: >-
 
 En octobre 2020 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique, [notre sixième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-du-fast-5-candidatez-au-fast-6/).
 
-Cet appel visait à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle. L'appel visait aussi à soutenir la création d'incubateurs ministériels. Les lauréats (produits ou incubateurs) sont accompagnés par beta.gouv.fr avec l'appui des deux tickets de financement (DINUM et administration porteuse).  
+Cet appel visait à soutenir des solutions numériques existantes et ayant fait la preuve de leur impact, développées par des administrations publiques, pour en accélérer le développement et en favoriser le passage à échelle. L'appel visait aussi à soutenir la création d'incubateurs ministériels. Les lauréats (produits ou incubateurs) sont accompagnés par beta.gouv.fr avec l'appui du financement.  
 
 Nous avons reçu 22 candidatures issues de différentes administrations centrales et locales répondant à des problèmes concrets de terrain au plus près des besoins des utilisateurs.
 
