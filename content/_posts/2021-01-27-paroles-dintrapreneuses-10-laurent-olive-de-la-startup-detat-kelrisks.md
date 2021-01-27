@@ -39,3 +39,23 @@ La principale difficulté qui m’a freiné dans le développement de mon produi
 
 Kelrisks a été d’abord l’occasion découvrir le fonctionnement de la start up dans le domaine du développement de services informatiques. J’y ai découvert un monde que je connaissais assez peu avec son langage et ses codes. J’y ai également découvert les pratiques agiles, le développement de projet sans lourdeur administrative ni cahier des charges, le développement de produit évolutif, pas à pas, la communication régulière, dans le but de produire des résultats rapidement et tester chaque évolution dans un processus d’amélioration continue. L’adoption de ce mode de travail a été assez facile étant personnellement convaincu « qu’il vaut mieux avancer dans le désordre que de piétiner dans l'ordre ». J’ai eu la confirmation que le développement de projet peut être plus rapide si l’on accepte que l’imperfection et l’erreur font partie intégrante du développement. Le travail en administration autorise assez peu ce mode de fonctionnement car, pour diverses raisons (juridiques, économiques, culturelles), on donne rarement crédit à l’administration de ses erreurs. Je n’hésiterai pas à mettre en place ce mode de travail chaque fois que les circonstances me le permettront.
 Kelrisks a enfin été une aventure humaine qui m’a permis de rencontrer des belles personnes compétentes, stimulantes et motivées par un projet auquel elles ont immédiatement adhéré. J’espère garder contact avec elles.
+
+- - -
+
+## Retrouver tous les interviews de la série "Paroles d'intra" 🎤 :
+
+* #### **[Paroles d'intrapreneuse #1 : Gaëlle Toledano de la Startup d'Etat ANDi](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)**
+* #### **[Paroles d'intrapreneuse #2 : Mélodie Dahi de la Startup d'Etat Zam](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)**
+* #### **[Paroles d'intrapreneuse #3 : Lauren Michel de la Startup Maintenant! de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/)**
+* #### **[Paroles d'intrapreneuse #4 : Sylvie Lebel de la Startup d'Etat ZEN de Pôle Emploi](https://blog.beta.gouv.fr/pole-emploi/2020/07/17/paroles-dintrapreneuses-4-sylvie-lebel-de-la-startup-zen-de-pole-emploi/)**
+* #### **[Paroles d'intrapreneuse #5 : Aude Millamon et Elodie Vaneecke de la Startup de territoires RDV solidarités](https://blog.beta.gouv.fr/dinsic/2020/07/29/paroles-dintrapreneuses-5-aude-millamon-et-elodie-vaneecke-de-la-startup-de-territoires-rdv-solidarite/)**
+* #### **[Paroles d'intrapreneur #6 : Mathieu Gens de la Startup d'Etat Place des Entreprises](https://blog.beta.gouv.fr/dinsic/2020/09/15/paroles-dintrapreneurs-6-mathieu-gens-de-la-startup-detat-place-des-entreprises/)**
+* #### **[Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)**
+* #### **[Paroles d'intrapreneuses #8 : Vikie Ache de la Startup de territoire Simone & Co](https://blog.beta.gouv.fr/dinsic/2020/11/05/paroles-dintrapreneuses-8-vickie-hache-moser-de-la-startup-de-territoires-simone-co/)**
+* #### **[Paroles d'intrapreneuses #9 : Magali Marcel-Garreau de la Startup d'Etat] (https://blog.beta.gouv.fr/dinsic/2020/12/10/paroles-dintrapreneuses-9-magalie-marcel-garreau-de-la-startup-detat-signalconso/)**
+
+- - -
+
+#### *Vous avez identifié un problème dans votre administration, mis en lumière par la crise sanitaire COVID-19 ? Votre administration souhaite lancer une nouvelle politique publique ? Vous souhaitez résoudre un problème récurrent observé dans votre quotidien, lié ou non à la crise actuelle ?*
+
+*Nous pouvons vous aider. Répondez à l’appel à participation. Toutes les informations utiles se trouvent [ici.](https://beta.gouv.fr/approche/investigation)*
