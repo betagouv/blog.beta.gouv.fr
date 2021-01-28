@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paroles d'intrapreneurs #10 : Laurent Olivé de la Startup d'Etat Kelrisks"
-date: 2021-01-27
+date: 2021-01-28
 authors:
   - lery.jicquel
   - laurent.olive
