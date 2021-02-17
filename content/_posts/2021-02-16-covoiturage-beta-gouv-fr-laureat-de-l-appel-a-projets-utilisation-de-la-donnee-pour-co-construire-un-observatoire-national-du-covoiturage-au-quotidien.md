@@ -5,7 +5,7 @@ date: 2021-02-16
 authors: []
 categories: mtes
 tags: registre de preuve de covoiturage
-image: /img/posts/rpc_observatoire_covoiturage.jpg
+image: /img/posts/rpc_observatoire_covoiturage_468x200.jpg
 excerpt: La startup d'État covoiturage.beta.gouv.fr a remporté l'appel à projets
   "utilisation de la donnée" du plan de relance - Innovation et Transformation
   Numérique de l'État (ITN), pour co-construire avec les services de l’État, le
