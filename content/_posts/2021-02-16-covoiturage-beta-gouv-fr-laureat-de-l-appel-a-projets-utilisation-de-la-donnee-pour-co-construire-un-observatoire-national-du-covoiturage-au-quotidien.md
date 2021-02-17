@@ -30,11 +30,11 @@ Le projet s’attache à réaliser une plateforme de visualisation et valorisati
 
 La publication des jeux de données en open data respectant la vie privée des usagers et le secret des affaires sera améliorée et automatisée. Une API d’accès aux données disponibles en open data est également envisagée. 
 
-Pour mener à bien ce projet ambitieux, [un·e designer de service](https://beta.gouv.fr/recrutement/2021/02/10/ux-designer-RPC.html) et un·e développeur·se spécialisé·e·s en cartographie seront recruté·e·s ces prochaines semaines. Vous avez un talent à leur recommander ou vous êtes ce talent ? Contactez l’équipe : [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) 
+> Pour mener à bien ce projet ambitieux, [un·e designer de service](https://beta.gouv.fr/recrutement/2021/02/10/ux-designer-RPC.html) et un·e développeur·se spécialisé·e·s en cartographie seront recruté·e·s ces prochaines semaines. Vous avez un talent à leur recommander ou vous êtes ce talent ? Contactez l’équipe : [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) 
 
-## D'autres outils en faveur du covoiturage 
+## D'autres outils en faveur du covoiturage
 
-### Le registre de preuve de covoiturage 
+### Le registre de preuve de covoiturage
 
 Porté par le ministère chargé des Transports et co-construit avec les collectivités et les opérateurs de covoiturage courte distance, ce service public accompagne et facilite le développement du covoiturage courte-distance en France :
 
