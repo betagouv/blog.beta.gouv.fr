@@ -1,6 +1,6 @@
 ---
 layout: post
-title: En route vers un observatoire national du covoiturage au quotidien
+title: En route vers l'observatoire national du covoiturage au quotidien
 date: 2021-02-16
 authors: []
 categories: mtes
@@ -8,7 +8,7 @@ tags: registre de preuve de covoiturage
 image: /img/posts/rpc_observatoire_covoiturage_468x200.jpg
 excerpt: La startup d'État covoiturage.beta.gouv.fr a remporté l'appel à projets
   "utilisation de la donnée" du plan de relance - Innovation et Transformation
-  Numérique de l'État (ITN), pour co-construire avec les services de l’État, le
+  Numérique de l'État, pour co-construire avec les services de l’État, le
   Cerema, l’Ademe, le GART et autres acteurs experts du domaine, un observatoire
   national du covoiturage au quotidien. Son lancement est prévu fin 2021. 🚀
 ---
@@ -30,7 +30,8 @@ Le projet s’attache à réaliser une plateforme de visualisation et valorisati
 
 La publication des jeux de données en open data respectant la vie privée des usagers et le secret des affaires sera améliorée et automatisée. Une API d’accès aux données disponibles en open data est également envisagée. 
 
-### L'équipe va s'agrandir 
+### L'équipe va s'agrandir
+
 Pour mener à bien ce projet ambitieux, [un·e designer de service](https://beta.gouv.fr/recrutement/2021/02/10/ux-designer-RPC.html) et un·e développeur·se spécialisé·e·s en cartographie seront recruté·e·s ces prochaines semaines. Vous avez un talent à leur recommander ou vous êtes ce talent ? Contactez l’équipe : [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) 
 
 ## D'autres outils en faveur du covoiturage
@@ -45,7 +46,7 @@ Porté par le ministère chargé des Transports et co-construit avec les collect
 
 En tout, plus de **150 collectivités ont été sensibilisées**, dont **plus de 60 sont partenaires** avec lesquelles sont envisagées des campagnes d'incitation au covoiturage.
 
-> "Avec la connaissance des trajets recensés sur le registre de preuves, cela nous permet d’ajuster la communication sur les couloirs les plus fréquentés. La présentation des statistiques et le partage d’expériences sur les campagnes d’incitation ont contribué à la définition des modalités d’une nouvelle campagne d’incitation au covoiturage sur le Genevois français. L’un des grands intérêts à travailler avec le registre de preuve est de pouvoir certifier les trajets effectivement covoiturés et donc de pouvoir lancer une campagne d’incitation en toute confiance, adaptée à la singularité de notre bassin de déplacements franco-suisse” explique **Ludovic ANTOINE, Responsable Mobilité du Pôle métropolitain du Genevois français.**
+> "Avec la connaissance des trajets recensés sur le Registre de Preuve de Covoiturage (RPC), cela nous permet d’ajuster la communication sur les couloirs les plus fréquentés. La présentation des statistiques et le partage d’expériences sur les campagnes d’incitation ont contribué à la définition des modalités d’une nouvelle campagne d’incitation au covoiturage sur le Genevois français. L’un des grands intérêts à travailler avec le RPC est de pouvoir certifier les trajets effectivement covoiturés et donc de pouvoir lancer une campagne d’incitation en toute confiance, adaptée à la singularité de notre bassin de déplacements franco-suisse” explique **Ludovic ANTOINE, Responsable Mobilité du Pôle métropolitain du Genevois français.**
 
 ### Des statistiques ouvertes au public en open data
 
