@@ -3,10 +3,10 @@ layout: post
 title: En route vers l'observatoire national du covoiturage au quotidien
 date: 2021-02-17
 authors:
-  - LAURIE.BEQUET
+  - Laurie.Bequet
 categories: general
 tags: registre de preuve de covoiturage
-image: /img/posts/rpc_observatoire_covoit_banner.jpg
+image: /img/posts/rpc_observatoire_covoiturage_468x200.jpg
 excerpt: La startup d'État covoiturage.beta.gouv.fr a remporté l'appel à projets
   "utilisation de la donnée" du plan de relance - Innovation et Transformation
   Numérique de l'État, pour co-construire avec les services de l’État, le
