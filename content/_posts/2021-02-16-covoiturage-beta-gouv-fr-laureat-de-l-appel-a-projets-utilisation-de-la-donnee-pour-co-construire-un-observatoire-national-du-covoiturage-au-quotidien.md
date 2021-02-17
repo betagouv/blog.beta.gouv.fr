@@ -3,7 +3,7 @@ layout: post
 title: En route vers l'observatoire national du covoiturage au quotidien
 date: 2021-02-17
 authors:
-  - Laurie.Bequet
+  - laurie.bequet
 categories: general
 tags: registre de preuve de covoiturage
 image: /img/posts/rpc_observatoire_covoiturage_468x200.jpg
