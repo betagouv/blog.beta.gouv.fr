@@ -50,7 +50,7 @@ En tout, plus de **150 collectivités ont été sensibilisées**, dont **plus de
 
 ### Des statistiques ouvertes au public en open data
 
-Le registre de preuve de covoiturage partage ses données publiquement, comme par exemple le nombre de trajets réalisés en covoiturage sur nos territoires (trajets collectées à partir des informations communiquées par les opérateurs de covoiturage partenaires). [En savoir plus](https://app.covoiturage.beta.gouv.fr/stats)
+Le registre de preuve de covoiturage partage ses données publiquement, comme par exemple le nombre de trajets réalisés en covoiturage sur nos territoires (trajets collectés à partir des informations communiquées par les opérateurs de covoiturage partenaires). [En savoir plus](https://app.covoiturage.beta.gouv.fr/stats)
 
 ### L’attestation sur l’honneur de covoiturage pour bénéficier du forfait mobilités durables
 
@@ -58,4 +58,4 @@ covoiturage.beta.gouv.fr a développé [un générateur d’attestation sur l’
 
 ### La charte d’engagement en faveur du covoiturage
 
-L’État et les collectivités s’engagent au travers d’une charte, dans une démarche proactive, en vue de favoriser l’essor du covoiturage. Cet acte volontaire vise à considérer le covoiturage comme une solution de mobilité alternative à la voiture individuelle et complémentaire des transports en communs classiques, dans toutes leurs actions publiques en matière de mobilité. Les signataires de cette charte, conscients des enjeux portés par le covoiturage, tant sur le thème de la santé publique, de l’économie que de la solidarité, s’engagent, sous le regard des citoyens, en vue de favoriser l’essor du covoiturage dans leur territoire. Cette charte permettra également une mise en réseau des acteurs publics qui s’engagent pour le covoiturage sur leur territoire et d’échanger sur leurs pratiques. [En savoir plus](https://www.francemobilites.fr/thematiques/mobilite-partagee#charte)
+L’État et les collectivités s’engagent au travers d’une charte, dans une démarche proactive, en vue de favoriser l’essor du covoiturage. Cet acte volontaire vise à considérer le covoiturage comme une solution de mobilité alternative à la voiture individuelle et complémentaire des transports en communs classiques, dans toutes leurs actions publiques en matière de mobilité. Cette charte permettra également une mise en réseau des acteurs publics qui s’engagent pour le covoiturage sur leur territoire et d’échanger sur leurs pratiques. [En savoir plus](https://www.francemobilites.fr/thematiques/mobilite-partagee#charte)
