@@ -8,7 +8,7 @@ tags: registre de preuve de covoiturage
 image: /img/posts/rpc_observatoire_covoiturage_468x200.jpg
 excerpt: La startup d'État covoiturage.beta.gouv.fr a remporté l'appel à projets
   "utilisation de la donnée" du plan de relance - Innovation et Transformation
-  Numérique de l'État (ITN), pour co-construire avec les services de l’État, le
+  Numérique de l'État, pour co-construire avec les services de l’État, le
   Cerema, l’Ademe, le GART et autres acteurs experts du domaine, un observatoire
   national du covoiturage au quotidien. Son lancement est prévu fin 2021. 🚀
 ---
