@@ -5,7 +5,7 @@ date: 2021-02-16
 authors: []
 categories: mtes
 tags: registre de preuve de covoiturage
-image: /img/posts/rpc_observatoire_covoiturage_468x200.jpg
+image: /img/posts/2019-02-15-covoiturage-banniere.png
 excerpt: La startup d'État covoiturage.beta.gouv.fr a remporté l'appel à projets
   "utilisation de la donnée" du plan de relance - Innovation et Transformation
   Numérique de l'État, pour co-construire avec les services de l’État, le
@@ -40,7 +40,7 @@ Pour mener à bien ce projet ambitieux, [un·e designer de service](https://beta
 
 Porté par le ministère chargé des Transports et co-construit avec les collectivités et les opérateurs de covoiturage courte distance, ce service public accompagne et facilite le développement du covoiturage courte-distance en France :
 
-* C’est **une plateforme technique** : l’ensemble des opérateurs de covoiturage, volontaires font converger et attestent les trajets effectués par leurs utilisateurs ; 
+* C’est **une plateforme technique** : l’ensemble des opérateurs de covoiturage volontaires font converger et attestent les trajets effectués par leurs utilisateurs ; 
 * C’est **un label** : les Autorités Organisatrices de la Mobilité (AOM) peuvent visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage ;
 * C’est **une boîte à outils** : les AOM sont outillés pour mettre en œuvre une politique incitative efficace en faveur du covoiturage.
 
