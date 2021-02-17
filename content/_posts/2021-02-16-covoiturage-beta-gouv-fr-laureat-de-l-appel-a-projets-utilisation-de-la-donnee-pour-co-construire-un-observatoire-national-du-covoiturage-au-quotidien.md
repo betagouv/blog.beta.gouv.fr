@@ -5,14 +5,14 @@ date: 2021-02-16
 authors: []
 categories: mtes
 tags: registre de preuve de covoiturage
-image: /img/posts/rpc_observatoire_covoiturage.jpg
+image: /img/posts/rpc_observatoire_covoiturage_468x200.jpg
 excerpt: La startup d'État covoiturage.beta.gouv.fr a remporté l'appel à projets
   "utilisation de la donnée" du plan de relance - Innovation et Transformation
   Numérique de l'État (ITN), pour co-construire avec les services de l’État, le
   Cerema, l’Ademe, le GART et autres acteurs experts du domaine, un observatoire
   national du covoiturage au quotidien. Son lancement est prévu fin 2021. 🚀
 ---
-## **L’observatoire national de covoiturage au quotidien** 👀 🚗
+## L’observatoire national de covoiturage au quotidien 👀 🚗
 
 Cet outil permettra de suivre l’évolution des pratiques du covoiturage courte distance et d'évaluer l'impact des mesures prises afin d’adapter de façon agile les politiques publiques. Les collectivités et les entreprises pourront ainsi mieux piloter leurs stratégies de mobilités durables, notamment en faveur du covoiturage.
 
@@ -30,11 +30,12 @@ Le projet s’attache à réaliser une plateforme de visualisation et valorisati
 
 La publication des jeux de données en open data respectant la vie privée des usagers et le secret des affaires sera améliorée et automatisée. Une API d’accès aux données disponibles en open data est également envisagée. 
 
+### L'équipe va s'agrandir 
 Pour mener à bien ce projet ambitieux, [un·e designer de service](https://beta.gouv.fr/recrutement/2021/02/10/ux-designer-RPC.html) et un·e développeur·se spécialisé·e·s en cartographie seront recruté·e·s ces prochaines semaines. Vous avez un talent à leur recommander ou vous êtes ce talent ? Contactez l’équipe : [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) 
 
-## D'autres outils en faveur du covoiturage 
+## D'autres outils en faveur du covoiturage
 
-### Le registre de preuve de covoiturage 
+### Le registre de preuve de covoiturage
 
 Porté par le ministère chargé des Transports et co-construit avec les collectivités et les opérateurs de covoiturage courte distance, ce service public accompagne et facilite le développement du covoiturage courte-distance en France :
 
