@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 'covoiturage.beta.gouv.fr : lauréat de l’appel à projets "utilisation de
-  la donnée" pour co-construire un observatoire national du covoiturage au
-  quotidien'
+title: En route vers un observatoire national du covoiturage au quotidien
 date: 2021-02-16
 authors: []
 categories: mtes
 tags: registre de preuve de covoiturage
-image: /img/posts/rpc_laureat_app_observatoire_covoiturage.jpg
+image: /img/posts/rpc_observatoire_covoiturage.jpg
 excerpt: La startup d'État covoiturage.beta.gouv.fr a remporté l'appel à projets
   "utilisation de la donnée" du plan de relance - Innovation et Transformation
   Numérique de l'État (ITN), pour co-construire avec les services de l’État, le
@@ -30,34 +28,32 @@ Le projet s’attache à réaliser une plateforme de visualisation et valorisati
 
 #### L’ouverture des données
 
-Il permettra d’automatiser et d’améliorer la publication des jeux de données en open data respectant la vie privée des usagers et le secret des affaires. Une API d’accès aux données disponibles en open data est également envisagée. 
+La publication des jeux de données en open data respectant la vie privée des usagers et le secret des affaires sera améliorée et automatisée. Une API d’accès aux données disponibles en open data est également envisagée. 
 
 Pour mener à bien ce projet ambitieux, [un·e designer de service](https://beta.gouv.fr/recrutement/2021/02/10/ux-designer-RPC.html) et un·e développeur·se spécialisé·e·s en cartographie seront recruté·e·s ces prochaines semaines. Vous avez un talent à leur recommander ou vous êtes ce talent ? Contactez l’équipe : [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) 
 
-## covoiturage.beta.gouv.fr propose également d’autres outils en faveur du covoiturage courte distance
+## D'autres outils en faveur du covoiturage 
 
-### Le registre de preuve de covoiturage : un outil indispensable pour inciter le covoiturage courte distance en toute sécurité
+### Le registre de preuve de covoiturage 
 
-Porté par le ministère chargé des Transports et co-construit avec les collectivités ainsi que les opérateurs de covoiturage courte distance, ce service public accompagne et facilite le développement du covoiturage courte-distance en France :
+Porté par le ministère chargé des Transports et co-construit avec les collectivités et les opérateurs de covoiturage courte distance, ce service public accompagne et facilite le développement du covoiturage courte-distance en France :
 
-* C’est **une plateforme technique** permettant à l’ensemble des opérateurs de covoiturage, volontaires, de faire converger et attester les trajets effectués par leurs utilisateurs ; 
-* C’est **un label** qui permet aux Autorités Organisatrices de la Mobilité (AOM) de visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage ;
-* C’est **une boîte à outils** qui aide les AOM à mettre en œuvre une politique incitative efficace en faveur du covoiturage.
+* C’est **une plateforme technique** : l’ensemble des opérateurs de covoiturage, volontaires font converger et attestent les trajets effectués par leurs utilisateurs ; 
+* C’est **un label** : les Autorités Organisatrices de la Mobilité (AOM) peuvent visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage ;
+* C’est **une boîte à outils** : les AOM sont outillés pour mettre en œuvre une politique incitative efficace en faveur du covoiturage.
 
 En tout, plus de **150 collectivités ont été sensibilisées**, dont **plus de 60 sont partenaires** avec lesquelles sont envisagées des campagnes d'incitation au covoiturage.
 
 > "Avec la connaissance des trajets recensés sur le registre de preuves, cela nous permet d’ajuster la communication sur les couloirs les plus fréquentés. La présentation des statistiques et le partage d’expériences sur les campagnes d’incitation ont contribué à la définition des modalités d’une nouvelle campagne d’incitation au covoiturage sur le Genevois français. L’un des grands intérêts à travailler avec le registre de preuve est de pouvoir certifier les trajets effectivement covoiturés et donc de pouvoir lancer une campagne d’incitation en toute confiance, adaptée à la singularité de notre bassin de déplacements franco-suisse” explique **Ludovic ANTOINE, Responsable Mobilité du Pôle métropolitain du Genevois français.**
 
-* ### Des statistiques ouvertes au public en open data
+### Des statistiques ouvertes au public en open data
 
-Le registre de preuve de covoiturage partage ses données publiquement, comme par exemple le nombre de trajets réalisés en covoiturage sur nos territoires (trajets collectées à partir des informations communiquées par les opérateurs de covoiturage partenaires).\
-[En savoir plus](https://app.covoiturage.beta.gouv.fr/stats)
+Le registre de preuve de covoiturage partage ses données publiquement, comme par exemple le nombre de trajets réalisés en covoiturage sur nos territoires (trajets collectées à partir des informations communiquées par les opérateurs de covoiturage partenaires). [En savoir plus](https://app.covoiturage.beta.gouv.fr/stats)
 
-* ### L’attestation sur l’honneur de covoiturage pour bénéficier du forfait mobilités durables
+### L’attestation sur l’honneur de covoiturage pour bénéficier du forfait mobilités durables
 
 covoiturage.beta.gouv.fr a développé [un générateur d’attestation sur l’honneur de covoiturage](https://attestation.covoiturage.beta.gouv.fr/salarie-secteur-prive) pour les trajets domicile-travail à destination des salariés du privé et du public qui n'utilisent pas une application de covoiturage partenaire du Registre, afin de bénéficier du forfait mobilités durables, si les conditions employeurs le permettent.
 
-* ### La charte d’engagement en faveur du covoiturage
+### La charte d’engagement en faveur du covoiturage
 
-L’État et les collectivités s’engagent au travers d’une charte, dans une démarche proactive, en vue de favoriser l’essor du covoiturage. Cet acte volontaire vise à considérer le covoiturage comme une solution de mobilité alternative à la voiture individuelle et complémentaire des transports en communs classiques, dans toutes leurs actions publiques en matière de mobilité. Les signataires de cette charte, conscients des enjeux portés par le covoiturage, tant sur le thème de la santé publique, de l’économie que de la solidarité, s’engagent, sous le regard des citoyens, en vue de favoriser l’essor du covoiturage dans leur territoire. Cette charte permettra également une mise en réseau des acteurs publics qui s’engagent pour le covoiturage sur leur territoire et d’échanger sur leurs pratiques.\
-[En savoir plus](https://www.francemobilites.fr/thematiques/mobilite-partagee#charte)
+L’État et les collectivités s’engagent au travers d’une charte, dans une démarche proactive, en vue de favoriser l’essor du covoiturage. Cet acte volontaire vise à considérer le covoiturage comme une solution de mobilité alternative à la voiture individuelle et complémentaire des transports en communs classiques, dans toutes leurs actions publiques en matière de mobilité. Les signataires de cette charte, conscients des enjeux portés par le covoiturage, tant sur le thème de la santé publique, de l’économie que de la solidarité, s’engagent, sous le regard des citoyens, en vue de favoriser l’essor du covoiturage dans leur territoire. Cette charte permettra également une mise en réseau des acteurs publics qui s’engagent pour le covoiturage sur leur territoire et d’échanger sur leurs pratiques. [En savoir plus](https://www.francemobilites.fr/thematiques/mobilite-partagee#charte)
