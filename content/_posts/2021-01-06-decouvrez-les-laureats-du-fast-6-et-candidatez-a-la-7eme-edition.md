@@ -9,7 +9,7 @@ categories: dinsic
 tags: valentine.michaud
 image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
 redirect_from:
-  - /dinsic/2021/01/06/decouvrez-les-laureats-du-fast-5-et-candidatez-a-la-6eme-edition/
+  - /dinsic/2021/01/06/decouvrez-les-laureats-du-fast-5-et-candidatez-a-la-6eme-edition
 excerpt: >-
   Le programme beta.gouv.fr, porté par la Direction Interministérielle du
   Numérique lance son 7ème appel à candidatures du Fonds d’Accélération des
