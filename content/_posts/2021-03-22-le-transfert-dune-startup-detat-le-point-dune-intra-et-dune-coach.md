@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retours d'expérience d'une intrapreneur et d'une coach sur le transfert
+title: Retours d'expérience d'une intrapreneure et d'une coach sur le transfert
   de la Startup d'Etat Zen
 date: 2021-03-22
 authors:
