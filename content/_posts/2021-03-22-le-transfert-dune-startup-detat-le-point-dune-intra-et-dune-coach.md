@@ -8,7 +8,7 @@ authors:
   - maritza.abreo
   - sylvie.lebel
 categories: pole-emploi
-image: /img/posts/zen-interview.png
+image: https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
 excerpt: >-
   La [phase de transfert](https://beta.gouv.fr/approche/transfert) ou phase de
   consolidation est la dernière phase d’accompagnement du programme
@@ -26,6 +26,8 @@ excerpt: >-
 
   Elles ont bien voulu nous raconter cette expérience.
 ---
+![](/img/posts/zen-interview.png)
+
 **Ta Startup d’Etat a été transférée à Pole emploi. D’un produit à l’autre, les raisons d’une consolidation sont différentes. Dans ton cas, quels ont été les déclencheurs du transfert de ton produit ?**
 
 *Sylvie (intrapreneure) :* Le produit Zen avait pour objectif de faire diminuer de moitié le risque de trop perçus à Pôle emploi lié à l’actualisation des demandeurs d’emploi. 
@@ -47,6 +49,7 @@ A noter qu’au delà du produit, nous avons apporté la méthode de travail agi
 Je me suis appuyée également sur deux compétences, expériences et formations acquises pendant mes expériences précédentes. D'une part, travail avec les intrapreneurs et entrepreneurs pour identifier leurs compétences, modes opératoires et motivations. D'autre part, mon expérience dans la transformation agile des organisations.
 
 <iframe width="620" height="350" src="https://www.youtube.com/embed/lnOxn6yzMyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Pourriez-vous nous décrire la façon dont vous avez travaillé ensemble durant cette période ?**
 
