@@ -8,7 +8,7 @@ authors:
   - maritza.abreo
   - sylvie.lebel
 categories: pole-emploi
-image: /img/posts/zen-interview-1-.jpg
+image: /img/posts/zen-interview.png
 excerpt: >-
   La [phase de transfert](https://beta.gouv.fr/approche/transfert) ou phase de
   consolidation est la dernière phase d’accompagnement du programme
