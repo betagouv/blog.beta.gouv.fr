@@ -50,7 +50,6 @@ Je me suis appuyée également sur deux compétences, expériences et formations
 
 <iframe width="620" height="350" src="https://www.youtube.com/embed/lnOxn6yzMyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 **Pourriez-vous nous décrire la façon dont vous avez travaillé ensemble durant cette période ?**
 
 *Maritza* : Dans un premier temps nous avons identifié les objectifs liés au produit, à sa passation et à la trajectoire de l’intra avec des feuilles de route et points d’étapes pour chaque objectifs.
@@ -75,7 +74,7 @@ Nous avons aussi régulièrement relu les objectifs que nous nous étions fixé 
 
 **Avec un peu de recul, lesquels ont été atteint et lesquels sont encore à conquérir ?**
 
-*Maritza* : La première réussite est l’accompagnement de la trajectoire de l'intrapreneure très peu sûre de sa valeur. Cet accompagnement lui a permis d’analyser son parcours, de valoriser son expérience, de prendre conscience des atouts propres à sa personne et de lister les compétences acquises dans son rôle d’intrapreneure. 
+*Sylvie* : La première réussite est l’accompagnement de la trajectoire de l'intrapreneure très peu sûre de sa valeur. Cet accompagnement lui a permis d’analyser son parcours, de valoriser son expérience, de prendre conscience des atouts propres à sa personne et de lister les compétences acquises dans son rôle d’intrapreneure. 
 
 Ensuite nous avons analysé et identifié les tâches et missions dans lesquelles ses compétences pouvaient s’exprimer dans la nouvelle organisation mais également fait le point sur la direction souhaitée pour sa carrière à moyen et long terme.  
 
