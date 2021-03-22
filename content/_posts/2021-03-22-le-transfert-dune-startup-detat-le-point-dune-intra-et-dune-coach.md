@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Le transfert d'une Startup d'Etat, le point d'une intra et d'une coach
+title: Retours d'expérience d'une intrapreneur et d'une coach sur le transfert
+  de la Startup d'Etat Zen
 date: 2021-03-22
 authors:
   - lery.jicquel
   - maritza.abreo
   - sylvie.lebel
 categories: pole-emploi
+image: /img/posts/zen-interview.jpg
 excerpt: >-
   La [phase de transfert](https://beta.gouv.fr/approche/transfert) ou phase de
   consolidation est la dernière phase d’accompagnement du programme
