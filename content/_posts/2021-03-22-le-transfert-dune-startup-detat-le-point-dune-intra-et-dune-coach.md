@@ -46,6 +46,8 @@ A noter qu’au delà du produit, nous avons apporté la méthode de travail agi
 
 Je me suis appuyée également sur deux compétences, expériences et formations acquises pendant mes expériences précédentes. D'une part, travail avec les intrapreneurs et entrepreneurs pour identifier leurs compétences, modes opératoires et motivations. D'autre part, mon expérience dans la transformation agile des organisations.
 
+<iframe width="620" height="350" src="https://www.youtube.com/embed/lnOxn6yzMyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Pourriez-vous nous décrire la façon dont vous avez travaillé ensemble durant cette période ?**
 
 *Maritza* : Dans un premier temps nous avons identifié les objectifs liés au produit, à sa passation et à la trajectoire de l’intra avec des feuilles de route et points d’étapes pour chaque objectifs.
