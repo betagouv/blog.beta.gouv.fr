@@ -24,7 +24,7 @@ excerpt: >-
 
   Elles ont bien voulu nous raconter cette expérience.
 ---
-![](/img/posts/zen-interview.png)
+![](/img/posts/zen.jpg)
 
 **Ton produit a été transféré de l'incubateur de Pole emploi vers une direction métier. D’un service numérique à l’autre, les raisons de transférer un produit peuvent varier. Dans ton cas, quels ont été les déclencheurs ?**
 
