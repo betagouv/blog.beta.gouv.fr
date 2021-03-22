@@ -86,29 +86,29 @@ Le travail en mode produit et l’agilité dans l’organisation manquent de mat
 
 Lorsque j'étais intra j’ai découvert la liberté de créer une solution adaptée aux demandeurs d'emploi sans grandes contraintes “institutionnelles”. Mais pour consolider un produit il faut faire adopter ce projet et lui trouver une place, un fonctionnement, au sein de l’administration. Si j’avais été seule je pense que, dans la durée, je n'aurais pas été constructive car impressionnée par l’ampleur du sujet. 
 
-Et acculturer un service demande de la constance, ce qui a été possible grâce à la récurrence du rendez vous avec la coach. 
+Et acculturer un service demande de la constance, ce qui a été possible grâce à la récurrence du rendez vous avec Maritza. 
 
 **Nos interlocuteurs s’interrogent parfois sur le rôle réel d’une intra. De cette expérience, qu’est-ce qui t’a semblé démontrer la valeur ajoutée d’une intra dans le cadre de la phase de transfert ?**
 
 *Maritza* : Sylvie a su apporter des outils et des pratiques comme l’ux design, la vision produit et le pilotage par l’impact.
 
-En outre, la connaissance de la culture de l’administration et du produit a été fondamentale.
+En outre, la connaissance de la culture de l’administration et du produit ont été fondamentales.
 
 **Au fil de votre collaboration, quelles qualités indispensables pour réussir ce type de passation avez-vous identifié dans votre binôme  ?**
 
-*Sylvie* : J'ai identifié quatre qualités indispensables : 
+*Sylvie* : On a identifié quatre qualités indispensables : 
 
-* La capacité de s’adapter à mon besoin et à l’identité de l'administration
-* La franchise pour garantir la fiabilité des échanges
-* L'empathie pour que le rendez vous ne soit pas centré que sur le produit
+* La capacité de s’adapter à mon besoin et à l’identité de l'administration ;
+* La franchise pour garantir la fiabilité des échanges ;
+* L'empathie pour que le rendez vous ne soit pas centré que sur le produit ;
 * Le sourire et être positif, car, quoi qu’il arrive, c’est une aventure incroyable!
 
 **Si c’était à refaire, vous changeriez quoi dans votre collaboration et dans le pilotage de ce transfert ?**
 
 *Maritza* : Prendre plus de temps pour mesurer les freins de l’administration.
 
-Dès le départ impliquer et échanger d’avantage avec la direction des systèmes d'information (DSI). La mission était complexe et il y avait très peu de temps disponible de la part d’agents de Pôle Emploi. Nous avons dû prioriser nos actions mais si c’était à refaire on aurait mis un peu plus de temps sur les échanges avec la DSI 
+Dès le départ, impliquer et échanger d’avantage avec la direction des systèmes d'information (DSI). La mission était complexe et il y avait très peu de temps disponible de la part d’agents de Pôle Emploi. Nous avons dû prioriser nos actions mais si c’était à refaire on aurait mis un peu plus de temps sur les échanges avec la DSI.
 
-**Enfin, pourquoi la disparition ZEN serait finalement une bonne nouvelle?** 
+**Enfin, pourquoi la disparition de "ZEN" sera finalement une bonne nouvelle?** 
 
-*Sylvie :* Parce que les apprentissages du produit seraient repris dans le nouveau formulaire d'actualisation. C’est en bonne voie ;-)
+*Sylvie :* Parce que les apprentissages du produit seront repris dans le nouveau formulaire d'actualisation. C’est en bonne voie ;-)
