@@ -4,7 +4,9 @@ title: "Ils m’entrainent au bout de l’agile"
 date: '2021-04-02'
 authors:
   - romain.perroud
-categories: articles
+categories: fabnumdef
+tags: [Produit, Agile, Scrum, Kanban]
+image: https://images.unsplash.com/photo-1516490981167-dc990a242afe?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1200&q=80
 excerpt: >-
   Aujourd’hui, de nombreuses méthodes Agile se côtoient. Laquelle choisir ? Plusieurs éléments sont à prendre en compte : la maturité du produit et de l’équipe, la taille de cette équipe et de l’entreprise, le type d’organisation qui prédomine, etc. Dans tous les cas, l’objectif est toujours le même : réaliser des produits numériques qui répondent au mieux aux besoins des utilisateurs, par nature, évolutifs.
 ---
