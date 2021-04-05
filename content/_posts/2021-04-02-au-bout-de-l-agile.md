@@ -20,9 +20,10 @@ Dans les premiers temps, nous avons délibérément fait le choix de ne pas appl
 Ainsi nous ne faisions pas de cérémonies à proprement parler, pas de _daily_ institués, pas de rétro, pas de _grooming_, juste une à deux réunions hebdomadaires au cours desquelles nous planifions les priorités dans les tickets, faisions le point sur les développements réalisés, et prévoyons les prochains tests utilisateurs. Ce format fonctionne bien lorsque les équipes sont petites et autonomes et que l’objectif est d’aller vite et d’expérimenter pour trouver la bonne solution. Le présentiel est également un atout pour communiquer rapidement même si les messageries d’entreprise peuvent en partie compensées la distance.
 
 En revanche, et pour en avoir fait l’expérience, cette organisation connaît rapidement ses limites. La situation devient compliquée lorsque qu’il y a :
-Plus de quatre développeurs.
-Une différence de niveau importante (juniors vs. senior) autant dans la technique, que dans l’autonomie et la méthode de développement.
-Un éloignement géographique des équipes.
+
+* Plus de quatre développeurs.
+* Une différence de niveau importante (juniors vs. senior) autant dans la technique, que dans l’autonomie et la méthode de développement.
+* Un éloignement géographique des équipes.
 
 Dès lors, la communication est moins fluide, des incompréhension apparaissent et des frustrations peuvent s’accumuler. La méthode _scrum_ avec ses cérémonies apporte alors sa valeur ajoutée : offrir un cadre de développement produit permettant une meilleure communication et un meilleur niveau d’échange d’information.
 
@@ -30,7 +31,8 @@ Aujourd’hui, nous avons donc plusieurs organisations en fonction des produits 
 
 Quoiqu’il en soit, le choix dans la méthode ou l’organisation de l’équipe produit importe peu tant que celles-ci permettent de s’adapter rapidement aux besoins utilisateurs et marché, en particulier en évitant des procédures trop rigides où innover et pivoter devient complexe.
 
-Que l’on soit _lean, scrum, kanban_ ou un peu tout à la fois, l’organisation n’est que le moyen privilégié qui permettra à l’équipe d’avancer dans la même direction. L’organisation la plus méthodique, la plus agile ou la plus rigoureuse n’atteindra pas son vrai potentiel sans : 
-Une vision claire du produit et de sa cible comprise et partagée par l’ensemble des membres de l’équipe.
-Des principes produit et des objectifs court et moyen termes compris et partagés par l’ensemble des membres de l’équipe.
-Une proximité et une fréquence d’interaction importante avec les utilisateurs, non seulement du PM et de l’UX mais également des développeurs.
+Que l’on soit _lean, scrum, kanban_ ou un peu tout à la fois, l’organisation n’est que le moyen privilégié qui permettra à l’équipe d’avancer dans la même direction. L’organisation la plus méthodique, la plus agile ou la plus rigoureuse n’atteindra pas son vrai potentiel sans : 
+
+* Une vision claire du produit et de sa cible comprise et partagée par l’ensemble des membres de l’équipe.
+* Des principes produit et des objectifs court et moyen termes compris et partagés par l’ensemble des membres de l’équipe.
+* Une proximité et une fréquence d’interaction importante avec les utilisateurs, non seulement du PM et de l’UX mais également des développeurs.
