@@ -87,7 +87,7 @@ Le plus difficile : présenter l’information de manière impartiale et tel un 
 
 Ce qui a marché :
 
-* Une [note ](https://docs.google.com/document/d/1T0bnr_P6orOMzwCcNujzUH6TD-3XuNfgciki0Wsmdvo/edit)claire récapitulative rédigée par Ishan composée du passé, du contexte, des jalons futurs et une explication du dossier et du contenu des tableaux dans le dossier clairs et succinct.
+* Une [](https://docs.google.com/document/d/1T0bnr_P6orOMzwCcNujzUH6TD-3XuNfgciki0Wsmdvo/edit)note claire récapitulative rédigée par Ishan composée du passé, du contexte, des jalons futurs et une explication du dossier et du contenu des tableaux dans le dossier clairs et succinct.
 * Le sponsor a les informations en main pour faire son choix, avec de critères qui permettent de comparer les repreneurs de manière neutre, ça lui permet de se concentrer sur les bonnes questions et de prendre du plaisir à explorer les différentes possibilités.
 
 4/ Les étapes suivantes : 
