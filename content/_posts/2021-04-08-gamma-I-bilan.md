@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Accélération des startups d’État : retour sur la première édition programme d’accompagnement Gamma"
+title: "Accélération des startups d’État : bilan de la première édition programme d’accompagnement Gamma"
 date: 2020-04-08
 authors:
   - lola.charbit
