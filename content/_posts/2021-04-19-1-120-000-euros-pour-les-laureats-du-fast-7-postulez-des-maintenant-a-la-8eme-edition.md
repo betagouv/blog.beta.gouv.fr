@@ -49,7 +49,7 @@ Les critères de sélection pour les incubateurs :
 3. **[Estime](https://estime.pole-emploi.fr/)**, soutenir la reprise d'activité des demandeurs d'emploi en leur permettant de connaitre les ressources financières dont ils disposeront
 4. **[Chauffage Urbain](https://chauffage-urbain.beta.gouv.fr/)**, accélérer le raccordement des copropriétés aux réseaux de chaleur
 5. **[e-MJPM](https://emjpm.fabrique.social.gouv.fr/login)**, trouver rapidement le bon professionnel pour les majeurs à protéger
-6. **[Mon Suivi Psy](https://monsuivipsy.fabrique.social.gouv.fr/)**, permettre un meilleur accompagnement des patients souffrant de troubles psychiques
+6. **[Mon Suivi Psy](https://monsuivipsy.fabrique.social.gouv.fr/)**, permettre un meilleur accompagnement des patients souffrant de troubles psychiatriques
 7. **L’incubateur du Ministère de l'Enseignement Supérieur et de la Recherche**, améliorer la qualité et la pertinence du service rendu aux usagers et agents du ministère en créant et accompagnant des Startups d'État.
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur le déploiement et d’accompagner l’équipe pour:
@@ -65,8 +65,6 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 * produits encore en amorçage (et non en phase de développement ou d’accélération) ;
 * produits nécessitant une plus grande implication du sponsor ; 
 * produits issus du secteur privé. 
-
-
 
 ![](/img/posts/2021_04_09_1200x675_fast_visuel_twitter.jpg)
 
