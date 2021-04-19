@@ -66,6 +66,8 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 * produits nécessitant une plus grande implication du sponsor ; 
 * produits issus du secteur privé. 
 
+![](/img/posts/2021_04_09_1200x675_fast_visuel_twitter.jpg)
+
 # Lancement de la prochaine édition du Fast
 
 **L'appel à candidatures de la 8ème édition est ouvert !**
