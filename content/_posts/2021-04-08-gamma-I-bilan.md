@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accélération des startups d’État: bilan de la première édition programme d’accompagnement Gamma"
-date: 2020-04-08
+date: 2021-04-22
 authors:
   - lola.charbit
 categories: dinsic
