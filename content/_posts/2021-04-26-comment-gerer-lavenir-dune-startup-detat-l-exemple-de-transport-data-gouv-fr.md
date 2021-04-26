@@ -24,7 +24,7 @@ Dans le cadre de ma mission, j’ai eu l'occasion d’accompagner [le transfert 
 
 Le mode de fonctionnement des services conçus selon l’approche startup d'État est parfois assez inhabituel pour les administrations. Ces dernières fonctionnent selon les attributs de la bureaucratie et sont dès lors familières de la planification (rédaction de cahiers des charges) et à de centralisation des décisions en haut de la chaîne hiérarchique. Au contraire, pour les services numériques conçus selon l’approche startup d'État, c’est l’équipe opérationnelle qui prend régulièrement des décisions stratégiques sur le produit pour mieux s’adapter aux besoins des utilisateurs au fur et à mesure de la vie du produit. Ce renversement qui consiste à donner de la flexibilité et de la confiance aux agents qui sont les plus proches de la réalité terrain et des utilisateurs bouscule les modèles mentaux auxquels les administrations traditionnelles sont habituées et nécessite l’adhésion de l’ensemble de la chaîne hiérarchique, d’autant qu’afin de pouvoir profiter de la valeur de la startup d'État, le service doit être intégré le mieux possible au sein de l’administration d’accueil. 
 
-Les outils
+\>> Les outils
 
 * Pérenniser un pilotage du service par un comité d’investissement semestriel présidé par la directrice ou le directeur de l’administration porteuse, où l’équipe rend des comptes sur les résultats obtenus et propose des objectifs pour la suite ;
 * Instaurer, pendant la phase de transfert,  un rendez-vous mensuel de 30 min avec la chaîne hiérarchique de l’administration repreneuse, dont le directeur ou la directrice, afin de faire le point sur les avancées et de lever rapidement les blocages ;
@@ -36,7 +36,7 @@ Les outils
 
 Après la phase d'accélération de la startup d'État, il est parfois possible d’envisager plusieurs repreneurs. Il est important d’identifier et étudier les différentes structures d’accueil dans lesquelles la solution numérique pourrait évoluer. Le choix du scénario d’atterrissage du cas transport.data.gouv.fr a d’ailleurs été largement expliqué [dans mon billet de blog précédent](https://blog.beta.gouv.fr/dinsic/2020/05/27/preparer-lavenir-dune-startup-detat-une-affaire-de-tous/). 
 
-Les outils : 
+\>> Les outils : 
 
 * Esquisser la cartographie de toutes les structures d'accueil possibles pour les étudier et élaborer un tableau comparatif avec les données techniques, RH, juridiques, risques et points d’attention pour chaque scénario ; 
 * Constituer un guide d’aide à la décision à destination de l’administration porteuse de la politique publique pour arbitrer le scénario d’atterrissage retenu.
@@ -49,7 +49,7 @@ L’équipe de la startup d'État, constituée d’agents publics mais aussi d�
 
 Au début de la phase de transfert, il est donc primordial de réunir toutes les parties prenantes (dont les équipes opérationnelles historiques) pour que repreneurs et “anciens” puissent se rencontrer. L’objectif de cette rencontre est de rappeler la raison d’être du service, définir ses ambitions à long-terme, les attentes des uns envers les autres et les possibles freins ou difficultés à surmonter par la nouvelle équipe. Le succès de ce type d’atelier repose sur le fait de construire un espace sécurisé pour que tout le monde puisse s’exprimer en confiance.
 
-Les outils
+\>> Les outils
 
 * Organiser un atelier “vision” réunissant l’ancienne et la nouvelle équipe ainsi que tous les sponsors du service pour que l’ensemble des parties prenantes puisse partager sur les raisons d’être du service, ses missions, et les objectifs de politique publique qui le guident. 
 
@@ -61,7 +61,7 @@ Ainsi, le transfert d’une startup d'État est l’occasion unique de permettre
 
 Lors du transfert de transport.data.gouv.fr, l’agent public qui a repris la responsabilité du produit et sa hiérarchie ont bénéficié par exemple d’une formation sur le cadre juridique et les aspects stratégiques de l’ouverture des données, ainsi que sur la stratégie publique de circulation des données entre administrations via des API. 
 
-Les outils
+\>> Les outils
 
 * Profiter des compétences de l’équipe historique du service, mais aussi des experts du programme beta.gouv.fr pour organiser des retours d’expérience et des formations de ses agents pendant toute la période de transfert, sur la base d’un exemple concret qui a réussi (la startup d'État transférée) ; 
 * Donner l’occasion à l’équipe historique de la startup d'État de présenter régulièrement ses résultats et sa manière de travailler, en instaurant des démonstrations mensuelles à destination des membres de l’administration d’accueil ;
@@ -73,7 +73,7 @@ Pour mieux cerner ce sujet, il est important de comprendre qu’une startup d'É
 
 Dans le cas de transport.data.gouv.fr, l’administration d’accueil étudie par exemple le passage de la ligne budgétaire dédiée aux études et donc consacrée à des projets temporaires, à un budget pérennisé au sein du ministère chargé des Transports.
 
-Les outils : 
+\>> Les outils : 
 
 * Identification des freins et défis au bon moment : l’atelier vision nous a permis d’identifier ensemble ce défi pour le service mais aussi à identifier les leviers pour traiter le point.
 * L’ambition pour le service partagé à l’atelier “Vision” a rassuré les parties prenantes sur la bonne direction du service 
@@ -82,7 +82,7 @@ Les outils : 
 
 Comme dans le privé les nouvelles vont vite... quelques mois avant le début du transfert les bénéficiaires, partenaires et utilisateurs du service commencent à se demander comment va se dérouler l’étape du transfert étant donné que cet étape aura bien sûr un impact sur le service et donc un impact sur tout l'écosystème. Afin de maîtriser sa communication et conserver la relation et l’engagement  des différentes parties prenantes. Il est important de prendre le temps d’informer de décisions prises concernant l’avenir de la startup d'État. De plus, il est important de marquer le passage vers cette nouvelle étape d’une importance capitale et de célébrer toutes les réussites de la startup d'État    
 
-Les outils : 
+\>> Les outils : 
 
 * Organiser un [événement de célébration](https://www.eventbrite.fr/e/billets-webinaire-de-passation-de-transportdatagouvfr-138746353077) réunissant les utilisateurs ou partenaires principaux du service pour faire le bilan sur les succès et les objectifs à venir du produit.
 
@@ -94,7 +94,7 @@ La page statistiques sert également à transmettre en transparence aux citoyens
 
 Permettre la remontée facile des retours des utilisateurs 
 
-Les outils : 
+\>> Les outils : 
 
 * Page stats, exemples : mon-entreprise.fr/stats
 * [OKR](https://docs.google.com/presentation/d/1moA-szc1nuw_lXnV0_RIzuxLvKUomJ9X5N0TdjwJRBQ/edit#slide=id.ga94f3665eb_0_560) 
