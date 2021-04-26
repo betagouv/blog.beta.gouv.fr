@@ -20,7 +20,7 @@ Alors, quels sont les facteurs de succès d’un transfert de startups d'État ?
 
 Dans le cadre de ma mission, j’ai eu l'occasion d’accompagner [le transfert du service transport.data.gouv.fr de l’incubateur de la DINUM vers le ministère chargé des Transports.](https://www.ecologie.gouv.fr/transportdatagouvfr-lopen-data-au-service-tous-voyageurs-france) Dans cet article, vous découvrirez quelques apprentissages que j’ai pu tirer de cette expérience, qui vous permettront, je l’espère, de mieux préparer le transfert de votre startup d'État. 
 
-1. **Impliquer toute la chaîne hiérarchique du repreneur dans la phase de transfert**
+**Impliquer toute la chaîne hiérarchique du repreneur dans la phase de transfert**
 
 Le mode de fonctionnement des services conçus selon l’approche startup d'État est parfois assez inhabituel pour les administrations. Ces dernières fonctionnent selon les attributs de la bureaucratie et sont dès lors familières de la planification (rédaction de cahiers des charges) et à de centralisation des décisions en haut de la chaîne hiérarchique. Au contraire, pour les services numériques conçus selon l’approche startup d'État, c’est l’équipe opérationnelle qui prend régulièrement des décisions stratégiques sur le produit pour mieux s’adapter aux besoins des utilisateurs au fur et à mesure de la vie du produit. Ce renversement qui consiste à donner de la flexibilité et de la confiance aux agents qui sont les plus proches de la réalité terrain et des utilisateurs bouscule les modèles mentaux auxquels les administrations traditionnelles sont habituées et nécessite l’adhésion de l’ensemble de la chaîne hiérarchique, d’autant qu’afin de pouvoir profiter de la valeur de la startup d'État, le service doit être intégré le mieux possible au sein de l’administration d’accueil. 
 
@@ -30,7 +30,9 @@ Les outils
 * Instaurer, pendant la phase de transfert,  un rendez-vous mensuel de 30 min avec la chaîne hiérarchique de l’administration repreneuse, dont le directeur ou la directrice, afin de faire le point sur les avancées et de lever rapidement les blocages ;
 * S’assurer que l’agent public responsable du produit dispose d’une lettre de mission qui détermine clairement son périmètre de responsabilité et d’autonomie.
 
-2. **Etudier les pours et les contres de tous les différents scénarios d’accueil possible** 
+
+
+**Etudier les pours et les contres de tous les différents scénarios d’accueil possible** 
 
 Après la phase d'accélération de la startup d'État, il est parfois possible d’envisager plusieurs repreneurs. Il est important d’identifier et étudier les différentes structures d’accueil dans lesquelles la solution numérique pourrait évoluer. Le choix du scénario d’atterrissage du cas transport.data.gouv.fr a d’ailleurs été largement expliqué [dans mon billet de blog précédent](https://blog.beta.gouv.fr/dinsic/2020/05/27/preparer-lavenir-dune-startup-detat-une-affaire-de-tous/). 
 
@@ -39,7 +41,9 @@ Les outils : 
 * Esquisser la cartographie de toutes les structures d'accueil possibles pour les étudier et élaborer un tableau comparatif avec les données techniques, RH, juridiques, risques et points d’attention pour chaque scénario ; 
 * Constituer un guide d’aide à la décision à destination de l’administration porteuse de la politique publique pour arbitrer le scénario d’atterrissage retenu.
 
-3. **Construire la vision à long-terme du service en associant à la fois l’ancienne et la nouvelle équipe du produit numérique**
+
+
+**Construire la vision à long-terme du service en associant à la fois l’ancienne et la nouvelle équipe du produit numérique**
 
 L’équipe de la startup d'État, constituée d’agents publics mais aussi d’experts du numérique du secteur privé, acquiert pendant la période d’incubation une connaissance à la fois stratégique et opérationnelle très riche. Ses membres sont souvent devenus des spécialistes de la politique publique menée par la plateforme, détiennent une expertise technique sur les choix fonctionnels du produit numérique, et connaissent les utilisateurs et utilisatrices du service sur le bout des doigts pour avoir échangé très régulièrement avec eux. Et souvent, les équipes sont accompagnées par des ex-entrepreneurs du numérique (que nous appelons les coachs), qui les aident à structurer une vision stratégique à long-terme. Il serait dommage de perdre toutes ces connaissances acquises pendant l’incubation du service lors de la phase de transfert.
 
@@ -49,7 +53,7 @@ Les outils
 
 * Organiser un atelier “vision” réunissant l’ancienne et la nouvelle équipe ainsi que tous les sponsors du service pour que l’ensemble des parties prenantes puisse partager sur les raisons d’être du service, ses missions, et les objectifs de politique publique qui le guident. 
 
-4. **Prendre le temps de former les nouvelles équipes et d’acculturer la structure d’accueil**
+**Prendre le temps de former les nouvelles équipes et d’acculturer la structure d’accueil**
 
 L’intégration d’une startup d'État, objet très particulier et aux premiers abords très différent des entités que sont habituées à gérer des administrations, peut être vue non pas comme une menace, mais comme une opportunité pour expérimenter puis essaimer au sein de sa structure des pratiques numériques et organisationnels à l’état de l’art. 
 
@@ -63,7 +67,7 @@ Les outils
 * Donner l’occasion à l’équipe historique de la startup d'État de présenter régulièrement ses résultats et sa manière de travailler, en instaurant des démonstrations mensuelles à destination des membres de l’administration d’accueil ;
 * Proposer progressivement à d’autres services volontaires de sa structure d’accueil d’adopter des modes de travail ou des rituels similaires à ceux de la startup d'État intégrée.
 
-5. **Sanctuariser un budget pour l’exploitation du service numérique** 
+**Sanctuariser un budget pour l’exploitation du service numérique** 
 
 Pour mieux cerner ce sujet, il est important de comprendre qu’une startup d'État est, du point de vue d'une administration centrale, une expérimentation, un service détaché et lié à un budget de recherche ou d’étude (donc temporaire). La startup d'État doit présenter chaque année ses résultats à un  comité d’investissement et si elle démontre son efficacité, le budget est renouvelé. L’enjeu de la pérennisation du budget repose sur le fait de démontrer à l’administration pourquoi et comment la startup d'État peut passer d’un élément externe et optionnel à un service central répondant aux enjeux de l’administration. 
 
@@ -74,7 +78,7 @@ Les outils : 
 * Identification des freins et défis au bon moment : l’atelier vision nous a permis d’identifier ensemble ce défi pour le service mais aussi à identifier les leviers pour traiter le point.
 * L’ambition pour le service partagé à l’atelier “Vision” a rassuré les parties prenantes sur la bonne direction du service 
 
-6. **Célébrer la reprise du service une fois la phase de transfert achevée.**
+**Célébrer la reprise du service une fois la phase de transfert achevée.**
 
 Comme dans le privé les nouvelles vont vite... quelques mois avant le début du transfert les bénéficiaires, partenaires et utilisateurs du service commencent à se demander comment va se dérouler l’étape du transfert étant donné que cet étape aura bien sûr un impact sur le service et donc un impact sur tout l'écosystème. Afin de maîtriser sa communication et conserver la relation et l’engagement  des différentes parties prenantes. Il est important de prendre le temps d’informer de décisions prises concernant l’avenir de la startup d'État. De plus, il est important de marquer le passage vers cette nouvelle étape d’une importance capitale et de célébrer toutes les réussites de la startup d'État    
 
@@ -82,7 +86,7 @@ Les outils : 
 
 * Organiser un [événement de célébration](https://www.eventbrite.fr/e/billets-webinaire-de-passation-de-transportdatagouvfr-138746353077) réunissant les utilisateurs ou partenaires principaux du service pour faire le bilan sur les succès et les objectifs à venir du produit.
 
-7. **Suivre dans le temps les indicateurs de succès du service et de satisfaction des utilisateurs**
+**Suivre dans le temps les indicateurs de succès du service et de satisfaction des utilisateurs**
 
 Se doter d’outils de pilotage (page stats, OKR >> objectifs d'impact chiffrés) facilite la prise de décision opérationnelle et contribue à améliorer les processus, à responsabiliser et à mobiliser l’équipe et la hiérarchie autour du projet. 
 
