@@ -10,7 +10,7 @@ Depuis un an, j’ai été missionnée par la Direction interministérielle du n
 
 La [phase de transfert](https://beta.gouv.fr/approche/transfert), dernière phase de la conception de services numériques dans le programme beta.gouv.fr (voir illustration ci-dessous), est une étape délicate. Elle consiste à confier un service construit et opéré dans un environnement habitué aux pratiques du numérique à une administration publique qui fonctionne très différemment. Or, il est important que ces transferts soient réussis pour que les services portés par les startups d'État veillent à apporter durablement de l'impact aux Françaises et aux Français, mais aussi pour que l’opération bénéficie au maximum à l’administration qui accueille le produit, qui pourra en tirer de nombreux apprentissages pour accélérer sa transformation numérique. 
 
-![](https://lh3.googleusercontent.com/jaZvVReXum4r3CvLxYG7A9mCIKgZORfpvlU2BhprdUDBa7At5ifmNWRVJ9nnkmYRdZjVIcDnRd5newQPyQDLrbN0IyWh_8TPlrbemXCUVnt-gAhwvg-suKdSPeqlY9Hshue8iLnj)
+![](/img/posts/temporalite-transport-data.jpg)
 
 Les phases de transfert s’apparentent à une greffe de cœur. Le cœur fonctionne avec ses propres circuits et est alimenté et connecté à un système externe, le corps. Une greffe de cœur consiste à prendre cet organisme vivant et à le connecter avec un nouvel organisme avec de nouveaux vaisseaux, veines, etc. Beaucoup de paramètres doivent donc s’ajuster pour qu’une transplantation soit réussie. 
 
