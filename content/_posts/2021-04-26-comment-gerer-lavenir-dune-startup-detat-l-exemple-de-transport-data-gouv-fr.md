@@ -56,26 +56,24 @@ Le transfert d’une Startup d'État est aussi l’occasion unique de permettre 
 * Profiter des compétences de l’équipe historique du service, mais aussi des experts du programme beta.gouv.fr pour organiser des **retours d’expérience** et des **formations** de ses agents pendant toute la période de transfert, sur la base d’un exemple concret qui a réussi (la Startup d'État transférée). Lors du transfert de transport.data.gouv.fr, l’agent public qui a repris la responsabilité du produit et sa hiérarchie ont bénéficié par exemple d’une formation sur le cadre juridique et les aspects stratégiques de l’ouverture des données, ainsi que sur la stratégie publique de circulation des données entre administrations via des API. 
 * Donner l’occasion à l’équipe historique de la Startup d'État de présenter régulièrement ses résultats et sa manière de travailler, en instaurant des **démonstrations mensuelles** à destination des membres de l’administration d’accueil.
 
-**Célébrer la reprise du service une fois la phase de transfert achevée.**
+**Informer les utilisateurs du service et célébrer sa reprise une fois la phase de transfert achevée**
 
-Comme dans le privé les nouvelles vont vite... quelques mois avant le début du transfert les bénéficiaires, partenaires et utilisateurs du service commencent à se demander comment va se dérouler l’étape du transfert étant donné que cet étape aura bien sûr un impact sur le service et donc un impact sur tout l'écosystème. Afin de maîtriser sa communication et conserver la relation et l’engagement  des différentes parties prenantes. Il est important de prendre le temps d’informer de décisions prises concernant l’avenir de la startup d'État. De plus, il est important de marquer le passage vers cette nouvelle étape d’une importance capitale et de célébrer toutes les réussites de la startup d'État    
+Comme dans le privé les nouvelles vont vite... le transfert aura un impact sur le service et donc un impact sur ses bénéficiaires. Il peut être utile de communiquer auprès des utilisateurs pour l'informer des changements. C'est aussi l'occasion d'en profiter pour célébrer les succès du service ! 
 
-\>> Les outils : 
+\>> Les facteurs de succès pour transport.data.gouv.fr : 
 
-* Organiser un [événement de célébration](https://www.eventbrite.fr/e/billets-webinaire-de-passation-de-transportdatagouvfr-138746353077) réunissant les utilisateurs ou partenaires principaux du service pour faire le bilan sur les succès et les objectifs à venir du produit.
+* Organiser un **[événement de célébration](https://www.eventbrite.fr/e/billets-webinaire-de-passation-de-transportdatagouvfr-138746353077)** réunissant les utilisateurs ou partenaires principaux du service pour faire le bilan sur les succès et les objectifs à venir du produit ;
+* Informer régulièrement les utilisateurs du service par des **infolettres** expliquant les impacts du transfert sur le produit. 
 
-**Suivre dans le temps les indicateurs de succès du service et de satisfaction des utilisateurs**
+**Suivre dans le temps les indicateurs d'impact du service** 
 
-Se doter d’outils de pilotage (page stats, OKR >> objectifs d'impact chiffrés) facilite la prise de décision opérationnelle et contribue à améliorer les processus, à responsabiliser et à mobiliser l’équipe et la hiérarchie autour du projet. 
+Chez beta.gouv.fr, nous aimons dire que nous sommes obsédés par l'impact de nos produits numériques. Ce que nous essayons de faire, c'est d'insuffler cette obsession aux administrations qui récupèrent des produits créés chez nous. 
 
-La page statistiques sert également à transmettre en transparence aux citoyens, utilisateurs et reutilisateurs les informations concernant l’évolution du service et son impact.
+Après la phase de transfert, continuer de s'assurer que le service que l'on finance continue d'avoir un impact positif sur la vie de ses utilisateurs reste primordial. 
 
-Permettre la remontée facile des retours des utilisateurs 
+\>> Les facteurs de succès pour transport.data.gouv.fr : 
 
-\>> Les outils : 
+* Une **[page de statistiques publiques](https://transport.data.gouv.fr/stats)** permet de suivre l'évolution de l'ouverture des données, mais aussi la qualité des données exposées sur la plateforme ; 
+* L'équipe transport.data.gouv.fr continue de suivre en interne la [méthode OKR](https://www.welcometothejungle.com/fr/articles/methode-okr-objectives-results) (objectifs et résultats-clés) pour s'organiser.
 
-* Page stats, exemples : mon-entreprise.fr/stats
-* [OKR](https://docs.google.com/presentation/d/1moA-szc1nuw_lXnV0_RIzuxLvKUomJ9X5N0TdjwJRBQ/edit#slide=id.ga94f3665eb_0_560) 
-* [Plus d’information sur la mesure d’impact](https://doc.incubateur.net/startups/gestion-de-produit/definir-et-mesurer-limpact/le-coach-la-startup-detat-et-la-mesure-dimpact#en-tant-[) 
-
-*Par Maritza Abreo Coach startup d'État I Consultante IPPON*
+*Par Maritza Abreo, coach chez beta.gouv.fr*
