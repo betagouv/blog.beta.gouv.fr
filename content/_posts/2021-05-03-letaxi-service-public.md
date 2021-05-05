@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Le registre des taxis : comment une API permet d'adapter la mission de service public des taxis au numérique."
-date: 2021-05-03
+title: "Le registre des taxis : comment une API permet d'adapter la mission de service public des taxis au numérique"
+date: 2021-05-05
 authors:
   - olivier.maffre
 categories: general
@@ -13,7 +13,7 @@ excerpt: Le numérique a transformé nos vies, bouleversé nos usages, notre man
 
 
 Le numérique a transformé nos vies, bouleversé nos usages, notre manière de consommer des biens et des services ; il est donc logique qu’il modifie sensiblement l’action publique, en lui donnant des moyens d’agir sur la sphère virtuelle.
-Cette philosophie, c’est celle de [Beta Gouv](http://beta.gouv.fr). Quel lien avec les taxis ? [Comme l’écrivait en 2019](https://medium.com/@ishanbjw/l%C3%A2ge-des-infrastructures-num%C3%A9riques-publiques-affdd4fc4558) Ishan Bhojwani, co-animateur de Beta Gouv, en ce qui concerne la mobilité, l’âge des infrastructures publiques numériques est venu. Cet article a pour but de montrer comment l’API [le.taxi](https://le.taxi/) s'intègre dans cette vision, dans une logique de mutabilité du service public. 
+Cette philosophie, c’est celle de [beta.gouv](http://beta.gouv.fr). Quel lien avec les taxis ? [Comme l’écrivait en 2019](https://medium.com/@ishanbjw/l%C3%A2ge-des-infrastructures-num%C3%A9riques-publiques-affdd4fc4558) Ishan Bhojwani de l'équipe beta.gouv.fr, en ce qui concerne la mobilité, l’âge des infrastructures publiques numériques est venu. Cet article a pour but de montrer comment l’API [le.taxi](https://le.taxi/) s'intègre dans cette vision, dans une logique de mutabilité du service public. 
 
 
 **Une API, pour quoi faire ?**
