@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comment gérer l'avenir d'une startup d'État ? - l’exemple de
+title: Comment gérer l'avenir d'une Startup d'État ? - l’exemple de
   transport.data.gouv.fr
 date: 2021-04-26
 categories: general
