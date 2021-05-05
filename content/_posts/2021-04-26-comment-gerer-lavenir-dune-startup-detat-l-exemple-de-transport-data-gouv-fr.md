@@ -5,6 +5,7 @@ title: Comment gérer l'avenir d'une startup d'État ? - l’exemple de
 date: 2021-04-26
 categories: general
 tags: "consolidation, transfert "
+image: /img/posts/screenshot-2021-05-05-at-08.34.04.png
 ---
 Depuis un an, j’ai été missionnée par la Direction interministérielle du numérique (DINUM) pour travailler sur le sujet épineux de l’avenir des produits conçus selon l'approche Startups d'État. Comment permettre à ces services créés dans des cellules d'innovation publique (les incubateurs) de devenir des services publics à part entière opérés au sein de leur administration publique ? 
 
