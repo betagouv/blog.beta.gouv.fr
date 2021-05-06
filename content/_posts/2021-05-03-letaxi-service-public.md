@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Le registre des taxis : comment une API permet d'adapter la mission de service public des taxis au numérique"
+title: "Le registre des taxis : comment une API permet d'adapter la mission de
+  service public des taxis au numérique"
 date: 2021-05-05
 authors:
   - olivier.maffre
 categories: general
 tags: transport
-image: /img/posts/2021-05-03-letaxi-servicepublic.JPG 
-excerpt: Le numérique a transformé nos vies, bouleversé nos usages, notre manière de consommer des biens et des services ; il est donc logique qu’il modifie sensiblement l’action publique, en lui donnant des moyens d’agir sur la sphère virtuelle, à travers des infrastructures publiques numériques. Cet article a pour but de montrer comment l’API le.taxi s'intègre dans cette logique, dans une vision de mutabilité du service public. 
+image: /img/posts/2021-05-03-letaxi-servicepublic.jpg
+excerpt: Le numérique a transformé nos vies, bouleversé nos usages, notre
+  manière de consommer des biens et des services ; il est donc logique qu’il
+  modifie sensiblement l’action publique, en lui donnant des moyens d’agir sur
+  la sphère virtuelle, à travers des infrastructures publiques numériques. Cet
+  article a pour but de montrer comment l’API le.taxi s'intègre dans cette
+  logique, dans une vision de mutabilité du service public.
 ---
 
 
