@@ -7,7 +7,7 @@ authors:
   - olivier.maffre
 categories: general
 tags: transport
-image: /img/posts/2021-05-03-letaxi-servicepublic.jpg
+image: /img/posts/heler-un-taxi.jpg
 excerpt: Le numérique a transformé nos vies, bouleversé nos usages, notre
   manière de consommer des biens et des services ; il est donc logique qu’il
   modifie sensiblement l’action publique, en lui donnant des moyens d’agir sur
