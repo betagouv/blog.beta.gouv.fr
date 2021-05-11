@@ -45,7 +45,7 @@ L’action de Gamma s’est articulée autour de l’accompagnement du déploiem
 
 Cette stratégie de prospection a porté ses fruits avec la mise en relation avec deux des plus gros sites d’annonces locatives, un des premiers réseaux d’agences immobilières, ainsi que des services nationaux de garantie et d’assurance.
 
-Dossier Facile a connu une forte croissance du nombre de dossiers créés et validés avec une augmentation de près de 50% du nombre de dossiers créés par mois entre 2020 et 2021.
+DossierFacile a connu une forte croissance du nombre de dossiers créés et validés avec une augmentation de près de 50% du nombre de dossiers créés par mois entre 2020 et 2021.
 
 ![](https://lh6.googleusercontent.com/7prONPYOiKznyMyYZulUg9cDjs5rg5-aR-BQBkMi5kvcBJXEtXmdy8WujUDbP4suUzeOxrDqDS8bPtfPpGqkeTXcLY0DjcHzxdh9ewtWx5DJGLoy-gQEz0LYKRlHCbcUAbPaXT1V)
 
@@ -65,7 +65,7 @@ A la suite du succès et des retours positifs de la première édition, l’équ
 
 Pour sa deuxième édition, Gamma a choisi d’accompagner dans leur accélération trois solutions à haut potentiel d’impact social, et réaffirme son engagement à accélérer des solutions dont l’impact sert l’intérêt général face à la crise que nous traversons. Découvrez les 3 Startups d’État sélectionnées.
 
-* RDV Solidarités
+## RDV Solidarités
 
 [RDV Solidarités](https://www.rdv-solidarites.fr/) est la plateforme de prise de rendez-vous en ligne pour les services des solidarités. Son objectif ? Réduire le nombre de rendez-vous manqués dans les services sociaux départementaux.
 
@@ -73,7 +73,7 @@ Aujourd’hui, RDV Solidarités est déployé dans 13 départements et près de 
 
 En participant à Gamma II, RDV Solidarités souhaite augmenter le nombre de départements qui utilisent sa solution afin d’augmenter le nombre de rendez-vous pris via la plateforme.
 
-* Je Veux Aider
+## Je Veux Aider
 
 [Je Veux Aider](https://www.jeveuxaider.gouv.fr/) est un dispositif d’engagement civique auprès d’organisations publiques ou associatives accessible à tous les résidents du territoire français de plus de 16 ans qui souhaitent construire une société plus résiliente et solidaire. 
 
@@ -81,7 +81,7 @@ A ce jour, 325 000 bénévoles sont inscrits sur la plateforme et plus de 5 000 
 
 Avec Gamma II, Je Veux Aider compte augmenter le nombre de participations réalisées, et le nombre de bénévoles engagés en ciblant notamment les établissements scolaires.
 
-* Mon suivi psy
+## Mon suivi psy
 
 [Mon suivi psy](https://monsuivipsy.fabrique.social.gouv.fr/) est une application permettant de suivre les symptômes des patients afin d’améliorer l’accompagnement des psychologues et psychiatres. 
 
