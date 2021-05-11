@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Retour sur l'accélération de Startups d'État : un bilan très positif
-  pour la première mouture de Gamma"
+title: "Accélération de Startups d'État : une saison 1 réussie pour le programme Gamma"
 date: 2021-05-11
 authors:
   - lola.charbit
@@ -25,7 +24,7 @@ Concrètement, l'équipe Gamma accompagne chaque équipe à :
 Comme tous les produits accompagnés par beta.gouv.fr, les statistiques de ces trois services sont disponibles publiquement : 
 
 * Mon Entreprise : <https://mon-entreprise.fr/stats> 
-* DossierFacile : <https://www.dossierfacile.fr/stats/> (page en cours de réalisation)
+* DossierFacile : <https://www.dossierfacile.fr/stats/>
 * Aides Territoires : <https://aides-territoires.beta.gouv.fr/stats/>
 
 # Un bilan positif pour Gamma et les services numériques accompagnés
@@ -42,7 +41,7 @@ Mon-Entreprise [compte aujourd’hui plus de 3 millions de visiteurs sur les 12 
 
 ## DossierFacile : la multiplication des partenariats pour se positionner en tiers de confiance sur le marché locatif français
 
-L’action de Gamma s’est articulée autour de l’accompagnement du déploiement du service auprès de sites d’acteurs privés et publics. L’objectif a été de promouvoir [DossierFacile](https://www.dossierfacile.fr/) comme un tiers de confiance incontournable dans la constitution et la certification d’un dossier de location en France.
+L’action de Gamma s’est articulée autour de l’accompagnement du déploiement du service auprès de sites d’acteurs privés et publics. L’objectif a été de promouvoir [DossierFacile](https://www.dossierfacile.fr/) comme un tiers de confiance incontournable dans la constitution et la validation d’un dossier de location en France.
 
 Cette stratégie de prospection a porté ses fruits avec la mise en relation avec deux des plus gros sites d’annonces locatives, un des premiers réseaux d’agences immobilières, ainsi que des services nationaux de garantie et d’assurance.
 
