@@ -3,7 +3,6 @@ layout: post
 title: "Anatomie d’un service numérique public à succès : Mon-entreprise.fr"
 date: 2021-05-12
 authors:
-  - null
   - penelope.liot
 categories: general
 tags: Mon-entreprise.fr
