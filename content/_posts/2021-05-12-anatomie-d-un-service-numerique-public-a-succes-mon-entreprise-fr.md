@@ -4,13 +4,16 @@ title: "Anatomie d’un service numérique public à succès : Mon-entreprise.fr
 date: 2021-05-12
 authors:
   - null
+  - penelope.liot
 categories: general
 tags: Mon-entreprise.fr
 image: /img/posts/logo-me.svg
+excerpt: >
+  Après avoir passé le cap des 6 millions de visiteurs, mon-entreprise.fr
+  devient officiellement un service à impact national ! Profitons de cette
+  occasion pour revenir sur l'histoire de ce projet, ses leçons et ses facteurs
+  clefs de succès.
 ---
-Anatomie d'un service numérique public à succès : Mon-entreprise.fr
-==
-
 
 Après avoir passé le cap des 6 millions de visiteurs, mon-entreprise.fr devient officiellement un service à impact national ! Profitons de cette occasion pour revenir sur l'histoire de ce projet, ses leçons et ses facteurs clefs de succès.
 
