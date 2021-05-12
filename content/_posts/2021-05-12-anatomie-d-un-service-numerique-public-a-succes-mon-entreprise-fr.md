@@ -14,7 +14,6 @@ excerpt: >
   occasion pour revenir sur l'histoire de ce projet, ses leçons et ses facteurs
   clefs de succès.
 ---
-
 Après avoir passé le cap des 6 millions de visiteurs, mon-entreprise.fr devient officiellement un service à impact national ! Profitons de cette occasion pour revenir sur l'histoire de ce projet, ses leçons et ses facteurs clefs de succès.
 
 
