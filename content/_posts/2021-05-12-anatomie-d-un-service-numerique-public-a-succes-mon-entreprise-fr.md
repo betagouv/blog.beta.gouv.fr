@@ -6,6 +6,7 @@ authors:
   - null
 categories: general
 tags: Mon-entreprise.fr
+image: /img/posts/logo-me.svg
 ---
 Anatomie d'un service numérique public à succès : Mon-entreprise.fr
 ==
