@@ -1,5 +1,6 @@
 ---
 fullname: Léry Jicquel
+domaine: Animation
 role: Co-animateur
 github: LeryJ
 missions:
@@ -16,10 +17,15 @@ startups:
   - AidESS-Relance
   - inca
   - justif
+  - article.40
+  - sndv_maritime
 previously:
   - e-controle
+  - dumas
 badges:
   - segur
+competences:
+  - Administration Publique
+  - Gestion de Produit
 ---
-In Bike I Trust.
-Toujours en équipe!
+In Bike I Trust. Toujours en équipe!

@@ -1,6 +1,7 @@
 ---
 fullname: Lucas Charrier
 role: Développeur
+domaine: Développement
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
@@ -8,9 +9,9 @@ missions:
     end: 2021-07-03
     status: admin
     employer: DINUM
-startups: 
+startups:
   - aides.jeunes
 badges:
   - segur
 ---
-Développeur Fullstack
+Développeur Web Fullstack

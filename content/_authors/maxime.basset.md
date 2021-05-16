@@ -1,6 +1,7 @@
 ---
 fullname: Maxime Basset
 role: Coach
+domaine: Coaching
 avatar: https://i.imgur.com/QMHjIph.png
 missions:
   - start: 2017-09-01	 
@@ -8,7 +9,7 @@ missions:
     status: service	 
     employer: NUMA	
   - start: 2017-09-01
-    end: 
+    end: 2021-06-30 
     status: service
     employer: OCTO 
 startups:	

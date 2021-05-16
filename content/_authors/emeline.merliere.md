@@ -1,6 +1,7 @@
 ---
 fullname: Emeline Merlière
 role: Développeuse
+domaine: Développement
 github: eml-trm
 missions:
   - start: 2020-12-30
@@ -8,7 +9,7 @@ missions:
     status: admin
     employer: DINUM
 startups:
-  - chèquespsy
+  - sante-psy-etudiant
 badges:
   - segur
 ---

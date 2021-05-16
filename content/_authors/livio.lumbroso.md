@@ -1,6 +1,7 @@
 ---
 fullname: Livio Lumbroso
 role: Coach
+domaine: Coaching
 github: LivioLumbroso
 avatar:
 link: https://www.linkedin.com/in/liviolumbroso/
@@ -11,6 +12,8 @@ missions:
     employer: numa
 startups:
     - recosante
+    - hydrogene
+    - atlas-des-paysages
 badges: 
     - segur
 ---

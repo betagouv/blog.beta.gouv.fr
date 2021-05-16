@@ -1,6 +1,7 @@
 ---
 fullname: Damien Boyer
 role: Designer
+domaine: Design
 github: dameofr
 link: null
 missions:
@@ -9,5 +10,7 @@ missions:
     status: independent
     employer: education nationale
 startups:
-  - apprentissage
+  - sirius
+  - la-bonne-alternance
+  - matcha
 ---

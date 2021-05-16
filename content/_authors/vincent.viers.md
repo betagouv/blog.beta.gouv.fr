@@ -1,12 +1,13 @@
 ---
 fullname: Vincent Viers
 role: Data Scientist / Développeur
+domaine: Développement
 github: vviers
 avatar:
 link:
 missions:
   - start: 2020-10-19
-    end: 2021-04-05
+    end: 2021-09-01
     status: independent
     employer: octo
 startups:

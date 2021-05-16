@@ -1,11 +1,12 @@
 ---
 fullname: Augustin Stephan
 role: UI/UX Designer
-link: http://www.augustinstephan.com/
+domaine: Design
 github: augustinstephan
+link: http://www.augustinstephan.com/
 missions:
   - start: 2021-03-29
-    end: 2021-04-08
+    end: 2021-06-30
     status: independent
 startups:
   - aides.jeunes

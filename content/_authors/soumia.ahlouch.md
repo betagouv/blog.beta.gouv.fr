@@ -1,10 +1,11 @@
 ---
 fullname: Soumia Ahlouch
 role: Data Analyst
+domaine: Autre
 github : SoumiaAHLOUCH
 missions:
   - start: 2021-02-08
-    end: 2021-05-21
+    end: 2021-06-30
     status: independent
     employer: Octo
 startups:

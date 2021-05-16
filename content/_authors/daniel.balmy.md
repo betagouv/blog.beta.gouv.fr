@@ -1,6 +1,7 @@
 ---
 fullname: Daniel Balmy
 role: Intrapreneur / Mentor / Chargé de développement
+domaine: Intraprenariat
 missions:
   - start: 2017-09-28
     end: 2020-07-31
@@ -11,7 +12,8 @@ missions:
     status: independent
 startups:
     - workinfrance
-    - administration+
+    - aplus
+    - comobi
 ---
 
 Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!
