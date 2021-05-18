@@ -90,12 +90,13 @@ Les premiers résultats étaient encourageants.
 Nous avions à la fois des retours qualitatifs positifs à travers des verbatims récoltés à l'écrit ou à l'oral.
 
 Néanmoins, nous récoltions également des critiques : 
-    - "Je ne sais jamais où retrouver le guide"
-    - "je ne comprends pas la différence entre les trois guides"
-    - "J'ai du mal à trouver l'information que je cherche dans le guide"
-    - "Je ne comprends pas comment sont organisés les guides"
-    - "Comment je peux modifier les guides? ce n'est pas clair pour moi"
-    - "Les informations utiles sont un peu noyés car les contenus sont denses"
+
+* "Je ne sais jamais où retrouver le guide"
+* "je ne comprends pas la différence entre les trois guides"
+* "J'ai du mal à trouver l'information que je cherche dans le guide"
+* "Je ne comprends pas comment sont organisés les guides"
+* "Comment je peux modifier les guides? ce n'est pas clair pour moi"
+* "Les informations utiles sont un peu noyés car les contenus sont denses"
 
 En résumé, nous avons appris que nous étions sur le bon chemin car nous délivrions déjà de la valeur ajouté mais qu'ils nous restaient encore quelques défis à relever : simplifier et rendre plus actionnable.
 
