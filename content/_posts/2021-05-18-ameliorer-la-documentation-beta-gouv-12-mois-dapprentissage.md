@@ -88,9 +88,7 @@ Voici les étapes que nous avons suivi :
 Cette démarche nous a permis de rassembler toute la documentation dans trois guides thématiques gérés par un seul outil : Gitbook.
 Nous avons également communiqué de façon continue pour faire connaître cette documentation à tous les membres de la communauté. 
 
-###### Illustration de la page stats de la documentation de beta.gouv
-
-![Stat documentation de beta](/img/posts/stat-beta.jpg)
+![Stat documentation de beta](/img/posts/stat-beta.jpg "Stat documentation de beta")
 
 ### Deuxième itération : fusionner et réécrire (Septembre à Mars)
 
@@ -121,13 +119,9 @@ Comme il l'explique :
 
 Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous aider à organiser l'information de notre guide : 
 
-#### Extrait de la vue 3D des groupes d'information
+![diagramme doc](https://user-images.githubusercontent.com/43180136/118452442-72d98480-b6f6-11eb-8999-bbec24f0cf8f.JPG "Extrait de la vue 3D des groupes d’information")
 
-![diagramme doc](https://user-images.githubusercontent.com/43180136/118452442-72d98480-b6f6-11eb-8999-bbec24f0cf8f.JPG)
-
-#### Extrait d'une partie de la matrice carte par carte
-
-![similatry](https://user-images.githubusercontent.com/43180136/118452564-943a7080-b6f6-11eb-8c95-efcdd2ba5234.JPG)
+![similatry](https://user-images.githubusercontent.com/43180136/118452564-943a7080-b6f6-11eb-8c95-efcdd2ba5234.JPG "Extrait d’une partie de la matrice carte par carte")
 
 #### 2. Améliorer la rédaction des 10 pages les plus consultées
 
@@ -142,18 +136,14 @@ Ainsi :
 * l'information a été découpée et shématisée (tableau, fiche...) ; 
 * surtout le contenu a été réduit au maximum.
 
-###### Illustration
-
-![visio](https://user-images.githubusercontent.com/43180136/118453240-42deb100-b6f7-11eb-92fb-19c41348dff3.JPG)
+![visio](https://user-images.githubusercontent.com/43180136/118453240-42deb100-b6f7-11eb-92fb-19c41348dff3.JPG "Illustration")
 
 #### 3. Rendre encore plus découvrable la documentation en la rendant accessible depuis le site de beta.gouv.fr
 
 L'équipe en charge de la refonte du site internet de beta a décidé d'ajouter un lien direct vers notre documentation.
 Ainsi, le point d'entrée le plus naturel pour retrouver le lien vers notre guide est le site internet. Rien de plus normal mais on y avait pas pensé plus tôt!
 
-###### Page d'accueil de beta.gouv et lien direct vers [la documentation](https://doc.incubateur.net/communaute/)
-
-![landing page](https://user-images.githubusercontent.com/43180136/118453435-820d0200-b6f7-11eb-9b0c-b8daa89e4f33.JPG)
+![landing page](https://user-images.githubusercontent.com/43180136/118453435-820d0200-b6f7-11eb-9b0c-b8daa89e4f33.JPG "Page d'accueil de beta.gouv et lien direct vers [la documentation](https://doc.incubateur.net/communaute/)")
 
 ### Prochaine itération ?
 
