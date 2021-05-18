@@ -106,7 +106,7 @@ Néanmoins, nous récoltions également des critiques :
 * "J'ai du mal à trouver l'information que je cherche dans le guide"
 * "Je ne comprends pas comment sont organisés les guides"
 * "Comment je peux modifier les guides? ce n'est pas clair pour moi"
-* "Les informations utiles sont un peu noyés car les contenus sont denses"
+* "Les informations utiles sont un peu noyées car les contenus sont denses"
 
 En résumé, nous avons appris que nous étions sur le bon chemin car nous délivrions déjà de la valeur ajouté mais qu'ils nous restaient encore quelques défis à relever : simplifier et rendre plus actionnable.
 
