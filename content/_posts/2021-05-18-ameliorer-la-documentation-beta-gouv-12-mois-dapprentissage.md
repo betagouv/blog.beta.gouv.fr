@@ -59,9 +59,7 @@ Enfin l'amélioration de cette documentation était ralentie par la méconnaissa
 
 C'est pour essayer de résoudre ces difficultés qu'avec un petit groupe, nous avons décidé de nous intéresser un peu plus à l'amélioration de la documentation de beta.gouv. Nous y avons passé quelques heures chaque mois.
 
-###### Capture d'écran de la page d'administration des guides de beta.gouv
-
-![Admin gitbook beta](/img/posts/admin-gitbook.jpg)
+![Admin gitbook beta](/img/posts/admin-gitbook.jpg "Page d'administration du Gitbook de beta.gouv")
 
 ## Comment avons-nous amélioré notre documentation ?
 
