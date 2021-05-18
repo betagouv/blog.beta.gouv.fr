@@ -45,7 +45,7 @@ J'ai donc un biais naturel pour "l'écriture" même s'il m'arrive de faire des f
 ## Beta.gouv a, par essence, une forte culture de la documentation
 
 Quand on pense, comme moi, que la documentation est un levier d'amélioration continue d'un groupe, d'un service ou d'une organisation, on ne peut pas rêver mieux que de travailler chez beta.gouv.
-Ce programme lancé en 2013, n'a cessé de documenter ses apprentissages et son mode de fonctionnement depuis ses origines. En effet, parmi les pilliers de l'approche "Startup d'Etat" on retrouve les notions de transparence (montrer/exposer ce qu'on fait) et d'amélioration continue (montrer ce qu'on a appris). 
+Ce programme lancé en 2013, n'a cessé de documenter ses apprentissages et son mode de fonctionnement depuis ses origines. En effet, parmi les piliers de l'approche "Startup d'Etat" on retrouve les notions de transparence (montrer/exposer ce qu'on fait) et d'amélioration continue (montrer ce qu'on a appris). 
 Ainsi, par rapport à d'autres organisations, beta.gouv était déjà très en avance en la matière néanmoins il restait encore des choses à améliorer. 
 
 ## Une documentation riche mais dispersée
