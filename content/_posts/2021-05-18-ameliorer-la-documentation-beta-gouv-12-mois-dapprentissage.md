@@ -108,7 +108,7 @@ Néanmoins, nous récoltions également des critiques :
 * "Comment je peux modifier les guides? ce n'est pas clair pour moi"
 * "Les informations utiles sont un peu noyées car les contenus sont denses"
 
-En résumé, nous avons appris que nous étions sur le bon chemin car nous délivrions déjà de la valeur ajouté mais qu'ils nous restaient encore quelques défis à relever : simplifier et rendre plus actionnable.
+En résumé, nous avons appris que nous étions sur le bon chemin car nous délivrions déjà de la valeur ajoutée mais qu'ils nous restaient encore quelques défis à relever : simplifier et rendre plus actionnable.
 
 Nous avons donc lancé plusieurs démarches en parallèle pour y arriver.
 
