@@ -92,7 +92,7 @@ Nous avons également communiqué de façon continue pour faire connaître cette
 
 ![Stat documentation de beta](/img/posts/stat-beta.jpg "Stat documentation de beta")
 
-**Stat documentation de beta**
+**[Page de stats ](https://datastudio.google.com/u/0/reporting/1016657e-1ee3-4013-919d-0e0fb284e352/page/1M)de la documentation de beta.gouv**
 
 ### Deuxième itération : fusionner et réécrire (Septembre à Mars)
 
