@@ -42,6 +42,8 @@ J'ai donc un biais naturel pour "l'écriture" même s'il m'arrive de faire des f
 
 ![Page d'accueil de notre documentation](/img/posts/doc-beta.jpg)
 
+**Page d'accueil de notre documentation**
+
 ## Beta.gouv a, par essence, une forte culture de la documentation
 
 Quand on pense, comme moi, que la documentation est un levier d'amélioration continue d'un groupe, d'un service ou d'une organisation, on ne peut pas rêver mieux que de travailler chez beta.gouv.
@@ -60,6 +62,8 @@ Enfin l'amélioration de cette documentation était ralentie par la méconnaissa
 C'est pour essayer de résoudre ces difficultés qu'avec un petit groupe, nous avons décidé de nous intéresser un peu plus à l'amélioration de la documentation de beta.gouv. Nous y avons passé quelques heures chaque mois.
 
 ![Admin gitbook beta](/img/posts/admin-gitbook.jpg "Page d'administration du Gitbook de beta.gouv")
+
+**Page d'administration du Gitbook de beta.gouv**
 
 ## Comment avons-nous amélioré notre documentation ?
 
@@ -87,6 +91,8 @@ Cette démarche nous a permis de rassembler toute la documentation dans trois gu
 Nous avons également communiqué de façon continue pour faire connaître cette documentation à tous les membres de la communauté. 
 
 ![Stat documentation de beta](/img/posts/stat-beta.jpg "Stat documentation de beta")
+
+**Stat documentation de beta**
 
 ### Deuxième itération : fusionner et réécrire (Septembre à Mars)
 
@@ -119,7 +125,13 @@ Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous
 
 ![diagramme doc](https://user-images.githubusercontent.com/43180136/118452442-72d98480-b6f6-11eb-8999-bbec24f0cf8f.JPG "Extrait de la vue 3D des groupes d’information")
 
+**Extrait de la vue 3D des groupes d’information**
+
 ![similatry](https://user-images.githubusercontent.com/43180136/118452564-943a7080-b6f6-11eb-8c95-efcdd2ba5234.JPG "Extrait d’une partie de la matrice carte par carte")
+
+**Extrait d’une partie de la matrice carte par carte**
+
+
 
 #### 2. Améliorer la rédaction des 10 pages les plus consultées
 
@@ -136,12 +148,16 @@ Ainsi :
 
 ![visio](https://user-images.githubusercontent.com/43180136/118453240-42deb100-b6f7-11eb-92fb-19c41348dff3.JPG "Illustration")
 
+**Illustration d'une page retravaillée**
+
 #### 3. Rendre encore plus découvrable la documentation en la rendant accessible depuis le site de beta.gouv.fr
 
 L'équipe en charge de la refonte du site internet de beta a décidé d'ajouter un lien direct vers notre documentation.
 Ainsi, le point d'entrée le plus naturel pour retrouver le lien vers notre guide est le site internet. Rien de plus normal mais on y avait pas pensé plus tôt!
 
-![landing page](https://user-images.githubusercontent.com/43180136/118453435-820d0200-b6f7-11eb-9b0c-b8daa89e4f33.JPG "Page d'accueil de beta.gouv et lien direct vers [la documentation](https://doc.incubateur.net/communaute/)")
+![Landing page beta.gouv.fr](/img/posts/landing-page.jpg)
+
+**Page d'accueil de beta.gouv.fr avec lien vers la documentation**
 
 ### Prochaine itération ?
 
