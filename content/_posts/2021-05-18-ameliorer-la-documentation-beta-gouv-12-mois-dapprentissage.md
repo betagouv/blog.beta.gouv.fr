@@ -20,11 +20,11 @@ L'encyclopédie en ligne Wikipédia fournit deux définitions assez simples :
 * Documenter est l'action de sélectionner, classifier, utiliser, et diffuser des documents. 
 * Une documentation informatique est un système qui fournit à la demande des réponses supposées pertinentes, sélectionnées dans un ensemble de connaissances préalablement mémorisées.
 
-## Un prérequis : aimer documenter !
+## Un pré-requis : aimer documenter !
 
 Avant de vous en dire plus sur ce chantier de la documentation de beta.gouv, je pensais utile de vous expliquer pourquoi je me suis naturellement penché sur la question et quelle était mon expérience passée sur le sujet. 
 
-Je pense utile d'en parler car en 12 mois, ce fut un de mes apprentissages : pour beaucoup monde c'est barbant de documenter même si tout le monde est content d'en profiter.
+Je pense utile d'en parler car en 12 mois, ce fut un de mes apprentissages : pour beaucoup de monde c'est barbant de documenter même si tout le monde est content d'en profiter.
 
 Améliorer de la documentation n'est donc pas fait pour tout le monde et c'est bien normal.
 
@@ -54,7 +54,7 @@ Ainsi, par rapport à d'autres organisations, beta.gouv était déjà très en a
 
 Concrètement, on retrouvait l'application de ces principes de transparence et d'amélioration continue dans les témoignages, interviews et retours d'expérience disponibles sur notre blog mais aussi dans divers autres espaces : un "wiki" Github, des pads (sorte de documents en ligne de prises de notes) et divers espaces de stockages de documents en ligne.
 Malgré cette riche documentation, elle était dispersée et pas suffisamment découvrable.
-Alors que nous sommes en forte croissance, le "coût d'entrée" pour les nouveaux étaient parfois jugé élevé. Il était difficile pour eux de savoir où trouver ces informations et parfois même de simplement connaître leur existence.
+Alors que nous sommes en forte croissance, le "coût d'entrée" pour les nouveaux était parfois jugé élevé. Il était difficile pour eux de savoir où trouver ces informations et parfois même de simplement connaître leur existence.
 En outre, pour les plus anciens qui détenaient ses connaissances ou qui étaient capables de naviguer d'un espace de documentation à l'autre, ils pouvaient avoir le sentiment de devenir de véritables goulots d'étranglement. Ils étaient sollicités plusieurs fois par semaine pour la même chose alors que l'information était disponible dans un pad ou sur une page du wiki.
 Ainsi seule une minorité de membres de la communauté était autonome pour exploiter pleinement cette riche documentation. 
 Enfin l'amélioration de cette documentation était ralentie par la méconnaissance de son existence par une majorité de nos membres.
@@ -130,7 +130,6 @@ Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous
 ![similatry](https://user-images.githubusercontent.com/43180136/118452564-943a7080-b6f6-11eb-8c95-efcdd2ba5234.JPG "Extrait d’une partie de la matrice carte par carte")
 
 **Extrait d’une partie de la matrice carte par carte**
-
 
 #### 2. Améliorer la rédaction des 10 pages les plus consultées
 
