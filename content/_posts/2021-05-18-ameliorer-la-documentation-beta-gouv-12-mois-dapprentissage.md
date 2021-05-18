@@ -169,4 +169,4 @@ Néanmoins, il reste encore des difficultés à résoudre :
 
 - - -
 
-Si vous souhaitez échanger sur le sujet, n'hésitez pas à me contacter par email lery.jicquel@beta.gouv.fr ou sur [Linkedin](https://www.linkedin.com/in/l%C3%A9ry-jicquel/).
+Si vous souhaitez échanger sur le sujet de la documentation, n'hésitez pas à me contacter par email lery.jicquel@beta.gouv.fr ou sur [Linkedin](https://www.linkedin.com/in/l%C3%A9ry-jicquel/).
