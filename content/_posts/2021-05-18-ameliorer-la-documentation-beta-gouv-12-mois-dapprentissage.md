@@ -53,7 +53,7 @@ Ainsi, par rapport à d'autres organisations, beta.gouv était déjà très en a
 Concrètement, on retrouvait l'application de ces principes de transparence et d'amélioration continue dans les témoignages, interviews et retours d'expérience disponibles sur notre blog mais aussi dans divers autres espaces : un "wiki" github, des pads (sorte de documents en ligne de prises de notes) et divers espaces de stockages de documents en ligne.
 Malgré cette riche documentation, elle était dispersée et pas suffisamment découvrable.
 Alors que nous sommes en forte croissance, le "coût d'entrée" pour les nouveaux étaient parfois jugé élevé. Il était difficile pour eux de savoir où trouver ces informations et parfois même de simplement connaître leur existence.
-En outre, pour les plus anciens qui détenaient ses connaissances ou qui étaient capables de naviguer d'un espace de documentation à l'autre, ils pouvaient avoir le sentiment de devenir de véritables goulots détranglement. Ils étaient sollicités plusieurs fois par semaine pour la même chose alors que l'information était disponible dans un pad ou sur une page du wiki.
+En outre, pour les plus anciens qui détenaient ses connaissances ou qui étaient capables de naviguer d'un espace de documentation à l'autre, ils pouvaient avoir le sentiment de devenir de véritables goulots d'étranglement. Ils étaient sollicités plusieurs fois par semaine pour la même chose alors que l'information était disponible dans un pad ou sur une page du wiki.
 Ainsi seule une minorité de membres de la communauté était autonome pour exploiter pleinement cette riche documentation. 
 Enfin l'amélioration de cette documentation était ralentie par la méconnaissance de son existence par une majorité de nos membres.
 
