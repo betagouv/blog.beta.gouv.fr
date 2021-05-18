@@ -2,6 +2,8 @@
 layout: post
 title: "Améliorer la documentation beta.gouv : 12 mois d'apprentissage !"
 date: 2021-05-18
+authors:
+  - lery.jicquel
 categories: dinsic
 image: /img/posts/photo-1457369804613-52c61a468e7d.jpg
 excerpt: >-
