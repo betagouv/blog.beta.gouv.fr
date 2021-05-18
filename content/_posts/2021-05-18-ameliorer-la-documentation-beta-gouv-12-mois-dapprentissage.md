@@ -119,7 +119,7 @@ Comme il l'explique :
 
 > Le principe du tri par cartes est de demander aux utilisateurs de regrouper des intitulés de rubriques ou de pages d’un site ou d’un service, dans des catégories et de nommer ces catégories. Suite à cela, un traitement statistique permet de faire apparaître les regroupements faits par l’ensemble des utilisateurs. C’est un outil extrêmement puissant pour impliquer un grand nombre d’utilisateurs et simple à mettre œuvre.
 
-Nous avons obtenu 50 contributions (sur une communauté de 500 membres) et avons pu fusionner les deux guides en un seul. Nous nous sommes appuyer sur les résultats du tri par cartes pour fabriquer le sommaire et le classement de l'information.
+Nous avons obtenu 50 contributions (sur une communauté de 500 membres) et avons pu fusionner les deux guides en un seul. Nous nous sommes appuyés sur les résultats du tri par cartes pour fabriquer le sommaire et le classement de l'information.
 
 Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous aider à organiser l'information de notre guide : 
 
@@ -135,13 +135,13 @@ Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous
 
 Avec l'aide d'Anne-Sophie Tranchet, également designer, nous avons réalisé quelques séances de corédaction (pair-writing) afin d'améliorer le contenu des 10 pages les plus consultées. 
 A la différence d'un texte administratif qui cherche à être exhaustif et précis, ou d'un article de blog qui vise à retenir le lecteur le plus longtemps possible, une documentation vise au contraire à apporter le plus rapidement possible l'information utile aux visiteurs (l'inverse du texte que vous êtes en train de lire...). 
-D'une certaine manière, on pourrait dire que moins un visiteur passe de temps sur une documentation mieux c'est. L'objectif est de lui fournir le plus efficacement possible ce qu'il recherche. 
+D'une certaine manière, on pourrait dire que moins un visiteur passe du temps sur une documentation mieux c'est. L'objectif est de lui fournir le plus efficacement possible ce qu'il recherche. 
 Ainsi :
 
 * les boutons d'action ont été ajoutés en haut de page ;
 * les redondances dans une même page ont été effacées ;
 * les idées contenues dans les paragraphes ont été éclatés en "puces" ;
-* l'information a été découpée et shématisée (tableau, fiche...) ; 
+* l'information a été découpée et schématisée (tableau, fiche...) ; 
 * surtout le contenu a été réduit au maximum.
 
 ![visio](https://user-images.githubusercontent.com/43180136/118453240-42deb100-b6f7-11eb-92fb-19c41348dff3.JPG "Illustration")
