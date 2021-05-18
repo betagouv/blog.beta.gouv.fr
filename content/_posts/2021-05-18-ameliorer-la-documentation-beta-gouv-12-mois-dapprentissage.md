@@ -57,7 +57,7 @@ Malgré cette riche documentation, elle était dispersée et pas suffisamment d�
 Alors que nous sommes en forte croissance, le "coût d'entrée" pour les nouveaux était parfois jugé élevé. Il était difficile pour eux de savoir où trouver ces informations et parfois même de simplement connaître leur existence.
 En outre, pour les plus anciens qui détenaient ses connaissances ou qui étaient capables de naviguer d'un espace de documentation à l'autre, ils pouvaient avoir le sentiment de devenir de véritables goulots d'étranglement. Ils étaient sollicités plusieurs fois par semaine pour la même chose alors que l'information était disponible dans un pad ou sur une page du wiki.
 Ainsi seule une minorité de membres de la communauté était autonome pour exploiter pleinement cette riche documentation. 
-Enfin l'amélioration de cette documentation était ralentie par la méconnaissance de son existence par une majorité de nos membres.
+Enfin l'amélioration de cette documentation était ralenti par la méconnaissance de son existence par une majorité de nos membres.
 
 C'est pour essayer de résoudre ces difficultés qu'avec un petit groupe, nous avons décidé de nous intéresser un peu plus à l'amélioration de la documentation de beta.gouv. Nous y avons passé quelques heures chaque mois.
 
