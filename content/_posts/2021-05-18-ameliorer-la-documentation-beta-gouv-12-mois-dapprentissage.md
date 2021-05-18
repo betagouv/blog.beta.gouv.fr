@@ -40,6 +40,8 @@ Depuis plus de dix ans, j'ai une appétence pour l'écriture au sens large :
 
 J'ai donc un biais naturel pour "l'écriture" même s'il m'arrive de faire des fautes d'orthographe et que je n'ai pas encore de roman à mon nom.
 
+![Page d'accueil de notre documentation](/img/posts/doc-beta.jpg)
+
 ## Beta.gouv a, par essence, une forte culture de la documentation
 
 Quand on pense, comme moi, que la documentation est un levier d'amélioration continue d'un groupe, d'un service ou d'une organisation, on ne peut pas rêver mieux que de travailler chez beta.gouv.
