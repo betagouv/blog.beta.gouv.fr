@@ -68,7 +68,7 @@ Voici les étapes que nous avons suivi :
 1. **Monter une petite équipe de volontaires**. Avec Jérémie et Mathilde, nous avons débuté à trois. Au fil des étapes exposées ci-dessous, nous avons été rejoins par de nouveaux collègues ;
 2. **Référencer et trier les différents "espaces"** où dénicher de la documentation de beta.gouv ;
 3. **Solliciter les apprentissages de la communauté : "quels sont les outils que vous pourriez nous recommander en matière de documentation ?"**. De nombreuses équipes nous ont recommandé [Gitbook](https://www.gitbook.com/). Elles utilisent cette solution SAAS pour leurs Startups d'Etat ou de Territoires. Nous avons démarré avec cette solution qui est par ailleurs gratuites pour les ONG et les services publics.
-4. **Rassembler toute la documentation dans Gitbook** en éclatant les contenus en trois guides : les infos pour les membres, pour la communauté et un focus design. Ce fut notre première erreur sur laquelle nous reviendront plus bas. Enfin, nous avions pris le parti de ne pas modifier le contenu des documents et supports regroupés.
+4. **Rassembler toute[ la documentation dans Gitbook](https://doc.incubateur.net/communaute/)** en éclatant les contenus en trois guides : les infos pour les membres, pour la communauté et un focus design. Ce fut notre première erreur sur laquelle nous reviendront plus bas. Enfin, nous avions pris le parti de ne pas modifier le contenu des documents et supports regroupés.
 5. **Rendre découvrable cette documentation** : 
 
    * proposer un créneau récurrent et mensuel à ceux qui souhaitent en savoir plus, 
@@ -143,7 +143,7 @@ Ainsi :
 L'équipe en charge de la refonte du site internet de beta a décidé d'ajouter un lien direct vers notre documentation.
 Ainsi, le point d'entrée le plus naturel pour retrouver le lien vers notre guide est le site internet. Rien de plus normal mais on y avait pas pensé plus tôt!
 
-###### Page d'accueil de beta.gouv et lien direct vers la documentation
+###### Page d'accueil de beta.gouv et lien direct vers [la documentation](https://doc.incubateur.net/communaute/)
 
 ![landing page](https://user-images.githubusercontent.com/43180136/118453435-820d0200-b6f7-11eb-9b0c-b8daa89e4f33.JPG)
 
