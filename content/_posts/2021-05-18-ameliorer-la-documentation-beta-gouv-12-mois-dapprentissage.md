@@ -83,7 +83,7 @@ Voici les étapes que nous avons suivi :
    * créer des messages automatiques dans notre messagerie d'entreprise renvoyant vers certaines pages de notre documentation. Par exemple, si quelqu'un écrit "documentation de beta" dans un message, alors il obtient une réponse automatique contenant un lien vers la documentation de beta ;
    * création d'un canal de discussion spécifiquement sur la documentation afin de répondre aux questions ou aux demandes ;
    * enfin un lien vers dans la documentation dans les emails de bienvenus adressés aux nouveaux membres ; 
-6. Essayer de **faciliter les contributions à la documentation**. Ce étape est encore à améliorer. Nous en parlerons plus bas ;
+6. Essayer de **faciliter les contributions à la documentation**. Cette étape est encore à améliorer. Nous en parlerons plus bas ;
 7. **Mesurer l'usage de cette documentation et rendre cette information publique**. Les statistiques d'usage de notre documentation sont donc disponibles [en ligne](https://datastudio.google.com/reporting/1016657e-1ee3-4013-919d-0e0fb284e352/page/1M). Vous saurez le nombre de visiteurs et les pages les plus consultées ;
 8. **Considérer la documentation comme un produit** et donc l'améliorer en continu.
 
