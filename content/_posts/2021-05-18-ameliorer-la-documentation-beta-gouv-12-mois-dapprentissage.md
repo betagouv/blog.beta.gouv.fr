@@ -88,6 +88,10 @@ Voici les étapes que nous avons suivi :
 Cette démarche nous a permis de rassembler toute la documentation dans trois guides thématiques gérés par un seul outil : Gitbook.
 Nous avons également communiqué de façon continue pour faire connaître cette documentation à tous les membres de la communauté. 
 
+###### Illustration de la page stats de la documentation de beta.gouv
+
+![Stat documentation de beta](/img/posts/stat-beta.jpg)
+
 ### Deuxième itération : fusionner et réécrire (Septembre à Mars)
 
 Les premiers résultats étaient encourageants.
