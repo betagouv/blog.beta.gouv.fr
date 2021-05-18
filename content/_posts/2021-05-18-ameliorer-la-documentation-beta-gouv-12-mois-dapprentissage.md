@@ -65,6 +65,7 @@ C'est pour essayer de résoudre ces difficultés qu'avec un petit groupe, nous a
 
 **Page d'administration du Gitbook de beta.gouv**
 
+
 ## Comment avons-nous amélioré notre documentation ?
 
 ### Première itération : rassembler et communiquer (Avril à septembre 2020)
