@@ -118,8 +118,8 @@ Nous avons sollicité la communauté pour réorganiser le contenu des deux princ
 Comme il l'explique : 
 
 > Le principe du tri par cartes est de demander aux utilisateurs de regrouper des intitulés de rubriques ou de pages d’un site ou d’un service, dans des catégories et de nommer ces catégories. Suite à cela, un traitement statistique permet de faire apparaître les regroupements faits par l’ensemble des utilisateurs. C’est un outil extrêmement puissant pour impliquer un grand nombre d’utilisateurs et simple à mettre œuvre".
->
-> Nous avons obtenu 50 contributions (sur une communauté de 500 membres) et avons pu fusionner les deux guides en un seul. Nous nous sommes appuyer sur les résultats du tri par cartes pour fabriquer le sommaire et le classement de l'information.
+
+Nous avons obtenu 50 contributions (sur une communauté de 500 membres) et avons pu fusionner les deux guides en un seul. Nous nous sommes appuyer sur les résultats du tri par cartes pour fabriquer le sommaire et le classement de l'information.
 
 Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous aider à organiser l'information de notre guide : 
 
@@ -130,8 +130,6 @@ Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous
 ![similatry](https://user-images.githubusercontent.com/43180136/118452564-943a7080-b6f6-11eb-8c95-efcdd2ba5234.JPG "Extrait d’une partie de la matrice carte par carte")
 
 **Extrait d’une partie de la matrice carte par carte**
-
-
 
 #### 2. Améliorer la rédaction des 10 pages les plus consultées
 
