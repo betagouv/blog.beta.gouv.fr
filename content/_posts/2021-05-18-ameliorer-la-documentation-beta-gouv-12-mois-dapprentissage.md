@@ -117,7 +117,7 @@ Nous avons donc lancé plusieurs démarches en parallèle pour y arriver.
 Nous avons sollicité la communauté pour réorganiser le contenu des deux principaux guides afin de les fusionner. Avec l'aide de Raphaël Yharrassarry, designer, nous avons appliqué la méthode du tri par cartes. Je vous recommande [l'article](https://blocnotes.iergo.fr/concevoir/les-outils/tri-par-cartes-card-sorting/) de Raphaël sur le sujet. 
 Comme il l'explique : 
 
-> Le principe du tri par cartes est de demander aux utilisateurs de regrouper des intitulés de rubriques ou de pages d’un site ou d’un service, dans des catégories et de nommer ces catégories. Suite à cela, un traitement statistique permet de faire apparaître les regroupements faits par l’ensemble des utilisateurs. C’est un outil extrêmement puissant pour impliquer un grand nombre d’utilisateurs et simple à mettre œuvre".
+> Le principe du tri par cartes est de demander aux utilisateurs de regrouper des intitulés de rubriques ou de pages d’un site ou d’un service, dans des catégories et de nommer ces catégories. Suite à cela, un traitement statistique permet de faire apparaître les regroupements faits par l’ensemble des utilisateurs. C’est un outil extrêmement puissant pour impliquer un grand nombre d’utilisateurs et simple à mettre œuvre.
 
 Nous avons obtenu 50 contributions (sur une communauté de 500 membres) et avons pu fusionner les deux guides en un seul. Nous nous sommes appuyer sur les résultats du tri par cartes pour fabriquer le sommaire et le classement de l'information.
 
