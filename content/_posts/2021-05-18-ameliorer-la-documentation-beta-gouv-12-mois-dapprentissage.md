@@ -131,6 +131,7 @@ Voici quelques illustrations d'Optimal Workshop, la solution utilisée pour nous
 
 **Extrait d’une partie de la matrice carte par carte**
 
+
 #### 2. Améliorer la rédaction des 10 pages les plus consultées
 
 Avec l'aide d'Anne-Sophie Tranchet, également designer, nous avons réalisé quelques séances de corédaction (pair-writing) afin d'améliorer le contenu des 10 pages les plus consultées. 
