@@ -126,11 +126,12 @@ Avec l'aide d'Anne-Sophie Tranchet, également designer, nous avons réalisé qu
 A la différence d'un texte administratif qui cherche à être exhaustif et précis, ou d'un article de blog qui vise à retenir le lecteur le plus longtemps possible, une documentation vise au contraire à apporter le plus rapidement possible l'information utile aux visiteurs (l'inverse du texte que vous êtes en train de lire...). 
 D'une certaine manière, on pourrait dire que moins un visiteur passe de temps sur une documentation mieux c'est. L'objectif est de lui fournir le plus efficacement possible ce qu'il recherche. 
 Ainsi :
-    - les boutons d'action ont été ajoutés en haut de page ;
-    - les redondances dans une même page ont été effacées ;
-    - les idées contenues dans les paragraphes ont été éclatés en "puces" ;
-    - l'information a été découpée et shématisée (tableau, fiche...) ; 
-    - surtout le contenu a été réduit au maximum.
+
+* les boutons d'action ont été ajoutés en haut de page ;
+* les redondances dans une même page ont été effacées ;
+* les idées contenues dans les paragraphes ont été éclatés en "puces" ;
+* l'information a été découpée et shématisée (tableau, fiche...) ; 
+* surtout le contenu a été réduit au maximum.
 
 ###### Illustration
 
