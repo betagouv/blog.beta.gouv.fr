@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recette d’un service public numérique à succès : le cas de Mon-entreprise.fr"
-date: 2021-05-12
+date: 2021-05-20
 authors:
   - penelope.liot
 categories: general
