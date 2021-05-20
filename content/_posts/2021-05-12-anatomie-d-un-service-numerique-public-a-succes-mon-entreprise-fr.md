@@ -32,11 +32,11 @@ Comment en est-on arrivé là ?
 
 ### Genèse du projet
 
-Le projet trouve son origine fin 2018 au sein de la direction interministérielle du numérique de l'Etat qui réfléchit à la création d'un calculateur de fiches de paie. C'est un projet particulièrement ambitieux sur lequel beaucoup se sont déjà cassé les dents (avec un coût loin d'être négligeable). 
+Le projet trouve son origine fin 2014 au sein du secrétariat général pour la modernisation de l'action publique qui réfléchit à la création d'un calculateur de fiches de paie. C'est un projet particulièrement ambitieux sur lequel beaucoup se sont déjà cassé les dents (avec un coût loin d'être négligeable). 
 
 La mission beta.gouv s'en saisit et, conformément à son approche agile, décide de commencer petit avec un estimateur de coût d'embauche. 
 
-La première version est un produit minimum viable construit de la façon la moins coûteuse possible : un tableau excel couplé à un serveur Web qui servait un formulaire HTML à 4 champs (salaire brut, effectif...), qui utilisait l'API [OpenFisca](https://fr.openfisca.org/) pour lancer et récupérer les calculs en JSON.
+La première version est un produit minimum viable construit de la façon la moins coûteuse possible : un tableau excel couplé à un serveur Web qui servait un formulaire HTML à 4 champs (salaire brut, effectif...), qui utilise l'API [OpenFisca](https://fr.openfisca.org/) pour lancer et récupérer les calculs en JSON.
 
 *Première version de l'estimateur du coût d'embauche*
 ![](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_b4dc50eaccb74d81810a99ff756b27eb.png)
