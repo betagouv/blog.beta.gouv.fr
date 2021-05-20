@@ -32,7 +32,7 @@ Comment en est-on arrivé là ?
 
 ### Genèse du projet
 
-Le projet trouve son origine fin 2014 au sein du secrétariat général pour la modernisation de l'action publique qui réfléchit à la création d'un calculateur de fiches de paie. C'est un projet particulièrement ambitieux sur lequel beaucoup se sont déjà cassé les dents (avec un coût loin d'être négligeable). 
+Le projet trouve sa toute première origine fin 2014 au sein du secrétariat général pour la modernisation de l'action publique qui réfléchit à la création d'un calculateur de fiches de paie. C'est un projet particulièrement ambitieux sur lequel beaucoup se sont déjà cassé les dents (avec un coût loin d'être négligeable). 
 
 La mission beta.gouv s'en saisit et, conformément à son approche agile, décide de commencer petit avec un estimateur de coût d'embauche. 
 
