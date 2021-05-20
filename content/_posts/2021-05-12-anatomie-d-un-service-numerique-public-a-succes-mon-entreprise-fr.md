@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anatomie d’un service numérique public à succès : Mon-entreprise.fr"
+title: "Recette d’un service numérique à succès : le cas de Mon-entreprise.fr"
 date: 2021-05-12
 authors:
   - penelope.liot
@@ -13,37 +13,35 @@ excerpt: >
   occasion pour revenir sur l'histoire de ce projet, ses leçons et ses facteurs
   clefs de succès.
 ---
-Après avoir passé le cap des 6 millions de visiteurs, mon-entreprise.fr devient officiellement un service à impact national ! Profitons de cette occasion pour revenir sur l'histoire de ce projet, ses leçons et ses facteurs clefs de succès.
-
-
 ### Mais qu'est-ce que c'est Mon-entreprise.fr ?
 
-[Mon-entreprise.fr](http://mon-entreprise.fr/) est un service à destination de tous les créateurs, afin de les aider à faire les meilleurs choix dans le développement de leur activité. Sa botte secrète réside dans ses simulateurs, qui permettent aux travailleurs de passer d'une situation brute à un calcul net.
+[Mon-entreprise.fr](http://mon-entreprise.fr/) est un service à destination de tous les créateurs, afin de les aider à faire les meilleurs choix dans le développement de leur activité. Sa botte secrète réside dans ses simulateurs, qui permettent aux travailleurs de calculer leurs revenus réels en fonction de leurs situations. 
 
 *Le désormais célèbre simulateur d'embauche dans sa version actuelle* 
+
 <iframe id="simulateurEmbauche" src="https://mon-entreprise.fr/iframes/simulateur-embauche?couleur=%23005aa1&amp;iframe&amp;" style="border: medium none; width: 100%; display: block; height: 614px; overflow: auto;" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="auto"></iframe>
 
 Derrière ce service : 
 
-- 3 millions de simulations réalisées,
-- 19 simulateurs, intégrant la quasi-totalité des statuts du secteur privé,
-- 295 intégrations sur des sites web publics et privés,
-- Un organisme : l'Urssaf Caisse nationale (ex Acoss), qui pilote le réseau des Urssaf.
+* 3 millions de simulations réalisées,
+* 19 simulateurs, intégrant la quasi-totalité des statuts du secteur privé,
+* 295 intégrations sur des sites web publics et privés,
+* Un organisme : l'Urssaf Caisse nationale (ex Acoss), qui pilote le réseau des Urssaf.
 
 Comment en est-on arrivé là ?
 
 ### Genèse du projet
 
-Le projet trouve son origine fin 2018 au sein de la direction interministérielle du numérique de l'Etat qui réfléchit à la création d'un calculateur de fiches de paie. C'est un projet particulièrement ambitieux sur lesquel beaucoup se sont déjà cassé les dents (avec un coût loin d'être négligeable). 
+Le projet trouve son origine fin 2018 au sein de la direction interministérielle du numérique de l'Etat qui réfléchit à la création d'un calculateur de fiches de paie. C'est un projet particulièrement ambitieux sur lequel beaucoup se sont déjà cassé les dents (avec un coût loin d'être négligeable). 
 
-La mission Beta.gouv s'en saisit et, conformément à son approche agile, décide de commencer petit avec un estimateur de coût d'embauche. 
+La mission beta.gouv s'en saisit et, conformément à son approche agile, décide de commencer petit avec un estimateur de coût d'embauche. 
 
-La première version est un produit minimum viable construit de la façon la moins coûteuse possible : un tableau excel couplé à un serveur Web qui servait un formulaire HTML à 4 champs (salaire brut, effectif...), qui utilisait l'API OpenFisca pour lancer et récupérer les calculs en JSON.
+La première version est un produit minimum viable construit de la façon la moins coûteuse possible : un tableau excel couplé à un serveur Web qui servait un formulaire HTML à 4 champs (salaire brut, effectif...), qui utilisait l'API [OpenFisca](https://fr.openfisca.org/) pour lancer et récupérer les calculs en JSON.
 
 *Première version de l'estimateur du coût d'embauche*
 ![](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_b4dc50eaccb74d81810a99ff756b27eb.png)
 
-Avec une version sommaire et pas particulièrement esthétique, ce premier rendu permet de tester et de valider l'intérêt de ce calculateur. L'avantage pour l'utilisateur est net : c'est son besoin à lui qui est au centre, à savoir connaître le coût global d'une embauche, et le détail de qui récupère quoi et où reste seconde. 
+Avec une version sommaire et pas particulièrement esthétique, ce premier rendu permet de tester et de valider l'intérêt de ce calculateur. L'avantage pour l'utilisateur est net : c'est son besoin à lui qui est au centre, à savoir connaître le coût global d'une embauche, et le détail de qui récupère quoi et où reste secondaire. 
 
 Les utilisateurs répondent immédiatement présents : cap sur une nouvelle version plus aboutie ! 
 
@@ -54,27 +52,24 @@ Fiabilisation du modèle de calcul, ajout d'autres saisies, possibilité d'inver
 
 ### Rencontre et croissance avec l'Urssaf
 
+En parallèle, l'Acoss - qui pilote les réseaux Urssaf - cherche à encourager les entreprises du Royaume-Uni à s'installer et embaucher en France à la suite du Brexit. Comment les aider à se projeter et naviguer dans les subtilités françaises ? 
 
-En parallèle, l'ACOSS - qui pilote les réseaux Urssaf - cherche à encourager les entreprises du Royaume-Uni à s'installer et embaucher en France à la suite du Brexit. Comment les aider à se projeter et naviguer dans les subtilités françaises ? 
+C'est là que la rencontre entre le futur intrapreneur Bruno et l'équipe de beta.gouv se fait. En moins de deux semaines, la collaboration mène à la création du site [mycompanyinfrance.com](https://mycompanyinfrance.fr/), qui sort en mai 2019. Au programme : une aide simplifiée au choix de statut d'entreprise et le fameux estimateur de coût d'embauche, le tout dans la langue de Shakespeare. 
 
-C'est là que la rencontre entre le futur intrapreneur Bruno et l'équipe de Beta.gouv se fait. En moins de deux semaines, la collaboration mène à la création du site mycompanyinfrance.com, qui sort en mai 2019. Au programme : une aide simplifiée au choix de statut d'entreprise et le fameux estimateur de coût d'embauche, le tout dans la langue de Shakespeare. 
-
-Très rapidement, il apparaît qu'un tel site pourrait être très utile ... au niveau national ! Le site français sort donc quelques mois après sa version anglaise. L'ACOSS propose alors de récupérer le projet et le porter en son sein, en conservant l'équipe Beta.gouv. 
-
+Très rapidement, il apparaît qu'un tel site pourrait être très utile ... au niveau national ! Le site français sort donc quelques mois après sa version anglaise. L'ACOSS propose alors de récupérer le projet et le porter en son sein, en conservant l'équipe beta.gouv. 
 
 La collaboration est féconde : dès fin 2019, l'équipe diversifie son offre en permettant progressivement à chaque public de calculer facilement les cotisations sociales auxquelles il est soumis. On passe d'un estimateur initial à près de 20 simulateurs poussés et vérifiés. 
 
 L'équipe peut combiner : 
-- le savoir-faire de l'Urssaf qui vérifie les données, impulse de nouvelles fonctionnalités et est un gage de confiance, 
-- la méthodologie de beta.gouv d'amélioration en continu du produit en se basant sur les retours utilisateurs.
+
+* le savoir-faire de l'Urssaf qui vérifie les données, impulse de nouvelles fonctionnalités et est un gage de confiance, 
+* la méthodologie de beta.gouv d'amélioration en continu du produit en se basant sur les retours utilisateurs.
 
 Un tel attelage permet également une capacité d'exécution rapide. Alors que le pays se confine brutalement en mars 2020, Mon-entreprise.fr sort dans la foulée un simulateur de chômage partiel fiable pour les 10 millions de personnes concernées. 
 
 Dès qu'une nouvelle mesure d'aide est prise, celle-ci est intégrée dans le simulateur d'embauche pour que les utilisateurs puissent en profiter, et ajoutée dans un [simulateur spécifique](https://mon-entreprise.fr/simulateurs/aides-embauche/) pour savoir à quelle aide on peut se qualifier plus rapidement. 
 
-
 ### Un succès qui profite au plus grand nombre dans une optique d'intérêt général
-
 
 #### Une transparence accrue sur l'impact et les coûts
 
@@ -83,7 +78,6 @@ Comme tous les projets initiés par beta.gouv, Mon-entreprise.fr a une [page de 
 Mon-entreprise.fr possède aussi une [page Budget ](https://mon-entreprise.fr/budget)qui détaille les postes de dépenses attribué au projet. 
 
 Tous les travaux effectués sont documentés mensuellement sur une [page dédiée aux nouveautés.](https://mon-entreprise.fr/nouveautés) 
-
 
 #### Un accès aux utilisateurs là où ils se trouvent
 
@@ -95,7 +89,7 @@ L'idée est de fournir un service utilisable par tous pour apparaître aux endro
 
 [Rendez-vous ici pour intégrer un simulateur en quelques lignes de code. ](https://mon-entreprise.fr/int%C3%A9gration/iframe?module=simulateur-embauche)
 
-#### Derrière les simulateurs, un moteur de calcul d'algorithmes publics disponibles à tous 
+#### Derrière les simulateurs, un moteur de calcul d'algorithmes publics disponibles à tous
 
 Dans le cadre du développement des simulateurs de Mon-entreprise.fr, l'équipe a créé Publi.codes, un langage pour modéliser toutes les règles derrière les algorithmes d'utilité publique. La législation sociale et fiscale est ainsi "écrite" de façon standardisée, ce qui permet de générer les simulateurs. 
 
@@ -107,8 +101,7 @@ Enfin, n'importe qui peut réutiliser les règles de mon-entreprise pour [créer
 
 [Rendez-vous ici pour découvrir le langage Publicodes. ](https://publi.codes/)
 
-
-#### Les bienfaits de l'Open Source 
+#### Les bienfaits de l'Open Source
 
 Tout le code développé est en open source, ce qui permet à tous de faire ce qu'il souhaite avec.
 
@@ -116,7 +109,7 @@ Du côté de Mon-entreprise.fr, c'est aussi la possibilité d'avoir une aide pr�
 
 C'est aussi en suggérant une amélioration au code que l'équipe a pu rencontrer et recruter un de ses développeurs actuels, Maxime.
 
-### Et ce n'est que le début ! 
+### Et ce n'est que le début !
 
 Laboratoire d'expérimentation pour l'Urssaf, Mon-entreprise.fr continue sa route pour faciliter la vie de tous les entrepreneurs. 
 
