@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recette d’un service numérique à succès : le cas de Mon-entreprise.fr"
+title: "Recette d’un service public numérique à succès : le cas de Mon-entreprise.fr"
 date: 2021-05-12
 authors:
   - penelope.liot
