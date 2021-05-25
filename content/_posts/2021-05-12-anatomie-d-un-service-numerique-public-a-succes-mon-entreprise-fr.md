@@ -91,7 +91,7 @@ L'idée est de fournir un service utilisable par tous pour apparaître aux endro
 
 #### Derrière les simulateurs, un moteur de calcul d'algorithmes publics disponibles à tous
 
-Dans le cadre du développement des simulateurs de Mon-entreprise.fr, l'équipe a créé Publi.codes, un langage pour modéliser toutes les règles derrière les algorithmes d'utilité publique. La législation sociale et fiscale est ainsi "écrite" de façon standardisée, ce qui permet de générer les simulateurs. 
+Dans le cadre du développement des simulateurs de Mon-entreprise.fr, l'équipe a créé [publicodes](https://publi.codes), un langage pour modéliser toutes les règles derrière les algorithmes d'utilité publique. La législation sociale et fiscale est ainsi "écrite" de façon standardisée, ce qui permet de générer les simulateurs. 
 
 La capitalisation des règles implémentées progressivement et l'amélioration continue du moteur de calcul permettent de construire des simulateurs de plus en plus rapidement.  
 
