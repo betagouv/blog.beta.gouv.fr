@@ -10,13 +10,13 @@ excerpt: >
   Ces derniers mois, beta.gouv et le Ministère de l'Europe et des affaires
   étrangères (MEAE) ont lancé conjointement deux phases d'investigation sur deux
   sujets différents : les difficultés rencontrées par le réseau culturel
-  français à l'étranger et les problèmes rencontrés par les français de
+  français à l'étranger et les problèmes rencontrés par les Français à
   l'étranger.
 
 
   Dans cet article, nous publions les retours d'expérience des deux intrapreneurs impliqués dans chacune de ces investigations.
 ---
-\- Karine Le Van Xieu était intrapreneure à la direction des français de l'étranger pour l'investigation "[Rdv Consulat](https://beta.gouv.fr/startups/dumas.html)";
+\- Karine Le Van Xieu était intrapreneure à la direction des Français à l'étranger et de l’administration consulaire pour l'investigation "[Rdv Consulat](https://beta.gouv.fr/startups/dumas.html)";
 
 \- Christophe Musitelli était l'intrapreneur de l'[investigation Dumas](https://beta.gouv.fr/startups/dumas.html) au sein de la direction de la mondialisation, de la culture, de l'enseignement et du développement international.
 
