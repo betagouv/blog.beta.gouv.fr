@@ -13,15 +13,18 @@ excerpt: >
   français à l'étranger et les problèmes rencontrés par les français de
   l'étranger.
 
-  Ces investigations ont comme particularité commune d'avoir été menées à leur terme avec succès et de ne pas avoir abouti au lancement d'une Startup d'Etat.
 
   Dans cet article, nous publions les retours d'expérience des deux intrapreneurs impliqués dans chacune de ces investigations.
 ---
-Karine Le  Van Xieu était intrapreneure à la direction des français de l'étranger pour l'investigation "[Rdv Consulat](https://beta.gouv.fr/startups/dumas.html)" et Christophe Musitelli était l'intrapreneur de l'[investigation Dumas](https://beta.gouv.fr/startups/dumas.html) au sein de la direction de la mondialisation, de la culture, de l'enseignement et du développement international.
+\- Karine Le Van Xieu était intrapreneure à la direction des français de l'étranger pour l'investigation "[Rdv Consulat](https://beta.gouv.fr/startups/dumas.html)";
 
-Tous les deux, chacun accompagné d'un coach beta.gouv, ont mené des investigations qui n'ont pas abouti aux lancements d'une Startup d'Etat. C'est le cas de nombreuses investigations et il nous paraissait utile de leur demander leur retour d'expérience sur cette aventure intrapreneuriale.
+\- Christophe Musitelli était l'intrapreneur de l'[investigation Dumas](https://beta.gouv.fr/startups/dumas.html) au sein de la direction de la mondialisation, de la culture, de l'enseignement et du développement international.
 
-Avec l'accord du MEAE, nous partageons leur interview initialement publié sur l'intranet du ministère.
+Leurs investigations ont comme particularité commune d'avoir été menées à leur terme avec succès et de ne pas avoir abouti au lancement d'une Startup d'Etat. C'est d'ailleurs le cas de certaines investigations.
+
+Il nous paraissait utile de leur demander leur retour d'expérience sur cette aventure intrapreneuriale.
+
+Avec l'accord du MEAE, nous partageons leur interview initialement publiée sur l'intranet du ministère.
 
 ![](/img/posts/intra-meae-2-.jpg "Un partenariat Ministère de l'Europe et des Affaires Etrangères et Beta.gouv")
 
