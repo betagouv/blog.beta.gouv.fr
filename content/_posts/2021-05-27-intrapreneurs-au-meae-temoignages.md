@@ -36,7 +36,7 @@ Karine Le Van Xieu : "Depuis quelques mois, plusieurs postes nous signalaient de
 
 # Concrètement, comment vous êtes-vous organisé pour mener cette investigation tout en poursuivant vos missions?
 
-C.M. : "Afin de bien cerner les problèmes auxquels le réseau était confronté et de proposer des solutions efficaces, la DGM, en liaison étroite avec l'Ambassadeur pour les affaires numérique, a décidé de lancer une investigation avec les équipes de beta.gouv. La structure mise en place (un coach beta, un intrapreneur) a permis de mener un travail efficace et rapide au plus près du réseau et de réunir des témoignages précieux des acteurs de terrain."
+C.M. : "Afin de bien cerner les problèmes auxquels le réseau était confronté et de proposer des solutions efficaces, la Direction Générale à la Mondialisation, en liaison étroite avec l'Ambassadeur pour les affaires numérique, a décidé de lancer une investigation avec les équipes de beta.gouv. La structure mise en place (un coach beta, un intrapreneur) a permis de mener un travail efficace et rapide au plus près du réseau et de réunir des témoignages précieux des acteurs de terrain."
 
 K.L.V.X. : "L'investigation a été menée par un coach mis à disposition par betagouv et moi-même en tant qu'intrapreneur sur une période de 13 semaines. Notre objectif était d'établir un diagnostic aussi précis que possible des difficultés rencontrées. Je me suis organisée pour réserver un créneau de 1,5 jour par semaine à l'investigation dans mon agenda. Le travail a en réalité fluctué autour de ces créneaux et j'y ai probablement consacré plus d'heures que prévu."
 
