@@ -7,8 +7,8 @@ authors:
 categories: dinsic
 image: /img/posts/andrew-stutesman-l68z6ef2pea-unsplash.jpg
 excerpt: >
-  Ces derniers mois, beta.gouv et le Ministère de l'Europe et des Affaires
-  Etrangères (MEAE) ont lancé conjointement deux phases d'investigation sur deux
+  Ces derniers mois, beta.gouv et le Ministère de l'Europe et des affaires
+  étrangères (MEAE) ont lancé conjointement deux phases d'investigation sur deux
   sujets différents : les difficultés rencontrées par le réseau culturel
   français à l'étranger et les problèmes rencontrés par les français de
   l'étranger.
@@ -26,7 +26,7 @@ Il nous paraissait utile de leur demander leur retour d'expérience sur cette av
 
 Avec l'accord du MEAE, nous partageons leur interview initialement publiée sur l'intranet du ministère.
 
-![](/img/posts/intra-meae-2-.jpg "Un partenariat Ministère de l'Europe et des Affaires Etrangères et Beta.gouv")
+![](/img/posts/intra-meae-2-.jpg "Un partenariat Ministère de l'Europe et des affaires étrangères et Beta.gouv")
 
 # Quel problème ou quel irritant, a été à l'origine de votre investigation?
 
@@ -52,7 +52,7 @@ C.M. : "L'exercice a été profitable, sur le plan personnel comme professionnel
 
 K.L.V.X. : "A titre personnel, j'ai trouvé cette expérience très enrichissante à plusieurs égards puisque l'intrapreneur co-dirige le projet. J'ai découvert une toute nouvelle approche de la gestion de projet et du développement numérique en mode start'up. Enfin il me semble important de préciser qu'il n'est pas du tout nécessaire d'avoir des compétences techniques pour être intrapreneur. Tout ce qui compte, c'est de bien connaître le contexte métier, comprendre le problème et être motivé pour y apporter une solution. "
 
-___
+- - -
 
 ### C'est quoi une phase d'investigation ?
 
