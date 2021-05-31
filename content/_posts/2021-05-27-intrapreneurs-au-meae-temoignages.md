@@ -56,6 +56,8 @@ K.L.V.X. : "A titre personnel, j'ai trouvé cette expérience très enrichissant
 
 ### C'est quoi une phase d'investigation ?
 
-Tous les partenariats avec beta.gouv.fr débutent par une phase d’investigation qui permet de mieux cerner le problème auquel on souhaite s’attaquer, de s’assurer que des solutions qui y répondent n’existent pas déjà et de confirmer qu’il est pertinent d’investir dans un service numérique pour le résoudre.
+Tous les partenariats avec beta.gouv.fr débutent par une[ phase d’investigation ](https://beta.gouv.fr/approche/investigation)qui permet de mieux cerner le problème auquel on souhaite s’attaquer, de s’assurer que des solutions qui y répondent n’existent pas déjà et de confirmer qu’il est pertinent d’investir dans un service numérique pour le résoudre.
 
 Toutes les phases d'investigation n'aboutissent pas automatiquement au lancement d'une Startup d'Etat. Ce n'est qu'un des scénarii envisageables. A ce titre, nous avons conçu [une grille de notation](https://beta.gouv.fr/approche/investigation) avec quelques critères clefs pour évaluer l'opportunité ou non de lancer une Startup d'Etat après une phase d'investigation.
+
+[Contactez-nous](mailto:contact@beta.gouv.fr) pour lancer une phase d'investigation avec beta.gouv.fr.
