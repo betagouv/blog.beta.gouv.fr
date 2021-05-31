@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intrapreneurs au MEAE : témoignages"
-date: 2021-05-27
+date: 2021-05-31
 authors:
   - lery.jicquel
 categories: dinsic
