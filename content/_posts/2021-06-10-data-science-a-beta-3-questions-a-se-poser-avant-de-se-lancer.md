@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data science à Beta : 3 questions à se poser avant de se lancer"
+title: "Data science à beta.gouv : 3 questions à se poser avant de se lancer"
 date: 2021-06-10
 authors:
   - vincent.viers
@@ -8,7 +8,7 @@ categories: general
 tags: data
 image: /img/posts/pexels-lukas-590020.jpg
 ---
-*J’ai rejoint beta.gouv il y a 9 mois pour accompagner des startups d'État sur le cadrage, le prototypage, et la pérennisation de projets autour de la science des données. Cet article — basé sur mon expérience — vise à guider tout service numérique public qui hésite à investir des activités de valorisation de ses données.*
+*J’ai rejoint beta.gouv il y a 9 mois pour accompagner des startups d'État sur le cadrage, le prototypage, et la pérennisation de projets autour de la science des données. Cet article — basé sur mon expérience — vise à guider tout service numérique public qui hésite à investir dans la valorisation de ses données.*
 
 Toute startup d'État ou service numérique public génère des données, et ce dès ses premiers balbutiements. Données utilisateurs et métier, données techniques (logs, erreurs, etc.), ou données récupérées auprès de partenaires institutionnels ou privés. Se pose donc rapidement et naturellement la question de l’utilisation et de la valorisation de ces données.
 
