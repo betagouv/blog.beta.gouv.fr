@@ -8,7 +8,7 @@ categories: general
 tags: data
 image: /img/posts/pexels-lukas-590020.jpg
 ---
-*J’ai rejoint beta.gouv il y a 9 mois pour accompagner des startups d'État sur le cadrage, le prototypage, et la pérennisation de projets autour de la science des données. Cet article — basé sur mon expérience — vise à guider tout service numérique public qui hésite à investir dans la valorisation de ses données.*
+*J’ai rejoint beta.gouv il y a 9 mois pour accompagner des startups d'État sur le cadrage, le prototypage, et la pérennisation de projets autour de la science des données. Cet article vise à guider tout service numérique public qui hésite à investir dans la valorisation de ses données.*
 
 Toute startup d'État ou service numérique public génère des données, et ce dès ses premiers balbutiements. Données utilisateurs et métier, données techniques (logs, erreurs, etc.), ou données récupérées auprès de partenaires institutionnels ou privés. Se pose donc rapidement et naturellement la question de l’utilisation et de la valorisation de ces données.
 
@@ -31,7 +31,7 @@ En bref, les principaux cas d’usages envisageables avec des données sont :
 * **Prédictifs** (**que va-t-il sûrement se passer ?**) → [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) utilise un algorithme prédictif de la défaillance d’entreprise à 18 mois afin de permettre un accompagnement précoce par l’administration.
 * **Prescriptifs** (**que faire ?**) → [PIX](pix.fr), qui permet d’évaluer, de développer et de certifier ses compétences numériques, adapte la difficulté de ses questions en fonction des réponses précédentes de l’utilisateur.
 
-# La data science, avec quelles données ?
+# La *data science*, avec quelles données ?
 
 Si partir d’un bon cas d’usage doit être le point de départ de tout projet data, s’assurer de disposer des bonnes données permettant de l’aborder est également essentiel. La science des données n’est pas magique : il est impossible d’analyser ou de prédire des variables qui ne sont pas d'abord mesurées.
 
@@ -50,7 +50,7 @@ Cette étape de collecte de données est souvent longue et difficile. Signaux Fa
 
 Il vaut souvent mieux commencer par de petits échantillons de données — souvent obtenus à des fins d’exploration et donc plus facilement — qui permettent de rapidement se rendre compte de leur qualité et de leur potentiel, et donc de bien gérer la balance coût d’acquisition de la donnée / utilité.
 
-# La data science, avec qui ?
+# La *data science*, avec qui ?
 
 L’expression maladroite “faire de la data” recouvre des réalités bien différentes, et l’industrie a convergé vers trois grands types de postes que l’on peut grossièrement placer sur un spectre allant du métier au technique.
 
@@ -67,4 +67,4 @@ En résumé, si vous n’aviez que 4 choses à retenir :
 1. Un cas d’usage data doit partir d’un problème métier et jamais de la donnée disponible
 2. Listez l’ensemble des données disponibles pour votre projet et réfléchissez à celles qu’il vous serait utile de récolter
 3. Pensez à bien choisir les compétences data adaptées à la construction de votre projet
-4. N’hésitez pas à me contacter pour échanger sur les spécificités de votre projet. vincent.viers@beta.gouv.fr
+4. N’hésitez pas à [me contacter](vincent.viers@beta.gouv.fr) pour échanger sur les spécificités de votre projet.
