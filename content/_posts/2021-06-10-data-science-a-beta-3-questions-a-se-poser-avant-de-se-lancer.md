@@ -67,4 +67,4 @@ En résumé, si vous n’aviez que 4 choses à retenir :
 1. Un cas d’usage data doit partir d’un problème métier et jamais de la donnée disponible
 2. Listez l’ensemble des données disponibles pour votre projet et réfléchissez à celles qu’il vous serait utile de récolter
 3. Pensez à bien choisir les compétences data adaptées à la construction de votre projet
-4. N’hésitez pas à [me contacter](vincent.viers@beta.gouv.fr) pour échanger sur les spécificités de votre projet.
+4. N’hésitez pas à [me contacter](mailto:vincent.viers@beta.gouv.fr) pour échanger sur les spécificités de votre projet.
