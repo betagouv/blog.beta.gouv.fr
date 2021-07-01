@@ -1,20 +1,17 @@
 ---
 layout: post
-title: 1 027 000 euros pour les lauréats du FAST 8, postulez dès maintenant à la
-  9ème édition !
+title: 1 027 000 euros pour les lauréats du FAST 8, postulez dès maintenant à la 9ème édition !
 date: 2021-06-30
 authors:
   - valentine.michaud
 categories: dinsic
 image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
 ---
-  Le programme beta.gouv.fr, porté par la Direction Interministérielle du
-  Numérique lance son 9ème appel à candidatures du Fonds d’Accélération des
-  Startups d’État et de Territoires (FAST). 
+Le programme beta.gouv.fr, porté par la Direction Interministérielle du Numérique lance son 9ème appel à candidatures du Fonds d’Accélération des Startups d’État et de Territoires (FAST). 
 
-  Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique. Il favorise le passage à l'échelle de solutions développées par des administrations ayant un fort potentiel d'impact auprès de leur cible (citoyens ou agents).
+Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique. Il favorise le passage à l'échelle de solutions développées par des administrations ayant un fort potentiel d'impact auprès de leur cible (citoyens ou agents).
 
-  Depuis sa création fin 2019, il a permis de soutenir la croissance de 32 Startups d’État et de Territoires et l'émergence de 3 incubateurs ministériels. La liste des lauréats est disponible [ici](https://beta.gouv.fr/approche/fast).
+Depuis sa création fin 2019, il a permis de soutenir la croissance de 32 Startups d’État et de Territoires et l'émergence de 3 incubateurs ministériels. La liste des lauréats est disponible [ici](https://beta.gouv.fr/approche/fast).
 
 ## Découvrez dès aujourd'hui les lauréats de la 8ème édition et postulez au FAST 9 !
 
