@@ -73,7 +73,7 @@ Par comparaison, la page Linkedin de beta.gouv est passée de 3500 abonnés à p
 
 Cette équipe a réussi cette performance grâce à sa communauté d’ambassadeurs très engagés. À chaque nouvelle publication sur Linkedin, notre collègue adressait un message dans un forum réservé à ses ambassadeurs les invitant à réagir. À leur tour, ils allaient commenter et tagger cette publication sur Linkedin. Ce fort engagement semble plaire à l'algorithme de Linkedin.
 
-![](https://lh6.googleusercontent.com/fMx-NKxXcZJwawv_D7XdNaQWQeICCg_vWYN4ZDJ0N5VOHAb05pXftlfDIoK4hOLI-Uvilq0Ba9W7FJLfXN86DjaQ7pHWWY6ZccrnKjQFKnEUVQSf22Xwv4CeLP2Tb-x2NqKNIp-f)
+![](https://lh6.googleusercontent.com/fMx-NKxXcZJwawv_D7XdNaQWQeICCg_vWYN4ZDJ0N5VOHAb05pXftlfDIoK4hOLI-Uvilq0Ba9W7FJLfXN86DjaQ7pHWWY6ZccrnKjQFKnEUVQSf22Xwv4CeLP2Tb-x2NqKNIp-f "Capture d'écran de la page entreprise de la Startup d'Etat La Plateforme de l'inclusion")
 
 Par ailleurs, nous avons rencontré [Grégoire Gambatto](https://www.linkedin.com/in/gregoiregambatto/?originalSubdomain=fr), CEO d’une des principales agences de GH. Ce webinaire ouvert à tous les membres de la communauté beta.gouv a été riche d’enseignements. Parmi les apprentissages que nous avons retenus : 
 
@@ -158,7 +158,7 @@ Il était demandé à chaque participant de rédiger puis publier un texte engag
 
 Près d’une trentaine de personnes au sein de la communauté beta.gouv ont été initiée à cette méthode.
 
-![](https://lh5.googleusercontent.com/hL52aEBILPG1smSQ5EMkBtzley1xnpo9XnjcDNx2y88-SpmZy7hkqmGY9DSwOvbOsWSQJTWlRgLaCZinGm65iK9Jur3CAymgQSPu_H7BuQkNQKAlmuJrcpxf6j1Qh_UhJbwZDj2Q)
+![](https://lh5.googleusercontent.com/hL52aEBILPG1smSQ5EMkBtzley1xnpo9XnjcDNx2y88-SpmZy7hkqmGY9DSwOvbOsWSQJTWlRgLaCZinGm65iK9Jur3CAymgQSPu_H7BuQkNQKAlmuJrcpxf6j1Qh_UhJbwZDj2Q "Première slide du support de formation à l'écriture engageante")
 
 ## Trois points d’attention
 
@@ -186,7 +186,7 @@ C’est pourquoi, nous avons toujours lutté contre cette tentation de facilité
 
 Voici un exemple de publication qui n’a jamais été publié par crainte du “bad buzz”. Nous ne maîtrisons pas toujours la manière dont un contenu peut être perçu. Même si nous n'avons pas voulu être polémiques nous ne pouvons le garantir.
 
-![](https://lh6.googleusercontent.com/CGO3bjmLdjmEfvGcjNbX_PVs93sjH0IGk2lypS89Asd5iFUvFDYkp8FEZt0rOrxhaLnD3W3f0tfkozbxVezRVLeuuVmTciFasf8LKmkPoF9-3uUISJtJJq1SyX-KIGYc6GiDtAmW "Illustration d’images non publiées car risque de polémique")
+![](https://lh6.googleusercontent.com/CGO3bjmLdjmEfvGcjNbX_PVs93sjH0IGk2lypS89Asd5iFUvFDYkp8FEZt0rOrxhaLnD3W3f0tfkozbxVezRVLeuuVmTciFasf8LKmkPoF9-3uUISJtJJq1SyX-KIGYc6GiDtAmW "Illustration d’images non publiées en raison du risque de polémique")
 
 ### Synthèse de nos apprentissages
 
@@ -258,5 +258,3 @@ C’est le seul indicateur qui nous permet de vérifier que nos contenus ont ré
 Heureusement, cet indicateur est en croissance !
 
 Pour découvrir, notre page entreprise et tous nos contenus, rendez-vous sur [notre compte Linkedin](https://www.linkedin.com/company/betagouv/).
-
-<!--EndFragment-->
