@@ -79,10 +79,16 @@ Bien sûr: c’est l’occasion d’innover mais aussi d'apprendre en côtoyant 
 
 ## Si oui, quelles recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
+J'en vois quatre :
+
 * Bien identifier le problème : est-ce que c’est un problème que l’on peut mesurer/évaluer ?
-* Identifier les parties prenantes: ceux qui sont concernés par ce problème ou sa résolution
-* Parler avec les personnes qui sont concernées: les utilisateurs
+* Identifier les parties prenantes : ceux qui sont concernés par ce problème ou sa résolution
+* Parler avec les personnes qui sont concernées : les utilisateurs
 * Partir des utilisateurs pour construire ton idée
+
+
+
+
 
 - - -
 
@@ -97,7 +103,7 @@ Bien sûr: c’est l’occasion d’innover mais aussi d'apprendre en côtoyant 
 * #### **[Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)**
 * #### **[Paroles d'intrapreneuse #8 : Vikie Ache de la Startup de territoire Simone & Co](https://blog.beta.gouv.fr/dinsic/2020/11/05/paroles-dintrapreneuses-8-vickie-hache-moser-de-la-startup-de-territoires-simone-co/)**
 * #### **[Paroles d'intrapreneuse #9 : Magali Marcel-Garreau de la Startup d'Etat](https://blog.beta.gouv.fr/dinsic/2020/12/10/paroles-dintrapreneuses-9-magalie-marcel-garreau-de-la-startup-detat-signalconso/)**
-* #### **[Paroles d'intrapreneuse #10 : ](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)[Laurent Olivé de la Startup d'Etat Kelrisks](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)**
+* #### **[Paroles d'intrapreneuse #10 : ](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)****[Laurent Olivé de la Startup d'Etat Kelrisks](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)**
 
 - - -
 
