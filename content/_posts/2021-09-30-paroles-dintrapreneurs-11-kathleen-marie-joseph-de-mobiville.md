@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paroles d'intrapreneurs #11 : Kathleen MARIE-JOSEPH de Mobiville"
+title: "Paroles d'intrapreneures #11 : Kathleen MARIE-JOSEPH de Mobiville"
 date: 2021-09-30
 authors:
   - lery.jicquel
