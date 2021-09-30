@@ -40,6 +40,12 @@ Et ce qui est super c’est que deux acteurs nationaux se sont dit qu’il falla
 
 Mobiville est donc une startup issue du partenariat de ces deux acteurs.
 
+
+
+![]()
+
+
+
 ## Quel conseil t’as manqué avant de démarrer comme intrapreneuseure et qui finalement t’aurait bien aidé ?
 
 J’aurais aimé que quelqu’un me dise que la vie d’intrapreneur c’est comme être le capitaine d’un bateau. Tu alternes mer calme et océan déchaîné, tout en essayant d’esquiver les icebergs!
