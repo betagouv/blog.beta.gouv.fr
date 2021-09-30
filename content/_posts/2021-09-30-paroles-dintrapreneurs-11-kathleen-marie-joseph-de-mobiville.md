@@ -13,6 +13,8 @@ excerpt: Kathleen est l'intrapreneure de la Startup d'État
   ces "intra" ayant débuté leur aventure en plein Covid. Nous avons demandé à
   Kathleen de nous raconter son expérience en tant qu'intrapreneure.
 ---
+![](/img/posts/yasi2n8x_400x400.jpg)
+
 ## Que faisais-tu avant d’être intrapreneure ?
 
 J’étais chargée de relations partenariales à la Direction Générale de Pôle emploi sur les chantiers “inclusion numérique” et “valorisation des API”.
@@ -40,11 +42,7 @@ Et ce qui est super c’est que deux acteurs nationaux se sont dit qu’il falla
 
 Mobiville est donc une startup issue du partenariat de ces deux acteurs.
 
-
-
-![]()
-
-
+![](/img/posts/mobiville.jpg "Page d'accueil de Mobiville")
 
 ## Quel conseil t’as manqué avant de démarrer comme intrapreneuseure et qui finalement t’aurait bien aidé ?
 
