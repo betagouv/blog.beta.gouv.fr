@@ -8,12 +8,12 @@ authors:
 categories: general
 image: /img/posts/parole-intrapreneuse-7-.jpg
 excerpt: Kathleen est l'intrapreneure de la Startup d'État
-  [Mobivlle](https://beta.gouv.fr/startups/mobiville.html) au sein de fabrique
-  de Pôle Emploi. Son produit est en phase de croissance et vise à diminuer le
-  nombre d'emplois non pourvus en facilitant la mobilité géographique des
-  actifs. Elle fait partie de ces "intras" ayant débuté leur aventure en plein
-  Covid. Nous avons demandé à Kathleen de nous raconter son expérience en tant
-  qu'intrapreneure.
+  [Mobivlle](https://beta.gouv.fr/startups/mobiville.html) au sein de la
+  fabrique de Pôle Emploi. Son produit est en phase de croissance et vise à
+  diminuer le nombre d'emplois non pourvus en facilitant la mobilité
+  géographique des actifs. Elle fait partie de ces "intras" ayant débuté leur
+  aventure en plein Covid. Nous avons demandé à Kathleen de nous raconter son
+  expérience en tant qu'intrapreneure.
 ---
 ![](/img/posts/yasi2n8x_400x400.jpg)
 
@@ -27,20 +27,20 @@ Je travaillais également avec mes homologues situés dans les régions, afin d�
 
 ## Comment expliquerais-tu ta mission d’intra à un collégien ?
 
-Tu as une idée et tu es convaincu que cette idée peut être utile à de nombreuses personnes. C’est ce qui te guide: contribuer à aider des personnes sans en tirer de bénéfices.
+Tu as une idée et tu es convaincu que cette idée peut être utile à de nombreuses personnes. C’est ce qui te guide : contribuer à aider des personnes sans en tirer de bénéfices.
 
 Et bien pour Mobiville, notre idée, c’est qu’on a des personnes se retrouvent en situation de perte d’emploi et n'arrivent pas à en retrouver alors qu’ils ont la motivation et les compétences...parce qu’ils ne sont pas sur le bon territoire !
 
-C’est ce qu’on appelle le désajustement géographique: les recruteurs et les personnes qui ont des compétences ne sont pas au même endroit.
+C’est ce qu’on appelle le désajustement géographique : les recruteurs et les personnes qui ont des compétences ne sont pas au même endroit.
 
-Notre objectif c’est de proposer un outil d’aide à la décision pour identifier la ville qui:
+Notre objectif c’est de proposer un outil d’aide à la décision pour identifier la ville qui :
 
 * correspond au projet de vie de la personne
 * possède un potentiel d’embauche fort et peu de concurrence sur le territoire.
 
-Notre cible: les personnes en âge de travailler, qu’ils soient salariés ou demandeurs d’emploi.
+Notre cible : les personnes en âge de travailler, qu’ils soient salariés ou demandeurs d’emploi.
 
-Et ce qui est super c’est que deux acteurs nationaux se sont dit qu’il fallait mutualiser les efforts pour que ce service émerge: Action Logement et Pôle emploi.
+Et ce qui est super c’est que deux acteurs nationaux se sont dit qu’il fallait mutualiser les efforts pour que ce service émerge : Action Logement et Pôle emploi.
 
 Mobiville est donc une startup issue du partenariat de ces deux acteurs.
 
@@ -54,7 +54,7 @@ Mais tu n’es pas seul : avec toi, une équipe de matelots qui bosse à 200%.
 
 ## Qu’est-ce qui aurait pu faire que ta Startup d'État fasse un flop ?
 
-Beaucoup de choses:
+Beaucoup de choses :
 
 * on a commencé le projet en plein confinement donc mettre en place une dynamique de travail, de l’agilité...à distance ce n’était pas simple mais on l’a fait
 * pour notre deuxième mois de travail, nous avons organisé un atelier avec nos sponsors afin de partager notre vision du produit, et ils n’ont pas adhéré. Mais on a rebondi direct.
@@ -75,13 +75,13 @@ Du coup on a rangé le comparateur de villes au placard !
 
 Il faut garder le cap tout en étant flexible : en tant qu’intrapreneur nous sommes les garants de la vision du service (le problème, la solution, ce qu’on a appris).
 
-Comme le dit l’un de nos coachs: il faut tomber amoureux de son problème mais pas de sa solution.
+Comme le dit l’un de nos coachs : il faut tomber amoureux de son problème mais pas de sa solution.
 
 C’est un état d’esprit qui implique d’être capable de lâcher prise si les résultats ne sont pas là où on l'espérait.
 
 ## Recommanderais-tu à un agent public de se lancer dans l’intrapreneuriat ?
 
-Bien sûr: c’est l’occasion d’innover mais aussi d'apprendre en côtoyant des personnes qui sont formés à des méthodes ou des approches spécifiques. 
+Bien sûr : c’est l’occasion d’innover mais aussi d'apprendre en côtoyant des personnes qui sont formés à des méthodes ou des approches spécifiques. 
 
 ## Si oui, quelles recommandations donnerais-tu à un agent public frustré, résigné ou en colère, souhaitant agir pour résoudre un problème majeur et non résolu d’une politique publique?
 
@@ -91,10 +91,6 @@ J'en vois quatre :
 * Identifier les parties prenantes : ceux qui sont concernés par ce problème ou sa résolution
 * Parler avec les personnes qui sont concernées : les utilisateurs
 * Partir des utilisateurs pour construire ton idée
-
-
-
-
 
 - - -
 
@@ -109,7 +105,7 @@ J'en vois quatre :
 * #### **[Paroles d'intrapreneuse #7 : Chloé Moser de la Startup d'Etat Archifiltre](https://blog.beta.gouv.fr/sgmas/2020/09/22/paroles-dintrapreneurs-7-chloe-moser-de-la-startup-detat-archifiltre/)**
 * #### **[Paroles d'intrapreneuse #8 : Vikie Ache de la Startup de territoire Simone & Co](https://blog.beta.gouv.fr/dinsic/2020/11/05/paroles-dintrapreneuses-8-vickie-hache-moser-de-la-startup-de-territoires-simone-co/)**
 * #### **[Paroles d'intrapreneuse #9 : Magali Marcel-Garreau de la Startup d'Etat](https://blog.beta.gouv.fr/dinsic/2020/12/10/paroles-dintrapreneuses-9-magalie-marcel-garreau-de-la-startup-detat-signalconso/)**
-* #### **[Paroles d'intrapreneuse #10 : ](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)****[Laurent Olivé de la Startup d'Etat Kelrisks](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)**
+* #### **[Paroles d'intrapreneuse #10 : ](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)\*\***[Laurent Olivé de la Startup d'Etat Kelrisks](https://blog.beta.gouv.fr/mtes/2021/01/28/paroles-dintrapreneuses-10-laurent-olive-de-la-startup-detat-kelrisks/)\*\*
 
 - - -
 
