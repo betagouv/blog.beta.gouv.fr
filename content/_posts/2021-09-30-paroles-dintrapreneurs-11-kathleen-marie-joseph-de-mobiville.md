@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paroles d'intrapreneures #11 : Kathleen MARIE-JOSEPH de Mobiville"
-date: 2021-09-30
+date: 2021-10-05
 authors:
   - lery.jicquel
   - kathleen.marie-joseph
