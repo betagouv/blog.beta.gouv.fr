@@ -8,7 +8,7 @@ authors:
 categories: general
 image: /img/posts/parole-intrapreneuse-7-.jpg
 excerpt: Kathleen est l'intrapreneure de la Startup d'État
-  [Mobivlle](https://beta.gouv.fr/startups/mobiville.html) au sein de la
+  [Mobiville](https://beta.gouv.fr/startups/mobiville.html) au sein de la
   fabrique de Pôle Emploi. Son produit est en phase de croissance et vise à
   diminuer le nombre d'emplois non pourvus en facilitant la mobilité
   géographique des actifs. Elle fait partie de ces "intras" ayant débuté leur
