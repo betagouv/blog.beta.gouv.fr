@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1 027 000 euros pour les lauréats du FAST 8, postulez dès maintenant à la 9ème édition !
+title: 620 000 euros pour les lauréats du FAST 9, postulez dès maintenant à la 10ème édition !
 date: 2021-10-07
 authors:
   - jihane.herizi
@@ -17,7 +17,7 @@ Depuis sa création fin 2019, il a permis de soutenir la croissance de 32 Start
 
 ## FAST - 9ème édition
 
-En juin 2021 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique,[notre neuvième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2021/06/30/découvrez-les-lauréats-du-fast-8-et-postulez-au-fast-9/). 
+En juin 2021 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique, [notre neuvième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2021/06/30/découvrez-les-lauréats-du-fast-8-et-postulez-au-fast-9/). 
 
 Parmi les candidats, **4 dossiers ont été pré-sélectionnés** par beta.gouv.fr et ont présenté leur dossier à l'oral devant le comité d’investissement.
 3 lauréats ont été choisis par les membres du jury. 
@@ -53,15 +53,13 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 * produits censés résoudre des problèmes d’organisation interne ;
 * produits encore en construction, n'ayant pas trouvé son adéquation produit-marché (et non en phase d’accélération). 
 
-![](2021_06_29_1200x627_FAST_8NOV_Visuel_LinkedIn.jpg)
-
 # Lancement de la prochaine édition du Fast
 
 **L'appel à candidatures de la 10ème édition est ouvert !**
 
 Cet appel vise à soutenir des solutions numériques existantes, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes. L’appel vise aussi à soutenir la création d’incubateurs ministériels.
 
-Cliquez ici [pour en savoir plus](https://beta.gouv.fr/fast/) et/ou [postuler](https://www.demarches-simplifiees.fr/commencer/fast9) sur la session du 8 novembre.
+Cliquez ici [pour en savoir plus](https://beta.gouv.fr/fast/) et/ou [postuler](https://www.demarches-simplifiees.fr/commencer/fast10) sur la session du 8 novembre 2021.
 
 Si vous êtes une administration et que vous identifiez un projet qui n’est pas éligible au FAST mais que vous souhaitez tout de même vous engager dans une démarche de mise en place d’une ou plusieurs Startups d’État, vous pouvez passer par [le mode habituel de fonctionnement](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf) et nous contacter sur [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
 
