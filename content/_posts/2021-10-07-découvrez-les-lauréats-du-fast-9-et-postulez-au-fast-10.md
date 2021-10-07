@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 620 000 euros pour les lauréats du FAST 9, postulez dès maintenant à la 10ème édition !
+title: 620 000 euros pour les lauréats du FAST 9, postulez dès maintenant à la
+  10ème édition !
 date: 2021-10-07
 authors:
   - jihane.herizi
@@ -37,9 +38,10 @@ Les critères de sélection pour les incubateurs :
 * Prévoir un cofinancement pour la création par son sponsor administratif. 
 
 ### Les 3 lauréats du FAST 9 :
-1.	[Ma cantine](https://ma-cantine.beta.gouv.fr/accueil) du Ministère de l’Agriculture :  Accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable.
-2.	[Wikicarbone](https://wikicarbone.beta.gouv.fr) du Ministère de l’Écologie : outil permettant avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent.
-3.	[Santé Psy Etudiant](https://santepsy.etudiant.gouv.fr) du Ministère de l’Enseignement Supérieur, et de la Recherche et de l’Innovation : Consultations gratuites auprès de psychologues pour les étudiants. 
+
+1. [Ma cantine](https://ma-cantine.beta.gouv.fr/accueil) du Ministère de l’Agriculture :  Accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable.
+2. [Wikicarbone](https://wikicarbone.beta.gouv.fr) du Ministère de l’Écologie : outil permettant avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent.
+3. [Santé Psy Etudiant](https://santepsy.etudiant.gouv.fr) du Ministère de l’Enseignement Supérieur, et de la Recherche et de l’Innovation : Consultations gratuites auprès de psychologues pour les étudiants. 
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur le déploiement et d’accompagner l’équipe pour:
 
@@ -54,6 +56,8 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 * produits encore en construction, n'ayant pas trouvé son adéquation produit-marché (et non en phase d’accélération). 
 
 # Lancement de la prochaine édition du Fast
+
+![](/img/posts/2021_06_29_1200x627_fast_8nov_visuel_linkedin.jpg)
 
 **L'appel à candidatures de la 10ème édition est ouvert !**
 
