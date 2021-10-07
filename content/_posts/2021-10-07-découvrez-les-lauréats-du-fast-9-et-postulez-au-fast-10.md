@@ -39,9 +39,9 @@ Les critères de sélection pour les incubateurs :
 
 ### Les 3 lauréats du FAST 9 :
 
-1. [Ma cantine](https://ma-cantine.beta.gouv.fr/accueil) du Ministère de l’Agriculture :  Accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable.
-2. [Wikicarbone](https://wikicarbone.beta.gouv.fr) du Ministère de l’Écologie : outil permettant avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent.
-3. [Santé Psy Etudiant](https://santepsy.etudiant.gouv.fr) du Ministère de l’Enseignement Supérieur, et de la Recherche et de l’Innovation : Consultations gratuites auprès de psychologues pour les étudiants. 
+1. [Ma cantine](https://ma-cantine.beta.gouv.fr/accueil) : accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable.
+2. [Wikicarbone](https://wikicarbone.beta.gouv.fr) : outil permettant avoir plus d’informations sur l’impact environnemental et sociétal des produits qu’ils achètent.
+3. [Santé Psy Etudiant](https://santepsy.etudiant.gouv.fr) : consultations gratuites auprès de psychologues pour les étudiants. 
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur le déploiement et d’accompagner l’équipe pour:
 
