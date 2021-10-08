@@ -8,7 +8,7 @@ authors:
 categories: dinsic
 image: /img/posts/FAST_2400x448-nom-du-fonds.jpg
 ---
-Le programme beta.gouv.fr, porté par la Direction Interministérielle du Numérique lance son 10ème appel à candidatures du [Fonds d’Accélération des Startups d’État et de Territoires (FAST)] (https://beta.gouv.fr/approche/fast). 
+Le programme beta.gouv.fr, porté par la Direction Interministérielle du Numérique lance son 10ème appel à candidatures du [Fonds d’Accélération des Startups d’État et de Territoires (FAST)](https://beta.gouv.fr/approche/fast). 
 
 Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique. Il favorise le passage à l'échelle de solutions développées par des administrations ayant un fort potentiel d'impact auprès de leur cible (citoyens ou agents).
 
