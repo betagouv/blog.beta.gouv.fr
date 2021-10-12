@@ -29,7 +29,7 @@ Je travaillais également avec mes homologues situés dans les régions, afin d�
 
 Tu as une idée et tu es convaincu que cette idée peut être utile à de nombreuses personnes. C’est ce qui te guide : contribuer à aider des personnes sans en tirer de bénéfices.
 
-Et bien pour Mobiville, notre idée, c’est qu’on a des personnes se retrouvent en situation de perte d’emploi et n'arrivent pas à en retrouver alors qu’ils ont la motivation et les compétences...parce qu’ils ne sont pas sur le bon territoire !
+Et bien pour Mobiville, notre idée, c’est qu’on a des personnes qui se retrouvent en situation de perte d’emploi et n'arrivent pas à en retrouver alors qu’ils ont la motivation et les compétences...parce qu’ils ne sont pas sur le bon territoire !
 
 C’est ce qu’on appelle le désajustement géographique : les recruteurs et les personnes qui ont des compétences ne sont pas au même endroit.
 
