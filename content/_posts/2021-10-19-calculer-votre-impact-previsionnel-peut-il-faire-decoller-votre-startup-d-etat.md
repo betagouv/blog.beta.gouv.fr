@@ -5,7 +5,7 @@ title: Calculer votre impact prévisionnel peut-il faire décoller votre Startup
 date: 2021-10-19
 authors:
   - lery.jicquel
-  - damien.dufour
+  - damien.dufourd
   - jeremie.cook
 categories: general
 image: /img/posts/photo-1533511627347-4d1b893e1ad9-1-.jpg
