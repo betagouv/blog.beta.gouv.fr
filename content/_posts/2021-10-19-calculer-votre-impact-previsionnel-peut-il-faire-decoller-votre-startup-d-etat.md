@@ -8,6 +8,7 @@ authors:
   - damien.dufour
   - jeremie.cook
 categories: general
+image: /img/posts/photo-1533511627347-4d1b893e1ad9-1-.jpg
 excerpt: >-
   Depuis plus d’un an, nous co-animons un atelier intitulé “Cauchemar à Beta”.
   Son but est simple : aider les équipes volontaires à améliorer leurs mesures
