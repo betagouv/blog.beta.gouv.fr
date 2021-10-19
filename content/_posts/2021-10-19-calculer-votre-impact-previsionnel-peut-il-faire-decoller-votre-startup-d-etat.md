@@ -14,7 +14,7 @@ excerpt: >-
   Son but est simple : aider les équipes volontaires à améliorer leurs mesures
   d’impact.
 
-  Nous avons vu défiler plus d’une vingtaine d’équipes souhaitant : trouver le bon indicateur d’impact, vérifier que leur métrique est juste, être aidées pour améliorer leur impact, être challengées sur leur stratégie de croissance, ...
+  Nous avons vu défiler plus d’une vingtaine d’équipes souhaitant : trouver le bon indicateur d’impact, vérifier que leur métrique est juste, être aidées pour améliorer leur impact, être challengées sur leur stratégie de croissance...
 
   Nous vous partageons ce que nous avons appris et pourquoi nous pensons qu’un tableau d’impact prévisionnel pourrait aider les équipes de Startups d’Etat.
 ---
