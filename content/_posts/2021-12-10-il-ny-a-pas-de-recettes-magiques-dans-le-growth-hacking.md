@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il n'y a pas de recettes magiques dans le Growth hacking
+title: Il n'y a pas de secrets dans le Growth hacking des Startups d'Etat
 date: 2021-12-17
 authors:
   - chaib.martinez
