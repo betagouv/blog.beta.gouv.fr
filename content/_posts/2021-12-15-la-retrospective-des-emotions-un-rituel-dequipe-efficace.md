@@ -11,16 +11,22 @@ excerpt: >-
   Quand je suis arrivée chez beta.gouv.fr, je ne savais pas du tout ce qu’était
   une rétrospective.
 
-  Je n’en avais jamais fait dans le privé et j’imaginais encore moins que ça pouvait exister dans le public.
 
-  J’ai appris à travers l’un de mes mentors, Pierre Pezziardi, la force de prendre un moment pour parler des choses “difficiles”. On a tendance à parler de l’amélioration continue des produits, et dans ce cas il s’agit également en parallèle d’entretenir l’amélioration continue des équipes.
+  Je n’en avais jamais fait dans le privé et j’imaginais encore moins que ça pouvait exister dans le secteur public.
+
+  J’y ai appris à travers l’un de mes mentors, Pierre Pezziardi, la force de prendre un moment pour parler des choses “difficiles”. J'ai appris ça dans le public oui, j'insiste. 
+
+
+  On a beaucoup tendance à parler de l’amélioration continue des produits.
+
+  Et bien, la rétrospective émotions c'est aussi de l’amélioration continue... des équipes !
 ---
 Avec mon bagage de psychologie du travail et de psychosociologie, je trouvais intéressant de voir la puissance de cette rétro et à quel point, avec un spectre de 4 émotions (joie, peur, colère, tristesse) on pouvait plus facilement mettre sur la table des situations conflictuelles dans une équipe :
 
-* pour leur démontrer par A+B qu’ils sont émotionnellement alignés contre des problèmes qu’ils partagent tous
-* la plupart des problèmes de collaboration sont d'abord de l'ordre du ressenti (le subjectif) avant toute chose et que si on les adresse pas on est dans la merde pour le reste (le factuel)
+* pour leur démontrer par A+B qu’ils sont émotionnellement alignés contre des problèmes qu’ils partagent tous  = effet de solidarité assez automatique ;
+* parce que la plupart des problèmes de collaboration sont d'abord de l'ordre du ressenti (le subjectif) avant toute chose et que si on les adresse pas on est, on risque, on peut vite se retrouver dans la m... pour le reste (le factuel).
 
-Après tout, nous sommes tous des humains et ces 4 émotions font partie des émotions primaires, aussi appelées de base, fondamentales ou universelles.\
+Après tout, nous sommes tous des humains non ? Et ces 4 émotions font partie des émotions primaires, aussi appelées émotions de base, fondamentales ou universelles.\
 Ce sont les premières que nous vivons en arrivant au monde et elles apparaissent en réaction à un évènement déclencheur comme cité dans cet [article](https://www.e-marketing.fr/Thematique/academie-1078/fiche-outils-10154/Identifier-les-6-emotions-fondamentales-325865.htm) :
 
 *La joie est liée à la satisfaction d’un désir, la réussite d’un projet important à nos yeux. C’est un état de satisfaction et de bien-être qui se manifeste par de la gaîté et de la bonne humeur. Elle accroît notre énergie, la motivation et la confiance en soi.*
@@ -31,8 +37,11 @@ Ce sont les premières que nous vivons en arrivant au monde et elles apparaissen
 
 *La tristesse est liée à une perte, une déception, un sentiment d’impuissance, un souhait insatisfait. Elle se caractérise par une baisse d’énergie, de la motivation.*
 
-La rétro émotions aide à mettre des mots sur des ressentis subjectifs et force la personne a dire : ‘j’ai ressenti X quand Z s’est passé’.\
-L’émotion est mise en mots, l’évènement déclencheur est identifié pour éviter qu’il ne se reproduise ou pour le neutraliser s’il est encore en cours.
+La rétro émotions aide à mettre des mots sur des ressentis subjectifs et force la personne a dire : ‘j’ai ressenti X quand Z s’est passé’.
+
+* L’émotion est mise en mots ;
+* l’évènement déclencheur est identifié pour éviter qu’il ne se reproduise ;
+* l'évènement est neutralisé s’il est encore en cours.
 
 Cette discussion permet ainsi à l’équipe de gagner en confiance réciproque et en authenticité pour favoriser la collaboration future.
 
@@ -55,7 +64,7 @@ En revanche, elles peuvent être intéressantes si :
 * que vous êtes à la recherche d'un nouveau format pour avoir une nouvelle dynamique d'équipe 
 * que vous avez déjà travaillé sur les émotions et que vous avez envie d'axer sur des éléments plus factuels
 
-Avec mon collègue Léry, nous vous partageons le format détaillé de ce rituel.
+J'ai partagé ma façon de faire avec Léry qui a souhaité tester ce format de rétro et le documenter ci-dessous de manière détaillée pour vous le transmettre. 
 
 \_\_\_\_
 
@@ -161,3 +170,7 @@ Et on peut célébrer ici la productivité de cette rétrospective et proposer l
 Le format de la prochaine rétrospective dépendra des attentes de l'équipe en fonction des semaines à venir. 
 
 L'atelier se termine là.
+
+\----
+
+Et vous, vous utilisez quoi ? Dites-nous tout à contact@beta.gouv.fr, ou tagguez-nous sur twitter ou linkedin, on se fera un plaisir d'échanger avec vous sur ce sujet ;)
