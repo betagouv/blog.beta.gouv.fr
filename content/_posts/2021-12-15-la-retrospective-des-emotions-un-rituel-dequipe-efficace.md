@@ -77,7 +77,7 @@ J'ai partagé ma façon de faire avec Léry qui a souhaité tester ce format de 
 ## Les prérequis :
 
 * un ou une facilitatrice de préférence non-membre de l'équipe
-* chaque participant doit disposer d'une feuille, d'un stylo ou d'un ordinateur afin de pouvoir écrite
+* chaque participant doit disposer d'une feuille, d'un stylo ou d'un ordinateur afin de pouvoir écrire
 * Cette rétro peut être animée en présentiel ou en visio.
 * Si elle a lieu en visio, chaque participant doit activer sa caméra et son micro.
 * Vérifier que tous les participants sont disponibles sur le temps prévu (60 ou 90 minutes)
