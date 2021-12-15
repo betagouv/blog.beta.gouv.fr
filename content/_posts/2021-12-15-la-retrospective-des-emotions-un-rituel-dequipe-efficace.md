@@ -14,12 +14,14 @@ excerpt: >-
 
   Je n’en avais jamais fait dans le privé et j’imaginais encore moins que ça pouvait exister dans le secteur public.
 
-  J’y ai appris à travers l’un de mes mentors, Pierre Pezziardi, la force de prendre un moment pour parler des choses “difficiles”. J'ai appris ça dans le public oui, j'insiste. 
+  J’y ai appris à travers l’un de mes mentors, Pierre Pezziardi, la force de prendre un moment pour parler des choses “difficiles”. 
+
+  Et j'ai appris ça dans le public, oui, j'insiste. 
 
 
-  On a beaucoup tendance à parler de l’amélioration continue des produits.
+  On a tendance à beaucoup parler de l’amélioration continue des produits.
 
-  Et bien, la rétrospective émotions c'est aussi de l’amélioration continue... des équipes !
+  Et bien, la rétrospective émotions c'est aussi de l’amélioration continue... mais des équipes !
 ---
 Avec mon bagage de psychologie du travail et de psychosociologie, je trouvais intéressant de voir la puissance de cette rétro et à quel point, avec un spectre de 4 émotions (joie, peur, colère, tristesse) on pouvait plus facilement mettre sur la table des situations conflictuelles dans une équipe :
 
