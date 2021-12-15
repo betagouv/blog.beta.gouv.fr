@@ -18,7 +18,7 @@ excerpt: >-
 Avec mon bagage de psychologie du travail et de psychosociologie, je trouvais intéressant de voir la puissance de cette rétro et à quel point, avec un spectre de 4 émotions (joie, peur, colère, tristesse) on pouvait plus facilement mettre sur la table des situations conflictuelles dans une équipe :
 
 * pour leur démontrer par A+B qu’ils sont émotionnellement alignés contre des problèmes qu’ils partagent tous
-* et/ou pour trouver des solutions qui intègrent une partie émotionnelle pour des problèmes plus subjectifs que factuels mais très impactants.
+* la plupart des problèmes de collaboration sont d'abord de l'ordre du ressenti (le subjectif) avant toute chose et que si on les adresse pas on est dans la merde pour le reste (le factuel)
 
 Après tout, nous sommes tous des humains et ces 4 émotions font partie des émotions primaires, aussi appelées de base, fondamentales ou universelles.\
 Ce sont les premières que nous vivons en arrivant au monde et elles apparaissent en réaction à un évènement déclencheur comme cité dans cet [article](https://www.e-marketing.fr/Thematique/academie-1078/fiche-outils-10154/Identifier-les-6-emotions-fondamentales-325865.htm) :
