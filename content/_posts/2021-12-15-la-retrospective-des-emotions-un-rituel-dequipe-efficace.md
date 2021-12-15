@@ -116,7 +116,7 @@ Par exemple, le ou la facilitatrice pourra dire :
 
   * Penser à un moment où vous avez ressenti cette émotion. Écrivez l'évènement déclencheur de cette émotion sur un papier que vous garderez pour vous.
   * Dès que chacun a identifié l'expérience ou l'évènement passé(e) associé(e) à la première émotion, vous pouvez me le signaler par un petit signe ou sur le chat.
-* Quand tout le monde près, chacun partage en une ou deux phrase cette expérience durant laquelle il ou elle a ressenti cette émotion.
+* Dès que vous êtes prêt, chacun partage en une ou deux phrases cette expérience durant laquelle il ou elle a ressenti cette émotion.
 * Quand vous n’avez pas la parole, vous devez simplement écouter. Je vous demande de ne pas réagir ou poser des questions. 
 * En revanche, je m’auto-autorise à vous demander des précisions si besoin.
 * Une fois que tous les membres ont échangé leurs évènements sur la 1ère émotion, je propose à ceux qui le souhaitent d'intervenir pour poser une question ou faire une remarque sur ce qu'ils ont entendu 
