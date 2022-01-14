@@ -3,7 +3,7 @@ layout: post
 title: "Parole d’intrapreneurs #12 : Emmanuel Flahaut de Trackdéchets"
 date: 2022-01-14
 authors:
-  - aurelie.vieillefosse
+  - samuel.goldszmidt
   - emmanuel.flahaut
 categories: general
 image: /img/posts/banner12.png
