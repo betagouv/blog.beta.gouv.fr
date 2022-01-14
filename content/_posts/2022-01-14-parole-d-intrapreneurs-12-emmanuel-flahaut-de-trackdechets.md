@@ -2,6 +2,9 @@
 layout: post
 title: "Parole d’intrapreneurs #12 : Emmanuel Flahaut de Trackdéchets"
 date: 2022-01-14
+authors:
+  - aurelie.vieillefosse
+  - emmanuel.flahaut
 categories: general
 image: /img/posts/banner12.png
 excerpt: >
@@ -26,7 +29,7 @@ La réglementation impose une traçabilité de ces déchets et le producteur est
 
 Trackdéchets a commencé à co-construire sa solution avec les fédérations et partenaires dès octobre 2018. En 2019, nous commencions à coder. En même temps que nous codions, le ministère a écrit le décret alimenté par les enseignements de notre travail aux côtés des entreprises, paru en mars 2021. 
 
-![](/img/posts/untitled.png)
+![schéma d'explication de trackdechet](/img/posts/untitled.png)
 
 ### Les entreprises étaient-elles prêtes pour l'échéance de début janvier 2022 ? Quel est le nombre de connexions à l'API à ce jour ?
 
