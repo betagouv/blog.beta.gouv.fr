@@ -4,6 +4,7 @@ title: "Parole de directrice générale : Stéphanie Dupuy-Lyon, DGALN"
 date: 2022-01-26
 categories: general
 image: /img/posts/20210107_143853_stephaniedupuylyon.jpg
+excerpt: ""
 ---
 <!--StartFragment-->
 
@@ -12,6 +13,8 @@ Stéphanie Dupuy-Lyon est directrice générale de l’aménagement, du logement
 ### **La Direction générale de l’aménagement, du logement et de la nature (DGALN) au ministère de la Transition écologique, est l’une des directions d’administration centrale ayant collaboré le plus fréquemment avec le programme beta.gouv.fr : elle porte ou soutient plus de 12 services numériques d’intérêt général, comme [DossierFacile](https://www.dossierfacile.fr/), [Aides Territoires](https://aides-territoires.beta.gouv.fr/), ou [Histologe](https://histologe.beta.gouv.fr/).**
 
 ### **Sa directrice, Stéphanie Dupuy-Lyon, nous explique comment le programme beta.gouv l’aide dans sa stratégie de transformation du ministère, aux bénéfices des territoires, des citoyennes et des citoyens.** 
+
+![](/img/posts/20210107_143853_stephaniedupuylyon.jpg)
 
 **Comment définiriez-vous l’approche beta.gouv, avec vos mots ?** 
 
