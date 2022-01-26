@@ -3,13 +3,11 @@ layout: post
 title: Faire grandir le simulateur d’aides pour les jeunes d’1jeune1solution.gouv.fr
 date: 2022-01-25
 authors:
-  - clémence.biffaud
+  - clemence.biffaud
   - charlotte.lecuit
 categories: general
 excerpt: ""
 ---
-## Où l’on démontre que 3 est presque égal à 337
-
 Ce matin, Mélanie, de la CAF de la Haute-Marne, a ajouté 3 aides au [simulateur d’aides](https://mes-aides.1jeune1solution.beta.gouv.fr/simulation/individu/demandeur/date_naissance) sur [1 jeune 1 solution](https://www.1jeune1solution.gouv.fr/home). Sur les 337 aides déjà présentes sur le simulateur, 3 aides, c’est peut-être un détail pour vous. Mais pour nous, ça veut dire beaucoup. On vous explique pourquoi. 
 
 À quoi sert le simulateur d’aides 1 jeune 1 solution ? C’est un simulateur qui permet en quelques minutes aux jeunes de moins de 30 ans de savoir à quelles aides nationales ou locales ils et elles ont droit en fonction de leur situation, tout en leur donnant accès aux ressources utiles pour demander ces aides.  En bref, il permet de simplifier au maximum le parcours des jeunes pour accéder à leurs droits.
