@@ -38,7 +38,7 @@ Néanmoins, nos efforts n’ont pas été vains puisque plusieurs CAF nous ont r
 
 Aussitôt informées de l’existence de l’outil, les CAF sont en capacité d’ajouter les aides locales supplémentaires qu’elles jugent les plus pertinentes (par exemple, car le non-recours est très élevé, ou bien que c’est une nouvelle aide, ou encore que les critères d’éligibilité sont larges). Nous ont notamment été citées les aides BAFD, des aides à la mobilité, des aides pour les équipements informatiques. Dans la foulée, les CAF peuvent ensuite communiquer sur le dispositif auprès des jeunes de leurs départements.
 
-![](/img/posts/capture-d-e-cran-2022-01-26-a-15.11.12.png)
+![](/img/posts/capture-d-e-cran-2022-01-26-a-15.11.12.png "Capture d'écran de l'outil de contribution")
 
 ## L’itération et le suivi pour garantir l’impact produit en continu
 
