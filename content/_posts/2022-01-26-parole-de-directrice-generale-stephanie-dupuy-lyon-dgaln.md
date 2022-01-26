@@ -9,27 +9,19 @@ image: /img/posts/20210107_143853_stephaniedupuylyon.jpg
 
 Stéphanie Dupuy-Lyon, directrice générale de l’aménagement, du logement et de la nature, ministère de la Transition écologique
 
-### **La Direction générale de l’aménagement, du logement et de la nature (DGALN) au ministère de la Transition écologique, est l’une des directions d’administration centrale ayant collaboré le plus fréquemment avec le programme beta.gouv.fr : elle porte ou soutient plus de 12 services numériques d’intérêt général, comme [DossierFacile](https://www.dossierfacile.fr/), [Aides Territoires](https://aides-territoires.beta.gouv.fr/), ou [Histologe](https://histologe.beta.gouv.fr/).** 
+#### **La Direction générale de l’aménagement, du logement et de la nature (DGALN) au ministère de la Transition écologique, est l’une des directions d’administration centrale ayant collaboré le plus fréquemment avec le programme beta.gouv.fr : elle porte ou soutient plus de 12 services numériques d’intérêt général, comme [DossierFacile](https://www.dossierfacile.fr/), [Aides Territoires](https://aides-territoires.beta.gouv.fr/), ou [Histologe](https://histologe.beta.gouv.fr/).**
 
-### **Sa directrice, Stéphanie Dupuy-Lyon, nous explique comment le programme beta.gouv l’aide dans sa stratégie de transformation du ministère, aux bénéfices des territoires, des citoyennes et des citoyens.** 
-
-
+#### **Sa directrice, Stéphanie Dupuy-Lyon, nous explique comment le programme beta.gouv l’aide dans sa stratégie de transformation du ministère, aux bénéfices des territoires, des citoyennes et des citoyens.** 
 
 **Comment définiriez-vous l’approche beta.gouv, avec vos mots ?** 
 
 C’est une approche qui me parle beaucoup : être orienté impact, vouloir résoudre un problème et, sur le chemin de la résolution de ce problème, découvrir des éléments nouveaux qui peuvent confirmer ou infirmer nos intuitions.
 
-
-
 **Avez-vous un exemple de la manière dont la DGALN s’est appropriée cette approche ?** 
 
 Le service [DossierFacile](https://www.dossierfacile.fr/) est un bon exemple d’application de ces principes. L’équipe à l’origine du service s’est sentie libre de “challenger” la commande avancée par le cabinet du ministre. Plutôt que de s’engager sur des sujets très normatifs tels que le système de garantie, l’équipe de DossierFacile a privilégié une solution simple et efficace : un dossier de location numérique labellisé. Cela a permis la création d’un service numérique qui rend vraiment service aux citoyens tout en répondant à un véritable enjeu de politique publique : fluidifier l’accès au logement en renforçant la confiance entre locataire et propriétaire. 
 
-
-
 Je pourrais également citer [EnvErgo](https://envergo.beta.gouv.fr/%C3%A9valuations/formulaire/%C3%A9tape-1/) qui vise à renforcer l’application de la loi sur l’eau dans le cadre de projets d’aménagement. Cette loi encadre tous les projets qui risquent d'impacter l'eau et les milieux aquatiques. Alors qu'initialement on partait sur une logique de simplification et de dématérialisation de la norme, on s’est rendu compte en chemin qu’il valait mieux se concentrer sur les personnes concernées, à savoir les porteurs de projets. Cet effort d’adaptation a par exemple abouti à la création d’une estimation personnalisée de la probabilité d’être soumis à la loi sur l’eau pour chaque projet.
-
-
 
 **En matière de management de votre direction générale, avez-vous appris une chose en travaillant avec beta.gouv ?**
 
@@ -46,7 +38,5 @@ Quant au lien entre transition numérique et transition écologique, il est évi
 **En tant que DG d’une administration centrale, recommanderiez-vous à un ou une de vos homologues, par exemple dans d’autres ministères, de se lancer avec le programme beta.gouv ? Si oui, quel serait votre message ?** 
 
 Bien sûr je le recommanderais et je le recommande déjà ; entre collègues on partage souvent nos bonnes pratiques. Mon conseil : dans ce processus de transformation, il est important que chacun aille à son rythme. Malgré les différences qu’amène le programme beta.gouv par rapport à la culture administrative, je considère sincèrement que l’approche Startup d’État, loin de contrevenir à l’esprit du service public, constitue un outil supplémentaire pour mieux réaliser nos missions et améliorer la mise en oeuvre de nos politiques publiques.
-
-
 
 <!--EndFragment-->
