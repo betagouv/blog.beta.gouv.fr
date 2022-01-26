@@ -8,9 +8,9 @@ authors:
 categories: general
 image: /img/posts/capture-d-e-cran-2022-01-26-a-16.01.16.png
 excerpt: Ce matin, Mélanie, de la CAF de la Haute-Marne, a ajouté 3 aides au
-  simulateur d’aides sur 1jeune1solution.gouv.fr. Sur les 337 aides déjà
-  présentes sur le simulateur, 3 aides, c’est peut-être un détail pour vous.
-  Mais pour nous, ça veut dire beaucoup. On vous explique pourquoi.
+  simulateur d’aides sur 1jeune1solution.gouv.fr. Sur les 353 aides intégrées au
+  simulateur, 3 aides, c’est peut-être un détail pour vous... mais pour nous, ça
+  veut dire beaucoup. On vous explique pourquoi.
 ---
 À quoi sert [le simulateur d’aides 1Jeune1Solution](https://www.1jeune1solution.gouv.fr/mes-aides) ? C’est un simulateur qui permet en quelques minutes aux jeunes de moins de 30 ans de savoir à quelles aides nationales ou locales ils et elles ont droit en fonction de leur situation, tout en leur donnant accès aux ressources utiles pour demander ces aides.  En bref, il permet de simplifier au maximum le parcours des jeunes pour accéder à leurs droits.
 
