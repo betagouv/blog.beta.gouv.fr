@@ -6,6 +6,7 @@ authors:
   - clemence.biffaud
   - charlotte.lecuit
 categories: general
+image: /img/posts/capture-d-e-cran-2022-01-26-a-15.55.35.png
 excerpt: Ce matin, Mélanie, de la CAF de la Haute-Marne, a ajouté 3 aides au
   simulateur d’aides sur 1 jeune 1 solution. Sur les 337 aides déjà présentes
   sur le simulateur, 3 aides, c’est peut-être un détail pour vous. Mais pour
