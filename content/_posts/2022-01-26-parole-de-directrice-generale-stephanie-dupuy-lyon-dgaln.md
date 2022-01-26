@@ -4,7 +4,7 @@ title: "Parole de directrice générale : Stéphanie Dupuy-Lyon, directrice
   générale de l’aménagement, du logement et de la nature (DGALN)"
 date: 2022-01-26
 categories: general
-image: /img/posts/image1.png
+image: /img/posts/image2.png
 excerpt: ""
 ---
 <!--StartFragment-->
