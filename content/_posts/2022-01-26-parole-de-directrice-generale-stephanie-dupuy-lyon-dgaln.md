@@ -18,7 +18,7 @@ excerpt: ""
 
 ![](/img/posts/20210107_143853_stephaniedupuylyon.jpg)
 
-Stéphanie Dupuy-Lyon est directrice générale de l’aménagement, du logement et de la nature au ministère de la Transition écologique
+###### **Stéphanie Dupuy-Lyon est directrice générale de l’aménagement, du logement et de la nature au ministère de la Transition écologique**
 
 
 
