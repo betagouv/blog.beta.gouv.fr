@@ -3,7 +3,7 @@ layout: post
 title: "Parole de directrice générale : Stéphanie Dupuy-Lyon, DGALN"
 date: 2022-01-26
 categories: general
-image: /img/posts/20210107_143853_stephaniedupuylyon.jpg
+image: /img/posts/mtes.png
 excerpt: ""
 ---
 <!--StartFragment-->
