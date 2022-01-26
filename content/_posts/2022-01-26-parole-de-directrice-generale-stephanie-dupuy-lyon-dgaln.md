@@ -20,10 +20,6 @@ excerpt: ""
 
 ###### **Stéphanie Dupuy-Lyon est directrice générale de l’aménagement, du logement et de la nature au ministère de la Transition écologique**
 
-
-
-
-
 **Comment définiriez-vous l’approche beta.gouv, avec vos mots ?** 
 
 C’est une approche qui me parle beaucoup : être orienté impact, vouloir résoudre un problème et, sur le chemin de la résolution de ce problème, découvrir des éléments nouveaux qui peuvent confirmer ou infirmer nos intuitions.
