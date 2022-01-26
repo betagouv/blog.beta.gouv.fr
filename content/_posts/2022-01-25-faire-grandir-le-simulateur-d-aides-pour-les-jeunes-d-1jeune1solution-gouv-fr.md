@@ -30,13 +30,15 @@ Mais avant de mettre l’outil dans les mains de Mélanie, nous avons testé l�
 
 ## Main dans la main avec les administrations pour assurer l’autonomie au niveau local et déployer à grande échelle
 
-Grâce à nos apprentissages, nous avons pu créer un document de tutoriel de prise en main de l’outil de contribution, pour le communiquer aux CAF, et qu’elles puissent rapidement et facilement devenir autonomes. 
+Grâce à nos apprentissages, nous avons pu créer un [document de tutoriel](https://drive.google.com/file/d/1idhZGf04EahbuHfHZXyUi93fgnAaUqyy/view?usp=sharing) de prise en main de l’outil de contribution, pour le communiquer aux CAF, et qu’elles puissent rapidement et facilement devenir autonomes. 
 
 Nous avons ensuite contacté Mélanie et toutes les autres CAF pour lesquelles nous avions ajouté des aides. Il n’existe pas de fichier national, trouver les contacts pertinents au sein des CAF n’a pas toujours été une mince affaire… 
 
 Néanmoins, nos efforts n’ont pas été vains puisque plusieurs CAF nous ont répondu et nous avons pu organiser des visios avec elles. Toutes les personnes que nous avons eues jusqu’à présent nous ont montré leur enthousiasme à prendre en main l’outil et communiquer auprès de leurs homologues dans d’autres CAF, auprès des conseils départementaux, des points infos jeunesse, etc. En bref, auprès de tous les acteurs qui maillent le territoire de l’action sociale à un niveau local et seraient intéressés par l’outil de contribution ou le simulateur. 
 
 Aussitôt informées de l’existence de l’outil, les CAF sont en capacité d’ajouter les aides locales supplémentaires qu’elles jugent les plus pertinentes (par exemple, car le non-recours est très élevé, ou bien que c’est une nouvelle aide, ou encore que les critères d’éligibilité sont larges). Nous ont notamment été citées les aides BAFD, des aides à la mobilité, des aides pour les équipements informatiques. Dans la foulée, les CAF peuvent ensuite communiquer sur le dispositif auprès des jeunes de leurs départements.
+
+![](/img/posts/capture-d-e-cran-2022-01-26-a-15.11.12.png)
 
 ## L’itération et le suivi pour garantir l’impact produit en continu
 
