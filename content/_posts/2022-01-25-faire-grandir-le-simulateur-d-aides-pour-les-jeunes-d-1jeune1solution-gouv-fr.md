@@ -26,7 +26,7 @@ Mélanie, dont nous parlions plus haut, connaît sur le bout des doigts les aide
 
 Nous lui avons donc proposé d’utiliser notre outil de contribution au simulateur. Il s’agit d’un outil qui traduit des règles d’éligibilité en code informatique, pour permettre à qui le souhaite d’ajouter de nouvelles aides sans compétences techniques spécifiques. 
 
-Mais avant de mettre l’outil dans les mains de Mélanie, nous l'avons testé nous-mêmes, Clémence et Charlotte, chargées du déploiement du produit. Concrètement, pendant le mois de décembre, nous avons pris en main l’outil et ajouté 93 aides au BAFA des CAF départementales. Au fil de l’eau et des règles d’éligibilité spécifiques à chaque département, nous avons pu remonter à Willy, Antoine, Vanessa et Thomas, développeurs et développeuse au sein de l'équipe, des éléments de langage ou des aspects liés à la structure de l’outil qui gagneraient à être améliorés avant qu’il ne soient utilisés par les personnes travaillant dans les CAF.
+Mais avant de mettre l’outil dans les mains de Mélanie, nous l'avons testé nous-mêmes, Clémence et Charlotte, chargées du déploiement du produit. Concrètement, pendant le mois de décembre, nous avons pris en main l’outil et ajouté 93 aides au BAFA des CAF départementales. Au fil de l’eau et des règles d’éligibilité spécifiques à chaque département, nous avons pu remonter à Willy, Antoine, Vanessa et Thomas, développeurs et développeuse au sein de l'équipe, les fonctionnalités de l'outil qui gagneraient à être améliorée.
 
 ## Main dans la main avec les administrations pour assurer l’autonomie au niveau local et déployer à grande échelle
 
