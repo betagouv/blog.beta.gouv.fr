@@ -18,7 +18,7 @@ Simplifier ce parcours, c’est une nécessité. Car il existe une multitude d�
 
 La méconnaissance des dispositifs ou le découragement des jeunes entraînent un non-recours aux aides qui peut avoir des conséquences en cascade. Cela peut notamment agir sur la capacité des jeunes à s’insérer dans la vie professionnelle ou à échapper à une situation de pauvreté.
 
-Aider les jeunes à avoir davantage de visibilité sur les aides, c’est donc l’objectif que se donne chaque jour l’équipe du simulateur. C’est pourquoi d’ici fin 2022, nous avons pour objectif de référencer 600 aides, dont 500 aides locales. L’équipe compte 6 personnes au total, qui travaillent également sur d’autres projets. La seule façon pour nous d’atteindre cet objectif, c’est d’associer nos efforts à ceux des personnes qui connaissent le mieux les aides que nous souhaitons intégrer : les CAF, les collectivités, et plus largement toutes les institutions qui proposent des aides aux jeunes.
+Aider les jeunes à avoir davantage de visibilité sur les aides, c’est donc l’objectif que se donne chaque jour l’équipe du simulateur. C’est pourquoi d’ici fin 2022, nous avons pour objectif de référencer 600 aides, dont 500 aides locales. L’équipe étant de taille réduite, la seule façon pour nous d’atteindre cet objectif, c’est d’associer nos efforts à ceux des personnes qui connaissent le mieux les aides que nous souhaitons intégrer : les CAF, les collectivités, et plus largement toutes les institutions qui proposent des aides aux jeunes.
 
 ## La stratégie des petits pas…parce qu’il faut bien commencer quelque part !
 
