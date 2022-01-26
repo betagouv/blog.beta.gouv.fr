@@ -30,7 +30,7 @@ Mais avant de mettre l’outil dans les mains de Mélanie, nous l'avons testé n
 
 ## Main dans la main avec les administrations pour assurer l’autonomie au niveau local et déployer à grande échelle
 
-Grâce à nos apprentissages, nous avons pu créer un [document de tutoriel](https://drive.google.com/file/d/1idhZGf04EahbuHfHZXyUi93fgnAaUqyy/view?usp=sharing) de prise en main de l’outil de contribution, pour le communiquer aux CAF, et qu’elles puissent rapidement et facilement devenir autonomes. 
+Grâce à nos apprentissages, nous avons pu créer un [document de tutoriel](https://drive.google.com/file/d/1idhZGf04EahbuHfHZXyUi93fgnAaUqyy/view?usp=sharing) de prise en main de l’outil de contribution, pour le communiquer aux CAF afin qu’elles puissent rapidement et facilement devenir autonomes. 
 
 Nous avons ensuite contacté Mélanie et toutes les autres CAF pour lesquelles nous avions ajouté des aides. Il n’existe pas de fichier national, trouver les contacts pertinents au sein des CAF n’a pas toujours été une mince affaire… 
 
