@@ -12,11 +12,7 @@ excerpt: Ce matin, Mélanie, de la CAF de la Haute-Marne, a ajouté 3 aides au
   sur le simulateur, 3 aides, c’est peut-être un détail pour vous. Mais pour
   nous, ça veut dire beaucoup. On vous explique pourquoi.
 ---
-À quoi sert 
-[le simulateur d’aides 1 jeune 1 solution](https://www.1jeune1solution.gouv.fr/mes-aides)
-
-
-<a target="_blank" rel="noopener" href=”https://www.1jeune1solution.gouv.fr/mes-aides”\>le simulateur d’aides 1 jeune 1 solution</a> ? C’est un simulateur qui permet en quelques minutes aux jeunes de moins de 30 ans de savoir à quelles aides nationales ou locales ils et elles ont droit en fonction de leur situation, tout en leur donnant accès aux ressources utiles pour demander ces aides.  En bref, il permet de simplifier au maximum le parcours des jeunes pour accéder à leurs droits.
+À quoi sert [le simulateur d’aides 1 jeune 1 solution](https://www.1jeune1solution.gouv.fr/mes-aides) ? C’est un simulateur qui permet en quelques minutes aux jeunes de moins de 30 ans de savoir à quelles aides nationales ou locales ils et elles ont droit en fonction de leur situation, tout en leur donnant accès aux ressources utiles pour demander ces aides.  En bref, il permet de simplifier au maximum le parcours des jeunes pour accéder à leurs droits.
 
 Simplifier ce parcours, c’est une nécessité. Car il existe une multitude d’aides nationales et locales, qui peuvent s’apparenter à un maquis difficile à naviguer pour le public, notamment pour les moins de 30 ans. Pourquoi ce public est-il prioritaire ? Car ce sont les premières victimes de la crise économique, qu’ils et elles soient étudiant(e)s, demandeurs d’emploi ou en décrochage scolaire.
 
