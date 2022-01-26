@@ -7,7 +7,7 @@ authors:
   - ishan.bhojwani
   - valentin.brel
 categories: general
-image: /img/posts/image2.png
+image: /img/posts/banner12.jpg
 excerpt: ""
 ---
 <!--StartFragment-->
