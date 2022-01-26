@@ -44,7 +44,7 @@ Ci-dessous, une capture d'écran de la page d'accueil de l'outil de contribution
 
 ## L’itération et le suivi pour garantir l’impact produit en continu
 
-Comme toutes les startups d’État, nous construisons notre service avec les personnes qui l’utilisent et celles qui y contribuent activement. Ainsi, nous mettons un point d’honneur à échanger au fur et à mesure avec les CAF afin de récolter leurs retours sur l’outil de contribution. Cela nous permet d’améliorer le simulateur en continu et d’assurer un suivi des aides ajoutées pour garantir une homogénéité des contenus à l’échelle nationale.
+Comme toutes les startups d’État, nous construisons notre service avec les personnes qui l’utilisent et celles qui y contribuent activement. Ainsi, nous mettons un point d’honneur à échanger au fur et à mesure avec les institutions concernées afin de récolter leurs retours sur l’outil de contribution. Cela nous permet d’améliorer le simulateur en continu et d’assurer un suivi des aides ajoutées pour garantir une homogénéité des contenus à l’échelle nationale.
 
 **Vous travaillez dans une CAF, un département, une région ou toute autre institution, et vous souhaitez ajouter des aides ou en savoir plus sur l’outil d’ajout d’aides ? N’hésitez pas à nous [écrire](mailto:aides-jeunes@beta.gouv.fr) pour que nous convenions d'un rendez-vous !**
 
