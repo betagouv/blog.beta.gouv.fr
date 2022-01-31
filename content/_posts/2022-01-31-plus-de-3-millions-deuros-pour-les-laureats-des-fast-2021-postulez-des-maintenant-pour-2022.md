@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Plus de 3 millions d'euros pour les lauréats des FAST 2021, postulez dès
-  maintenant pour 2022 ! "
+title: "Plus de 3 millions d'euros pour les lauréats du FAST en 2021. Postulez
+  dès maintenant pour le guichet 2022 ! "
 date: 2022-01-31
 authors:
   - jihane.herizi
