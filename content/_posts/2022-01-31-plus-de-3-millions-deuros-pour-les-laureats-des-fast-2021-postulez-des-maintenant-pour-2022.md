@@ -18,7 +18,7 @@ Depuis sa création fin 2019, il a permis de soutenir la croissance de 33 Start
 
 ## FAST - 10ème édition
 
-En septembre 2021 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique, [notre neuvième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2021/10/07/découvrez-les-lauréats-du-fast-9-et-postulez-au-fast-10/). 
+En septembre 2021 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique, [notre dixième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2021/10/07/découvrez-les-lauréats-du-fast-9-et-postulez-au-fast-10/). 
 
 Parmi les candidats, **3 dossiers ont été pré-sélectionnés** par beta.gouv.fr et ont présenté leur dossier à l'oral devant le comité d’investissement.
 2 lauréats ont été choisis par les membres du jury. 
@@ -39,7 +39,7 @@ Les critères de sélection pour les incubateurs :
 
 ### Les 2 lauréats du FAST 10 :
 
-1. [Urban vitaliz](https://urbanvitaliz.fr) : accompagner au mieux les acteurs de la restauration collective dans leur offre aux consommateurs pour une alimentation de qualité, saine et durable.
+1. [Urban vitaliz](https://urbanvitaliz.fr) : Un service numérique et gratuit qui aiguille les collectivités dans leur projet de réhabilitation de foncier à l’abandon..
 2. L'incubateur du Ministère de la Justice. [](https://wikicarbone.beta.gouv.fr) 
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur le déploiement et d’accompagner l’équipe pour:
@@ -55,7 +55,7 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 * produits censés résoudre des problèmes d’organisation interne ;
 * produits encore en construction, n'ayant pas trouvé son adéquation produit-marché (et non en phase d’accélération). 
 
-## BILAN DES 4 FAST 2021 
+## BILAN DES 4 FAST 2021
 
 ![](/img/posts/capture-d-e-cran-2022-01-31-a-20.05.18.png)
 
