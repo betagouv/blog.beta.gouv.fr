@@ -59,9 +59,9 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 ![](/img/posts/capture-d-e-cran-2022-01-31-a-20.05.18.png)
 
-# Lancement de la suite du Fast !
+# Lancement du Fast 2022 !
 
-**Le guichet permanent 2022 est ouvert !**
+**Le guichet permanent est ouvert.**
 
 Ce guichet permanent vise à soutenir des solutions numériques existantes, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes. L’appel vise aussi à soutenir la création d’incubateurs ministériels ou d'opérateurs de sécurité sociale.
 
