@@ -59,8 +59,6 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 ![](/img/posts/capture-d-e-cran-2022-01-31-a-20.05.18.png)
 
-# \-
-
 # Lancement de la suite du Fast !
 
 **Le guichet permanent 2022 est ouvert !**
