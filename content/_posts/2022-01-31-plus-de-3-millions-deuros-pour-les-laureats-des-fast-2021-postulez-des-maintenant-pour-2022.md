@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plus de 3 millions d'euros pour les lauréats du FAST en 2021. Postulez
-  dès maintenant pour le guichet 2022 ! "
+  dès maintenant pour un cofinancement en 2022 ! "
 date: 2022-01-31
 authors:
   - jihane.herizi
@@ -39,7 +39,7 @@ Les critères de sélection pour les incubateurs :
 
 ### Les 2 lauréats du FAST 10 :
 
-1. [Urban vitaliz](https://urbanvitaliz.fr) : Un service numérique et gratuit qui aiguille les collectivités dans leur projet de réhabilitation de foncier à l’abandon..
+1. [Urban vitaliz](https://urbanvitaliz.fr) : Un service numérique et gratuit qui aiguille les collectivités dans leur projet de réhabilitation de foncier à l’abandon ;
 2. L'incubateur du Ministère de la Justice. [](https://wikicarbone.beta.gouv.fr) 
 
 Sur une durée de 6 à 8 mois, le ticket obtenu va permettre de mobiliser des moyens supplémentaires sur le déploiement et d’accompagner l’équipe pour:
