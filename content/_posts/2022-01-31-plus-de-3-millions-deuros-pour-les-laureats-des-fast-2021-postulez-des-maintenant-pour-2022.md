@@ -61,9 +61,9 @@ Les autres produits présentés n’ont pas pu être retenus pour les conditions
 
 # Lancement du Fast 2022 !
 
-**Le guichet permanent est ouvert.**
+**L'appel FAST 2022 est ouvert.** 
 
-Ce guichet permanent vise à soutenir des solutions numériques existantes, développées par des administrations publiques, pour en accélérer le déploiement et en favoriser le passage à échelle. Ils bénéficieront d’un cofinancement selon les besoins exprimés par les équipes. L’appel vise aussi à soutenir la création d’incubateurs ministériels ou d'opérateurs de sécurité sociale.
+Cette année, l'appel est ouvert en permanence : vous pouvez postuler à tout moment, les dossiers seront traités au fil de l'eau. L'appel est désormais ouvert à toutes les administrations publiques d'État et opérateurs de sécurité sociale qui souhaitent lancer leur incubateur de Startups d'État.
 
 Cliquez ici [](https://beta.gouv.fr/approche/fast)[pour en savoir plus et postuler](https://beta.gouv.fr/approche/fast) dès à présent ! 
 
