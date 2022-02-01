@@ -14,7 +14,7 @@ Ce fonds a pour objectif d’investir dans des projets apportant des solutions c
 
 Depuis sa création fin 2019, il a permis de soutenir la croissance de 33 Startups d’État et de Territoires et l'émergence de 4 incubateurs ministériels. La liste des lauréats est disponible [ici](https://beta.gouv.fr/approche/fast).
 
-## Découvrez dès aujourd'hui les lauréats de la 10ème édition et postulez au guichet permanent du FAST tout au long de l'année 2022 !
+## Découvrez dès aujourd'hui les lauréats de la 10ème édition et postulez au FAST dès à présent !
 
 ## FAST - 10ème édition
 
