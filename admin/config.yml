@@ -1,6 +1,8 @@
 backend:
   name: github
   site_domain: blog.beta.gouv.fr
+  api_root: https://api.github.com
+  base_url: https://betagouv-cms-auth.osc-secnum-fr1.scalingo.io
   repo: betagouv/blog.beta.gouv.fr
   # Personnalisation des messages de commit
   commit_messages:
