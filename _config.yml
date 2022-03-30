@@ -17,7 +17,7 @@ title: beta.gouv.fr - l'actualité
 email: contact@beta.gouv.fr
 description: L'actualité de l'incubateur de services publics numériques beta.gouv.fr
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://blog.beta.gouv.fr # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BetaGouv
 github_username:  betagouv
 github_repository: betagouv/blog.beta.gouv.fr
