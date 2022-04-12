@@ -1,15 +1,12 @@
 ---
-fullname: Myriam Keddad
+fullname: Nesserine ZAROURI
 role: Chargée de relation utilisateur 
 domaine: Déploiement
-github: myriamkeddad
 missions:
-  - start: 2022-02-16
-    end: 2022-12-31
+  - start: 2022-04-12
+    end: 2022-07-12
     status: independent
     employer: SCOPYLEFT
-startups:
-  - lapins
 badges:
   - segur
 ---
