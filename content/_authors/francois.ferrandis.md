@@ -1,11 +1,11 @@
 ---
-fullname: Victor Mours
+fullname: François Ferrandis
 role: Développeur
 domaine: Développement
-github: victormours
+github: francois-ferrandis
 missions:
-  - start: 2022-02-07
-    end: 2022-11-30
+  - start: 2022-04-25
+    end: 2022-07-25
     status: independent
     employer: Scopyleft
 startups:
