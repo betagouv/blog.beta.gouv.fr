@@ -16,9 +16,7 @@ excerpt: >
 
 [JeVeuxAider.gouv.fr](https://jeveuxaider.gouv.fr) est la plateforme publique du bénévolat, proposée par la Réserve Civique. 
 
-![Site internet jeveuxaider.gouv.fr : "envie de bénévolat ?"](/img/posts/82xsqjj6g4k8_1ld0e0bacnr6a5gvjfwqnuoj4idczkwwrhlp3hykyaitu0dln8i6pu-zbpga-wxlbvvpwuvuk6wa-f4h5al_x7jodvoh_4oqw5-5ymyim-un0d_lea1svcrtqwe.jpg "Site internet jeveuxaider.gouv.fr : \\"envie de bénévolat ?\\"")
-
-
+![Site internet jeveuxaider.gouv.fr : "envie de bénévolat ?"](/img/posts/82xsqjj6g4k8_1ld0e0bacnr6a5gvjfwqnuoj4idczkwwrhlp3hykyaitu0dln8i6pu-zbpga-wxlbvvpwuvuk6wa-f4h5al_x7jodvoh_4oqw5-5ymyim-un0d_lea1svcrtqwe.jpg "Site internet jeveuxaider.gouv.fr : \\\"envie de bénévolat ?\\\"")
 
 Mettre en relation des associations et organisations publiques proposant des missions de bénévolat avec des personnes de tout âge, c’est la vocation de JeVeuxAider.gouv.fr . Cette startup d'État, créée à l’origine pour mettre en œuvre le dispositif de réserve civique issu de la Loi égalité et citoyenneté de 2017, a connu un essor spectaculaire lors du premier confinement en mars 2020. L'équipe de la startup n’a eu que quelques jours pour construire la plateforme et organiser le dispositif de mise en relation de l’offre et de la demande à l’échelle nationale. Les deux  heures qui ont suivi la prise de parole présidentielle ont vu 25 000 inscriptions de bénévoles sur la plateforme. En seulement deux semaines la barre des 200 000 bénévoles inscrits a été atteinte.
 
@@ -44,13 +42,11 @@ Ce choix se justifiait à plusieurs titres :
 * Un établissement d'enseignement est un prescripteur naturel auprès de ses étudiants ;
 * La loi de 2017 qui a créé la Réserve Civique (dispositif légal derrière JeVeuxAider.gouv.fr) invite incite également les écoles et Universités à reconnaître l’engagement civique des étudiants et divers labels (le label DD&RS) ou encore le label Agir ensemble) existent pour inciter les établissements scolaires à promouvoir le bénévolat en leur sein.
 
-
-
 Il fut ainsi décidé :
 
 * D'accroître le nombre de bénévoles dans le monde étudiant - et, le cas échéant, scolaire ;
+* D’expérimenter d’autres pistes pour acquérir des bénévoles, activer leur inscription sur la plateforme et réitérer leur participation (rétention).
 
+Le schéma ci-dessous illustre la méthodologie du **Growth Hacking** / Lean (Marketing)  :
 
-
-
-*
+![](/img/posts/lean-marketing-growth-hacking.png)
