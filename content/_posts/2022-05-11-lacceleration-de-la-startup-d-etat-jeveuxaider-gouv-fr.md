@@ -86,3 +86,11 @@ La deuxième étape consistait à présenter simplement et clairement cette nouv
 ![](/img/posts/pasted-image-0-2-.png)
 
 *Statuts des nouveaux profils inscrits sur la plateforme, par semaine et par nombre*
+
+
+
+#### Accompagner le déploiement
+
+Le travail de déploiement s’est mis en place simultanément : Clara Oberlé a pris contact avec les établissements d’enseignement supérieur afin de proposer un rendez-vous pour présenter le produit et, éventuellement, signer une convention de partenariat.
+
+Après cela, l'établissement pouvait choisir de communiquer des missions de bénévolat par e-mail auprès de ses étudiants et/ou intégrer sur son site internet le widget JeVeuxAider.gouv.fr. Nous avons ainsi pu faire installer un widget sur la page S’engager pendant ses études du site etudiant.gouv.fr. Ce dernier permettait non seulement d'afficher des missions de bénévolat sur une page de l'établissement sans quitter le site, mais aussi de savoir s'il était effectivement utilisé par les étudiants par la mesure du nombre de cliques et du nombre de participations attribuées au widget.
