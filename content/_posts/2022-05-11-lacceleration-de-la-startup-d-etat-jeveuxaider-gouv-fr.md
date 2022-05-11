@@ -72,3 +72,17 @@ Ainsi, nous avons décidé de demander directement la profession des inscrits (2
 ![](/img/posts/capture-d-e-cran-2021-12-08-a-14.40.06-1-.png)
 
 #### Élaborer et déployer un tableau de bord spécifique
+
+La deuxième étape consistait à présenter simplement et clairement cette nouvelle information aux équipes. Pour cela nous avons utilisé un outil open source très pratique : Metabase. Voici une illustration pour le mois de juin 2021 :
+
+![](/img/posts/pasted-image-0.png)
+
+![](/img/posts/pasted-image-0-1-.png)
+
+*Répartition des nouveaux inscrits par profils sur la période :  21,47% sont étudiants,* 
+
+
+
+![](/img/posts/pasted-image-0-2-.png)
+
+*Statuts des nouveaux profils inscrits sur la plateforme, par semaine et par nombre*
