@@ -49,4 +49,4 @@ Il fut ainsi décidé :
 
 Le schéma ci-dessous illustre la méthodologie du **Growth Hacking** / Lean (Marketing)  :
 
-![](/img/posts/lean-marketing-growth-hacking.png)
+![Lean canvas : idée > construction > pro](/img/posts/lean-marketing-growth-hacking.png)
