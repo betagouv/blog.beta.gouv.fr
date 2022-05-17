@@ -204,3 +204,47 @@ Avec la campagne Google Ads en cours, il fallait régler ce problème d'attribut
 
 
 Cette ligne permet, au moment de l'inscription d'un bénévole, de lier pendant toute la durée de vie du compte la source (utm_source) et la visite. Ainsi, nous pouvons maintenant savoir sans effort la façon avec laquelle il nous a découvert - par exemple, en ayant cliqué sur une publicité google ads. Un Dashboard créé facilement sous Metabase nous a permis de suivre le comportement des bénévoles.
+
+
+
+![](/img/posts/pasted-image-0-9-.png)
+
+Chaque ligne est un canal d'acquisition digital : emailing d'un partenaire, publicité sur Linkedin ou Google, etc.
+
+En ordonnée, le nombre d'inscrits, et en abscisse le jour d'inscription. On constate de très forts écarts.
+
+
+
+#### 2.4 Acquisition de lycées (Scrapping)
+
+
+
+Nous avons poursuivi notre investigation sur le segment des lycéens, en recourant au bon vieux scrapping de données cher au Growth hacking, en s’abstenant bien sûr de récupérer des données personnelles ou nominatives.
+
+Nous avons récupéré 174 adresses e-mail de contact (public) de tous les lycées parisiens sur l'[annuaire de l'éducation nationale](https://www.education.gouv.fr/annuaire) .
+
+Nous leur avons envoyé ensuite ce mail pour proposer à leur directeur ou directrice de prendre rendez-vous avec nous :
+
+
+
+![](/img/posts/pasted-image-0-10-.png)
+
+Sur 174 emails envoyés nous avons obtenu 6 rendez-vous exploratoires qui nous ont permis de comprendre le rôle des proviseurs dans la promotion du bénévolat dans leur lycée. Ils ont peu de temps et de marge de manœuvre pour mettre ce type de projets en place et nous ont conseillé de nous rapprocher des ENT (Environnement Numérique de Travail) qui pourrait être un canal efficace par lequel introduire le sujet auprès des lycéens. En parallèle, certains proviseurs ont eu la gentillesse de partager notre message à certains de leurs étudiants et nous avons accédé au genre de retour qui mets du baume au coeur :
+
+
+
+![](/img/posts/capture-d-e-cran-2022-01-18-a-17.35.55.png)
+
+
+
+
+
+## Résultats
+
+
+
+* ❌  Faible impact des partenariats avec les Écoles et Universités. Malgré plusieurs centaines d'inscriptions, le ROI est resté faible eu égard au temps investi. En outre, la durée du cycle de vente était trop longue et compliquée. Enfin, nous avons constaté un faible taux de conversion des étudiants ainsi contactés (1%) ce qui incite à viser des audiences très larges (comme les universités ou le CROUS qui peut s’adresser à 2.5 millions d’étudiants) plutôt que des écoles avec des promotions d’une centaine d’élèves.
+* ❌  Par ailleurs, nous avons également constaté un faible résultat des échanges avec les BDE qui sont des associations dont les membres changent chaque année suite à des campagnes et des élections ce qui complique le suivi et la relation de long terme que nécessite parfois ce type de partenariats.
+*  🧐 Il nous reste à  à creuser les résultats pour les lycées : 6 RDV obtenus pour 174 emails envoyés sachant qu’il y a 4500 lycées en France
+*  ✅ Nous avons réduit de moitié le taux d'abandon des inscriptions grâce aux emails automatiques.
+*  ✅  La campagne Google Ads a généré plus de 35  inscriptions en 7 jours pour un très faible budget
