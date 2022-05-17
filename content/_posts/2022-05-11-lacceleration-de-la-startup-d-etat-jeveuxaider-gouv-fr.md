@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🚀 L'accélération de la startup d’État JeVeuxAider.gouv.fr
+title: 🚀  L'accélération de la startup d’État JeVeuxAider.gouv.fr
 date: 2022-05-11
 authors:
   - chaib.martinez
