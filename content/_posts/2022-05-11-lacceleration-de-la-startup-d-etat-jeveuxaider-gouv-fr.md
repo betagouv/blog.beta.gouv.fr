@@ -176,3 +176,31 @@ Quand un internaute tapait un de ces mots sur Google, notre publicité pouvait s
 ![](/img/posts/pasted-image-0-6-.png)
 
 ![](/img/posts/pasted-image-0-7-.png)
+
+
+
+Afin d'avoir une idée précise du nombre d'inscrits ainsi généré, il a été nécessaire de modifier une nouvelle fois le code source du site.
+
+Cette [modification](https://github.com/Codeconut/jeveuxaider-back/pull/124) (1 ligne de code) permettait de remonter l'inscription dans Google Ads, c’est-à-dire de remonter la "conversion" .
+
+Avant cela bien sûr, pour respecter le RGPD, il fallait demander le consentement de l'internaute. Il pouvait choisir d'accepter ou pas le suivi de sa visite sur le site. Pour gérer cela, nous avons utilisé l'excellent service Axeptio et particulièrement s[on module de connexion avec Google Tag Manager](https://www.axeptio.eu/post/masterclass-integrer-efficacement-axeptio-avec-google-tag-manager)
+
+Puis, la plateforme publicitaire Mountain View pouvait afficher prioritairement nos annonces aux internautes ayant le plus de chance de s'inscrire ensuite sur JeVeuxAider.gouv.fr. Toutefois, il nous était difficile de repérer la source des inscriptions sur le site, et donc de calculer le retour sur investissement (ROI) de cette campagne.
+
+
+
+#### 2.3 Amélioration de l'attribution des inscriptions
+
+
+
+La mise en place d’un widget sur le site d’un partenaire  pouvait être complexe et elle ne permettait pas de connaître sur la durée le nombre total de participations qui suivaient cette inscription ([life time value](https://www.optimizely.com/optimization-glossary/lifetime-value/)). In fine, il était impossible de connaître le nombre total de participations effectives provenant d'une source. Or, ce nombre de participations effectives est la mesure d'impact même de JeVeuxAider.gouv.fr.
+
+Avec la campagne Google Ads en cours, il fallait régler ce problème d'attribution des inscriptions. Pour cela, il a (presque) suffi d'une seule[ ligne de code](https://github.com/Codeconut/jeveuxaider-back/pull/126). Celle-là exactement :
+
+
+
+![](/img/posts/pasted-image-0-8-.png)
+
+
+
+Cette ligne permet, au moment de l'inscription d'un bénévole, de lier pendant toute la durée de vie du compte la source (utm_source) et la visite. Ainsi, nous pouvons maintenant savoir sans effort la façon avec laquelle il nous a découvert - par exemple, en ayant cliqué sur une publicité google ads. Un Dashboard créé facilement sous Metabase nous a permis de suivre le comportement des bénévoles.
