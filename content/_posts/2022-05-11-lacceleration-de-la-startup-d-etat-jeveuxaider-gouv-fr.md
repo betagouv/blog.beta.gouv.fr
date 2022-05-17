@@ -248,3 +248,72 @@ Sur 174 emails envoyés nous avons obtenu 6 rendez-vous exploratoires qui nous o
 *  🧐 Il nous reste à  à creuser les résultats pour les lycées : 6 RDV obtenus pour 174 emails envoyés sachant qu’il y a 4500 lycées en France
 *  ✅ Nous avons réduit de moitié le taux d'abandon des inscriptions grâce aux emails automatiques.
 *  ✅  La campagne Google Ads a généré plus de 35  inscriptions en 7 jours pour un très faible budget
+
+
+
+![](/img/posts/capture-d-e-cran-2022-04-26-a-11.50.05.png)
+
+
+
+
+
+## Décision 
+
+
+
+Au regard de ces résultats, nous décidons de :
+
+* réduire le temps consacré au  déploiement de JeVeuxAider.gouv.fr dans les écoles et universités au regard du process actuel.
+* Augmenter les investissements dans Google Ads . Le nombre d'inscrit augmente en proportion : 21 inscrits
+
+![](/img/posts/capture-d-e-cran-2022-04-26-a-11.51.45.png)
+
+
+
+Par ailleurs, ces derniers s'engagent plus facilement dans des missions que les autres inscrits. Un premier essai réalisé sur un budget plus important voit l’inscription de 73 bénévoles.
+
+![](/img/posts/capture-d-e-cran-2022-04-26-a-11.53.21.png)
+
+Nous décidons dès lors d'investir un budget **X fois supérieurs** dans Google Ads
+
+
+
+## Résultat : +25% de croissance 🚀
+
+48% des nouveaux inscrits viennent de Google Ads, qui est devenu la 1er source d'inscription de JeVeuxAider.gouv.fr.
+
+Ce nouvel afflux de visite génère **une augmentation des participations de 25%**
+
+![](/img/posts/pasted-image-0-11-.png)
+
+
+
+## Conclusion 
+
+
+
+La croissance forte et exceptionnellement rapide de l’impact peut s’expliquer par : 
+
+* l'autonomie et la confiance dont nous avons bénéficié de la part des équipes JeVeuxAider.gouv.fr. Nous avons pu essayer différentes propositions "rapidement" ;
+* la bonne réactivité des mêmes équipes, y compris sur la partie technique / modification du site ;
+* la culture du résultat et de l'impact déjà présent dans la startup d'État.
+
+Cette réussite démontre que les méthodes itératives du Growth Hacking sont tout à fait applicables à une startup d'État.
+
+
+
+Un grand merci ❤️ à l’équipe de JeVeuxAider : Fanny, Joe, Nassim, Yannick, Yoann, Maxime, Jéremy, ainsi qu’a l’équipe Gamma : Clara, Pénélope, Clément, Bréanne et Ishan.
+
+Chaïb Martinez
+
+
+
+
+
+
+
+
+
+(1) : en France, l'âge minimum pour faire du bénévolat est de 16 ans. Il est donc nécessaire de s'assurer de cela avant l'inscription.
+
+(2) : cette information est par ailleurs pertinente pour proposer des missions de bénévolat adaptées à chacun.
