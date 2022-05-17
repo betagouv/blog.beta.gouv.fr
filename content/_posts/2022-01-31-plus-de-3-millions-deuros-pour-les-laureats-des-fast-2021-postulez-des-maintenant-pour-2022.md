@@ -16,7 +16,7 @@ Depuis sa création fin 2019, il a permis de soutenir la croissance de 33 Start
 
 ## Découvrez dès aujourd'hui les lauréats de la 10ème édition et postulez au FAST dès à présent !
 
-## FAST - 10ème édition
+## FAST - 10ème édition 
 
 En septembre 2021 nous avons lancé chez beta.gouv.fr, un programme de la Direction Interministérielle du Numérique, [notre dixième appel à candidatures FAST](https://blog.beta.gouv.fr/dinsic/2021/10/07/découvrez-les-lauréats-du-fast-9-et-postulez-au-fast-10/). 
 
