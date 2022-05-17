@@ -140,9 +140,39 @@ Le but est donc d'augmenter la conversion finale, en se concentrant sur le passa
 
 Nous avons utilisé pour cela la solution d'email automation française : Sendinblue. Il a fallu avant cela faire une légère modification du code source avec l'ajout de [quelques lignes de code](https://github.com/Codeconut/jeveuxaider-back/pull/70).
 
-
-
 ` $createContact = new \SendinBlue\Client\Model\CreateContact([
             'email' => request('email'),
             'listIds' => [233]
         ]);`
+
+
+
+![Scenario de relance poncturelle des abandons d'inscription](/img/posts/pasted-image-0-3-.png "Scenario de relance poncturelle des abandons d'inscription")
+
+([agrandir l'image](https://lh5.googleusercontent.com/gO241gZfhbGjvqxk9A4Rxc_LVm_eetR37r_fEqjndb0U6vmoFzzJy7l_IGCfkrHY11zFXIiT4eRGlWc3vzzeNalCBhkAABFQJ3BTDY5I1GkQt7LM-vUS5K9RRlXnYHsgjGnfZxnvhFQvYdr1mg))
+
+Exemple de message envoyé 1 jour après une inscription non finalisée :
+
+
+
+![Exemple d'email envoyé](/img/posts/pasted-image-0-4-.png)
+
+
+
+#### 2.2 Acquisition avec des publicités Google Ads
+
+L’équipe JeVeuxAider.gouv.fr a déployé un important travail de SEO sans pouvoir jusque-là bénéficier d’un budget pour le référencement payant (SEA). C'était d’autant plus regrettable qu'une bonne partie de l'optimisation technique nécessaire au SEO était réutilisable : amélioration de la vitesse de chargement, version mobile, optimisation du wording, landing pages, etc.
+
+Pour commencer ce test, nous avons commencé sur un budget conséquent : quelques euros (par jour).
+
+Nous avons ciblé une vingtaine de mots-clefs dont :
+
+![](/img/posts/pasted-image-0-5-.png)
+
+
+
+Quand un internaute tapait un de ces mots sur Google, notre publicité pouvait s'afficher.
+
+![](/img/posts/pasted-image-0-6-.png)
+
+![](/img/posts/pasted-image-0-7-.png)
