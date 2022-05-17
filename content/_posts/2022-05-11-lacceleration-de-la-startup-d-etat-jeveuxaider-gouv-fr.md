@@ -16,7 +16,7 @@ excerpt: >
 
 [JeVeuxAider.gouv.fr](https://jeveuxaider.gouv.fr) est la plateforme publique du bénévolat, proposée par la Réserve Civique. 
 
-![Site internet jeveuxaider.gouv.fr : "envie de bénévolat ?"](/img/posts/82xsqjj6g4k8_1ld0e0bacnr6a5gvjfwqnuoj4idczkwwrhlp3hykyaitu0dln8i6pu-zbpga-wxlbvvpwuvuk6wa-f4h5al_x7jodvoh_4oqw5-5ymyim-un0d_lea1svcrtqwe.jpg "Site internet jeveuxaider.gouv.fr : \\\\"envie de bénévolat ?\\\\"")
+![Site internet jeveuxaider.gouv.fr : "envie de bénévolat ?"](/img/posts/82xsqjj6g4k8_1ld0e0bacnr6a5gvjfwqnuoj4idczkwwrhlp3hykyaitu0dln8i6pu-zbpga-wxlbvvpwuvuk6wa-f4h5al_x7jodvoh_4oqw5-5ymyim-un0d_lea1svcrtqwe.jpg "Site internet jeveuxaider.gouv.fr : \\\\\"envie de bénévolat ?\\\\\"")
 
 Mettre en relation des associations et organisations publiques proposant des missions de bénévolat avec des personnes de tout âge, c’est la vocation de JeVeuxAider.gouv.fr . Cette startup d'État, créée à l’origine pour mettre en œuvre le dispositif de réserve civique issu de la Loi égalité et citoyenneté de 2017, a connu un essor spectaculaire lors du premier confinement en mars 2020. L'équipe de la startup n’a eu que quelques jours pour construire la plateforme et organiser le dispositif de mise en relation de l’offre et de la demande à l’échelle nationale. Les deux  heures qui ont suivi la prise de parole présidentielle ont vu 25 000 inscriptions de bénévoles sur la plateforme. En seulement deux semaines la barre des 200 000 bénévoles inscrits a été atteinte.
 
@@ -55,7 +55,7 @@ Le schéma ci-dessous illustre la méthodologie du **Growth Hacking** / Lean (Ma
 
 ## Expérimentations
 
-### Cadrage
+### 1 - Cadrage
 
 > On ne peut améliorer que ce qu'on peut mesurer ! 
 
@@ -71,7 +71,7 @@ Ainsi, nous avons décidé de demander directement la profession des inscrits (2
 
 ![](/img/posts/capture-d-e-cran-2021-12-08-a-14.40.06-1-.png)
 
-#### Élaborer et déployer un tableau de bord spécifique
+#### 1.1 Élaborer et déployer un tableau de bord spécifique
 
 La deuxième étape consistait à présenter simplement et clairement cette nouvelle information aux équipes. Pour cela nous avons utilisé un outil open source très pratique : Metabase. Voici une illustration pour le mois de juin 2021 :
 
@@ -81,16 +81,68 @@ La deuxième étape consistait à présenter simplement et clairement cette nouv
 
 *Répartition des nouveaux inscrits par profils sur la période :  21,47% sont étudiants,* 
 
-
-
 ![](/img/posts/pasted-image-0-2-.png)
 
 *Statuts des nouveaux profils inscrits sur la plateforme, par semaine et par nombre*
 
-
-
-#### Accompagner le déploiement
+#### 1.2 Accompagner le déploiement
 
 Le travail de déploiement s’est mis en place simultanément : Clara Oberlé a pris contact avec les établissements d’enseignement supérieur afin de proposer un rendez-vous pour présenter le produit et, éventuellement, signer une convention de partenariat.
 
 Après cela, l'établissement pouvait choisir de communiquer des missions de bénévolat par e-mail auprès de ses étudiants et/ou intégrer sur son site internet le widget JeVeuxAider.gouv.fr. Nous avons ainsi pu faire installer un widget sur la page S’engager pendant ses études du site etudiant.gouv.fr. Ce dernier permettait non seulement d'afficher des missions de bénévolat sur une page de l'établissement sans quitter le site, mais aussi de savoir s'il était effectivement utilisé par les étudiants par la mesure du nombre de cliques et du nombre de participations attribuées au widget.
+
+
+
+![widget ](/img/posts/capture-d-e-cran-2022-01-18-a-10.05.38.png)
+
+
+
+
+
+#### 1.3 Outiller le déploiement par un CRM pour mesurer le ROI des actions réalisées
+
+Pour mémoire, un **CRM** est un outil de gestion de la relation client (Customer Relationship Management). Il permet de suivre les activités commerciales ou, dans le cadre d'une startup d'État, de déploiement. Et cela tout au long des différentes étapes de la vente : prise de contact, RDV de présentation, signature du partenariat, communications effectives des offres de bénévolat, etc.
+
+Le metric habituel d’un CRM, c’est… l’argent. En matière d’engagement, nous avons décidé que ce serait… le bénévole. C’est-à-dire, pour chaque établissement suivi, le nombre d'élèves de plus de 16 ans, et donc le maximum de bénévoles qui pourraient s'inscrire sur la plateforme. 
+
+Au-delà, JeVeuxAider.gouv.fr est surtout préoccupé par l’augmentation du nombre de participations (mises en relations entre une organisation et un bénévole) : c’est ce chiffre qui est discuté lors de leur comité d’investissement semestriel et, aujourd’hui, lors des réunions à Matignon sur la performance des réformes prioritaires de l’État.  
+
+L’hypothèse raisonnable d’une augmentation du nombre de participations par l’augmentation initiale d’étudiants inscrits sur la plateforme JeVeuxAider.gouv.fr nous a poussé à prioriser les établissements les plus rentables sur ce terrain et à estimer le potentiel des différents canaux d’acquisition. Quel taux de conversion à partir des effectifs affichés par les établissements ? Les étudiants peuvent ne pas ouvrir l'email envoyé par leur établissement (ou ne pas se rendre sur la page du site internet de l'école contenant le widget), ils peuvent ne pas être intéressés par le bénévolat, ou par les missions proposées, ou ne pas avoir le temps à ce moment-là etc.
+
+
+
+![Utiliser un CRM quand on génère de l'impact pour un usager et par du chiffre d'affaire](/img/posts/capture-d-e-cran-2021-12-08-a-15.18.39-1-.png "Utiliser un CRM quand on génère de l'impact pour un usager et par du chiffre d'affaire")
+
+
+
+### 2 - Tests et retour d’expérience
+
+
+
+Nous avons mené différents tests et actions à différents niveaux du [funnel AAARRR](https://deux.io/framework-aarrr/) (pirates metrics) afin d’optimiser celui-ci.
+
+#### 2.1 Activation : amélioration du funnel d'inscription
+
+
+
+75 % des visiteurs achèvent le processus complet d’inscription :  c'est un chiffre très honorable.
+
+Cette inscription se fait en plusieurs étapes :
+
+* étape 1 - choix d'une mission sur le site et clic sur le bouton de participation
+* étape 2 - saisie de l'email
+* étape 3 - saisie des informations (nom, prénom etc)
+* étape 4 - candidature
+
+Ce processus assez classique au e-commerce présente généralement un risque d’abandon. On passe facilement d’un onglet à l’autre, d’un formulaire à un message reçu etc. Pour éviter cela, des ’envois d’emails  "de rattrapage d'abandon",  ciblés et ponctuels, permettent au parcours de réapparaître aux yeux du visiteur qui aurait saisi uniquement son email (étape 2), ou n'aurait pas envoyé de candidature (étape 4).
+
+Le but est donc d'augmenter la conversion finale, en se concentrant sur le passage de l'étape 2 à 3, et 3 à 4, apparemment les plus délicates.
+
+Nous avons utilisé pour cela la solution d'email automation française : Sendinblue. Il a fallu avant cela faire une légère modification du code source avec l'ajout de [quelques lignes de code](https://github.com/Codeconut/jeveuxaider-back/pull/70).
+
+
+
+` $createContact = new \SendinBlue\Client\Model\CreateContact([
+            'email' => request('email'),
+            'listIds' => [233]
+        ]);`
