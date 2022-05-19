@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La communauté n'a pas failli !
+title: " Retour vers la failure."
 date: 2022-04-14
 authors:
   - Benjamin.Doberset
