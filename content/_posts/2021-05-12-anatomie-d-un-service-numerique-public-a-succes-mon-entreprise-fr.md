@@ -19,7 +19,7 @@ excerpt: >
 
 *Le désormais célèbre simulateur d'embauche dans sa version actuelle* 
 
-<iframe id="simulateurEmbauche" src="https://mon-entreprise.fr/iframes/simulateur-embauche?couleur=%23005aa1&amp;iframe&amp;" style="border: medium none; width: 100%; display: block; height: 614px; overflow: auto;" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="auto"></iframe>
+<iframe id="simulateurEmbauche" src="https://mon-entreprise.fr/iframes/simulateur-embauche?iframe" style="border: medium none; width: 100%; display: block; height: 614px; overflow: auto;" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="auto"></iframe>
 
 Derrière ce service : 
 
