@@ -17,7 +17,7 @@ L’intégralité de la population se déplacerait donc désormais à bicyclette
 
 Malgré tout,  l’usage du vélo augmente en flèche depuis quelques années. Dans [ce rapport de l’Insee](https://www.insee.fr/fr/statistiques/5400972), on peut lire qu’à Toulouse, en 2019, 10% des actifs qui ne travaillent pas à domicile utilisent un vélo. Ça représente 3 points de pourcentage de plus qu’en 2015. Et ce chiffre continue d’augmenter depuis la crise sanitaire, puisqu’entre 2019 et 2021, dans certaines rues toulousaines, on note une augmentation de 20% du trafic à vélo. 
 
-Mais quelle folie peut bien amener les gens à délaisser la grisaille des transports en commun telle la ligne 13 du métro parisien un lundi matin en heure de pointe ? Une mode passagère ? Une prise de conscience écologique ? La peur d’attraper le covid dans les transports en commun ?
+Mais quelle folie peut bien amener les gens à délaisser les embouteillages ou la grisaille des transports en commun telle la ligne 13 du métro parisien un lundi matin en heure de pointe ? Une mode passagère ? Une prise de conscience écologique ? La peur d’attraper le covid dans les transports en commun ?
 
 L’Insee a mis deux de ses meilleures expertes sur le coup, et nous n’avons pas manqué d’en faire de même. La réponse se trouve probablement au carrefour des différentes propositions susmentionnées. D’autant qu’à ces initiatives individuelles, il faut ajouter les initiatives des collectivités. Les deux s’entretiennent l’une l’autre, et les initiatives des communes pour inciter leurs habitant·e·s à devenir cyclistes sont de plus en plus nombreuses.
 
