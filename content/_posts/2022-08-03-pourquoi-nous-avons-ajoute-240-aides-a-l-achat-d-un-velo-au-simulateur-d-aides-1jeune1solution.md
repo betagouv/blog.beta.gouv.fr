@@ -7,7 +7,10 @@ authors:
   - charlotte.lecuit
 categories: general
 image: /img/posts/les-triplettes-de-belleville-photo-1429256.jpeg
-excerpt: ""
+excerpt: Ces dernières années ont vu l’émergence de deux catégories de
+  personnes. La première, ce sont celles qui possèdent un vélo. Ces personnes
+  vont au travail à vélo. Elles vont en vacances à vélo. Elles aiment faire du
+  vélo et elles aiment parler de vélo.
 ---
 Ces dernières années ont vu l’émergence de deux catégories de personnes. La première, ce sont celles qui possèdent un vélo. Ces personnes vont au travail à vélo. Elles vont en vacances à vélo. Elles aiment faire du vélo et elles aiment parler de vélo.
 
