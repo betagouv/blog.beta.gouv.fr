@@ -7,7 +7,7 @@ authors:
   - charlotte.lecuit
 categories: general
 image: /img/posts/les-triplettes-de-belleville-photo-1429256.jpeg
-excerpt: Où l'on vous apprend qu'on peut rentrer chez soi à vélo même lorsqu'on
+excerpt: Où l'on apprend qu'on peut rentrer chez soi à vélo même lorsqu'on
   habite en haut d'une côte, grâce au simulateur d'aides pour les jeunes
   d'1jeune1solution.
 ---
