@@ -19,7 +19,7 @@ Malgré tout,  l’usage du vélo augmente en flèche depuis quelques années. 
 
 Mais quelle folie peut bien amener les gens à délaisser les embouteillages ou la grisaille des transports en commun telle la ligne 13 du métro parisien un lundi matin en heure de pointe ? Une mode passagère ? Une prise de conscience écologique ? La peur d’attraper le covid ?
 
-L’Insee a mis deux de ses meilleures expertes sur le coup, et nous n’avons pas manqué d’en faire de même. Ces choix individuels s'expliquent probablement par ces différentes hypothèses. À cela, il faut ajouter les initiatives des collectivités. En effet, elles sont nombreuses à mettre en place des aides et aménager le paysage urbain. Les deux s’entretiennent l’une l’autre, et les initiatives des communes pour inciter leurs habitant·e·s à devenir cyclistes sont de plus en plus nombreuses.
+L’Insee a mis deux de ses meilleures expertes sur le coup, et nous n’avons pas manqué d’en faire de même. Ces choix individuels s'expliquent probablement par les trois hypothèses citées plus haut. Mais à cela, il faut ajouter les initiatives des collectivités. Celles-ci sont effectivement nombreuses à proposer des aides et à aménager le paysage urbain, développant le réseau de pistes cyclables et limitant les vitesses sur certaines voies.
 
 Mais le problème des aides au vélo est le même que celui des aides sociales en général : on se perd dans les différents dispositifs qui existent, on ne sait pas quelles démarches entreprendre, et c’est toujours difficile de savoir à quoi on est éligible exactement. Bref, on a parfois l’impression de pédaler dans la semoule.
 
