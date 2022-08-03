@@ -9,7 +9,7 @@ categories: general
 image: /img/posts/les-triplettes-de-belleville-photo-1429256.jpeg
 excerpt: Est-il possible de rentrer chez soi à vélo même lorsqu'on habite en
   haut d'une côte ? Grâce au simulateur d'aides pour les jeunes
-  d'1jeune1solution, c'est désormais envisageable.
+  d'1jeune1solution, la chose est désormais faisable.
 ---
 Ces dernières années ont vu l’émergence de deux catégories de personnes. La première, ce sont celles qui possèdent un vélo. Ces personnes vont au travail à vélo. Elles vont en vacances à vélo. Elles aiment faire du vélo et elles aiment parler de vélo.
 
