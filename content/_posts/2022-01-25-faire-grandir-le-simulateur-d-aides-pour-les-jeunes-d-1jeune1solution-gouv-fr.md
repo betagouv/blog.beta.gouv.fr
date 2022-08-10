@@ -49,3 +49,7 @@ Comme toutes les startups d’État, nous construisons notre service avec les pe
 **Vous travaillez dans une CAF, un département, une région ou toute autre institution, et vous souhaitez ajouter des aides ou en savoir plus sur l’outil d’ajout d’aides ? N’hésitez pas à nous [écrire](mailto:aides-jeunes@beta.gouv.fr) pour que nous convenions d'un rendez-vous !**
 
 A très bientôt, Charlotte et Clémence de l’équipe du simulateur d'aides pour les jeunes
+
+## Un aperçu de notre simulateur
+
+<script src="https://mes-aides.1jeune1solution.beta.gouv.fr/documents/iframe-integration.js"></script>
