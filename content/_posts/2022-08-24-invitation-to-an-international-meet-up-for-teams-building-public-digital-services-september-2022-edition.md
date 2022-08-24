@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invitation to an International Meet-up for Teams building Public Digital
-  Services - Septembre 2022 edition
+  Services - September 2022 edition
 date: 2022-08-24
 authors:
   - beatrice.mercier
@@ -43,7 +43,7 @@ We have tried to design this event to promote discussions and collaboration rath
 
 The proposed agenda is as follows : 
 
-**Wednesday 28th of Septembre**
+**Wednesday 28th of September**
 
 **•** Morning: 30 minute lightning talks from each team, showcasing products or services developed by their team, or zooming in on industry problems that have yet to be "cracked" (TBC depending on the list of attendees). Ideally, these short talks can serve as a jumping off point for workshops later in the afternoon. 
 
@@ -51,7 +51,7 @@ The proposed agenda is as follows :
 
 **•** Evening: dinner organized by beta.gouv.fr
 
-**Thursday 29th of Septembre** \
+**Thursday 29th of September** \
 \
 **•** Morning: open forum\
 \
