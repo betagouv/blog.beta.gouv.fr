@@ -42,17 +42,21 @@ We have tried to design this event to promote discussions and collaboration rath
 
 The proposed agenda is as follows : 
 
-• Wednesday 28th of Septembre:
+**• Wednesday 28th of Septembre**
 
-```
+Morning: 30 minute lightning talks from each team, showcasing products or services developed by their team, or zooming in on industry problems that have yet to be "cracked" (TBC depending on the list of attendees). Ideally, these short talks can serve as a jumping off point for workshops later in the afternoon. 
 
-```
+Afternoon: open forum
 
-• Thursday 29th of Septembre :
+Evening: dinner organized by beta.gouv.fr
 
-```
+**• Thursday 29th of Septembre** \
+\
+Morning: open forum\
+\
+Afternoon: open forum
 
-```
+Evening: dinner organized by beta.gouv.fr
 
 ## Why should I consider attending ?
 
