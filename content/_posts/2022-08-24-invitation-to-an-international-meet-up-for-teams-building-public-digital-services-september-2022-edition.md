@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invitation to an International Meet-up for Teams building Public Digital
-  Services - September 2022 edition
+  Services - Septembre 2022 edition
 date: 2022-08-24
 authors:
   - beatrice.mercier
