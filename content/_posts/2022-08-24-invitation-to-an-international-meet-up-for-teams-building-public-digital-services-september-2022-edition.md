@@ -7,6 +7,7 @@ authors:
   - beatrice.mercier
   - benjamin.doberset
 categories: general
+image: /img/posts/betagouv-rectangle.png
 ---
 Are you part of a digital team, working within government, to build and deliver high-impact digital services ?
 
