@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le simulateur d'aides pour les jeunes soutenu par France Relance ! 📈
-date: 2022-08-30
+date: 2022-09-06
 authors:
   - thomas.guillet
 categories: general
