@@ -5,7 +5,7 @@ date: 2022-09-06
 authors:
   - thomas.guillet
 categories: general
-image: /img/posts/betagouv-rectangle.png
+image: /img/posts/2022-09-06-logo1j1s-france-relance.png
 ---
 
 L'équipe Aides Jeunes, responsable du simulateur d'aides pour les jeunes de la plateforme 1jeune1solution, est lauréate d'un financement France Relance dans le cadre de l'appel à initiative « Développer la collaboration avec vos écosystèmes grâce au numérique (ITN2) ». À quoi sert ce financement ? Quels objectifs se fixe l'équipe ?
