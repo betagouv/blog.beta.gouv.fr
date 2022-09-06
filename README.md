@@ -2,4 +2,6 @@ L'actualité de l'Incubateur de Services Numériques de l'État français `beta.
 
 ## Installation
 
-bundle exec jekyll serve
+```bash
+bundle exec jekyll serve --future
+```
