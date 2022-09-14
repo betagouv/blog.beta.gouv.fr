@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parcours à beta.gouv.fr #1 : Amaury Dubot"
-date: 2020-07-09
+date: 2022-09-14
 authors:
   - audrey.guillon
   - amaury.dubot
