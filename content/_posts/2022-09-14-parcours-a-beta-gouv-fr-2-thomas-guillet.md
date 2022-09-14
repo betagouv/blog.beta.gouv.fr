@@ -3,8 +3,8 @@ layout: post
 title: "Parcours à Beta.gouv.fr #2 : Thomas Guillet"
 date: 2022-09-14
 authors:
-  - Alizée Breton
-  - Thomas Guillet
+  - alizee.breton
+  - thomas.guillet
 categories: general
 ---
 ## Question 0 : Peux-tu te présenter rapidement ?
