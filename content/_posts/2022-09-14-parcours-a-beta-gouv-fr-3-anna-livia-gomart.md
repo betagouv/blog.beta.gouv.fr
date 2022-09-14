@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parcours à Beta.gouv.fr #3 : Anna-Livia Gomart"
+title: "Parcours à Beta.gouv #3 : Anna-Livia Gomart"
 date: 2022-09-14
 authors:
   - alizee.breton
