@@ -14,15 +14,15 @@ Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez
 
  
 
-## Question 1 : Pourquoi as-tu rejoins Beta Gouv ?
+## Question 1 : Pourquoi as-tu rejoins Beta.gouv ?
 
 A la fin de mes études d’affaires publiques, j’avais envie de servir l’intérêt général et d’évoluer autour de politiques publiques qui me tenaient à cœur comme le soutien à l’activité économique.
 
-L’originalité et l’esprit d’innovation intrinsèques à Beta m’ont également séduit. 
+L’originalité et l’esprit d’innovation intrinsèques à Beta.gouv m’ont également séduit. 
 
  
 
-## Question 2 : Quelles ont été tes missions chez Beta Gouv ? 
+## Question 2 : Quelles ont été tes missions chez Beta.gouv ? 
 
 Ma première mission était chez [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) de février à octobre 2021 en tant que chargé de déploiement. La startup Signaux Faibles vise à détecter les entreprises à risque de faillite grâce à un modèle de machine learning reposant, entre autres, sur des variables fiscales et sociales, afin que l’État puisse déployer une politique proactive d’accompagnement. Un tel outil prédictif était particulièrement précieux au plus fort de la crise covid ! 
 
@@ -52,7 +52,7 @@ Je me suis renseigné sur l’écosystème de ces startups et j’ai suivi les d
 
 Une fois en poste, j’ai pris le temps de parler avec tous les membres pour comprendre leur rôle et mieux les connaître. 
 
-Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinblue, via la documentation de Beta et les ressources disponibles sur internet. 
+Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinblue, via la documentation de Beta.gouv et les ressources disponibles sur internet. 
 
  
 
@@ -60,7 +60,7 @@ Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinb
 
 Il ne faut pas hésiter à travailler dans plusieurs startups à la fois si votre emploi du temps le permet. Cela vous permettra de découvrir de nouveaux sujets et même de nouveaux métiers dans mon cas.
 
-Je conseille également de s’investir dans la communauté Beta, pour rencontrer de nouvelles personnes et se faire connaître. Plusieurs événements récurrents comme le forum mensuel, où se déroulent les clubs par métier, le permettent.\
+Je conseille également de s’investir dans la communauté Beta.gouv, pour rencontrer de nouvelles personnes et se faire connaître. Plusieurs événements récurrents comme le forum mensuel, où se déroulent les clubs par métier, le permettent.
 
-- -
+- - -
 E﻿ntretien réalisé par Audrey Guillon
