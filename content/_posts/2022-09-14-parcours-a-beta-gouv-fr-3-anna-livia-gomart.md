@@ -10,7 +10,7 @@ image: /img/posts/capture-d-e-cran-2022-09-14-a-14.46.31.png
 ---
 ## Question 0 : Peux-tu te présenter rapidement ?
 
-Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta Gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
+Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta.gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
 
 ## Question 1 : Pourquoi as-tu rejoint Beta Gouv ?
 
@@ -30,7 +30,7 @@ Je suis ensuite partie sur [API.gouv.fr](http://api.gouv.fr/)/[Api Particulier](
 
 Puis j’ai été lead dev sur une startup qui se montait : [Aidants connect](https://aidantsconnect.beta.gouv.fr/). Ce produit a pour but de sécuriser l’action des aidants professionnels qui accompagnent les usagers qui ont des difficultés avec les démarches administratives... J’ai lancé le produit et j’ai recruté une équipe tech et mis en place les process de développement.
 
-Enfin il y a eu l’ouverture du poste de CPO de Beta auquel j’ai postulé et où j’ai été prise. C’est la première fois que je prenais un rôle transverse chez Beta.
+Enfin il y a eu l’ouverture du poste de CPO de Beta.gouv auquel j’ai postulé et où j’ai été prise. C’est la première fois que je prenais un rôle transverse chez Beta.gouv.
 
 ## Question 3 : Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
 
@@ -45,18 +45,16 @@ Ensuite j’ai vu l’opportunité de prendre le rôle de CPO. Connaissant bien 
 Je précise aussi que j’ai eu 2 congés maternités chez Beta et qu’il a toujours été facile d’y revenir.
 
  
-
 ## Question 4 : Comment as-tu fait pour réaliser ces changements ?
 
 Je dirais surtout grâce au contact, à passer du temps à faire les choses qui m’intéressaient, avoir une réputation dans la communauté …
 
-Le meilleur move que j’ai fait chez Beta : je venais d’arriver et j' ai pris en charge la gestion des transports du Grand Séminaire : ça m'a permis de connaître tout le monde ! :)
+Le meilleur move que j’ai fait chez Beta.gouv : je venais d’arriver et j'ai pris en charge la gestion des transports du Grand Séminaire : ça m'a permis de connaître tout le monde ! :)
 
 J’ai aussi eu la chance d’être là au début, c’était facile de connaître tout le monde car on était qu’un petit groupe; au bout de 2-3 ans tout le monde te connaît.
 
 Pour continuer à m’améliorer, j'ai des mentors, des gens que j’ai identifiés dans le collectif qui sont meilleur·e·s que moi sur plein de sujets et je sais que je peux aller les voir quand j’ai besoin d’aide.
 
- 
 
 ## Question 5 : Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
 
