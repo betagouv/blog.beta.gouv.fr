@@ -6,6 +6,7 @@ authors:
   - Alizée Breton
   - Anna-Livia Gomart
 categories: general
+image: /img/posts/capture-d-e-cran-2022-09-14-a-14.46.31.png
 ---
 ## Question 0 : Peux-tu te présenter rapidement ?
 
