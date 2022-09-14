@@ -67,3 +67,6 @@ Le fait de connaître les gens chez Beta c’est aussi tous les channels Matterm
 Moi j’ai un plan généralement sur ce que je cherche dans ma prochaine expérience : je pars de là pour trouver la bonne mission. 
 
 Je me pose la question de ce que je cherche : est-ce que c’est juste du changement ? Est-ce que j’ai envie de faire la même chose autre part, faire quelque chose de nouveau, prendre de nouvelles responsabilités etc. Et choisir en fonction de ça : ne pas changer pour changer, avoir une vision claire, et après c'est plus facile quand tu échanges avec tes pairs si c’est clair dans ta tête.
+
+- -
+E﻿ntretien réalisé par Alizée Breton
