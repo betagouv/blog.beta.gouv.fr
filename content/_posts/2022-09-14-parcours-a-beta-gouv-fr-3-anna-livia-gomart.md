@@ -8,11 +8,11 @@ authors:
 categories: general
 image: /img/posts/capture-d-e-cran-2022-09-14-a-14.46.31.png
 ---
-## Question 0 : Peux-tu te présenter rapidement ?
+## Peux-tu te présenter rapidement ?
 
 Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta.gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
 
-## Question 1 : Pourquoi as-tu rejoint Beta Gouv ?
+## Pourquoi as-tu rejoint Beta Gouv ?
 
 C’était un rêve de gamine de travailler pour le service public : j’ai trouvé cet endroit où je pouvais réaliser ce rêve et où les conditions de travail m’allaient (autonomie, transparence, impact sur les usager·e·s, possibilité d’être freelance, de gérer mes horaires et mon planning comme j’en avais envie etc.).
 
@@ -20,9 +20,8 @@ Quand j’ai entendu parlé de Beta.gouv, je n’avais pas une grande expérienc
 
 J’ai fait des contrats de 3 mois pendant bien un an. J’ai tout de suite aimé la façon de travailler chez Beta par rapport au privé : on entrait dans un collectif qui souhaitait  s’affranchir des systèmes de hiérarchie pour apporter plus vite de la valeur aux usager·e·s, ce qui me parlait et me parle encore aujourd’hui.
 
- 
 
-## Question 2 : Quelles ont été tes missions chez Beta.gouv ? 
+## Quelles ont été tes missions chez Beta.gouv ? 
 
 Je suis rentrée en tant que développeuse sur OpenFisca,  qui permet à n’importe qui de calculer son impôts ainsi que les aides auxquelles iel peut prétendre. J’y suis restée plus d’un an.
 
@@ -32,7 +31,7 @@ Puis j’ai été lead dev sur une startup qui se montait : [Aidants connect](ht
 
 Enfin il y a eu l’ouverture du poste de CPO de Beta.gouv auquel j’ai postulé et où j’ai été prise. C’est la première fois que je prenais un rôle transverse chez Beta.gouv.
 
-## Question 3 : Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
+## Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
 
 Les envies … j’avais passé plus d’un an sur OpenFisca et j’avais envie de voir d’autres façons de travailler. J’ai commencé à regarder ce qui existait et il y avait 2 startups d’état qui cherchaient des devs, j’ai rencontré les 2 et l’une cherchait un profil aussi produit, et j’ai la chance d’avoir cette double casquette donc je suis allée travailler au début pour quelques jours seulement mais ça a matché tout de suite.
 
@@ -45,7 +44,7 @@ Ensuite j’ai vu l’opportunité de prendre le rôle de CPO. Connaissant bien 
 Je précise aussi que j’ai eu 2 congés maternités chez Beta et qu’il a toujours été facile d’y revenir.
 
  
-## Question 4 : Comment as-tu fait pour réaliser ces changements ?
+## Comment as-tu fait pour réaliser ces changements ?
 
 Je dirais surtout grâce au contact, à passer du temps à faire les choses qui m’intéressaient, avoir une réputation dans la communauté …
 
@@ -56,7 +55,7 @@ J’ai aussi eu la chance d’être là au début, c’était facile de connaît
 Pour continuer à m’améliorer, j'ai des mentors, des gens que j’ai identifiés dans le collectif qui sont meilleur·e·s que moi sur plein de sujets et je sais que je peux aller les voir quand j’ai besoin d’aide.
 
 
-## Question 5 : Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
+## Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
 
 Pour moi on vient te chercher avec les offres, on pense à toi quand on te connait et que l’on pense que c’est une bonne opportunité pour toi. Mais il ne faut pas non plus hésiter à communiquer sur ses envies de changement ou d’évolution, comme tout bon freelance.
 
