@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parcours à Beta.gouv.fr #2 : Thomas Guillet"
+title: "Parcours à Beta.gouv #2 : Thomas Guillet"
 date: 2022-09-14
 authors:
   - alizee.breton
@@ -10,11 +10,11 @@ image: /img/posts/capture-d-e-cran-2022-09-14-a-14.51.08.png
 ---
 ## Question 0 : Peux-tu te présenter rapidement ?
 
-Je  m’appelle Thomas Guillet, j’ai 33 ans. Je suis chez Beta.gouv depuis 2017, j’occupe actuellement la fonction de Product Manager (PM) pour la startup [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/aides). J’ai une formation maths-info-finance, et avant Beta Gouv j’ai travaillé dans la finance en France et Australie, où j’ai retrouvé les mêmes problématiques que chez Beta.
+Je  m’appelle Thomas Guillet, j’ai 33 ans. Je suis chez Beta.gouv depuis 2017, j’occupe actuellement la fonction de Product Manager (PM) pour la startup [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/aides). J’ai une formation maths-info-finance, et avant Beta.gouv j’ai travaillé dans la finance en France et Australie, où j’ai retrouvé les mêmes problématiques que chez Beta.gouv.
 
 Je contribue également à l’écosystème Beta.gouv pour essayer de faire un maximum de liens entre les différents produits. Je me vois comme un co-animateur mais sans la partie administrative.
 
-## Question 1 : Pourquoi as-tu rejoins Beta Gouv ?
+## Question 1 : Pourquoi as-tu rejoins Beta.gouv ?
 
 On m’a parlé de Beta.gouv, et en particulier du simulateur [mes-aides.gouv.fr](http://mes-aides.gouv.fr/) et du moteur de calculs associé au moment où je suis rentré en France et où j’envisageais de continuer dans la finance.
 
@@ -22,7 +22,7 @@ J’ai tout de suite vu l’opportunité de transition, avec du sens, des challe
 
 J’ai réalisé que je pouvais avoir de l’impact, aider les gens qui en ont le plus besoin, tout en continuant à avoir une bonne rémunération.
 
-## Question 2 : Quelles ont été tes missions chez Beta Gouv ? 
+## Question 2 : Quelles ont été tes missions chez Beta.gouv ? 
 
 J’ai commencé en tant que développeur principal en freelance sur [mes-aides.gouv.fr](http://mes-aides.gouv.fr/) ([produit décommisionné](https://beta.gouv.fr/startups/mes-aides.html) en mars 2020), un simulateur multi-prestations à destination des particuliers et des personnes qui les accompagnent, et j’ai ensuite été en binôme en tant que Product Owner toujours la même startup.
 
@@ -40,7 +40,7 @@ Je n’ai pas vraiment vécu ces expériences comme des mobilités : mon contrat
 
 Je suis repassé sur [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/) en tant que PM car j’avais emmagasiné beaucoup d’expérience sur le sujet des prestations sociales, et je faisais partie du collectif qui permettait de répondre à la commande politique.
 
-Pour moi, la mobilité est liée à la proximité des sujets, en l'occurrence dans mon cas : rendre le droit plus accessible notamment pour les prestations sociales et permettre des interactions humaines. J’ai pu développer une bonne connaissance du système socio-technique de Beta, je suis devenu une personne ressource qui comprends et connais les personnes dans cet écosystème.
+Pour moi, la mobilité est liée à la proximité des sujets, en l'occurrence dans mon cas : rendre le droit plus accessible notamment pour les prestations sociales et permettre des interactions humaines. J’ai pu développer une bonne connaissance du système socio-technique de Beta.gouv, je suis devenu une personne ressource qui comprends et connais les personnes dans cet écosystème.
 
 ## Question 4 : Comment as-tu fait pour réaliser ces changements  ? 
 
@@ -54,7 +54,7 @@ Je n’ai pas fait de veille des offres ni de formation si ce n’est la formati
 
 D’abord, être curieux·se. Faire les choses de façon (vraiment très) incrémentale, fluide, éviter les silos, capitaliser sur les surprises passées (ce sont souvent de bonnes histoires à raconter) et voir comment elles s’exportent.
 
-Je dirais aussi profiter des 10% de notre temps qui peuvent être alloués pour [travailler sur un sujet transverse au sein de Beta](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/actions-transverses), y contribuer et apprendre.
+Je dirais aussi profiter des 10% de notre temps qui peuvent être alloués pour [travailler sur un sujet transverse au sein de Beta.gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/actions-transverses), y contribuer et apprendre.
 
 J’ai envie que les mobilités améliorent le collectif, cela me donne envie de donner des feedbacks aux équipes que l’on quitte pour qu’elles s’améliorent.
 
