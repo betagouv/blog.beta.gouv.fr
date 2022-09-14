@@ -12,15 +12,11 @@ image: /img/posts/capture-d-e-cran-2022-09-14-a-13.06.59.png
 
 Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez Beta.gouv depuis février 2021. Au-delà de mes missions d’acquisition, d’activation et de rétention d'utilisateurs·trices des services publics numériques, j’ai également depuis peu de nouvelles missions en lien avec la gestion de produit (Product Owner).  
 
- 
-
 ## Pourquoi as-tu rejoins Beta.gouv ?
 
 A la fin de mes études d’affaires publiques, j’avais envie de servir l’intérêt général et d’évoluer autour de politiques publiques qui me tenaient à cœur comme le soutien à l’activité économique.
 
 L’originalité et l’esprit d’innovation intrinsèques à Beta.gouv m’ont également séduit. 
-
- 
 
 ## Quelles ont été tes missions chez Beta.gouv ? 
 
@@ -34,15 +30,11 @@ La dernière mission sur laquelle je suis engagé est celle de [Carnet de bord](
 
 Je suis monté en compétence dans cette startup sur des missions de Product Owner pour assister la Product Manager de l’équipe. J’ai également contribué au déploiement du département des Ardennes et à la gestion du support utilisateurs·trices.
 
- 
-
 ## Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
 
 Je souhaitais évoluer autour de nouvelles politiques publiques, en l’espèce celles de solidarité et d’insertion qui me parlaient beaucoup. Mon emploi du temps me permettait par ailleurs de commencer une telle mission au ministère du Travail à temps partiel à côté de ma mission initiale à Bercy.
 
 J’avais par ailleurs envie de toucher à de nouveaux aspects du métier de chargé·e de déploiement: mise en place d’un support utilisateur·trice, définition d’une stratégie d’acquisition, techniques de promotion et de communication), et me former à des aspects produit (rédaction de User Stories, participation à la gestion d’un backlog, etc.). 
-
- 
 
 ## Comment as-tu fait pour réaliser ces changements  ?
 
@@ -53,8 +45,6 @@ Je me suis renseigné sur l’écosystème de ces startups et j’ai suivi les d
 Une fois en poste, j’ai pris le temps de parler avec tous les membres pour comprendre leur rôle et mieux les connaître. 
 
 Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinblue, via la documentation de Beta.gouv et les ressources disponibles sur internet. 
-
- 
 
 ## Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
 
