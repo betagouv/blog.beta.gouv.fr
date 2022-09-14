@@ -3,8 +3,8 @@ layout: post
 title: "Parcours à beta.gouv.fr #1 : Amaury Dubot"
 date: 2022-09-08
 authors:
-  - Audrey Guillon
-  - Amaury Dubot
+  - audrey.guillon
+  - amaury.dubot
 categories: general
 ---
 ## Question 0 : Peux-tu te présenter ?
@@ -60,5 +60,6 @@ Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinb
 Il ne faut pas hésiter à travailler dans plusieurs startups à la fois si votre emploi du temps le permet. Cela vous permettra de découvrir de nouveaux sujets et même de nouveaux métiers dans mon cas.
 
 Je conseille également de s’investir dans la communauté Beta, pour rencontrer de nouvelles personnes et se faire connaître. Plusieurs événements récurrents comme le forum mensuel, où se déroulent les clubs par métier, le permettent.\
-\
-E﻿ntretien réalisé avec Audrey Guillon
+
+- -
+E﻿ntretien réalisé par Audrey Guillon
