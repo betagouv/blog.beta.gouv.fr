@@ -8,6 +8,11 @@ authors:
 categories: general
 tags: mobilité interne
 image: /img/posts/capture-d-e-cran-2022-09-14-a-14.46.31.jpeg
+excerpt: >-
+  ## Peux-tu te présenter ?
+
+
+  Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta.gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
 ---
 ## Peux-tu te présenter ?
 
@@ -20,7 +25,6 @@ C’était un rêve de gamine de travailler pour le service public : j’ai trou
 Quand j’ai entendu parlé de Beta.gouv, je n’avais pas une grande expérience de développeuse mais un bon bagage produit dans les apps et dans la banque. Il s’avère qu’OpenFisca, le simulateur de systèmes socio-fiscaux, avait un poste d’ouvert à ce moment-là et mon profil leur a plu.
 
 J’ai fait des contrats de 3 mois pendant bien un an. J’ai tout de suite aimé la façon de travailler chez Beta par rapport au privé : on entrait dans un collectif qui souhaitait  s’affranchir des systèmes de hiérarchie pour apporter plus vite de la valeur aux usager·e·s, ce qui me parlait et me parle encore aujourd’hui.
-
 
 ## Quelles ont été tes missions chez Beta.gouv ? 
 
@@ -44,7 +48,6 @@ Ensuite j’ai vu l’opportunité de prendre le rôle de CPO. Connaissant bien 
 
 Je précise aussi que j’ai eu 2 congés maternités chez Beta et qu’il a toujours été facile d’y revenir.
 
- 
 ## Comment as-tu fait pour réaliser ces changements ?
 
 Je dirais surtout grâce au contact, à passer du temps à faire les choses qui m’intéressaient, avoir une réputation dans la communauté …
@@ -54,7 +57,6 @@ Le meilleur move que j’ai fait chez Beta.gouv : je venais d’arriver et j'ai 
 J’ai aussi eu la chance d’être là au début, c’était facile de connaître tout le monde car on était qu’un petit groupe; au bout de 2-3 ans tout le monde te connaît.
 
 Pour continuer à m’améliorer, j'ai des mentors, des gens que j’ai identifiés dans le collectif qui sont meilleur·e·s que moi sur plein de sujets et je sais que je peux aller les voir quand j’ai besoin d’aide.
-
 
 ## Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
 
