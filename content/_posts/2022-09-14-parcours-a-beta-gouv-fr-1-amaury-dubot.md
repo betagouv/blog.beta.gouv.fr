@@ -7,6 +7,11 @@ authors:
   - amaury.dubot
 categories: general
 image: /img/posts/capture-d-e-cran-2022-09-14-a-13.06.59.png
+excerpt: >
+  ## Peux-tu te présenter ?
+
+
+  Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez Beta.gouv depuis février 2021. Au-delà de mes missions d’acquisition, d’activation et de rétention d'utilisateurs·trices des services publics numériques, j’ai également depuis peu de nouvelles missions en lien avec la gestion de produit (Product Owner).
 ---
 ## Peux-tu te présenter ?
 
