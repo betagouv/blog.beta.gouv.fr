@@ -7,6 +7,11 @@ authors:
   - thomas.guillet
 categories: general
 image: /img/posts/capture-d-e-cran-2022-09-14-a-14.51.08.png
+excerpt: >-
+  ## Peux-tu te présenter ?
+
+
+  Je  m’appelle Thomas Guillet, j’ai 33 ans. Je suis chez Beta.gouv depuis 2017, j’occupe actuellement la fonction de Product Manager (PM) pour la startup [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/aides). J’ai une formation maths-info-finance, et avant Beta.gouv j’ai travaillé dans la finance en France et Australie, où j’ai retrouvé les mêmes problématiques que chez Beta.gouv.
 ---
 ## Peux-tu te présenter ?
 
