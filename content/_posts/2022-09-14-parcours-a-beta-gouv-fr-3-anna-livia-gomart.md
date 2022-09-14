@@ -8,7 +8,7 @@ authors:
 categories: general
 image: /img/posts/capture-d-e-cran-2022-09-14-a-14.46.31.png
 ---
-## Peux-tu te présenter rapidement ?
+## Peux-tu te présenter ?
 
 Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta.gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
 
