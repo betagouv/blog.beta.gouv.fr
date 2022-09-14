@@ -6,6 +6,7 @@ authors:
   - alizee.breton
   - thomas.guillet
 categories: general
+image: /img/posts/capture-d-e-cran-2022-09-14-a-14.51.08.png
 ---
 ## Question 0 : Peux-tu te présenter rapidement ?
 
