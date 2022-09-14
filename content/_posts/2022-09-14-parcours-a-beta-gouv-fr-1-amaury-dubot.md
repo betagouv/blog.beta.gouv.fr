@@ -8,13 +8,13 @@ authors:
 categories: general
 image: /img/posts/capture-d-e-cran-2022-09-14-a-13.06.59.png
 ---
-## Question 0 : Peux-tu te présenter ?
+## Peux-tu te présenter ?
 
 Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez Beta.gouv depuis février 2021. Au-delà de mes missions d’acquisition, d’activation et de rétention d'utilisateurs·trices des services publics numériques, j’ai également depuis peu de nouvelles missions en lien avec la gestion de produit (Product Owner).  
 
  
 
-## Question 1 : Pourquoi as-tu rejoins Beta.gouv ?
+## Pourquoi as-tu rejoins Beta.gouv ?
 
 A la fin de mes études d’affaires publiques, j’avais envie de servir l’intérêt général et d’évoluer autour de politiques publiques qui me tenaient à cœur comme le soutien à l’activité économique.
 
@@ -22,7 +22,7 @@ L’originalité et l’esprit d’innovation intrinsèques à Beta.gouv m’ont
 
  
 
-## Question 2 : Quelles ont été tes missions chez Beta.gouv ? 
+## Quelles ont été tes missions chez Beta.gouv ? 
 
 Ma première mission était chez [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) de février à octobre 2021 en tant que chargé de déploiement. La startup Signaux Faibles vise à détecter les entreprises à risque de faillite grâce à un modèle de machine learning reposant, entre autres, sur des variables fiscales et sociales, afin que l’État puisse déployer une politique proactive d’accompagnement. Un tel outil prédictif était particulièrement précieux au plus fort de la crise covid ! 
 
@@ -36,7 +36,7 @@ Je suis monté en compétence dans cette startup sur des missions de Product Own
 
  
 
-## Question 3 : Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
+## Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
 
 Je souhaitais évoluer autour de nouvelles politiques publiques, en l’espèce celles de solidarité et d’insertion qui me parlaient beaucoup. Mon emploi du temps me permettait par ailleurs de commencer une telle mission au ministère du Travail à temps partiel à côté de ma mission initiale à Bercy.
 
@@ -44,7 +44,7 @@ J’avais par ailleurs envie de toucher à de nouveaux aspects du métier de cha
 
  
 
-## Question 4 : Comment as-tu fait pour réaliser ces changements  ?
+## Comment as-tu fait pour réaliser ces changements  ?
 
 J’ai vu les offres d’emploi sur le canal Mattermost « incubateur-embauche » et j’ai pris contact avec les startups qui avaient publié ces offres. 
 
@@ -56,7 +56,7 @@ Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinb
 
  
 
-## Question 5 : Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
+## Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
 
 Il ne faut pas hésiter à travailler dans plusieurs startups à la fois si votre emploi du temps le permet. Cela vous permettra de découvrir de nouveaux sujets et même de nouveaux métiers dans mon cas.
 
