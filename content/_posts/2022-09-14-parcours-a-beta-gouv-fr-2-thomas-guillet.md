@@ -8,13 +8,13 @@ authors:
 categories: general
 image: /img/posts/capture-d-e-cran-2022-09-14-a-14.51.08.png
 ---
-## Question 0 : Peux-tu te présenter rapidement ?
+## Peux-tu te présenter rapidement ?
 
 Je  m’appelle Thomas Guillet, j’ai 33 ans. Je suis chez Beta.gouv depuis 2017, j’occupe actuellement la fonction de Product Manager (PM) pour la startup [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/aides). J’ai une formation maths-info-finance, et avant Beta.gouv j’ai travaillé dans la finance en France et Australie, où j’ai retrouvé les mêmes problématiques que chez Beta.gouv.
 
 Je contribue également à l’écosystème Beta.gouv pour essayer de faire un maximum de liens entre les différents produits. Je me vois comme un co-animateur mais sans la partie administrative.
 
-## Question 1 : Pourquoi as-tu rejoins Beta.gouv ?
+## Pourquoi as-tu rejoins Beta.gouv ?
 
 On m’a parlé de Beta.gouv, et en particulier du simulateur [mes-aides.gouv.fr](http://mes-aides.gouv.fr/) et du moteur de calculs associé au moment où je suis rentré en France et où j’envisageais de continuer dans la finance.
 
@@ -22,7 +22,7 @@ J’ai tout de suite vu l’opportunité de transition, avec du sens, des challe
 
 J’ai réalisé que je pouvais avoir de l’impact, aider les gens qui en ont le plus besoin, tout en continuant à avoir une bonne rémunération.
 
-## Question 2 : Quelles ont été tes missions chez Beta.gouv ? 
+## Quelles ont été tes missions chez Beta.gouv ? 
 
 J’ai commencé en tant que développeur principal en freelance sur [mes-aides.gouv.fr](http://mes-aides.gouv.fr/) ([produit décommisionné](https://beta.gouv.fr/startups/mes-aides.html) en mars 2020), un simulateur multi-prestations à destination des particuliers et des personnes qui les accompagnent, et j’ai ensuite été en binôme en tant que Product Owner toujours la même startup.
 
@@ -34,7 +34,7 @@ Je suis revenu en freelance début 2021 pour faire du coaching de certaines équ
 
 Fin 2021, je suis passé du statut de freelance à membre de la coopérative [Codeurs en Liberté](https://www.xn--codeursenlibert-pnb.fr/) (une entreprise libérée, détenue par ses salariés).
 
-## Question 3 : Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
+## Qu’est-ce qui a motivé ta ou tes mobilité(s) ?
 
 Je n’ai pas vraiment vécu ces expériences comme des mobilités : mon contrat se terminait, j’avais juste envie de continuer à travailler avec certaines personnes de l’écosystème.
 
@@ -42,7 +42,7 @@ Je suis repassé sur [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.
 
 Pour moi, la mobilité est liée à la proximité des sujets, en l'occurrence dans mon cas : rendre le droit plus accessible notamment pour les prestations sociales et permettre des interactions humaines. J’ai pu développer une bonne connaissance du système socio-technique de Beta.gouv, je suis devenu une personne ressource qui comprends et connais les personnes dans cet écosystème.
 
-## Question 4 : Comment as-tu fait pour réaliser ces changements  ? 
+## Comment as-tu fait pour réaliser ces changements  ? 
 
 Pour ma transition vers du coaching sur [RDV-Solidarités](https://www.rdv-solidarites.fr/), j’ai simplement accepté la demande de Florian Delezenne (actuellement responsable de l’incubateur) suite au départ d’un coach. Ayant contribué à la consolidation des réponses à l’appel à manifestation d’intérêt initiale, j’avais les éléments de contexte nécessaires pour reprendre facilement l’accompagnement de cette équipe.
 
@@ -50,7 +50,7 @@ En ce qui concerne l’accompagnement de [Data.insertion](https://beta.gouv.fr/s
 
 Je n’ai pas fait de veille des offres ni de formation si ce n’est la formation Feedback (qui détaille notamment la méthodologie COIN pour Context, Observation, Impact, Next steps).
 
-## Question 5 : Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
+## Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
 
 D’abord, être curieux·se. Faire les choses de façon (vraiment très) incrémentale, fluide, éviter les silos, capitaliser sur les surprises passées (ce sont souvent de bonnes histoires à raconter) et voir comment elles s’exportent.
 
