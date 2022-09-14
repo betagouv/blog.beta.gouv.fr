@@ -6,7 +6,7 @@ authors:
   - alizee.breton
   - anna-livia.gomart
 categories: general
-image: /img/posts/capture-d-e-cran-2022-09-14-a-14.46.31.png
+image: /img/posts/capture-d-e-cran-2022-09-14-a-14.46.31.jpeg
 ---
 ## Peux-tu te présenter ?
 
