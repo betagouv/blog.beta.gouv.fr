@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parcours à Beta.gouv #2 : Thomas Guillet"
-date: 2022-09-14
+date: 2022-09-15
 authors:
   - alizee.breton
   - thomas.guillet
