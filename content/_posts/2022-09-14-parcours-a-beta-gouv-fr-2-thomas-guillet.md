@@ -6,7 +6,7 @@ authors:
   - alizee.breton
   - thomas.guillet
 categories: general
-image: /img/posts/capture-d-e-cran-2022-09-14-a-14.51.08.png
+image: /img/posts/capture-d-e-cran-2022-09-15-a-09.59.41.png
 excerpt: >-
   ## Peux-tu te présenter ?
 
