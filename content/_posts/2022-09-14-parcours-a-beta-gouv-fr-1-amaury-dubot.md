@@ -19,7 +19,7 @@ A la fin de mes études d’affaires publiques, j’avais envie de servir l’in
 
 L’originalité et l’esprit d’innovation intrinsèques à Beta.gouv m’ont également séduit. 
 
-## Quelles ont été tes missions chez Beta.gouv ? 
+## Quelles ont été tes missions chez beta.gouv.fr ? 
 
 Ma première mission était chez [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) de février à octobre 2021 en tant que chargé de déploiement. La startup Signaux Faibles vise à détecter les entreprises à risque de faillite grâce à un modèle de machine learning reposant, entre autres, sur des variables fiscales et sociales, afin que l’État puisse déployer une politique proactive d’accompagnement. Un tel outil prédictif était particulièrement précieux au plus fort de la crise covid ! 
 
