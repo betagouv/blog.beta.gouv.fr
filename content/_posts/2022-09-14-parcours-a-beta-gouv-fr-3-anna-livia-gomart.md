@@ -12,7 +12,7 @@ excerpt: >-
   ## Peux-tu te présenter ?
 
 
-  Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta.gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
+  Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez beta.gouv.fr en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
 ---
 ## Pourquoi as-tu rejoint beta.gouv.fr ?
 
@@ -20,7 +20,7 @@ C’était un rêve de gamine de travailler pour le service public : j’ai trou
 
 Quand j’ai entendu parlé de beta.gouv.fr, je n’avais pas une grande expérience de développeuse mais un bon bagage produit dans les apps et dans la banque. Il s’avère qu’OpenFisca, le simulateur de systèmes socio-fiscaux, avait un poste d’ouvert à ce moment-là et mon profil leur a plu.
 
-J’ai fait des contrats de 3 mois pendant bien un an. J’ai tout de suite aimé la façon de travailler chez Beta par rapport au privé : on entrait dans un collectif qui souhaitait  s’affranchir des systèmes de hiérarchie pour apporter plus vite de la valeur aux usager·e·s, ce qui me parlait et me parle encore aujourd’hui.
+J’ai fait des contrats de 3 mois pendant bien un an. J’ai tout de suite aimé la façon de travailler chez beta.gouv.fr par rapport au privé : on entrait dans un collectif qui souhaitait  s’affranchir des systèmes de hiérarchie pour apporter plus vite de la valeur aux usager·e·s, ce qui me parlait et me parle encore aujourd’hui.
 
 ## Quelles ont été tes missions chez beta.gouv.fr ? 
 
@@ -42,7 +42,7 @@ Pour l’opportunité [Aidants connect](https://aidantsconnect.beta.gouv.fr/) j�
 
 Ensuite j’ai vu l’opportunité de prendre le rôle de CPO. Connaissant bien Beta je savais ce que je voulais faire niveau produit (ne pas en faire en dehors des rôles assignés, éviter d’avoir des penseurs et des faiseurs …), j’avais cette vision et je souhaitais la porter. J’ai postulé et après (beaucoup) d’entretiens j’ai été prise.
 
-Je précise aussi que j’ai eu 2 congés maternités chez Beta et qu’il a toujours été facile d’y revenir.
+Je précise aussi que j’ai eu 2 congés maternités chez beta.gouv.fr et qu’il a toujours été facile d’y revenir.
 
 ## Comment as-tu fait pour réaliser ces changements ?
 
@@ -58,7 +58,7 @@ Pour continuer à m’améliorer, j'ai des mentors, des gens que j’ai identifi
 
 Pour moi on vient te chercher avec les offres, on pense à toi quand on te connait et que l’on pense que c’est une bonne opportunité pour toi. Mais il ne faut pas non plus hésiter à communiquer sur ses envies de changement ou d’évolution, comme tout bon freelance.
 
-Le fait de connaître les gens chez Beta c’est aussi tous les channels Mattermost où tu peux rencontrer des personnes avec lesquelles il n’y a pas de lien de travail. Et aussi faire du transverse !
+Le fait de connaître les gens chez beta.gouv.fr c’est aussi tous les channels Mattermost où tu peux rencontrer des personnes avec lesquelles il n’y a pas de lien de travail. Et aussi faire du transverse !
 
 Moi j’ai un plan généralement sur ce que je cherche dans ma prochaine expérience : je pars de là pour trouver la bonne mission. 
 
