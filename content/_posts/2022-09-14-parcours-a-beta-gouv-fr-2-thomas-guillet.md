@@ -12,13 +12,10 @@ excerpt: >-
 
 
   Je  m’appelle Thomas Guillet, j’ai 33 ans. Je suis chez Beta.gouv depuis 2017, j’occupe actuellement la fonction de Product Manager (PM) pour la startup [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/aides). J’ai une formation maths-info-finance, et avant Beta.gouv j’ai travaillé dans la finance en France et Australie, où j’ai retrouvé les mêmes problématiques que chez Beta.gouv.
+
+
+  Je contribue également à l’écosystème Beta.gouv pour essayer de faire un maximum de liens entre les différents produits. Je me vois comme un co-animateur mais sans la partie administrative.
 ---
-## Peux-tu te présenter ?
-
-Je  m’appelle Thomas Guillet, j’ai 33 ans. Je suis chez Beta.gouv depuis 2017, j’occupe actuellement la fonction de Product Manager (PM) pour la startup [Aides Jeunes](https://mes-aides.1jeune1solution.beta.gouv.fr/aides). J’ai une formation maths-info-finance, et avant Beta.gouv j’ai travaillé dans la finance en France et Australie, où j’ai retrouvé les mêmes problématiques que chez Beta.gouv.
-
-Je contribue également à l’écosystème Beta.gouv pour essayer de faire un maximum de liens entre les différents produits. Je me vois comme un co-animateur mais sans la partie administrative.
-
 ## Pourquoi as-tu rejoins Beta.gouv ?
 
 On m’a parlé de Beta.gouv, et en particulier du simulateur [mes-aides.gouv.fr](http://mes-aides.gouv.fr/) et du moteur de calculs associé au moment où je suis rentré en France et où j’envisageais de continuer dans la finance.
