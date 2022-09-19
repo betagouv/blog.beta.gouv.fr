@@ -11,13 +11,13 @@ excerpt: >
   ## Peux-tu te présenter ?
 
 
-  Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez Beta.gouv depuis février 2021. Au-delà de mes missions d’acquisition, d’activation et de rétention d'utilisateurs·trices des services publics numériques, j’ai également depuis peu de nouvelles missions en lien avec la gestion de produit (Product Owner).
+  Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez beta.gouv.fr depuis février 2021. Au-delà de mes missions d’acquisition, d’activation et de rétention d'utilisateurs·trices des services publics numériques, j’ai également depuis peu de nouvelles missions en lien avec la gestion de produit (Product Owner).
 ---
 ## Pourquoi as-tu rejoins beta.gouv.fr ?
 
 A la fin de mes études d’affaires publiques, j’avais envie de servir l’intérêt général et d’évoluer autour de politiques publiques qui me tenaient à cœur comme le soutien à l’activité économique.
 
-L’originalité et l’esprit d’innovation intrinsèques à Beta.gouv m’ont également séduit. 
+L’originalité et l’esprit d’innovation intrinsèques à beta.gouv.fr m’ont également séduit. 
 
 ## Quelles ont été tes missions chez beta.gouv.fr ? 
 
@@ -45,13 +45,13 @@ Je me suis renseigné sur l’écosystème de ces startups et j’ai suivi les d
 
 Une fois en poste, j’ai pris le temps de parler avec tous les membres pour comprendre leur rôle et mieux les connaître. 
 
-Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinblue, via la documentation de Beta.gouv et les ressources disponibles sur internet. 
+Je me suis également formé à de nouveaux outils comme Crisp ou encore Sendinblue, via la documentation de beta.gouv.fr et les ressources disponibles sur internet. 
 
 ## Quels conseils donnerais-tu aux personnes qui souhaitent réaliser une mobilité ?
 
 Il ne faut pas hésiter à travailler dans plusieurs startups à la fois si votre emploi du temps le permet. Cela vous permettra de découvrir de nouveaux sujets et même de nouveaux métiers dans mon cas.
 
-Je conseille également de s’investir dans la communauté Beta.gouv, pour rencontrer de nouvelles personnes et se faire connaître. Plusieurs événements récurrents comme le forum mensuel, où se déroulent les clubs par métier, le permettent.
+Je conseille également de s’investir dans la communauté beta.gouv.fr, pour rencontrer de nouvelles personnes et se faire connaître. Plusieurs événements récurrents comme le forum mensuel, où se déroulent les clubs par métier, le permettent.
 
 - - -
 E﻿ntretien réalisé par Audrey Guillon
