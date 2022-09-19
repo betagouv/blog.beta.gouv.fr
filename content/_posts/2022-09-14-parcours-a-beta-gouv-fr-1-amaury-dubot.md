@@ -13,10 +13,6 @@ excerpt: >
 
   Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez Beta.gouv depuis février 2021. Au-delà de mes missions d’acquisition, d’activation et de rétention d'utilisateurs·trices des services publics numériques, j’ai également depuis peu de nouvelles missions en lien avec la gestion de produit (Product Owner).
 ---
-## Peux-tu te présenter ?
-
-Je m’appelle Amaury Dubot, j’ai 26 ans. Je suis chargé de déploiement chez Beta.gouv depuis février 2021. Au-delà de mes missions d’acquisition, d’activation et de rétention d'utilisateurs·trices des services publics numériques, j’ai également depuis peu de nouvelles missions en lien avec la gestion de produit (Product Owner).  
-
 ## Pourquoi as-tu rejoins Beta.gouv ?
 
 A la fin de mes études d’affaires publiques, j’avais envie de servir l’intérêt général et d’évoluer autour de politiques publiques qui me tenaient à cœur comme le soutien à l’activité économique.
