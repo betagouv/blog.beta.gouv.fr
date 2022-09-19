@@ -14,10 +14,6 @@ excerpt: >-
 
   Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta.gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
 ---
-## Peux-tu te présenter ?
-
-Je m’appelle Anna-Livia, j’ai 37 ans, je suis arrivée chez Beta.gouv en 2017 et j’en suis actuellement la Chief Product Officer (CPO).
-
 ## Pourquoi as-tu rejoint Beta Gouv ?
 
 C’était un rêve de gamine de travailler pour le service public : j’ai trouvé cet endroit où je pouvais réaliser ce rêve et où les conditions de travail m’allaient (autonomie, transparence, impact sur les usager·e·s, possibilité d’être freelance, de gérer mes horaires et mon planning comme j’en avais envie etc.).
