@@ -33,13 +33,13 @@ L’équipe travaille également en coordination avec les co-animateurs de DINUM
 
 Au regard du contexte présidentiel et de la reconstitution du Gouvernement, la Brigade s’est provisoirement concentrée sur l’accompagnement de produits numériques existants. 
 
-# L’hébergement et le relogement des déplacé·e·s ukrainien·e·s
+### L’hébergement et le relogement des déplacé·e·s ukrainien·e·s
 
 En février 2022, alors que la guerre en Ukraine se déclare, la Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL) doit coordonner la politique d’hébergement d’urgence puis de relogement des réfugiés ukrainiens. Plusieurs défis sont à relever : d’une part, la coordination nationale inter-administrations et associations, d’autre part l’amélioration du parcours des réfugié·e·s à leur arrivée en France. La Brigade a été saisie pour  investiguer ce double sujet : un binôme coach-développeur a réalisé une investigation de deux semaines sous la forme d’entretiens avec les parties prenantes. Des propositions ont été faites à la DIHAL afin d’éviter des outils de pilotage contraignants pour les acteurs du terrain et améliorer la réception des réfugié·e·s sur le long terme. 
 
 [Cette mission](https://beta.gouv.fr/startups/logement-crise.html) a permis de soulever notamment un point intéressant pour les prochaines commandes d’urgence : les situations de crise relèvent de dysfonctionnements structurels, qui peuvent être pansés de façon conjoncturelle mais qui exigent d’intégrer une réflexion plus long terme autour de la politique publique concernée. 
 
-# Le soutien à quatres politiques publiques prioritaires du quinquennat
+### Le soutien à quatres politiques publiques prioritaires du quinquennat
 
 La Brigade a accompagné différents produits sur des sujets jugés prioritaires ou à fort potentiel d’impact pour le quinquennat à venir, en phase d’investigation ou de construction :
 - Investigation avec le [Défenseur des Droits](https://www.defenseurdesdroits.fr) pour améliorer le parcours des personnes en situation de discrimination ou de non respect de leur droit et qui font appel à cette autorité indépendante.  Grâce au recueil des données et la mise en place de données analytiques, l’équipe a permis de déceler des faiblesses au niveau du formulaire de saisine et d’améliorer le parcours utilisateurs pour diminuer le taux d’abandon.
@@ -47,7 +47,7 @@ La Brigade a accompagné différents produits sur des sujets jugés prioritaires
 - Audit et recommandations d’améliorations techniques de la plateforme [Histologe](https://histologe.beta.gouv.fr) qui permet de faciliter le signalement et la prise en charge du mal logement, anciennement Startup de l’Agglomération de Pau, devenu au cœur de la stratégie nationale de lutte contre le mal-logement. 
 - Investigation avec [Carte Jeune](https://beta.gouv.fr/startups/pass.engagement.jeune.html) pour accompagner l’intrapreneuse dans la définition de sa vision stratégique et l’élaboration de sa feuille de route opérationnelle.
 
-# Améliorer les standards techniques du réseau beta.gouv
+### Améliorer les standards techniques du réseau beta.gouv
 
 En tant qu’équipe interministérielle, la Brigade s’est aussi donnée pour mission de contribuer à l’amélioration des standards techniques du réseau beta, notamment par des missions sur : 
 - L’accessibilité à travers des formations et la mise en conformité partielle du site beta.gouv.fr.
@@ -56,7 +56,7 @@ En tant qu’équipe interministérielle, la Brigade s’est aussi donnée pour 
 au fonctionnement et à l’implémentation des en-têtes de sécurité HTTP.
 - Le développement/l’amélioration de communs comme Audioconf[] ou Dashlord[].
 
-# Les facteurs clés de succès pour les start-ups d’État
+## Les facteurs clés de succès pour les start-ups d’État
 
 Au travers de ces différentes missions, la Brigade a constaté le besoin de rappeler quelques facteurs clés de l'approche beta.gouv pour les personnes travaillant pour ou avec des start-ups d’État.
 
