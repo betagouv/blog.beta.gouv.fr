@@ -54,16 +54,16 @@ En tant qu’équipe interministérielle, la Brigade s’est aussi donnée pour 
 - La sécurité avec la formation de 20 développeur·euse·s :
 à l’exploitation de failles XSS et d’injection SQL, et aux enjeux liés au mauvais chiffrement de données sensibles. 
 au fonctionnement et à l’implémentation des en-têtes de sécurité HTTP.
-- Le développement/l’amélioration de communs comme Audioconf[] ou Dashlord[].
+- Le développement/l’amélioration de communs comme [Audioconf](https://audioconf.numerique.gouv.fr) ou [Dashlord](https://dashlord.incubateur.net).
 
 ## Les facteurs clés de succès pour les start-ups d’État
 
 Au travers de ces différentes missions, la Brigade a constaté le besoin de rappeler quelques facteurs clés de l'approche beta.gouv pour les personnes travaillant pour ou avec des start-ups d’État.
 
-1) la présence d’un·e intrapreneur·e est essentielle pour impliquer l’administration porteuse et obtenir suffisamment d’expertise métier sur le sujet. La brigade expérimente un modèle d’accompagnement parfois alternatif (comme ce fut le cas avec la DIHAL) et l’absence d’expert métier conduit à des difficultés opérationnelles qui ralentissent la mission. 
+1) La présence d’un·e intrapreneur·e est essentielle pour impliquer l’administration porteuse et obtenir suffisamment d’expertise métier sur le sujet. La brigade expérimente un modèle d’accompagnement parfois alternatif (comme ce fut le cas avec la DIHAL) et l’absence d’expert métier conduit à des difficultés opérationnelles qui ralentissent la mission. 
 
-2) les standards de qualité logicielle[] doivent être respectés dès le début de la création d’une Startup d'État. En effet, le code doit être ouvert, instrumenté par des tests automatisés et déployé fréquemment. Il doit respecter les standards du langage et du framework, ainsi que les normes de sécurité. Cette hygiène de travail est une condition essentielle à l’évolution d’une Startup d'État. 
+2) Les standards de qualité logicielle[] doivent être respectés dès le début de la création d’une Startup d'État. En effet, le code doit être ouvert, instrumenté par des tests automatisés et déployé fréquemment. Il doit respecter les standards du langage et du framework, ainsi que les normes de sécurité. Cette hygiène de travail est une condition essentielle à l’évolution d’une Startup d'État. 
 
-3) le métier de chargé de déploiement est encore trop méconnu, alors qu’il est nécessaire dans la construction d’un produit piloté par l’impact. Assurer une compatibilité entre le produit et ses usagers, trouver ses premier·e·s utilisateur·ice·s et maintenir le contact au terrain sont des activités à plein temps qui nécessitent une ressource dédiée.
+3) Le métier de chargé de déploiement est encore trop méconnu, alors qu’il est nécessaire dans la construction d’un produit piloté par l’impact. Assurer une compatibilité entre le produit et ses usagers, trouver ses premier·e·s utilisateur·ice·s et maintenir le contact au terrain sont des activités à plein temps qui nécessitent une ressource dédiée.
 
 4) Certaines décisions devraient être étayées par la collecte et l’analyse des données d’usage du produit car cette alternative permet de mieux comprendre le comportement utilisateur et de mettre en avant des statistiques utiles pour confirmer les hypothèses de l’investigation.
