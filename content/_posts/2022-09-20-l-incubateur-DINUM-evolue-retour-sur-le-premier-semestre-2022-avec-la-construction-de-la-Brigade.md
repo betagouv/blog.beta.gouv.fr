@@ -60,7 +60,7 @@ Au travers de ces différentes missions, la Brigade a constaté le besoin de rap
 
 1) La présence d’un·e intrapreneur·e est essentielle pour impliquer l’administration porteuse et obtenir suffisamment d’expertise métier sur le sujet. La brigade expérimente un modèle d’accompagnement parfois alternatif (comme ce fut le cas avec la DIHAL) et l’absence d’expert métier conduit à des difficultés opérationnelles qui ralentissent la mission. 
 
-2) Les standards de qualité logicielle[] doivent être respectés dès le début de la création d’une Startup d'État. En effet, le code doit être ouvert, instrumenté par des tests automatisés et déployé fréquemment. Il doit respecter les standards du langage et du framework, ainsi que les normes de sécurité. Cette hygiène de travail est une condition essentielle à l’évolution d’une Startup d'État. 
+2) Les [standards de qualité logicielle](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) doivent être respectés dès le début de la création d’une Startup d'État. En effet, le code doit être ouvert, instrumenté par des tests automatisés et déployé fréquemment. Il doit respecter les standards du langage et du framework, ainsi que les normes de sécurité. Cette hygiène de travail est une condition essentielle à l’évolution d’une Startup d'État. 
 
 3) Le métier de chargé de déploiement est encore trop méconnu, alors qu’il est nécessaire dans la construction d’un produit piloté par l’impact. Assurer une compatibilité entre le produit et ses usagers, trouver ses premier·e·s utilisateur·ice·s et maintenir le contact au terrain sont des activités à plein temps qui nécessitent une ressource dédiée.
 
