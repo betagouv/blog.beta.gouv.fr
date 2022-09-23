@@ -10,8 +10,6 @@ tags:
 image: /img/posts/betagouv-rectangle.png
 ---
 
-## L’incubateur DINUM évolue : retour sur le premier semestre 2022 avec la construction de la Brigade
-
 En bientôt sept ans d’existence, l’incubateur de la DINUM a contribué à la création de plus de 14 incubateurs ministériels, 150 services numériques ainsi que le développement d’un réseau qui rassemble, à date, près de 900 personnes. Depuis la crise sanitaire, l’incubateur de la DINUM a affirmé sa volonté de soutenir les administrations partenaires et le gouvernement dans le développement de services publics numériques au service des réformes prioritaires, notamment par le truchement du programme Brigade. Qu’en est-il après le lancement de sa deuxième édition en mars 2022 ? 
 
 ## La Brigade : une équipe interministérielle au service de la performance des services publics numériques
