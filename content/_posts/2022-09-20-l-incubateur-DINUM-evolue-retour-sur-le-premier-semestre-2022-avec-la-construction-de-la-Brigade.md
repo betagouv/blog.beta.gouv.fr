@@ -14,7 +14,7 @@ En bientôt sept ans d’existence, l’incubateur de la DINUM a contribué à l
 
 ## La Brigade : une équipe interministérielle au service de la performance des services publics numériques
 
-[La Brigade](https://beta.gouv.fr/brigade/), qui réunit 13 agents publics, concentre son action autour de trois objectifs : 
+[La Brigade](https://beta.gouv.fr/brigade/), qui réunit 15 agents publics, concentre son action autour de trois objectifs : 
 1. Internaliser des talents du numérique ;
 2. Construire de nouveaux services publics numériques et accompagner les produits existants qui soutiennent les réformes prioritaires du gouvernement ; 
 3. Créer des produits qui favorisent la souveraineté, l’accessibilité et la sécurité numérique au sein de l’État.
@@ -25,7 +25,7 @@ Animée par l’approche Startup d'État, les principaux critères utilisés pou
 - Faisabilité : concordance de temporalité, implication de l’administration partenaire et expertise métier.
 - Tangibilité : le problème est réel, majeur et actionnable.
 
-L’équipe travaille également en coordination avec les co-animateurs de DINUM sur des sujets transverses qui concerne l’ensemble de la communauté : refonte du parcours de formation pour les intrapreneur·euse·s, création de podcasts, prévention des violences sexistes et sexuelles au sein de beta, animation du forum ouvert, etc.
+L’équipe travaille également en coordination avec les co-animateurs de la DINUM sur des sujets transverses qui concernent l’ensemble de la communauté : refonte du parcours de formation pour les intrapreneur·euse·s, création de podcasts, prévention des violences sexistes et sexuelles au sein de beta, animation du forum ouvert, etc.
 
 ## Des premiers mois mis au profit de Startups d'État et d’administrations partenaires
 
