@@ -1,6 +1,6 @@
 ---
 fullname: Bréanne Mallat
-role: Chargée de déploiement à la Brigade de beta.gouv
+role: Chargée d'accompagnement
 domaine: Autre
 github: bmallat
 missions:
