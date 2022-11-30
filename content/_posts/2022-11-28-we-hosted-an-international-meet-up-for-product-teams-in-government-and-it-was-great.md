@@ -24,7 +24,7 @@ Teams from all over Europe traveled to Paris on Wednesday 28th and Thursday 29th
 
 **[Beta.gouv.fr](http://beta.gouv.fr/) (France)**
 
-The first morning was dedicated to presentations, which allowed participants to detail the national context in which their digital service teams intervened, and to show-case their proudest achievements (a [property tax recalculator](https://digitalservice.bund.de/blog/https-digitalservice-bund-de-blog-neues-projekt-grundsteuer-privateigentum), Digital ID service and an [open legal information service](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem) from DigitalServices4Germany, a [child-birth grant service](https://child-birth-grant.staging.service.gov.cy/) for Cyprus and the [notify.gov.uk](http://notify.gov.uk/) service from GDS).
+The first morning was dedicated to presentations, which allowed participants to detail the national context in which their digital service teams intervened, and to show-case their proudest achievements (a [property tax calculator](https://digitalservice.bund.de/blog/https-digitalservice-bund-de-blog-neues-projekt-grundsteuer-privateigentum), Digital ID service and an [open legal information service](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem) from DigitalServices4Germany, a [child-birth grant service](https://child-birth-grant.staging.service.gov.cy/) for Cyprus and the [notify.gov.uk](http://notify.gov.uk/) service from GDS).
 
 ![](https://lh5.googleusercontent.com/N6kU-iqkVWY6xcR4x700Uj1FJ9hdwM1YP2scIFiZMH8s4adgygcKiIi7xVapER-CXx37MEgJkUJObQZJfbqVF9UyJQbCwuRd4q_nNcrjYgc-NDVFStpIqJKmrsgX1EsR2zuqMZMU8hieDBD9MBkA_aPd0Od8hu9cr5-WpVjuSEgtMt8XCjyNo_CXQw "International Meet Up 1")
 
