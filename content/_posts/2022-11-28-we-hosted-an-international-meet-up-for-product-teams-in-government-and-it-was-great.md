@@ -10,19 +10,19 @@ Last September, we were thrilled to welcome product teams from 4 different count
 
 Teams from all over Europe traveled to Paris on Wednesday 28th and Thursday 29th of September to participate in two days of workshops and discussions about developing innovative digital public services.
 
-Participants :
+***Participants :***
 
-DigitalServices4Germany, creating digital services for the German Federal Government, (Germany)
+**DigitalServices4Germany, creating digital services for the German Federal Government, (Germany)**
 
-Digital Service Factory (Cyprus), 
+**Digital Service Factory (Cyprus),** 
 
-Government Digital Services (UK), 
+**Government Digital Services (UK),** 
 
-the Digital Experts Lab from the Federation of Wallonie-Bruxelles (Belgium) 
+**the Digital Experts Lab from the Federation of Wallonie-Bruxelles (Belgium)** 
 
-the European Court of Justice (UE)
+**the European Court of Justice (UE)**
 
-[Beta.gouv.fr](http://beta.gouv.fr/) (France)
+**[Beta.gouv.fr](http://beta.gouv.fr/) (France)**
 
 The first morning was dedicated to presentations, which allowed participants to detail the national context in which their digital service teams intervened, and to show-case their proudest achievements (a [property tax recalculator](https://digitalservice.bund.de/blog/https-digitalservice-bund-de-blog-neues-projekt-grundsteuer-privateigentum), Digital ID service and an [open legal information service](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem) from DigitalServices4Germany, a [child-birth grant service](https://child-birth-grant.staging.service.gov.cy/) for Cyprus and the [notify.gov.uk](http://notify.gov.uk/) service from GDS).
 
