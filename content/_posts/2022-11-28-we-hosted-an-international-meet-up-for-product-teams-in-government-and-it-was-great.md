@@ -10,11 +10,7 @@ Last September, we were thrilled to welcome product teams from 4 different count
 
 Teams from all over Europe traveled to Paris on Wednesday 28th and Thursday 29th of September to participate in two days of workshops and discussions about developing innovative digital public services.
 
-
-
 Participants :
-
-
 
 DigitalServices4Germany, creating digital services for the German Federal Government, (Germany)
 
@@ -30,17 +26,15 @@ the European Court of Justice (UE)
 
 The first morning was dedicated to presentations, which allowed participants to detail the national context in which their digital service teams intervened, and to show-case their proudest achievements (a [property tax recalculator](https://digitalservice.bund.de/blog/https-digitalservice-bund-de-blog-neues-projekt-grundsteuer-privateigentum), Digital ID service and an [open legal information service](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem) from DigitalServices4Germany, a [child-birth grant service](https://child-birth-grant.staging.service.gov.cy/) for Cyprus and the [notify.gov.uk](http://notify.gov.uk/) service from GDS).
 
-![](https://lh5.googleusercontent.com/N6kU-iqkVWY6xcR4x700Uj1FJ9hdwM1YP2scIFiZMH8s4adgygcKiIi7xVapER-CXx37MEgJkUJObQZJfbqVF9UyJQbCwuRd4q_nNcrjYgc-NDVFStpIqJKmrsgX1EsR2zuqMZMU8hieDBD9MBkA_aPd0Od8hu9cr5-WpVjuSEgtMt8XCjyNo_CXQw)
+![](https://lh5.googleusercontent.com/N6kU-iqkVWY6xcR4x700Uj1FJ9hdwM1YP2scIFiZMH8s4adgygcKiIi7xVapER-CXx37MEgJkUJObQZJfbqVF9UyJQbCwuRd4q_nNcrjYgc-NDVFStpIqJKmrsgX1EsR2zuqMZMU8hieDBD9MBkA_aPd0Od8hu9cr5-WpVjuSEgtMt8XCjyNo_CXQw "International Meet Up 1")
 
 An [unconference format](https://en.wikipedia.org/wiki/Unconference) then ensued for the remaining day and a half where participants actively proposed workshops and topics for discussion.
 
-![](https://lh6.googleusercontent.com/k82Lj9X4oMGoX3QDqc7q9B6KhzQ5qywZ7wSRI0N1dgE4-s6v27I2kXQHCY6J5yd63b-hLNdSdk_n9vFa1Q76EyXKJQP8xZQJrQ4aIBnA4Sb8m-Rg7tR270ggbUQ7Lz2hgvw7G1C-aL7usj9WXYc44o_TxX-SnjpYIXv7cgBmZ01vZaqNURWgHmCEGg)
+![](https://lh6.googleusercontent.com/k82Lj9X4oMGoX3QDqc7q9B6KhzQ5qywZ7wSRI0N1dgE4-s6v27I2kXQHCY6J5yd63b-hLNdSdk_n9vFa1Q76EyXKJQP8xZQJrQ4aIBnA4Sb8m-Rg7tR270ggbUQ7Lz2hgvw7G1C-aL7usj9WXYc44o_TxX-SnjpYIXv7cgBmZ01vZaqNURWgHmCEGg "International Meet Up 2")
 
+A special visit was organized for all participants of AGLAE, the [Louvre’s very own accelerator of particles](https://c2rmf.fr/aglae-0) which allows researchers and art historians to determine the exact chemical composition of historical artefacts, and has given rise to a collaboration with the [beta.gouv.fr](http://beta.gouv.fr/) programme through the creation of [Euphrosyne](https://beta.gouv.fr/startups/euphrosyne.html), a digital service which allows easy access to the data created through the accelerator’s experiments. Participants were able to hear the first-handed experience of Claire Pacheco, a French civil servant turned “intrapreneur” in the beta.gouv programme. A great discussion ensued on the challenges of undertaking digital entrepreneurship within a public administration, and Claire's own journey stepping into the role of a Product Manager.
 
-
-A special visit was organized for all participants of AGLAE, the [Louvre’s very own accelerator of particles](https://c2rmf.fr/aglae-0) which allows researchers and art historians to determine the exact chemical composition of historical artefacts, and has given rise to a collaboration with the [beta.gouv.fr](http://beta.gouv.fr/) programme through the creation of [Euphrosyne](https://beta.gouv.fr/startups/euphrosyne.html), a digital service which allows easy access to the data created through the accelerator’s experiments. Participants were able to hear the first-handed experience of Claire Pacheco, a French civil servant turned “intrapreneur” in the beta.gouv program. A great discussion ensued on the challenges of undertaking digital entrepreneurship within a public administration, and Claire's own journey stepping into the role of a Product Manager.
-
-![](https://lh3.googleusercontent.com/rMkWvP0CHptUjpQpf9Q7OtuojThQvevKsvJQXooekdODRT3xrFuW7DrOGpmcCVdEJ1YGXmIFQh_VIeLavZZZKWlu9yj_htPbF1TFiZnR0q5NyBb6RlLd6J7TRJX1mLkHK4XIohJ_J8K1_fOXbkibhmr1WEECEJp5wnggNAnupWa4da2UqgKqiqBH3A)
+![](https://lh3.googleusercontent.com/rMkWvP0CHptUjpQpf9Q7OtuojThQvevKsvJQXooekdODRT3xrFuW7DrOGpmcCVdEJ1YGXmIFQh_VIeLavZZZKWlu9yj_htPbF1TFiZnR0q5NyBb6RlLd6J7TRJX1mLkHK4XIohJ_J8K1_fOXbkibhmr1WEECEJp5wnggNAnupWa4da2UqgKqiqBH3A "Visit Louvre")
 
 # Why did we decide to organize an International Meet-up for Digital Services ? 
 
@@ -49,7 +43,7 @@ A special visit was organized for all participants of AGLAE, the [Louvre’s ver
 3. We also felt that we had managed to “crack” certain problems, and were keen to share our learnings with teams which might be struggling with similar challenges. 
 4. We wanted to see if there is potential for an advocacy movement at the EU level (and beyond!) to promote the work and methodologies which distinguish product-lead organizations from more traditional IT delivery of public digital services? 
 
-![](https://lh5.googleusercontent.com/H_ZUtEMX3kWfQNTEBzmaTm2SvslQ8P8C438dG9MBUjjYkQV-Pud62tk2DGeAkwRV7tM7KDYIy1aW-RRrhCYv4mu6C-HQV_5TbK1_QNZJN6KHjSmpSHt9gLxZMDcv4IZPtAsVvoVjNLrHoH9V2bhhG9tdigPRRm0osJEFLRjPUs6e1FQvTOLd5daJJA)
+![](https://lh5.googleusercontent.com/H_ZUtEMX3kWfQNTEBzmaTm2SvslQ8P8C438dG9MBUjjYkQV-Pud62tk2DGeAkwRV7tM7KDYIy1aW-RRrhCYv4mu6C-HQV_5TbK1_QNZJN6KHjSmpSHt9gLxZMDcv4IZPtAsVvoVjNLrHoH9V2bhhG9tdigPRRm0osJEFLRjPUs6e1FQvTOLd5daJJA "International Meet Up 3")
 
 # How did we go about organizing this Meet-Up? 
 
@@ -61,19 +55,19 @@ The goal was to kick-start the creation of a network of teams sharing similar mi
 
 Whilst we had clearly identified certain teams with whom we had already interacted, it proved much harder to produce a comprehensive list of all digital services in the world which fit our criteria! Reports on digital innovation produced by the OECD and the European Commission were useful in identifying big players, and the International #govdesign Slack was incredibly useful to get several conversations started. 
 
-We reached out to 26 programs in 19 different countries, before narrowing down on 10 programs which seemed the most aligned with our approach. We’d be very happy, as an outcome of this Meet-Up, to build an up date international directory of digital product teams in government, if there is interest!  
+We reached out to 26 programmes in 19 different countries, before narrowing down on 10 programmes which seemed the most aligned with our approach. We’d be very happy, as an outcome of this Meet-Up, to build an up date international directory of digital product teams in government, if there is interest!  
 
-Many programs expressed interest in attending, but were unable to secure the necessary funding for international travel or had not yet resumed an international travel policy since covid. Our initiative was also perceived as “unusual” in many ways, as it differs from a traditional conference where executive directors are invited to discuss strategic vision (our intent was specifically for product teams, composed of software engineers, product managers and designers to discuss operational challenges and exchange best working practices). Our hope is the positive outcome of this first meet-up will persuade other teams to join similar initiatives in the future! 
+Many programmes expressed interest in attending, but were unable to secure the necessary funding for international travel or had not yet resumed an international travel policy since covid. Our initiative was also perceived as “unusual” in many ways, as it differs from a traditional conference where executive directors are invited to discuss strategic vision (our intent was specifically for product teams, composed of software engineers, product managers and designers to discuss operational challenges and exchange best working practices). Our hope is the positive outcome of this first meet-up will persuade other teams to join similar initiatives in the future! 
 
-![](https://lh5.googleusercontent.com/jOG-W0Ecrc3MbEPjGgPDwzQ0IWeWpcuLC8gROU97Uj1mFk6ljhhPRMbOSb5YXKkGvy4pBCBouxGiE-QYVZkE5Y583PqYDhjaVCSifx4UVOmWo3ptwBLNJX_qdisVEvoaeTnuaQEyr2EcoOB9IYdYB0oPPjnYu4_fWKPZ4SbiQF9YMqV5_ScPRIG4ww)
+![](https://lh5.googleusercontent.com/jOG-W0Ecrc3MbEPjGgPDwzQ0IWeWpcuLC8gROU97Uj1mFk6ljhhPRMbOSb5YXKkGvy4pBCBouxGiE-QYVZkE5Y583PqYDhjaVCSifx4UVOmWo3ptwBLNJX_qdisVEvoaeTnuaQEyr2EcoOB9IYdYB0oPPjnYu4_fWKPZ4SbiQF9YMqV5_ScPRIG4ww "International Meet Up 4")
 
 # What was the result?
 
 Overall, this first meet-up has been a success! The first round of presentations was very useful to gain a better understanding of the scope, mission and context of each team, and lead to very fruitful discussions in the Q&A sessions. 
 
-The Unconference (which took place Wednesday afternoon and all of Thursday) allowed participants to delve deeper into several topics, allowing them to better understand different programs and for best practices to emerge. This was the first “unconference” for several participants, but everyone seemed to quickly get the hang of the format. 
+The Unconference (which took place Wednesday afternoon and all of Thursday) allowed participants to delve deeper into several topics, allowing them to better understand different programmes and for best practices to emerge. This was the first “unconference” for several participants, but everyone seemed to quickly get the hang of the format. 
 
-Participants quickly discovered many shared similarities across programs : 
+Participants quickly discovered many shared similarities across programmes : 
 
 * Similar approaches to the design and delivery of digital public services, integrating lots of user research and adopting an iterative methodology
 * Similar products/services developed by each team (Digital ID services, public grant schemes, tax simulators…) 
@@ -82,10 +76,10 @@ Participants quickly discovered many shared similarities across programs : 
 On-going challenges shared by different teams were discussed, such as : 
 
 * Convincing public administrations to forsake the “waterfall” approach to development, and adopt “lean” methodologies
-* Recruiting top tech talent to join our programs
+* Recruiting top tech talent to join our programmes
 * Scaling rapidly expanding teams 
 
-There are of course several differences between each program : 
+There are of course several differences between each programme : 
 
 * DigitalServices4Germany is a state-owned company. GDS and Cyprus’s Digital Service Factory are inter-departmental offices, [beta.gouv.fr](http://beta.gouv.fr/) is an intergovernmental network of digital teams. 
 * GDS runs several mature digital services which function as components that other administrations can either directly use or integrated to their own services DigitalServices4Germany has a mandate only to work only on services delivered at a federal level in Germany
@@ -104,6 +98,6 @@ These discussions are crucial in demonstrating to public administrations that ag
 \
 If you want to know more about the meet-up, or if you are interested in participating in a virtual knowledge exchange session between digital services team, please reach out to [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr) .
 
-![](https://lh6.googleusercontent.com/MfH2LZBMW9BlCbQ2BEZne1FC2ELN4v8LZbOdREIxWBy8oivrdNjeBORS_JVsJCxjAS1UoFkg5gLRSOy__HS6f1Ijm-4QexcDFC1CVgDWGPB3zcNn6PmSq12nxda_R9HZr19q03mjAB6HaizsWODAJ-_flhO0WVtWwLJgOKtqtenTTV3hvFuasKF1ww)
+![](https://lh6.googleusercontent.com/MfH2LZBMW9BlCbQ2BEZne1FC2ELN4v8LZbOdREIxWBy8oivrdNjeBORS_JVsJCxjAS1UoFkg5gLRSOy__HS6f1Ijm-4QexcDFC1CVgDWGPB3zcNn6PmSq12nxda_R9HZr19q03mjAB6HaizsWODAJ-_flhO0WVtWwLJgOKtqtenTTV3hvFuasKF1ww "International Meet Up 5 ")
 
 Special thanks to Martin Jordan for the photographs!
