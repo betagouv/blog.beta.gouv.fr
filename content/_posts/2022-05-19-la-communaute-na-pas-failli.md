@@ -89,7 +89,7 @@ Un socle de services communs apporté par la communauté a d'ores et déjà mont
 
 - [mattermost](https://mattermost.incubateur.net): communication rapide et simple pour alerter et s'entraider. Un canal dédié avait été créé. 
 - [offre incubateur d'hébergement PaaS Scalingo](https://scalingo.com): les équipes se concentrent sur leur app et l'hébergeur assure la sécurité de l'infra, 
-- [offre incubateur de WAF Baleen](https://baleen.com): filtre les requêtes réseau pour protéger encore plus les produits, notamment des attaques DdoS ou d’exploits comme celles de log4shell, 
+- [offre incubateur de WAF Baleen](https://baleen.cloud): filtre les requêtes réseau pour protéger encore plus les produits, notamment des attaques DdoS ou d’exploits comme celles de log4shell, 
 - [dashlord](https://dashlord.incubateur.net/): aide en temps réel au suivi des bonnes pratiques dev/sécu,
 - [Github](https://github.com): dependabot (vulnérabilités avérées), CI/CD, CodeQL (vulnérabilités potentielles)
 - [updown.io](https://updown.io): surveillance de la disponibilité des produits
