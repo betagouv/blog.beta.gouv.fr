@@ -1,11 +1,11 @@
 ---
 layout: post
 title: " Parcours à beta.gouv.fr #4 : Amélie Quillet"
-date: 2023-03-01
+date: 2023-03-14
 authors:
   - lucas.charrier
   - amelie.quillet
-categories: general
+categories: dinsic
 excerpt: >-
   ## Peux-tu te présenter ?
 
