@@ -60,7 +60,7 @@ L'enrichissement de la fiche startup sur github avec des éléments d'infra qui 
 
 Si l’excès de sécurité est contre productif, après les 6 premiers mois il est utile de faire une première analyse des risques afin de cartographier les points de faiblesses les plus importants et la manière d’y répondre.
 
-Ensuite, avec le développement de la startup il s’agit de passer l’homologation de sécurité[homologations de sécurité](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/securite-and-homologation) obligatoires pour chaque produit en ligne. Elles sont un moyen d'inventorier l'écosystème et composants vulnérables (metabase, etc) d'un produit. Elles permettent enfin de s'assurer proportionnellement aux risques de l'adéquation des mesures (techniques ou organisationnelles) mises en place au sein de la startup d'État: outils automatisés d'alerte et de patchs ([Dependabot](https://github.com/dependabot) par exemple), dashlord, etc. Elles sont une photo des vulnérabilités et de leurs solutions à un instant T. En ce sens, elles doivent être renouvelées et sont complémentaires d’un dashlord automatiquement ou régulièrement mis à jour.  
+Ensuite, avec le développement de la startup il s’agit de passer l’[homologations de sécurité](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/securite-and-homologation) obligatoires pour chaque produit en ligne. Elles sont un moyen d'inventorier l'écosystème et composants vulnérables (metabase, etc) d'un produit. Elles permettent enfin de s'assurer proportionnellement aux risques de l'adéquation des mesures (techniques ou organisationnelles) mises en place au sein de la startup d'État: outils automatisés d'alerte et de patchs ([Dependabot](https://github.com/dependabot) par exemple), dashlord, etc. Elles sont une photo des vulnérabilités et de leurs solutions à un instant T. En ce sens, elles doivent être renouvelées et sont complémentaires d’un dashlord automatiquement ou régulièrement mis à jour.  
 
 Les équipes support des incubateurs aident et appuient les startups d'État dans la mise en œuvre de ces démarches de prises en compte et d'amélioration continue de la sécurité de leurs produits. 
 
@@ -89,7 +89,7 @@ Un socle de services communs apporté par la communauté a d'ores et déjà mont
 
 - [mattermost](https://mattermost.incubateur.net): communication rapide et simple pour alerter et s'entraider. Un canal dédié avait été créé. 
 - [offre incubateur d'hébergement PaaS Scalingo](https://scalingo.com): les équipes se concentrent sur leur app et l'hébergeur assure la sécurité de l'infra, 
-- [offre incubateur de WAF Baleen](https://baleen.com): filtre les requêtes réseau pour protéger encore plus les produits, notamment des attaques DdoS ou d’exploits comme celles de log4shell, 
+- [offre incubateur de WAF Baleen](https://baleen.cloud): filtre les requêtes réseau pour protéger encore plus les produits, notamment des attaques DdoS ou d’exploits comme celles de log4shell, 
 - [dashlord](https://dashlord.incubateur.net/): aide en temps réel au suivi des bonnes pratiques dev/sécu,
 - [Github](https://github.com): dependabot (vulnérabilités avérées), CI/CD, CodeQL (vulnérabilités potentielles)
 - [updown.io](https://updown.io): surveillance de la disponibilité des produits
