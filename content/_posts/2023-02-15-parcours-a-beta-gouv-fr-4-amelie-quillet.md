@@ -5,7 +5,8 @@ date: 2023-02-14
 authors:
   - lucas.charrier
   - amelie.quillet
-categories: dinsic
+categories: general
+image: /img/posts/amelie-quillet.png
 excerpt: >-
   ## Peux-tu te présenter ?
 
