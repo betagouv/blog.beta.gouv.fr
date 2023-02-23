@@ -5,7 +5,7 @@ date: 2023-02-14
 authors:
   - lucas.charrier
   - amelie.quillet
-categories: parcours
+categories: general
 image: /img/posts/capture-d-e-cran-2022-09-15-a-09.59.41-copy-amelie.jpg
 excerpt: >-
   ## Peux-tu te présenter ?
