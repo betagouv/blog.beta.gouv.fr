@@ -5,7 +5,7 @@ date: 2022-09-15
 authors:
   - alizee.breton
   - thomas.guillet
-categories: general
+categories: parcours
 image: /img/posts/capture-d-e-cran-2022-09-15-a-09.59.41-1-.png
 excerpt: >-
   ## Peux-tu te présenter ?
