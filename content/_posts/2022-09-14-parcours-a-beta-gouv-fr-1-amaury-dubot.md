@@ -5,7 +5,7 @@ date: 2022-09-15
 authors:
   - audrey.guillon
   - amaury.dubot
-categories: general
+categories: parcours
 image: /img/posts/capture-d-e-cran-2022-09-14-a-13.06.59.png
 excerpt: >
   ## Peux-tu te présenter ?
