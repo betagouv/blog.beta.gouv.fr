@@ -11,8 +11,6 @@ startups:
   - jafer
 badges:
   - segur
-teams:
-  - /teams/fast-dinum
 
 ---
 >-
