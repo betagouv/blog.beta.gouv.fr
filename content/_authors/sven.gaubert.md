@@ -9,7 +9,6 @@ missions:
     status: independent
     employer: ut7
 startups:
-  - tdb-apprentissage
 memberType: beta
 
 ---
