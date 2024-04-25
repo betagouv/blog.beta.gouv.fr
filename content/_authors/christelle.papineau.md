@@ -6,6 +6,12 @@ missions:
   - start: 2024-02-01
     end: 2027-01-01
     status: admin
+    startups:
+      - mesads
+      - le-taxi
+startups:
+  - mesads
+  - le-taxi
 memberType: autre
 ---
 
