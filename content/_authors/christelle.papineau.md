@@ -7,9 +7,9 @@ missions:
     end: 2027-04-01
     status: admin
     employer: ''
-    startups:
-      - le-taxi
-      - mesads
+startups:
+    - le-taxi
+    - mesads
 memberType: autre
 ---
 
