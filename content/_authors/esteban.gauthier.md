@@ -1,14 +1,12 @@
 ---
 domaine: Intraprenariat
-fullname: Paul Boyer Chammard
+fullname: Esteban Gauthier
 role: Intraprenariat
 missions:
   - start: 2024-04-01
     end: 2027-04-01
     status: admin
-    employer: MTE / DGALN
+    employer: ''
     startups:
-      - dossierfacile
-startups:
-    - dossierfacile
+      - carbure
 ---
