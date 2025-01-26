@@ -18,7 +18,7 @@ layout: default
             </div>
           {% endfor %}
         {% endif %}
-        <a class="article__link" href="{{ post.url }}" title="{{ post.title }}">
+        <a class="article__link" href="{{ post.url }}" title="{{ post.title }}" id="{{ post.id }}" >
           <h2 class="article__title">{{ post.title }}</h2>
         </a>
         <div class="article__meta">Paru le <time>{% include date.html date=post.date %}</time> dans {% assign sortedCategories = post.categories | sort %}{% for categories in sortedCategories %}<a href="/categorie/{{ categories }}">{{ site.data.category[categories].shortname }}</a> {% endfor %}</div>
