@@ -36,7 +36,7 @@ Le projet trouve sa toute première origine fin 2014 au sein du secrétariat gé
 
 La mission beta.gouv s'en saisit et, conformément à son approche agile, décide de commencer petit avec un estimateur de coût d'embauche. 
 
-La première version est un produit minimum viable construit de la façon la moins coûteuse possible : un tableau excel couplé à un serveur Web qui servait un formulaire HTML à 4 champs (salaire brut, effectif...), qui utilise l'API [OpenFisca](https://fr.openfisca.org/) pour lancer et récupérer les calculs en JSON.
+La première version est un produit minimum viable construit de la façon la moins coûteuse possible : un formulaire HTML à 4 champs (salaire brut, effectif...), qui utilise l'API [OpenFisca](https://fr.openfisca.org/) pour lancer et récupérer les calculs en JSON, et un tableur maintenu par la petite équipe pour lister les lignes de la fiche de paie manquantes (rouge), celles pas encore implémentées (orange) et celles intégrées et correctes (vert).
 
 *Première version de l'estimateur du coût d'embauche*
 ![](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_b4dc50eaccb74d81810a99ff756b27eb.png)
@@ -91,7 +91,7 @@ L'idée est de fournir un service utilisable par tous pour apparaître aux endro
 
 #### Derrière les simulateurs, un moteur de calcul d'algorithmes publics disponibles à tous
 
-Dans le cadre du développement des simulateurs de Mon-entreprise.fr, l'équipe a créé Publi.codes, un langage pour modéliser toutes les règles derrière les algorithmes d'utilité publique. La législation sociale et fiscale est ainsi "écrite" de façon standardisée, ce qui permet de générer les simulateurs. 
+Dans le cadre du développement des simulateurs de Mon-entreprise.fr, l'équipe a créé [publicodes](https://publi.codes), un langage pour modéliser toutes les règles derrière les algorithmes d'utilité publique. La législation sociale et fiscale est ainsi "écrite" de façon standardisée, ce qui permet de générer les simulateurs. 
 
 La capitalisation des règles implémentées progressivement et l'amélioration continue du moteur de calcul permettent de construire des simulateurs de plus en plus rapidement.  
 
