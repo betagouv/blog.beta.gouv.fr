@@ -48,7 +48,6 @@
 
 
     <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ site.url }}{{ "/assets/style/main.css" }}">
-    <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ site.url }}{{ "/assets/main.css" | relative_url }}">
 
     {% for file in page.additional_css %}
       <link rel="stylesheet" type="text/css" href="{% if file contains '://' %}{{ file }}{% else %}/assets/additional/style/{{ file }}{% endif %}">

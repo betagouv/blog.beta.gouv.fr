@@ -50,10 +50,6 @@ exclude: ["content/templates"]
 
 permalink: pretty
 
-sass:
-  style: compressed
-  sass_dir: _sass
-
 # Collections
 
 collections_dir:
