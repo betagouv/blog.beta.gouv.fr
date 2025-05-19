@@ -43,11 +43,7 @@ table,th, td {
   padding: 0.2em;
 }
 
-th {
-  padding: 0 1em;
-}
-
-td.montant {
+td.montant, th.montant {
   text-align: right;
 }
 </style>
@@ -88,7 +84,7 @@ Pour illustree notre propos, nous allons utiliser la consommation mensuelle suiv
 </tbody>
 </table>
 
-Nous avons choisi d'arrêter en avril 2027, soit un mois après un potentiel 4ème comité d'investissement. Avec les informations utilisées à titre d'exemple, deux scénarios sont envisageables :
+Nous avons choisi d'arrêter en avril 2027, soit un mois après un potentiel 4ème comité d'investissement. Deux scénarios sont envisageables :
 - un arrêt progressif sur un mois, avec les 15 000 € attribués au mois d'avril 2027 ou
 - une poursuite du financement à 250 000 € par période de 6 mois pour couvrir la dépense mensuelle de 35 000 €.
 
@@ -119,7 +115,7 @@ Les émissions de bons de commande génèrent des dépenses d'autorisations d'en
 
 Comme expliqué dans l'[article précédent](/dinsic/2019/04/12/gestion-publique-101-engager-et-depenser/), le paiement des factures nécessite la certification des travaux, cela passer par des procès verbaux de services faits (ou PV de SF), ou encore par des certificats administratifs de constatations des services faits (ou CACSF).
 
-Dans notre exemple, le paiement correspondant de la facture associée au premier bon de commande peut être effectué à partir du mois d'octobre 2025. On parle de dépenses de crédits de paiement (CP) et on a l'échéancier suivant :
+Dans notre exemple, le paiement correspondant à la facture associée du premier bon de commande peut être effectué à partir du mois d'octobre 2025. On parle de dépenses de crédits de paiement (CP) et on a l'échéancier suivant :
 
 <table>
   <thead>
@@ -135,23 +131,50 @@ Dans notre exemple, le paiement correspondant de la facture associée au premier
 
 ### Les ressources financières sont calées sur les années civiles
 
+En réalité, les dépenses de l'État sont discutées et votées par les parlementaires. Ces décisions sont prises pour des années civiles avec, ce qu'on appelle, les projets de loi de finances (initial et rectificatif).
+
+Étant donnée que les Startups d'État sont ancrées dans l'administration, elles sont soumises aux choix budgétaires et les équipes doivent donc être conscientes de ce cadre là.
+
+<table>
+  <thead>
+    <tr><th>Année</th><th>Autorisations d'engagement</th><th><i>Consommation</i></th><th>Crédits de paiement</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>2025</td><td class="montant">275 000 €</td><td class="montant">195 000 €</td><td class="montant">125 000 €</td></tr>
+    <tr><td>2026</td><td class="montant">425 000 €</td><td class="montant">385 000 €</td><td class="montant">350 000 €</td></tr>
+    <tr><td>2027</td><td class="montant">0 €</td><td class="montant">120 000 €</td><td class="montant">225 000 €</td></tr>
+  </tbody>
+  <tfooter>
+    <tr><th>Total</th><th class="montant">700 000 €</th><th class="montant">700 000 €</th><th class="montant">700 000 €</th></tr>
+  </tfooter>
+</table>
+
+Cette présention, à l'année civile est importante pour les comités d'investissement et pour insérer les logiques et enjeux de l'équipe dans les préoccupations et les choix de priorisation de leur administration sponsor.
+
+Par ailleurs, on a l'habitude d'entendre **AE égal CP** pour signifier que l'on ne peut payer que ce que l'on a engagé. Mais cette représentation, pour un cas simple, nous montre que les dépenses d'AE sont **en avance** et celles de CP sont **en retard** par rapport à la consommation réelle.
+
+![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-05-19-gestion-budgetaire/base.png)
+
+## Les marges de manoeuvre
+
+### Limiter les besoins en trésorerie
+
+- Des SF partiels mensuels.
+décrire l'espace entre les courbes rouge et jaune
+![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-05-19-gestion-budgetaire/limite-treso.png)
+
+### Sécuriser la continuité des travaux
+
+Décrire les endroits où les courbes bleu et rouge se touchent comme un risque
+
+![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-05-19-gestion-budgetaire/securisation.png)
+
+Bien évidemment, il est possible en décembre de chaque année de commencer à engager des AE de l'année suivante. C'est une façon d'anticiper.
 
 
+### Ajuster les dépenses aux crédits de l'administration
+
+![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-05-19-gestion-budgetaire/ajustements.png)
 
 
-###  AE égal CP
-
-- AE en avance
-- CP en retard
-
-
-
-## Les marges de négociations
-
-### Engager plus vite
-
-### Dépenser plus lentement
-
-
-
-Présenter des informations financières concrètes, précises et réalistes lors des comités d'investissement constitue un levier important pour gagner la confiance de vos sponsors et de sécuriser l'avancement de vos travaux.
+Présenter des informations financières concrètes, précises et réalistes lors des comités d'investissement constitue un levier important pour gagner la confiance de vos sponsors et pour sécuriser l'avancement et la pérennisation de vos travaux.
