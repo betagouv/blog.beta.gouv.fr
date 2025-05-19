@@ -38,12 +38,12 @@ S'il fallait le préciser, l'État français est une grosse organisation. En tan
 
 C'est pour cette raison que l'État, en plus de comptabiliser ses dépenses d'argent sonnant et trébuchant, comptabilise ses engagements. À chaque émission de bon de commande, on enregistre une dépense. Ainsi, on se retrouve au sein de l'État avec deux comptes différents&nbsp;:
 - Un compte pour suivre les engagements matérialisés par les bons de commandes. Pour ce compte, on parle d'**autorisations d'engagement** (AE).
-- Un second compte pour suivre les euros qui vont *effectivement* arriver sur les comptes de ses prestataires. Pour ce compte, on parle de **crédit de paiement** (CP).
+- Un second compte pour suivre les euros qui vont *effectivement* arriver sur les comptes de ses prestataires. Pour ce compte, on parle de **crédits de paiement** (CP).
 
 <p></p><!-- Pour décaler le graphique -->
 <svg id="chart2" style="background-color: #FAFAFA"></svg>
 
-Comme le graphique l'illustre bien, toute dépense en autorisations d'engagement fera l'objet d'une dépense en crédit de paiement à un moment dans le futur.
+Comme le graphique l'illustre bien, toute dépense en autorisations d'engagement fera l'objet d'une dépense en crédits de paiement à un moment dans le futur.
 Ces deux comptes permettent d'avoir une meilleure vision de la situation budgétaire.
 
 
@@ -60,17 +60,17 @@ Comme dans les autres grandes organisations qui ont des services achat, les serv
 - **Le service de l'État établi un procès verbal de service fait qui confirme la livraison effectuée**
 - Le fournisseur envoie une facture correspondante à la partie livrée au service facturier
 - 30 jours après l'émission de la facture, l'État paie le fournisseur
-  - _Il y a, à ce moment-là, une dépense de crédits de paiment_
+  - _Il y a, à ce moment-là, une dépense de crédits de paiement_
 - Enfin, le fournisseur livre le reste de la commande avec une facture finale
 - **Cette livraison finale fait, elle aussi, l'objet d'un procès verbal de service fait**
 - L'État, 30 jours plus tard, paie la facture finale
-   - _Il y a, là encore, une dépense de crédits de paiment_
+   - _Il y a, là encore, une dépense de crédits de paiement_
 - Tout le monde est content 🙂
 
 <p></p><!-- Pour décaler le graphique -->
 <svg id="chart3" style="background-color: #FAFAFA"></svg>
 
-## Mais pourquoi nous infliger tout ça ?
+## Mais pourquoi nous infliger tout ça ?
 
 Jusqu'à présent, l'Incubateur de services numériques prenait à sa charge cette complexité et sa gestion. En passant de 50 Startups d'État à 85, nous ne pouvons plus cacher cette complexité. La nécessité d'autonomiser et de responsabiliser les équipes sur ces sujets budgétairo-comptables est de plus en plus prégnante.
 
