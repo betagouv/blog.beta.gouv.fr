@@ -51,7 +51,7 @@ td.montant, th.montant {
 
 En [2019](/dinsic/2019/04/12/gestion-publique-101-engager-et-depenser/), on expliquait ce que sont les autorisations d'engagements (AE) et les crédits de paiement (CP) et comment les fonds publics sont dépensés.
 
-6 ans plus tard, on prend le temps de donner des élements supplémentaires pour permettre un bon suivi budgétaire et une bonne exécution de la dépense (comme on dit dans le jargon). En effet, deux aspects importants avaient été mis de côté, le premier c'est l'allocation des crédits par année civile et le second c'est le cadre qui est imposé par les comités d'investissement.
+6 ans plus tard, on prend le temps de donner des éléments supplémentaires pour permettre un bon suivi budgétaire et une bonne exécution de la dépense (comme on dit dans le jargon). En effet, deux aspects importants avaient été mis de côté, le premier c'est l'allocation des crédits par année civile et le second c'est le cadre qui est imposé par les comités d'investissement.
 
 ## Illustration par l'exemple
 
@@ -71,7 +71,7 @@ Pour ne pas rester dans des explications théoriques, nous allons utiliser un pr
 
 Au total, nous nous intéressons donc à une dépense totale de 700 000 €.
 
-Pour illustree notre propos, nous allons utiliser la consommation mensuelle suivante :
+Pour illustrer notre propos, nous allons utiliser la consommation mensuelle suivante :
 
 <table>
   <thead>
@@ -149,7 +149,7 @@ En réalité, les dépenses de l'État sont discutées et votées par les parlem
   </tfooter>
 </table>
 
-Cette présention, à l'année civile est importante pour les comités d'investissement et pour insérer les logiques et enjeux de l'équipe dans les préoccupations et les choix de priorisation de leur administration sponsor.
+Cette représentation, à l'année civile est importante pour les comités d'investissement et pour insérer les logiques et enjeux de l'équipe dans les préoccupations et les choix de priorisation de leur administration sponsor.
 
 Par ailleurs, on a l'habitude d'entendre « **AE égal CP** » pour signifier que l'on ne peut payer que ce que l'on a engagé. Mais cette représentation, même pour un cas simple, nous montre que les dépenses d'AE sont **en avance** et celles de CP sont **en retard** par rapport à la consommation réelle. Comme les années civiles s'enchaînent de façon arbitraire, les « photos » budgétaires reflètent rarement cet adage « AE égal CP ».
 
@@ -157,9 +157,9 @@ Par ailleurs, on a l'habitude d'entendre « **AE égal CP** » pour signifier 
 
 Le graphique « Évolution de la dépense » illustre le fait que les AE (la courbe bleue) sont dépensées en amont et donc plus rapidement (la courbe bleue est au dessus de la rouge) que le travail est réalisé (la courbe rouge) et que les CP (la courbe jaune) sont dépensés en aval du travail (la courbe jaune est en dessus de la rouge).
 
-## Les marges de manoeuvre
+## Les marges de manœuvre
 
-Ces décalages ont des conséquances importantes dans le suivi budgétaire et dans les relations qu'une équipe entretient avec le reste de son écosystème. Voilà quelques pistes qui peuvent être creusées pour collaborer sereinement avec les différentes parties prenantes.
+Ces décalages ont des conséquences importantes dans le suivi budgétaire et dans les relations qu'une équipe entretient avec le reste de son écosystème. Voilà quelques pistes qui peuvent être creusées pour collaborer sereinement avec les différentes parties prenantes.
 
 
 ### Limiter les besoins en trésorerie des attributaires
@@ -178,7 +178,7 @@ Le graphique « limitation du besoin de trésorerie » illustre la mise en pla
 
 ### Sécuriser la continuité des travaux
 
-Les changement d'année civile et les périodes de comité d'investissement peuvent générer une tension finanicère sur l'équipe. En effet, d'une part, l'émission d'un bon de commande qui permet à des personnes de travailler est impossible pendant une période allant approximativement de mi-décembre à mi-janvier et d'autre part, en amont d'un comité d'investissement il peut y avoir du stress et une certaine réticence à lancer une nouvelle commande.
+Les changement d'année civile et les périodes de comité d'investissement peuvent générer une tension financière sur l'équipe. En effet, d'une part, l'émission d'un bon de commande qui permet à des personnes de travailler est impossible pendant une période allant approximativement de mi-décembre à mi-janvier et d'autre part, en amont d'un comité d'investissement il peut y avoir du stress et une certaine réticence à lancer une nouvelle commande.
 
 Dans ce contexte, il est donc important d'anticiper la consommation et de prévoir des bons de commande qui vont au delà de ces périodes avec plus de flou. De façon très concrète il est bienvenu d'avoir 1, 2 ou 3 mois de consommation possible au delà des ces échéances là. Cette anticipation nécessite des crédits supplémentaires mais la diminution des risques de discontinuité des travaux est extrêmement précieuse.
 
