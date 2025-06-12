@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suivi budgétaire d'une Startup d'État
-date: 2025-05-19
+date: 2025-06-12
 authors:
   - thomas.guillet
 categories: general
@@ -153,7 +153,7 @@ Cette présention, à l'année civile est importante pour les comités d'investi
 
 Par ailleurs, on a l'habitude d'entendre « **AE égal CP** » pour signifier que l'on ne peut payer que ce que l'on a engagé. Mais cette représentation, même pour un cas simple, nous montre que les dépenses d'AE sont **en avance** et celles de CP sont **en retard** par rapport à la consommation réelle. Comme les années civiles s'enchaînent de façon arbitraire, les « photos » budgétaires reflètent rarement cet adage « AE égal CP ».
 
-![Illustration de la dépense cumulée en AE, réel et CP avec les AE en avant et les CP en retard vis à vis du réel](/img/posts/2025-05-19-gestion-budgetaire/base.png)
+![Illustration de la dépense cumulée en AE, réel et CP avec les AE en avant et les CP en retard vis à vis du réel](/img/posts/2025-06-12-gestion-budgetaire/base.png)
 
 Le graphique « Évolution de la dépense » illustre le fait que les AE (la courbe bleue) sont dépensées en amont et donc plus rapidement (la courbe bleue est au dessus de la rouge) que le travail est réalisé (la courbe rouge) et que les CP (la courbe jaune) sont dépensés en aval du travail (la courbe jaune est en dessus de la rouge).
 
@@ -171,7 +171,7 @@ Sans vouloir revenir sur les limites de cette expression, ce qu'il faut souligne
 Pour cette raison, il est possible d'accélérer les dépenses de CP avec ce qu'on appelle des services faits partiels. C'est à dire que les travaux sont certifiés progressivement et en plusieurs fois sans attendre la consommation totale d'un bon de commande. Dans les faits, de plus en plus d'équipes mettent en place des services faits partiels **mensuels**.
 
 
-![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-05-19-gestion-budgetaire/limite-treso.png)
+![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-06-12-gestion-budgetaire/limite-treso.png)
 
 Le graphique « limitation du besoin de trésorerie » illustre la mise en place des services faits partiels mensuels. On y voit que la courbe jaune est beaucoup moins décalée que la précédente (représentée en transparente).
 
@@ -187,7 +187,7 @@ Par ailleurs, si des réticences à financer d'un comité d'investissement sont 
 De plus, bien que cela ne semble pas évident à mettre en place dans la pratique, il est possible en décembre de chaque année de commencer à engager des AE de l'année suivante.
 
 
-![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-05-19-gestion-budgetaire/securisation.png)
+![Illustration de la dépense cumulée en AE, réel et CP](/img/posts/2025-06-12-gestion-budgetaire/securisation.png)
 
 
 Dans l'exemple du graphique, la commande initiale a été revue à la baisse (courbe bleue **en dessous** de la courbe bleue claire) mais une commande complémentaire a été fait 3 mois plus tard pour couvrir 2 mois après le comité d'investissement (courbe bleue **au dessus** de la claire). L'anticipation est visible en regardant le courbe rouge atteindre le niveau (horizontal) de la courbe bleue beaucoup plus tard.
@@ -204,7 +204,7 @@ Côté paiement, c'est la même chose, si l'administration n'a pas dépensé tou
 
 Ces réflexions et ces anticipations sont d'autant plus importantes qu'il n'est généralement pas possible d'émettre des bons de commande sur des AE de l'année après **début décembre** et que la certification des travaux s'arrête autour de **mi-décembre**.
 
-![Illustration des ajustements possibles en fin d'année en AE et en CP](/img/posts/2025-05-19-gestion-budgetaire/ajustements.png)
+![Illustration des ajustements possibles en fin d'année en AE et en CP](/img/posts/2025-06-12-gestion-budgetaire/ajustements.png)
 
 Ces ajustements correspondent au déplacement des doubles flèches rouges du schéma ci-dessus qui séparent les ressources des années _N_ et _N+1_.
 
